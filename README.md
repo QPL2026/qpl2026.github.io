@@ -1,2 +1,3 @@
-# qpl2026.github.io
-Website for QPL2026
+# Jekyll files for QPL 2025 using the Alembic theme
+
+Starter kit for [Alembic](https://alembic.darn.es/).
