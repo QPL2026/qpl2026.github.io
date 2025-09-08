@@ -11,7 +11,7 @@ title: QPL 2026
 </center>
 
 The **23rd International Conference on Quantum Physics and Logic (QPL 2026)**
-will take place from DATE to DATE 2026 in Amsterdam, The Netherlands.  Quantum
+will take place from August 17th to August 21st 2026 in Amsterdam, The Netherlands.  Quantum
 Physics and Logic is an annual conference that brings together academic and
 industry researchers working on mathematical foundations of quantum
 computation, quantum physics, and related areas. The main focus is on the use
@@ -25,7 +25,9 @@ also welcome.
 
 ### Important Dates
 
-To follow.
+Conference: August 17th to August 21st 2026
+
+Submission and registration dates to follow.
 
 <!-- * Abstract submission deadline: 9 February 2025
 * Paper submission deadline: 16 February 2025
