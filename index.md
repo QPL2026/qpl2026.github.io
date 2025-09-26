@@ -45,14 +45,13 @@ Prospective speakers are invited to submit one (or more) of the following:
 
 * **Proceedings submission.** This consists of a 5-12 page paper. It must
   provide sufficient evidence of results of genuine interest, in sufficient
-  detail for the program committee to assess the merits of the work.
-  Proceedings submissions must use
-  the [EPTCS style files](https://style.eptcs.org/).
+  detail for the program committee to assess the merits and correctness of the work.
+  Proceedings submissions must use the [EPTCS style files](https://style.eptcs.org/).
 * **Talk proposal.** This consists of a 3 page summary, together with
   a link to a separate published paper or preprint. If the published paper or
   preprint is not publicly available (e.g. not open access), then it should be
   included in full after the summary.
-* **Poster submission.** This consists of a 3 page summary of partial results or
+* **Poster submission.** This consists of a 3 page summary of results, partial results or
   work in progress.
 
 Page limits exclude bibliography and appendices (which may be read at the
@@ -220,10 +219,8 @@ Please make this conference a welcoming space for everyone. We ask you to use yo
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any venue this conference will be held in, whether physical or virtual. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. If a participant engages in harassing behaviour, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference.
 
-The dedicated safety and inclusion team will oversee reports of Code of Conduct violation. The team can be contacted at [qpl.safety.inclusion@gmail.com](mailto:qpl.safety.inclusion@gmail.com) , and its members are:
+The dedicated safety and inclusion team will oversee reports of Code of Conduct violation. The team can be contacted at [qpl.safety.inclusion@gmail.com](mailto:qpl.safety.inclusion@gmail.com). The full team is to be announced later, but currently consists of:
 
-* Ravi Kunjwal (LIS, Aix-Marseille Université)
-* Eleftherios-Ermis Tselentis (QuIC, Université Libre de Bruxelles)
 * Ana Belén Sainz (ICTQT, University of Gdańsk)
 
 Harassment may include but is not limited to:
