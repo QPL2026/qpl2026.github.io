@@ -11,8 +11,12 @@ title: QPL 2026
 </center>
 
 The **23rd International Conference on Quantum Physics and Logic (QPL 2026)**
-will take place from August 17th to August 21st 2026 in Amsterdam, The Netherlands.  Quantum
-Physics and Logic is an annual conference that brings together academic and
+will take place from August 17th to August 21st 2026 in Amsterdam, The Netherlands.  
+Quantum Physics and Logic is an annual conference that brings together academic and industry researchers working on topics ranging from basic research in the foundations of physics to applications in quantum computing and communication, both for near-term quantum hardware and future large-scale, fault-tolerant devices. The conference places particular emphasis on the application of formal algebraic, logical, compositional, and categorical structures to quantum theory and related areas. Work applying quantum-inspired techniques and structures to other fields---such as (classical) computation, linguistics, artificial intelligence, and causality---is also welcome.
+
+<!-- 
+Old version:
+Quantum Physics and Logic is an annual conference that brings together academic and
 industry researchers working on mathematical foundations of quantum
 computation, quantum physics, and related areas. The main focus is on the use
 of algebraic and categorical structures, formal languages, type systems,
@@ -20,22 +24,19 @@ logics, semantic methods, as well as other mathematical and computer scientific
 techniques applicable to the study of physical systems, physical processes, and
 their composition. Work applying quantum-inspired techniques and structures to
 other fields, such as linguistics, artificial intelligence, and causality, is
-also welcome.
+also welcome. -->
 
 
 ### Important Dates
 
-Conference: August 17th to August 21st 2026
 
-Submission and registration dates to follow.
+* Abstract submission deadline: Friday February 27th 2026
+* Paper submission deadline: Friday March 6th 2026
+* Notification: April 17th 2026
+<!-- * Camera-ready deadline (revised accepted proceedings manuscripts): 15 June 2025 -->
+* Conference: August 17th -- August 21st 2026
 
-<!-- * Abstract submission deadline: 9 February 2025
-* Paper submission deadline: 16 February 2025
-* Notification: 24 March 2025
-* Camera-ready deadline (revised accepted proceedings manuscripts): 15 June 2025
-* Conference: 14 July -- 18 July 2025 -->
-
-<!-- All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone](https://www.timeanddate.com/time/zones/aoe). -->
+All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone](https://www.timeanddate.com/time/zones/aoe).
 
 
 ### Submissions
@@ -54,7 +55,7 @@ Prospective speakers are invited to submit one (or more) of the following:
 * **Poster submission.** This consists of a 3 page summary of results, partial results or
   work in progress.
 
-Page limits exclude bibliography and appendices (which may be read at the
+Page limits exclude bibliography, acknowledgements and appendices (which may be read at the
 discretion of reviewers). 
 <!-- All submissions will be handled by EasyChair.
 [Submit here](https://easychair.org/conferences/?conf=qpl2025).
@@ -130,11 +131,12 @@ For inquiries related to the submission and review process, please write to the 
 * [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) (Université libre de Bruxelles)
 * [Ana Belén Sainz](https://www.absainz.com/) (ICTQT, University of Gdansk)
 
-<!-- 
+
 ### Programme Committee
 
 To be announced.
 
+<!-- 
 * Alastair Abbott
 * Pablo Arrighi
 * Miriam Backens
