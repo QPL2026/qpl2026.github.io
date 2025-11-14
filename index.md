@@ -85,8 +85,9 @@ Please see [here](/local_info/#poster-instructions) for guidance on preparing po
 
 ### Conference Proceedings
 
-Conference proceedings will be published in [Electronic Proceedings in
-Theoretical Computer Science (EPTCS)](https://about.eptcs.org/) after the
+Conference proceedings will be published 
+<!-- in [Electronic Proceedings in Theoretical Computer Science (EPTCS)](https://about.eptcs.org/)  -->
+after the
 conference. When preparing the final version for publication, authors of
 accepted proceedings submissions are allowed to use up to three extra pages
 (i.e. up to 15 pages excluding bibliography) to address reviewer concerns and
