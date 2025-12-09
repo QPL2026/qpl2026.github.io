@@ -135,65 +135,56 @@ For inquiries related to the submission and review process, please write to the 
 
 ### Programme Committee
 
-To be announced.
+* Alastair Abbott, Inria Grenoble
+* Matthew Amy, Simon Fraser University
+* Pablo Arrighi, University of Paris-Saclay
+* Miriam Backens, Inria Nancy
+* Rui Soares Barbosa, INL – International Iberian Nanotechnology Laboratory
+* Ämin Baumeler, Università della Svizzera italiana
+* Alessandro Bisio, Università di pavia
+* Robert Booth, University of Edinburgh
+* Cyril Branciard, Institut Néel - CNRS
+* Ulysse Chabaud, INRIA
+* Giulio Chiribella, QICI Quantum Information and Computation Initiative, School of Computing and Data Science, The University of Hong Kong
+* Nadish de Silva, Simon Fraser University
+* Alejandro Díaz-Caro, Inria / LORIA & UNQ
+* Cristhiano Duarte, Federal University of Juiz de Fora
+* Ross Duncan, Quantinuum
+* Pierre-Emmanuel Emeriau, Quandela
+* Dominic Horsman, University of Oxford
+* Emmanuel Jeandel, Laboratoire Lorrain de Recherche en Informatique et ses Applications (LORIA)
+* Robin Kaarsgaard, University of Southern Denmark
+* Martti Karvonen, UCL
+* Kohei Kishida, University of Illinois, Urbana-Champaign
+* Aleks Kissinger, University of Oxford
+* Hlér Kristjánsson, Université de Montréal & Mila
+* Ravi Kunjwal, Université libre de Bruxelles
+* Alfons Laarman, Leiden University
+* Robin Lorenz, Quantinuum
+* Konstantinos Meichanetzidis, Quantinuum
+* Markus P. Mueller, Institute for Quantum Optics and Quantum Information (IQOQI) Vienna
+* Nuriya Nurgalieva, ETH Zurich
+* Anna Pearson, Quantinuum
+* Simon Perdrix, LORIA
+* Nicola Pinzani, NeverLocal
+* Robert Rand, University of Chicago
+* Mehrnoosh Sadrzadeh, University College London
+* Nitica Sakharwade, Perimeter Institute of Theoretical Physics, & University of Waterloo, Canada
+* Carlo Maria Scandolo, University of Calgary
+* John Selby, ICTQT, University of Gdansk
+* Peter Selinger, Dalhousie University
+* Sonja Smets, University of Amsterdam
+* Pawel Sobocinski, Tallinn University of Technology
+* Priyaa Varshinee Srinivasan, Tallinn University of Technology
+* Isar Stubbe, Université du Littoral
+* Benoît Valiron, LMF - CentraleSupelec, Univ. Paris Saclay
+* Augustin Vanrietvelde, Télécom Paris
+* Quanlong Wang, Quantinuum
+* Julian Wechs, Université Libre de Bruxelles
+* Alexander Wilce, Susquehanna University
+* Lia Yeh, University of Cambridge
 
-<!-- 
-* Alastair Abbott
-* Pablo Arrighi
-* Miriam Backens
-* Rui Soares Barbosa
-* Ämin Baumeler
-* Jessica Bavaresco
-* Alessandro Bisio
-* Robert Booth
-* Cyril Branciard
-* Titouan Carette
-* Ulysse Chabaud
-* Giulio Chiribella
-* Bob Coecke
-* Marcelo Terra Cunha
-* Alejandro Díaz-Caro
-* Ross Duncan
-* Pierre-Emmanuel Emeriau
-* Flaminia Giacomini
-* Stefano Gogioso
-* Matty Hoban
-* Emmanuel Jeandel
-* Anna Jenčová
-* Robin Kaarsgaard
-* Martti Karvonen
-* Kohei Kishida
-* Aleks Kissinger
-* Ravi Kunjwal
-* Robin Lorenz
-* Glaucia Murta
-* Nuriya Nurgalieva
-* Ognyan Oreshkov
-* Anna Pearson
-* Simon Perdrix
-* Nicola Pinzani
-* Robert Rand
-* Neil Ross
-* Mehrnoosh Sadrzadeh
-* Ana Belén Sainz
-* Nitica Sakharwade
-* Carlo Maria Scandolo
-* John Selby
-* Peter Selinger
-* Sonja Smets
-* Pawel Sobocinski
-* Isar Stubbe
-* Benoît Valiron
-* Augustin Vanrietvelde
-* Vilasini Venkatesh
-* Renaud Vilmart
-* Juliana Kaizer Vizzotto
-* Quanlong Wang
-* Julian Wechs
-* Mirjam Weilenmann
-* John van de Wetering
-* Alexander Wilce
-* Margherita Zorzi -->
+More names will follow.
 
 ### Organising Committee
 
