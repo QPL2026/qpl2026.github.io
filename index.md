@@ -41,7 +41,6 @@ All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone]
 
 ### Submissions
 
-The following are the submission guidelines from the 2025 edition, they are still subject to change.
 Prospective speakers are invited to submit one (or more) of the following:
 
 * **Proceedings submission.** This consists of a 5-12 page paper. It must
@@ -51,9 +50,8 @@ Prospective speakers are invited to submit one (or more) of the following:
 * **Talk proposal.** This consists of a 3 page summary, together with
   a link to a separate published paper or preprint. If the published paper or
   preprint is not publicly available (e.g. not open access), then it should be
-  included in full after the summary.
-* **Poster submission.** This consists of a 3 page summary of results, partial results or
-  work in progress.
+  included in full after the summary. Talk proposals not including a linked published paper or preprint will be rejected outright.
+* **Poster submission.** This consists of a 3 page summary of results, partial results or work in progress.
 
 Page limits exclude bibliography, acknowledgements and appendices (which may be read at the
 discretion of reviewers). 
@@ -63,6 +61,8 @@ discretion of reviewers).
 There will be an award for Best Student Paper that will be determined by the
 Program Committee. Papers eligible for the award are those where all the
 authors are students at the time of submission.
+
+You can submit at this [HotCRP server](https://hotcrp.science.uva.nl/qpl2026/).
 
 ### Registration
 
@@ -99,7 +99,7 @@ In addition to the proceedings, we will have a Special Issue at JLAMP. [Check th
 
 ### Contact
 
-For inquiries related to the submission and review process, please write to the PC chairs at [pcchairsqpl2026@gmail.com](mailto:pcchairsqpl2026@gmail.com). 
+For inquiries related to the submission and review process, please write to the PC chair at j.m.m.vandewetering "at" uva.nl and mention QPL in the subject title. 
 
 <!-- For inquiries related to the conference itself, please write to [qpl.conference.2025@gmail.com](mailto:qpl.conference.2025@gmail.com). -->
 
