@@ -133,7 +133,7 @@ For inquiries related to the submission and review process, please write to the 
 ### Programme Committee Co-chairs
 
 <!-- * [Alejandro Díaz-Caro](https://members.loria.fr/adiazcaro) (Inria, LORIA & Universidad Nacional de Quilmes) -->
-* [John van de Wetering](https://vdwetering.name) (University of Amsterdam)
+* [John van de Wetering](https://vdwetering.name) (University of Amsterdam and QuSoft)
 * [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) (Université libre de Bruxelles)
 * [Ana Belén Sainz](https://www.absainz.com/) (ICTQT, University of Gdansk)
 
@@ -143,7 +143,7 @@ For inquiries related to the submission and review process, please write to the 
 * Alastair Abbott, Inria Grenoble
 * Matthew Amy, Simon Fraser University
 * Pablo Arrighi, University of Paris-Saclay
-* Miriam Backens, Inria Nancy
+* Miriam Backens, Inria
 * Rui Soares Barbosa, INL – International Iberian Nanotechnology Laboratory
 * Ämin Baumeler, Università della Svizzera italiana
 * Alessandro Bisio, Università di pavia
@@ -156,15 +156,19 @@ For inquiries related to the submission and review process, please write to the 
 * Cristhiano Duarte, Federal University of Juiz de Fora
 * Ross Duncan, Quantinuum
 * Pierre-Emmanuel Emeriau, Quandela
-* Dominic Horsman, University of Oxford
+* Stefano Gogioso, University of Oxford
+* Matty Hoban, University of Oxford
+* Dominic Horsman, University of York
 * Emmanuel Jeandel, Laboratoire Lorrain de Recherche en Informatique et ses Applications (LORIA)
+* Anna Jenčová, Mathematical Institute, Slovak Academy of Sciences
 * Robin Kaarsgaard, University of Southern Denmark
 * Martti Karvonen, UCL
 * Kohei Kishida, University of Illinois, Urbana-Champaign
 * Aleks Kissinger, University of Oxford
 * Hlér Kristjánsson, Université de Montréal & Mila
 * Ravi Kunjwal, Université libre de Bruxelles
-* Alfons Laarman, Leiden University
+* Alfons Laarman, University of Leiden
+* Martha Lewis, University of Amsterdam
 * Robin Lorenz, Quantinuum
 * Konstantinos Meichanetzidis, Quantinuum
 * Markus P. Mueller, Institute for Quantum Optics and Quantum Information (IQOQI) Vienna
@@ -173,6 +177,7 @@ For inquiries related to the submission and review process, please write to the 
 * Simon Perdrix, LORIA
 * Nicola Pinzani, NeverLocal
 * Robert Rand, University of Chicago
+* Neil Ross, Dalhousie University
 * Mehrnoosh Sadrzadeh, University College London
 * Nitica Sakharwade, Perimeter Institute of Theoretical Physics, & University of Waterloo, Canada
 * Carlo Maria Scandolo, University of Calgary
@@ -184,16 +189,23 @@ For inquiries related to the submission and review process, please write to the 
 * Isar Stubbe, Université du Littoral
 * Benoît Valiron, LMF - CentraleSupelec, Univ. Paris Saclay
 * Augustin Vanrietvelde, Télécom Paris
+* Renaud Vilmart, LMF
 * Quanlong Wang, Quantinuum
 * Julian Wechs, Université Libre de Bruxelles
+* Mirjam Weilenmann, University of Geneva
 * Alexander Wilce, Susquehanna University
 * Lia Yeh, University of Cambridge
-
-More names will follow.
+* Titouan Carette, École polytechnique
+* Jacky de Beaudrap, University of Sussex
+* Maris Ozols, University of Amsterdam and QuSoft
+* Robert Spekkens, Perimeter Institute
+* Juliana Vizzotto, Universidade Federal de Santa Maria
 
 ### Organising Committee
 
-To be announced.
+* [John van de Wetering](https://vdwetering.name/), University of Amsterdam and QuSoft
+* [Sarah Meng Li](https://sarahmengli.com/), University of Amsterdam and QuSoft
+* [Kevin Koenrades](https://www.uva.nl/en/profile/k/o/k.koenrades/k.koenrades.html), University of Amsterdam events coordinator
 
 <!-- * [James Hefford](https://heffordj.github.io/) (Inria, France)
 * Timothée Hoffreumon (Université Paris-Saclay, France)
