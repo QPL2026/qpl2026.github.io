@@ -36,7 +36,7 @@ also welcome. -->
 <!-- * Camera-ready deadline (revised accepted proceedings manuscripts): 15 June 2025 -->
 * Conference: August 17th -- August 21st 2026
 
-All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone](https://www.timeanddate.com/time/zones/aoe).
+All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone](https://www.timeanddate.com/time/zones/aoe). The abstract submission deadline is just for your submission to be in the system so that the Programme Committee has time to divide up the submissions. The submission (whether a talk proposal, proceedings or poster), does not have to be finalised until the paper submission deadline.
 
 
 ### Submissions
