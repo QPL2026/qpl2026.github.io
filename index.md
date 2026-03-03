@@ -49,8 +49,8 @@ Prospective speakers are invited to submit one (or more) of the following:
   Proceedings submissions must use the [EPTCS style files](https://style.eptcs.org/).
 * **Talk proposal.** This consists of a 3 page summary, together with
   a link to a separate published paper or preprint. If the published paper or
-  preprint is not publicly available (e.g. not open access), then it should be
-  included in full after the summary. Talk proposals not including a linked published paper or preprint will be rejected outright.
+  preprint is not publicly available (e.g. not open access or online yet), then it should be
+  included in full after the summary. Talk proposals not including a linked or attached published paper or preprint will be rejected outright.
 * **Poster submission.** This consists of a 3 page summary of results, partial results or work in progress.
 
 Proceedings submissions and talk proposals that are not accepted to the conference are automatically considered for a poster.
