@@ -169,7 +169,6 @@ For inquiries related to the submission and review process, please write to the 
 * Ravi Kunjwal, Université libre de Bruxelles
 * Alfons Laarman, University of Leiden
 * Martha Lewis, University of Amsterdam
-* Robin Lorenz, Quantinuum
 * Konstantinos Meichanetzidis, Quantinuum
 * Markus P. Mueller, Institute for Quantum Optics and Quantum Information (IQOQI) Vienna
 * Nuriya Nurgalieva, ETH Zurich
