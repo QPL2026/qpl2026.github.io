@@ -2,7 +2,13 @@
 title: Local Information
 ---
 
-The conference will take place at the [Roeterseiland campus](https://maps.app.goo.gl/7syY3GdvvgkVD4RY6) of the [University of Amsterdam](https://www.uva.nl/en). More information to follow later.
+<img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="../images/bridge.webp" alt="Roeterseiland campus">
+
+QPL2026 will take place at the [Roeterseiland campus](https://maps.app.goo.gl/7syY3GdvvgkVD4RY6) of the [University of Amsterdam](https://www.uva.nl/en), which houses the faculty of Social and Behavioural Sciences and student cultural centre CREA.  The campus is located in the [Plantagebuurt](https://deplantage.amsterdam/en/home) of Amsterdam, one of the most beautiful and greenest parts of Amsterdam that is just outside, but still close to the city center.  The campus houses multiple modern buildings, study facilities and research labs that are surrounded by many restaurants and cafes.
+
+Roeterseiland campus can be easily reached with public transport, including metro, tram and bus.  The closest station is Weesperplein, which is just a few stops away from Amsterdam's central train station and serviced by metro 51, 53 and 54, tram 1, 14 and 7, as well as at least five different bus routes.  Car parking options on campus are very limited, so traveling to the conference by car is not recommended - instead, we recommend renting a bike at Amsterdam's numerous bike rental places.  Find more information on getting around Amsterdam [here](https://www.uva.nl/en/education/practical-information/living-in-amsterdam/transportation/transportation.html).
+The building where the conference will take place is wheelchair accessible.  Conference attendees with reduced mobility can enter building A/B/C through the main entrance (B/C) or through a special entrance located on the Valckenierstraat.
+
 
 <!-- 
 {% include map.html id="location" title="Conference Location" %}
@@ -18,102 +24,58 @@ is shown below.
 The local currency is the Bulgarian Lev, BGN, with approximate exchange rate 1 EUR = 1.9558 BGN.
  -->
 
-<!-- #### Conference Dinner
+### Local Food Options
 
-An official Conference Dinner is organised for the evening of Thursday, 17 July, at the [restaurant Veranda, Club Horizont](https://www.horizont.bg/en/veranda-2/). 
- -->
-
-<!-- #### Museum Tour and Jazz Concert
-
-On the afternoon of Wednesday 16 July there will be a guided tour of the Archeological Museum of Varna, which features the oldest gold treasure in the world (4600 - 4200 BC) discovered in the Varna Necropolis, as well as a [jazz concert](https://varnasummerfest.org/en/program/zodiac) by Bulgarian musician Hristo Yotsov later in the evening in the yard of the museum.
-
-The cost of these events is included in the conference registration fee. -->
-
-<!--
-
-#### Travel Information
+#### Lunch
 
 
-To be updated.
- How to reach the conference venue:
+* [Cafe CREA](https://maps.app.goo.gl/euz7s9zQbHTZCZ2Z7) (Student cafe)
+* [Kumpir Food Truck](https://maps.app.goo.gl/tVpFyij45AtrN3QB7)
+* Bagels & Beans
+* Albert Heijn (Supermarket)
+* [Lebkov & Sons](https://www.google.com/maps/place/Lebkov+%26+Sons+Roeterseiland/@52.3622753,4.9116974,19z/data=!4m6!3m5!1s0x47c60931cf8a9031:0xa3b7b746b171e33f!8m2!3d52.3628094!4d4.911066!16s%2Fg%2F11q8gbbp9d?entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D) (Sandwiches)
+* [Sagra Sandwiches](https://www.google.com/maps/place/Sagra+Food+%26+Wine/@52.3656508,4.9118514,18.29z/data=!4m6!3m5!1s0x47c60998826f6759:0x3f1dd2f4b06ecb80!8m2!3d52.3659238!4d4.9115792!16s%2Fg%2F1tfg6w93?entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D)
+* [Box Sociaal](https://www.google.com/maps/place/Box+Sociaal/@52.3660464,4.9115668,17.79z/data=!4m6!3m5!1s0x47c609a279db9467:0xbb623012a6d9ac3c!8m2!3d52.3662418!4d4.9118704!16s%2Fg%2F11gf9qk0gr?entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D)
+* [Bloem](https://www.google.com/maps/place/Bloem+Eten+%26+Drinken/@52.3677964,4.9119845,16.25z/data=!4m6!3m5!1s0x47c609a3d3b4b78b:0x1d2191db3cce95ca!8m2!3d52.3688757!4d4.9142577!16s%2Fg%2F1thlm8cd?entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D) (Vegan restaurant)
+* [Coffee Company](https://www.google.com/maps/place/coffeecompany/@52.3654816,4.9108188,17z/data=!4m6!3m5!1s0x47c609987dca43b5:0x753cf7f4f1dfd374!8m2!3d52.3657278!4d4.910725!16s%2Fg%2F1tddwzkx?entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D)
 
-* from **Varna Airport**: [detailed information available here](https://varna-airport.bg/en/getting-around). The public transport option is bus 409 (from Terminal 2) which stops close to the conference venue (stop Sevastopol).
-* from **Varna Central Train Station**: within walking distance, approximately 1.2km. You can also take buses 20 or 39 to stop "Festivalen Kompleks" or bus 31 for two stops to “Muzeya / The Museum”. 
-* from **Varna Central Bus Station**: Bus 409 (stop Sevastopol). Or by walking (approximately 2.6km). 
 
-Taxi is also an option. The biggest and most famous taxi company in the city is [Triumf Taxi](https://triumftaxi.com/).
+#### Dinner
 
-The weather is expected to be hot. Varna is on the seaside with several beaches not far from the conference venue. -->
+* [La Vallade](https://www.google.com/maps/place/La+Vallade/@52.3504671,4.917354,14z/data=!4m6!3m5!1s0x47c6097a0c6cddd5:0x759821fc13e73346!8m2!3d52.3542221!4d4.9269578!16s%2Fg%2F1tgp9gnx?entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D)
+* [SOTTO Pizza](https://www.google.com/maps/place/SOTTO+Pizza+Kadijksplein/@52.3704037,4.9113576,18z/data=!4m6!3m5!1s0x47c609a39f9a5c85:0x8b10698f5511f216!8m2!3d52.37!4d4.9119444!16s%2Fg%2F11g9jyf7p1?entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D)
+* [Cafe Kadijk](https://www.google.com/maps/place/Cafe+Kadijk/@52.3701365,4.9121087,17z/data=!3m1!4b1!4m6!3m5!1s0x47c609a39f2e0f8d:0x42755d9b0e0aba0b!8m2!3d52.3701365!4d4.9121087!16s%2Fg%2F1tgx16hy?entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D) (Indonesian restaurant)
+* [Cafe-Restaurant De Plantage](https://www.google.com/maps/place/De+Plantage/@52.3668977,4.9103921,17z/data=!3m1!5s0x47c609a26dcee5ed:0x8aeb97e47c9ed68d!4m6!3m5!1s0x47c609a27a808647:0x2220992f15f63d5!8m2!3d52.3667512!4d4.9124772!16s%2Fg%2F11b6j0mj3l?entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D) (Mediterranean)
+* [Restaurant Entrepot](https://www.google.com/maps/place/Restaurant+Entrepot/@52.3694204,4.9112917,18z/data=!4m6!3m5!1s0x47c609a3a6b60f4d:0xcb33175b47e98178!8m2!3d52.3696556!4d4.9119782!16s%2Fg%2F11fzsv3k3v?entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D)
+* [Loetje Oost](https://www.google.com/maps/place/Loetje+Oost+%2F+Amsterdam+Restaurant/@52.3572976,4.9067611,17z/data=!4m6!3m5!1s0x47c6099aeeacd0c5:0x92033ea9e2569091!8m2!3d52.3571788!4d4.9083116!16s%2Fg%2F1hm2jx89d?entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D) (steak restaurant)
 
-<!-- #### Food/Drink
 
-Some recommendations:
 
-* [Stariya Chinar (Стария Чинар)](https://maps.app.goo.gl/yWpLPSFwPHYzccQA6) - restaurant right at the base of Hotel Cherno More (conference venue). Some emphasis on traditional Bulgarian food.
-* [Cubo](https://maps.app.goo.gl/eqgLqZT4UU8f7ync8) — a beach bar where you can chill out, watch the sea, have a drink, listen to music. On certain nights they have a band.
-* [Piano Bar Sinatra](https://maps.app.goo.gl/WDEtGBu5KKe9zssv6) - on the top floor of Hotel Cherno More (conference venue). Nice view and convenient.
-* [Cubo at Fisherman's Beach](https://maps.app.goo.gl/gD4vgME3cooJ7Jw98) -- a restaurant at the beach. Interesting food options and drinks, pleasant music, cool atmosphere.
-* [Nemo](https://maps.app.goo.gl/7nqksLo3N57nryJ49) - restaurant (good sea food).
-* [Burrata Italiana Varna](https://maps.app.goo.gl/nntHX75e6wecrFc78) - Italian style restaurant.
-* [Captain Cook](https://maps.app.goo.gl/GFyTRdY7wXrBwCbr5) - seafood restaurant.
-* [Mr. Baba](https://maps.app.goo.gl/VoSWn7bKY9GP361D7) - restaurant inside a wooden ship.
-* [Happy](https://maps.app.goo.gl/TXqxcWH1zhdZRt3f8) - restaurant chain with many food options. Another one [here](https://maps.app.goo.gl/aPnqK6q6vhbfXqFn6).
-* [Cherry by Marry](https://maps.app.goo.gl/2quaosePzr52C6Gy8) -- for cakes and coffee, very close to the venue.
-* [Le Chef](https://maps.app.goo.gl/yykdaaeEFnFbaZuY7) - fast food (wraps), just next to the venue.
-* [Beach Bar Menthol](https://maps.app.goo.gl/gUKSPQoFXtjEgtj29) - another beach bar.
-* There are other restaurants and bars along the seaside (close to the two Cubos linked above) and also at the [Sea Port (“Morska Gara” / "Морска Гара")](https://maps.app.goo.gl/m4cTQPAu8J9oCTRw7).
- -->
+#### Bars
+* CREA
+* Gollem Bier Bar
+* Cafe De Druif
+* Cafe de Krater
+* Kriterion (also cinema)
+* De Groene Olifant
+* Cafe Eik en Linde
+* De Biertuin Linnaeusstraat
+* Brouwerij Poesiat & Kater
+* Cafe de Jeugd
+* Brouwerij 't IJ - Proeflokaal de Molen
+* Bar Joost
 
-<!-- #### Points of Interest
 
-Some recommendations:
+### Visiting Amsterdam
 
-* [Dormition of the Mother of God Cathedral](https://maps.app.goo.gl/iQeaKxmmAL5FKVT97) - Orthodox Cathedral (photo on the conference webpage).
-* [The Sea Garden / Morska Gradina / Морска Градина](https://maps.app.goo.gl/ZjLJPAaf9wbEXSkW9) - seaside park. -->
+* [Discover Amsterdam](https://www.iamsterdam.com/en) (Official tourist website)
+* [Local transport information](https://www.iamsterdam.com/en/travel-stay/getting-around), and the [public transit company](https://www.gvb.nl/en/visit-amsterdam/gvb-public-transport-company-amsterdam). Note that you can check in for trains and the metro in the Netherlands using a standard bankcard, you don't need to buy a trainticket (though you might still want to do so for declaration purposes).
+* [Restaurants and bars](https://www.iamsterdam.com/en/see-and-do/restaurant-and-bars)
+* [Things to see and do](https://www.iamsterdam.com/en/see-and-do)
+* [Art and culture](https://www.iamsterdam.com/en/explore/neighbourhoods/centrum/art-and-culture)
+* [Family-friendly activities](https://www.iamsterdam.com/en/see-and-do/family-and-kids)
 
-<!-- 
-#### Accommodation 
 
-During the summer season, Varna becomes a busy tourist destination and finding accommodation may get difficult. We therefore advise booking your stay as early as possible. In general, we recommend booking accommodation in the city centre, or close to the sea in walking distance from the conference venue. 
-  
-We have negotiated discounted prices for QPL participants at the hotels listed below. Prices are given in Bulgarian lev, or BGN, where 1 EUR = 1.9558 BGN.
-
-* [Hotel Cherno More](https://www.chernomorebg.com/en/) (conference venue)
-
-**Classic room**: single occupancy 158 BGN, double occupancy 185 BGN.  
-**Delux room**: single occupancy 194 BGN, double occupancy 221 BGN (here, a third person could be added for an extra 50 BGN).  
-**Exclusive room**: single occupancy 221 BGN, double occupancy 248 BGN.  
-
-These prices include breakfast. You can get more information and make a booking using the codes below on the hotel website.
-
-Rooms can be booked at the above rates for any duration in the period 13 – 19 July, conditional on availability, using the **bonus code**: QPL25. 
-
-In order to ensure some availability, 10 rooms of type Twin Classic (with two separate beds that could be brought next to each other if desired) and 20 rooms of type Twin Delux (with two separate beds that could be brought next each other if desired) have been blocked until 30 April for booking by QPL participants. They can be booked using the **block code** QPL25TCLS for a Twin Classic room, and the **block code** QPL25TDLX for a Twin Deluxe room. Each of these rooms can be reserved for single or double occupancy, and in the case of Twin Deluxe, a third person can be added.
-
-If any of the blocked rooms have not been booked by 30 April, they will be open for booking by anyone, but QPL participants could still book them at the reduced prices with the bonus code QPL25 provided there is availability. Feel free to write to the hotel with further inquiries.  
-
-* [Hotel Rosslyn Dimyat Varna](https://dimyat.rosslyn-hotels.com/en/ ) 
-
-This hotel is located a 16 minute walk from the conference venue, in front of the Sea Garden. It features spacious rooms with views over the sea, as well as access to fitness and spa. 
-
-**Classic room**: single use 205.00 BGN.  
-**Deluxe sea view room**: single use 225.00 BGN.  
-**Executive room**: high floor, sea view, single use 245.00 BGN.  
-**Surcharge for second adult in a Double room**: 30.00 BGN per night 
-
-The prices include breakfast and complimentary use of the fitness and spa centre. You can book at these prices by writing to [reservations.dimyat@rosslyn-hotels.com](mailto:reservations.dimyat@rosslyn-hotels.com), specifying that you are participant at the conference and mentioning the code QPL2025. 
-
-* [Hotel Horizont](https://www.horizont.bg/hotel/) (next to conference dinner, 25 minute walk from the conference venue)
-
-This hotel is part of the Complex Hoizont, where we will have the conference dinner. It is located in a calm and green area in the Sea Garden, overlooking the sea and a few minutes from a beach. 
-
-**Standard double room**: 140 BGN.  
-**Delux room**: 210 BGN.  
-**Suite** with hydrotherapy bath: 270 BGN.
-
-These prices are available for reservations of 4 or more nights. Breakfast is *not* included. Guests can order breakfast at the associated restaurant Marché, but only after 9:00 am. To make a booking, please write to [hotel@horizont.bg](mailto:hotel@horizont.bg) specifying that you are a QPL participant. 
- -->
- 
 <!--  
 #### Poster Instructions
 
