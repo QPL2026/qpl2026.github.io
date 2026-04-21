@@ -31,6 +31,14 @@ permalink: /tutorial/
   .tutorial-table td.category-theory {
     background-color: #d8c7f0;
   }
+
+  .tutorial-table td.generalised-process-theories {
+    background-color: #7fcff4;
+  }
+
+  .tutorial-table td.zx-calculus {
+    background-color: #bfe6cc;
+  }
 </style>
 
 <table class="tutorial-table">
@@ -52,7 +60,7 @@ permalink: /tutorial/
     <td>10:00 - 10:50</td>
     <td class="category-theory">Category Theory Part 1</td>
     <td></td>
-    <td>Generalised Process Theories Part 1</td>
+    <td class="generalised-process-theories">Generalised Process Theories Part 1</td>
     <td></td>
   </tr>
   <tr>
@@ -63,7 +71,7 @@ permalink: /tutorial/
     <td>11:10 - 12:00</td>
     <td class="category-theory">Category Theory Part 2</td>
     <td></td>
-    <td>Generalised Process Theories Part 2</td>
+    <td class="generalised-process-theories">Generalised Process Theories Part 2</td>
     <td></td>
   </tr>
   <tr>
@@ -76,7 +84,7 @@ permalink: /tutorial/
   </tr>
   <tr>
     <td>14:30 - 15:20</td>
-    <td>ZX Calculus Part 1</td>
+    <td class="zx-calculus">ZX Calculus Part 1</td>
     <td>Lia Yeh</td>
     <td>Causality Part 1</td>
     <td></td>
@@ -87,7 +95,7 @@ permalink: /tutorial/
   </tr>
   <tr>
     <td>15:40 - 16:30</td>
-    <td>ZX Calculus Part 2</td>
+    <td class="zx-calculus">ZX Calculus Part 2</td>
     <td>Razin A. Shaikh</td>
     <td>Causality Part 2</td>
     <td></td>
