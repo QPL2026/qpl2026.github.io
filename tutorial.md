@@ -13,6 +13,7 @@ permalink: /tutorial/
 
   .tutorial-table th,
   .tutorial-table td {
+    text-align: center;
     vertical-align: middle;
     overflow-wrap: break-word;
     font-size: 0.95rem;
@@ -21,19 +22,6 @@ permalink: /tutorial/
 
   .tutorial-table th {
     font-weight: 700;
-    text-align: left;
-  }
-
-  .tutorial-table td:first-child {
-    text-align: left;
-  }
-
-  .tutorial-table td:not(:first-child) {
-    text-align: center;
-  }
-
-  .tutorial-table td[colspan="2"] {
-    text-align: center;
   }
 </style>
 
