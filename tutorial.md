@@ -23,6 +23,10 @@ permalink: /tutorial/
   .tutorial-table th {
     font-weight: 700;
   }
+
+  .tutorial-table td.lightning-talks {
+    background-color: #fff07a;
+  }
 </style>
 
 <table class="tutorial-table">
@@ -52,8 +56,8 @@ permalink: /tutorial/
   </tr>
   <tr>
     <td>12:00 - 12:30</td>
-    <td>Lightning Talks</td>
-    <td>Lightning Talks</td>
+    <td class="lightning-talks">Lightning Talks</td>
+    <td class="lightning-talks">Lightning Talks</td>
   </tr>
   <tr>
     <td>12:30 - 14:30</td>
@@ -75,7 +79,7 @@ permalink: /tutorial/
   </tr>
   <tr>
     <td>16:30 - 17:00</td>
-    <td>Lightning Talks</td>
-    <td>Lightning Talks</td>
+    <td class="lightning-talks">Lightning Talks</td>
+    <td class="lightning-talks">Lightning Talks</td>
   </tr>
 </table>
