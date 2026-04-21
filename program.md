@@ -86,7 +86,7 @@ permalink: /program/
   <td>11:30 – 11:55</td>
   <td rowspan="2" style="background-color: #bfe6cc">Short Plenary Talks</td>
   <td rowspan="2" style="background-color: #bfe6cc">Short Plenary Talks</td>
-  <td rowspan="2">Industry session</td>
+  <td rowspan="2">Industry Session</td>
   <td style="background-color: #bfe6cc">Short Plenary Talk</td>
   <td rowspan="2">Business Meeting</td>
 </tr>

@@ -4,11 +4,8 @@ permalink: /tutorial/
 ---
 
 <style>
-  .tutorial-grid {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 1rem;
-    align-items: start;
+  .tutorial-table-wrapper {
+    overflow-x: auto;
   }
 
   .tutorial-table {
@@ -18,154 +15,86 @@ permalink: /tutorial/
     table-layout: fixed;
   }
 
-  .tutorial-table td,
-  .tutorial-table th {
-    text-align: left;
+  .tutorial-table th,
+  .tutorial-table td {
     vertical-align: middle;
     overflow-wrap: break-word;
-    font-size: 0.95rem;
   }
 
   .tutorial-table th {
-    background-color: #376789;
+    background-color: #2a6f90;
     color: #ffffff;
     font-weight: 700;
+    text-align: left;
   }
 
-  .tutorial-table td.session-cell,
-  .tutorial-table td.speaker-cell {
-    background-color: #d9dee5;
+  .tutorial-table td:first-child {
+    text-align: left;
+    white-space: nowrap;
   }
 
-  .tutorial-table td.break-cell {
-    background-color: #dcefcf;
+  .tutorial-table td:not(:first-child) {
+    text-align: center;
   }
 
-  .tutorial-table td.lightning-cell {
-    background-color: #fff45a;
-  }
-
-  @media (max-width: 900px) {
-    .tutorial-grid {
-      grid-template-columns: 1fr;
-    }
+  .tutorial-table td[colspan="2"] {
+    text-align: center;
   }
 </style>
 
-<div class="tutorial-grid">
+<div class="tutorial-table-wrapper">
   <table class="tutorial-table">
     <colgroup>
-      <col width="22%" />
-      <col width="26%" />
       <col width="24%" />
-      <col width="28%" />
+      <col width="38%" />
+      <col width="38%" />
     </colgroup>
     <tr>
-      <th>Topic</th>
-      <th>Invited speaker</th>
-      <th>Schedule</th>
+      <th>&nbsp;</th>
       <th>Saturday, August 15th</th>
+      <th>Sunday, August 16th</th>
     </tr>
     <tr>
-      <td rowspan="3" class="session-cell">Category theory</td>
-      <td rowspan="3" class="speaker-cell">TBA</td>
-      <td class="session-cell">10:00 - 10:50</td>
-      <td class="session-cell">Tutorial 1.1</td>
+      <td>10:00 - 10:50</td>
+      <td>Category Theory Part 1</td>
+      <td>Generalised Process Theories Part 1</td>
     </tr>
     <tr>
-      <td class="break-cell">10:50 - 11:10</td>
-      <td class="break-cell">Coffee break</td>
+      <td>10:50 - 11:10</td>
+      <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td class="session-cell">11:10 - 12:00</td>
-      <td class="session-cell">Tutorial 1.2</td>
+      <td>11:10 - 12:00</td>
+      <td>Category Theory Part 2</td>
+      <td>Generalised Process Theories Part 2</td>
     </tr>
     <tr>
-      <td colspan="2" class="lightning-cell">Lightning Talks</td>
-      <td class="lightning-cell">12:00 - 12:30</td>
-      <td class="lightning-cell"></td>
+      <td>12:00 - 12:30</td>
+      <td>Lightning Talks</td>
+      <td>Lightning Talks</td>
     </tr>
     <tr>
-      <td colspan="2" class="break-cell">Lunch break</td>
-      <td class="break-cell">12:30 - 14:30</td>
-      <td class="break-cell"></td>
+      <td>12:30 - 14:30</td>
+      <td colspan="2">Lunch Break</td>
     </tr>
     <tr>
-      <td rowspan="3" class="session-cell">ZX calculus</td>
-      <td rowspan="3" class="speaker-cell">TBA</td>
-      <td class="session-cell">14:30 - 15:20</td>
-      <td class="session-cell">Tutorial 2.1</td>
+      <td>14:30 - 15:20</td>
+      <td>ZX Calculus Part 1</td>
+      <td>Causality Part 1</td>
     </tr>
     <tr>
-      <td class="break-cell">15:20 - 15:40</td>
-      <td class="break-cell">Coffee break</td>
+      <td>15:20 - 15:40</td>
+      <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td class="session-cell">15:40 - 16:30</td>
-      <td class="session-cell">Tutorial 2.2</td>
+      <td>15:40 - 16:30</td>
+      <td>ZX Calculus Part 2</td>
+      <td>Causality Part 2</td>
     </tr>
     <tr>
-      <td colspan="2" class="lightning-cell">Lightning Talks</td>
-      <td class="lightning-cell">16:30 - 17:00</td>
-      <td class="lightning-cell"></td>
-    </tr>
-  </table>
-
-  <table class="tutorial-table">
-    <colgroup>
-      <col width="22%" />
-      <col width="30%" />
-      <col width="24%" />
-      <col width="24%" />
-    </colgroup>
-    <tr>
-      <th>Topic</th>
-      <th>Invited speaker</th>
-      <th>Schedule</th>
-      <th>Saturday, August 15th</th>
-    </tr>
-    <tr>
-      <td rowspan="3" class="session-cell">Generalised process theories</td>
-      <td rowspan="3" class="speaker-cell">TBA</td>
-      <td class="session-cell">10:00 - 10:50</td>
-      <td class="session-cell">Tutorial 1.1</td>
-    </tr>
-    <tr>
-      <td class="break-cell">10:50 - 11:10</td>
-      <td class="break-cell">Coffee break</td>
-    </tr>
-    <tr>
-      <td class="session-cell">11:10 - 12:00</td>
-      <td class="session-cell">Tutorial 1.2</td>
-    </tr>
-    <tr>
-      <td colspan="2" class="lightning-cell">Lightning Talks</td>
-      <td class="lightning-cell">12:00 - 12:30</td>
-      <td class="lightning-cell"></td>
-    </tr>
-    <tr>
-      <td colspan="2" class="break-cell">Lunch break</td>
-      <td class="break-cell">12:30 - 14:30</td>
-      <td class="break-cell"></td>
-    </tr>
-    <tr>
-      <td rowspan="3" class="session-cell">Causality</td>
-      <td rowspan="3" class="speaker-cell">TBA</td>
-      <td class="session-cell">14:30 - 15:20</td>
-      <td class="session-cell">Tutorial 2.1</td>
-    </tr>
-    <tr>
-      <td class="break-cell">15:20 - 15:40</td>
-      <td class="break-cell">Coffee break</td>
-    </tr>
-    <tr>
-      <td class="session-cell">15:40 - 16:30</td>
-      <td class="session-cell">Tutorial 2.2</td>
-    </tr>
-    <tr>
-      <td colspan="2" class="lightning-cell">Lightning Talks</td>
-      <td class="lightning-cell">16:30 - 17:00</td>
-      <td class="lightning-cell"></td>
+      <td>16:30 - 17:00</td>
+      <td>Lightning Talks</td>
+      <td>Lightning Talks</td>
     </tr>
   </table>
 </div>
