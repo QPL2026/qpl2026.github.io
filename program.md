@@ -136,7 +136,7 @@ permalink: /program/
 </tr>
 <tr>
   <td>17:30 – 19:30</td>
-  <td>Poster session</td>
+  <td style="background-color: #f7c98b">Poster session</td>
   <td class="empty-cell"></td>
   <td>Conference Dinner</td>
 </tr>
