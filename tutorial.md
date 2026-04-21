@@ -100,7 +100,7 @@ permalink: /tutorial/
   <tr>
     <td>15:40 - 16:30</td>
     <td class="zx-calculus">ZX Calculus Part 2</td>
-    <td>Razin A. Shaikh</td>
+    <td><a href="https://scholar.google.com/citations?user=2upjv1YAAAAJ&amp;hl=en">Razin A. Shaikh</a></td>
     <td class="causality">Causality Part 2</td>
     <td>TBA</td>
   </tr>
