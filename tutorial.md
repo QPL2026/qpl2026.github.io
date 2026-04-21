@@ -68,8 +68,7 @@ permalink: /tutorial/
   </tr>
   <tr>
     <td>12:00 - 12:30</td>
-    <td colspan="3" class="lightning-talks">Lightning Talks</td>
-    <td></td>
+    <td colspan="4" class="lightning-talks">Lightning Talks</td>
   </tr>
   <tr>
     <td>12:30 - 14:30</td>
