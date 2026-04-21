@@ -63,9 +63,9 @@ permalink: /tutorial/
   <tr>
     <td>10:00 - 10:50</td>
     <td class="category-theory">Category Theory Part 1</td>
-    <td></td>
+    <td>TBA</td>
     <td class="generalised-process-theories">Generalised Process Theories Part 1</td>
-    <td></td>
+    <td>TBA</td>
   </tr>
   <tr>
     <td>10:50 - 11:10</td>
@@ -74,9 +74,9 @@ permalink: /tutorial/
   <tr>
     <td>11:10 - 12:00</td>
     <td class="category-theory">Category Theory Part 2</td>
-    <td></td>
+    <td>TBA</td>
     <td class="generalised-process-theories">Generalised Process Theories Part 2</td>
-    <td></td>
+    <td>TBA</td>
   </tr>
   <tr>
     <td>12:00 - 12:30</td>
@@ -91,7 +91,7 @@ permalink: /tutorial/
     <td class="zx-calculus">ZX Calculus Part 1</td>
     <td>Lia Yeh</td>
     <td class="causality">Causality Part 1</td>
-    <td></td>
+    <td>TBA</td>
   </tr>
   <tr>
     <td>15:20 - 15:40</td>
@@ -102,7 +102,7 @@ permalink: /tutorial/
     <td class="zx-calculus">ZX Calculus Part 2</td>
     <td>Razin A. Shaikh</td>
     <td class="causality">Causality Part 2</td>
-    <td></td>
+    <td>TBA</td>
   </tr>
   <tr>
     <td>16:30 - 17:00</td>
