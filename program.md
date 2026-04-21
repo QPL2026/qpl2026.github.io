@@ -131,7 +131,7 @@ permalink: /program/
 </tr>
 <tr>
   <td>17:05 – 17:30</td>
-  <td rowspan="2">Career Fair<br>16:40 – 19:00</td>
+  <td rowspan="2">TBA</td>
   <td rowspan="2">Goodbye!</td>
 </tr>
 <tr>
