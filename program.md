@@ -1,6 +1,6 @@
 ---
-title: Timetable
-permalink: /timetable/
+title: Program
+permalink: /program/
 ---
 
 <table>
