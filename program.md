@@ -5,14 +5,17 @@ permalink: /program/
 
 <style>
   .program-table {
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
+    table-layout: fixed;
   }
 
   .program-table td,
   .program-table th {
     text-align: center;
     vertical-align: middle;
+    overflow-wrap: break-word;
   }
 
   .program-table td.empty-cell {
