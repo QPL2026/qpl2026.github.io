@@ -94,9 +94,6 @@ permalink: /tutorial/
   </tr>
   <tr>
     <td>16:30 - 17:00</td>
-    <td class="lightning-talks">Lightning Talks</td>
-    <td></td>
-    <td class="lightning-talks">Lightning Talks</td>
-    <td></td>
+    <td colspan="4" class="lightning-talks">Lightning Talks</td>
   </tr>
 </table>
