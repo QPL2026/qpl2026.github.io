@@ -36,6 +36,10 @@ permalink: /program/
       );
     background-repeat: no-repeat;
   }
+
+  .program-table td.parallel-session {
+    background-color: #f6e58d;
+  }
 </style>
 
 <table class="program-table">
@@ -96,11 +100,11 @@ permalink: /program/
 </tr>
 <tr>
   <td>14:30 – 14:55</td>
-  <td rowspan="3">Parallel Sessions</td>
-  <td rowspan="3">Parallel Sessions</td>
-  <td rowspan="3">Parallel Sessions</td>
-  <td rowspan="3">Parallel Sessions</td>
-  <td rowspan="3">Parallel Sessions</td>
+  <td rowspan="3" class="parallel-session">Parallel Sessions</td>
+  <td rowspan="3" class="parallel-session">Parallel Sessions</td>
+  <td rowspan="3" class="parallel-session">Parallel Sessions</td>
+  <td rowspan="3" class="parallel-session">Parallel Sessions</td>
+  <td rowspan="3" class="parallel-session">Parallel Sessions</td>
 </tr>
 <tr>
   <td>14:55 – 15:20</td>
@@ -111,14 +115,14 @@ permalink: /program/
 <tr>
   <td>15:45 – 16:15</td>
   <td colspan="3">Coffee Break</td>
-  <td rowspan="2">Parallel Session<br>15:45 – 16:10</td>
-  <td rowspan="2">Parallel Session<br>15:45 – 16:10</td>
+  <td rowspan="2" class="parallel-session">Parallel Session<br>15:45 – 16:10</td>
+  <td rowspan="2" class="parallel-session">Parallel Session<br>15:45 – 16:10</td>
 </tr>
 <tr>
   <td>16:15 – 16:40</td>
-  <td rowspan="3">Parallel Sessions</td>
-  <td rowspan="3">Parallel Sessions</td>
-  <td rowspan="3">Parallel Sessions</td>
+  <td rowspan="3" class="parallel-session">Parallel Sessions</td>
+  <td rowspan="3" class="parallel-session">Parallel Sessions</td>
+  <td rowspan="3" class="parallel-session">Parallel Sessions</td>
 </tr>
 <tr>
   <td>16:40 – 17:05</td>
