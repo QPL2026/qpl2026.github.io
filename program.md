@@ -65,11 +65,11 @@ permalink: /program/
 </tr>
 <tr>
   <td>9:30 – 10:15</td>
-  <td rowspan="2" style="background-color: #93c0e6">Long Plenary Talks</td>
-  <td rowspan="2" style="background-color: #93c0e6">Long Plenary Talks</td>
-  <td rowspan="2" style="background-color: #93c0e6">Long Plenary Talks</td>
-  <td rowspan="2" style="background-color: #93c0e6">Long Plenary Talks</td>
-  <td rowspan="2" style="background-color: #93c0e6">Long Plenary Talks</td>
+  <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
+  <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
+  <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
+  <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
+  <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
 </tr>
 <tr>
   <td>10:15 – 11:00</td>
