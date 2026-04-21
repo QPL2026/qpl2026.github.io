@@ -64,7 +64,7 @@ permalink: /tutorial/
     <td>10:00 - 10:50</td>
     <td class="category-theory">Category Theory Part 1</td>
     <td>TBA</td>
-    <td class="generalised-process-theories">Generalised Process Theories Part 1</td>
+    <td class="generalised-process-theories">Generalised Probabilistic Theories Part 1</td>
     <td>TBA</td>
   </tr>
   <tr>
@@ -75,7 +75,7 @@ permalink: /tutorial/
     <td>11:10 - 12:00</td>
     <td class="category-theory">Category Theory Part 2</td>
     <td>TBA</td>
-    <td class="generalised-process-theories">Generalised Process Theories Part 2</td>
+    <td class="generalised-process-theories">Generalised Probabilistic Theories Part 2</td>
     <td>TBA</td>
   </tr>
   <tr>
