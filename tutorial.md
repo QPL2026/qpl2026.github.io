@@ -27,6 +27,10 @@ permalink: /tutorial/
   .tutorial-table td.lightning-talks {
     background-color: #fff07a;
   }
+
+  .tutorial-table td.category-theory {
+    background-color: #d8c7f0;
+  }
 </style>
 
 <table class="tutorial-table">
@@ -42,7 +46,7 @@ permalink: /tutorial/
   </tr>
   <tr>
     <td>10:00 - 10:50</td>
-    <td>Category Theory Part 1</td>
+    <td class="category-theory">Category Theory Part 1</td>
     <td>Generalised Process Theories Part 1</td>
   </tr>
   <tr>
@@ -51,7 +55,7 @@ permalink: /tutorial/
   </tr>
   <tr>
     <td>11:10 - 12:00</td>
-    <td>Category Theory Part 2</td>
+    <td class="category-theory">Category Theory Part 2</td>
     <td>Generalised Process Theories Part 2</td>
   </tr>
   <tr>
