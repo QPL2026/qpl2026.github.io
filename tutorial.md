@@ -22,8 +22,6 @@ permalink: /tutorial/
   }
 
   .tutorial-table th {
-    background-color: #2a6f90;
-    color: #ffffff;
     font-weight: 700;
     text-align: left;
   }
