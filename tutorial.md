@@ -89,7 +89,7 @@ permalink: /tutorial/
   <tr>
     <td>14:30 - 15:20</td>
     <td class="zx-calculus">ZX Calculus Part 1</td>
-    <td>Lia Yeh</td>
+    <td><a href="https://scholar.google.com/citations?user=mgBapYcAAAAJ&amp;hl=en">Lia Yeh</a></td>
     <td class="causality">Causality Part 1</td>
     <td>TBA</td>
   </tr>
