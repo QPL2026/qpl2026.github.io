@@ -38,6 +38,8 @@ navigation_header:
   url: /
 - title: Local Information
   url: /local_info/
+- title: Program
+  url: /program/
 - title: Contact
   url: /#contact
 - title: Code of Conduct
