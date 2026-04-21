@@ -101,7 +101,7 @@ permalink: /program/
 <tr>
   <td>16:40 – 17:05</td>
   <td>Coffee Break<br>16:10 – 16:40</td>
-  <td>Coffee Break</td>
+  <td>Coffee Break<br>16:10 – 16:40</td>
 </tr>
 <tr>
   <td>17:05 – 17:30</td>
