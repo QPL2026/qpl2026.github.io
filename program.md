@@ -14,6 +14,25 @@ permalink: /program/
     text-align: center;
     vertical-align: middle;
   }
+
+  .program-table td.empty-cell {
+    background-image:
+      linear-gradient(
+        45deg,
+        transparent calc(50% - 1px),
+        rgba(0, 0, 0, 0.18) calc(50% - 1px),
+        rgba(0, 0, 0, 0.18) calc(50% + 1px),
+        transparent calc(50% + 1px)
+      ),
+      linear-gradient(
+        -45deg,
+        transparent calc(50% - 1px),
+        rgba(0, 0, 0, 0.18) calc(50% - 1px),
+        rgba(0, 0, 0, 0.18) calc(50% + 1px),
+        transparent calc(50% + 1px)
+      );
+    background-repeat: no-repeat;
+  }
 </style>
 
 <table class="program-table">
@@ -36,10 +55,10 @@ permalink: /program/
 <tr>
   <td>8:50 – 9:30</td>
   <td>Registration</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td class="empty-cell"></td>
+  <td class="empty-cell"></td>
+  <td class="empty-cell"></td>
+  <td class="empty-cell"></td>
 </tr>
 <tr>
   <td>9:30 – 10:15</td>
@@ -111,7 +130,7 @@ permalink: /program/
 <tr>
   <td>17:30 – 19:30</td>
   <td>Poster session</td>
-  <td></td>
+  <td class="empty-cell"></td>
   <td>Conference Dinner</td>
 </tr>
 </table>
