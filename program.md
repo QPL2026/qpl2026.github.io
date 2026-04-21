@@ -3,7 +3,20 @@ title: Program
 permalink: /program/
 ---
 
-<table>
+<style>
+  .program-table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .program-table td,
+  .program-table th {
+    text-align: center;
+    vertical-align: middle;
+  }
+</style>
+
+<table class="program-table">
 <colgroup>
 <col width="15%" />
 <col width="17%" />
@@ -76,8 +89,8 @@ permalink: /program/
 <tr>
   <td>15:45 – 16:15</td>
   <td colspan="3">Coffee Break</td>
-  <td rowspan="2">Parallel Sessions<br>14:30 – 16:10</td>
-  <td rowspan="2">Parallel Sessions</td>
+  <td rowspan="2">Parallel Session<br>15:45 – 16:10</td>
+  <td rowspan="2">Parallel Session<br>15:45 – 16:10</td>
 </tr>
 <tr>
   <td>16:15 – 16:40</td>
