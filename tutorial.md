@@ -78,7 +78,7 @@ permalink: /tutorial/
   <tr>
     <td>14:30 - 15:20</td>
     <td>ZX Calculus Part 1</td>
-    <td></td>
+    <td>Lia Yeh</td>
     <td>Causality Part 1</td>
     <td></td>
   </tr>
@@ -89,7 +89,7 @@ permalink: /tutorial/
   <tr>
     <td>15:40 - 16:30</td>
     <td>ZX Calculus Part 2</td>
-    <td></td>
+    <td>Razin A. Shaikh</td>
     <td>Causality Part 2</td>
     <td></td>
   </tr>
