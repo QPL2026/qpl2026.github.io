@@ -80,10 +80,10 @@ permalink: /program/
 </tr>
 <tr>
   <td>11:30 – 11:55</td>
-  <td rowspan="2" style="background-color: #a8d8b9">Short Plenary Talks</td>
-  <td rowspan="2" style="background-color: #a8d8b9">Short Plenary Talks</td>
+  <td rowspan="2" style="background-color: #bfe6cc">Short Plenary Talks</td>
+  <td rowspan="2" style="background-color: #bfe6cc">Short Plenary Talks</td>
   <td rowspan="2">Industry session</td>
-  <td style="background-color: #a8d8b9">Short Plenary Talk</td>
+  <td style="background-color: #bfe6cc">Short Plenary Talk</td>
   <td rowspan="2">Business Meeting</td>
 </tr>
 <tr>
