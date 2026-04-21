@@ -39,6 +39,10 @@ permalink: /tutorial/
   .tutorial-table td.zx-calculus {
     background-color: #bfe6cc;
   }
+
+  .tutorial-table td.causality {
+    background-color: #f7c98b;
+  }
 </style>
 
 <table class="tutorial-table">
@@ -86,7 +90,7 @@ permalink: /tutorial/
     <td>14:30 - 15:20</td>
     <td class="zx-calculus">ZX Calculus Part 1</td>
     <td>Lia Yeh</td>
-    <td>Causality Part 1</td>
+    <td class="causality">Causality Part 1</td>
     <td></td>
   </tr>
   <tr>
@@ -97,7 +101,7 @@ permalink: /tutorial/
     <td>15:40 - 16:30</td>
     <td class="zx-calculus">ZX Calculus Part 2</td>
     <td>Razin A. Shaikh</td>
-    <td>Causality Part 2</td>
+    <td class="causality">Causality Part 2</td>
     <td></td>
   </tr>
   <tr>
