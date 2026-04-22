@@ -4,9 +4,80 @@ title: Accepted Submissions
 permalink: /accepted/
 ---
 
-# Accepted Submissions
+## Proceedings
 
-## Talk-only
+<table style="width: 100%; border-collapse: collapse;">
+  <colgroup>
+    <col style="width: 35%;">
+    <col style="width: 65%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th style="text-align: left; vertical-align: top; padding: 8px;">Authors</th>
+      <th style="text-align: left; vertical-align: top; padding: 8px;">Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">William Schober<br>Scott Wesley</td>
+      <td style="vertical-align: top; padding: 8px;">A Complete Equational Theory for Quantum Circuits with Generalized Control</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Mark Deaconu<br>Nihar Gargava<br>Amolak Ratan Kalra<br>Michele Mosca<br>Jon Yard</td>
+      <td style="vertical-align: top; padding: 8px;">Buildings for Synthesis with Clifford+R</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Mark Koch</td>
+      <td style="vertical-align: top; padding: 8px;">Classical Clifford+T sampling without computing marginals</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Colin Blake</td>
+      <td style="vertical-align: top; padding: 8px;">Completeness for Prime-Dimensional Phase-Affine Circuits</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Fedor Kuyanov<br>Aleks Kissinger</td>
+      <td style="vertical-align: top; padding: 8px;">Efficient Classical Simulation of Low-Rank-Width Quantum Circuits Using ZX-Calculus</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Samson Abramsky<br>Radha Jagadeesan</td>
+      <td style="vertical-align: top; padding: 8px;">Essential Unitarity for Higher-Order Quantum Computation</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Priyaa Varshinee Srinivasan<br>Jean-Simon Pacaud Lemay<br>Robin Cockett</td>
+      <td style="vertical-align: top; padding: 8px;">Generalized Inverses of Quantum Channels: a categorical perspective</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Simon Burton<br>Hussain Anwar</td>
+      <td style="vertical-align: top; padding: 8px;">Meromorphic Quantum Computing</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Soichiro Yamazaki<br>Seiseki Akibue</td>
+      <td style="vertical-align: top; padding: 8px;">Multi-qubit controlled gate with optimal T-count</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Arianne Meijer-van de Griend<br>Leo Becker</td>
+      <td style="vertical-align: top; padding: 8px;">Pauli Gadget Synthesis for Gatesets with Arbitrary Even-Arity Clifford Gates</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Pablo Arrighi<br>Doğukan Bakircioglu<br>Nathan Houyet</td>
+      <td style="vertical-align: top; padding: 8px;">Quantum theory over dual-complex numbers</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Tomoaki Kawano<br>Ryo Kashima</td>
+      <td style="vertical-align: top; padding: 8px;">Restricted Negation in Orthomodular Logic</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Piotr Mitosek<br>Miriam Backens</td>
+      <td style="vertical-align: top; padding: 8px;">Working with measurement-based computations on qudits</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Aleks Kissinger<br>John van de Wetering</td>
+      <td style="vertical-align: top; padding: 8px;">ZX-Flow: A Flexible Criterion for Deterministic Computation with ZX-Diagrams</td>
+    </tr>
+  </tbody>
+</table>
+
+## Talks
 
 <table style="width: 100%; border-collapse: collapse;">
   <colgroup>
@@ -197,7 +268,7 @@ permalink: /accepted/
       <td style="vertical-align: top; padding: 8px;">Insights in Graph State Entanglement via r-Local Complementation: Structure and a Quasi-Polynomial Algorithm</td>
     </tr>
     <tr>
-      <td style="vertical-align: top; padding: 8px;">Manuel Mekonnen Vienna, Vienna Center for Quantum Science and Technology)<br>Thomas D. Galley Vienna, Vienna Center for Quantum Science and Technology)<br>Markus P. Müller Vienna, Vienna Center for Quantum Science and Technology, Perimeter Institute for Theoretical Physics)</td>
+      <td style="vertical-align: top; padding: 8px;">Manuel Mekonnen<br>Thomas D. Galley<br>Markus P. Müller</td>
       <td style="vertical-align: top; padding: 8px;">Invariance under quantum permutations rules out parastatistics</td>
     </tr>
     <tr>
@@ -265,7 +336,7 @@ permalink: /accepted/
       <td style="vertical-align: top; padding: 8px;">Quantum Theory Can Decohere from a Causally-Indefinite Post-Quantum Theory</td>
     </tr>
     <tr>
-      <td style="vertical-align: top; padding: 8px;">Luca Apadula)<br>Alexei Grinbaum)<br>Časlav Brukner</td>
+      <td style="vertical-align: top; padding: 8px;">Luca Apadula<br>Alexei Grinbaum<br>Časlav Brukner</td>
       <td style="vertical-align: top; padding: 8px;">Reference frames for process matrices: from coordinate parametrization to spacetime representation</td>
     </tr>
     <tr>
@@ -277,7 +348,7 @@ permalink: /accepted/
       <td style="vertical-align: top; padding: 8px;">Sheaf-Theoretic Preparation Contextuality via Stochastic Extension</td>
     </tr>
     <tr>
-      <td style="vertical-align: top; padding: 8px;">Kwok Ho Wan)<br>Zhenghao Zhong)</td>
+      <td style="vertical-align: top; padding: 8px;">Kwok Ho Wan<br>Zhenghao Zhong</td>
       <td style="vertical-align: top; padding: 8px;">Simulating magic state cultivation with few Clifford terms</td>
     </tr>
     <tr>
@@ -347,79 +418,6 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Christine Li<br>Lia Yeh</td>
       <td style="vertical-align: top; padding: 8px;">Transversal AND in Quantum Codes</td>
-    </tr>
-  </tbody>
-</table>
-
-## Proceedings
-
-<table style="width: 100%; border-collapse: collapse;">
-  <colgroup>
-    <col style="width: 35%;">
-    <col style="width: 65%;">
-  </colgroup>
-  <thead>
-    <tr>
-      <th style="text-align: left; vertical-align: top; padding: 8px;">Authors</th>
-      <th style="text-align: left; vertical-align: top; padding: 8px;">Title</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="vertical-align: top; padding: 8px;">William Schober<br>Scott Wesley</td>
-      <td style="vertical-align: top; padding: 8px;">A Complete Equational Theory for Quantum Circuits with Generalized Control</td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 8px;">Mark Deaconu<br>Nihar Gargava<br>Amolak Ratan Kalra<br>Michele Mosca<br>Jon Yard</td>
-      <td style="vertical-align: top; padding: 8px;">Buildings for Synthesis with Clifford+R</td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 8px;">Mark Koch</td>
-      <td style="vertical-align: top; padding: 8px;">Classical Clifford+T sampling without computing marginals</td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 8px;">Colin Blake</td>
-      <td style="vertical-align: top; padding: 8px;">Completeness for Prime-Dimensional Phase-Affine Circuits</td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 8px;">Fedor Kuyanov<br>Aleks Kissinger</td>
-      <td style="vertical-align: top; padding: 8px;">Efficient Classical Simulation of Low-Rank-Width Quantum Circuits Using ZX-Calculus</td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 8px;">Samson Abramsky<br>Radha Jagadeesan</td>
-      <td style="vertical-align: top; padding: 8px;">Essential Unitarity for Higher-Order Quantum Computation</td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 8px;">Priyaa Varshinee Srinivasan<br>Jean-Simon Pacaud Lemay<br>Robin Cockett</td>
-      <td style="vertical-align: top; padding: 8px;">Generalized Inverses of Quantum Channels: a categorical perspective</td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 8px;">Simon Burton<br>Hussain Anwar</td>
-      <td style="vertical-align: top; padding: 8px;">Meromorphic Quantum Computing</td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 8px;">Soichiro Yamazaki<br>Seiseki Akibue</td>
-      <td style="vertical-align: top; padding: 8px;">Multi-qubit controlled gate with optimal T-count</td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 8px;">Arianne Meijer-van de Griend<br>Leo Becker</td>
-      <td style="vertical-align: top; padding: 8px;">Pauli Gadget Synthesis for Gatesets with Arbitrary Even-Arity Clifford Gates</td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 8px;">Pablo Arrighi<br>Doğukan Bakircioglu<br>Nathan Houyet</td>
-      <td style="vertical-align: top; padding: 8px;">Quantum theory over dual-complex numbers</td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 8px;">Tomoaki Kawano<br>Ryo Kashima</td>
-      <td style="vertical-align: top; padding: 8px;">Restricted Negation in Orthomodular Logic</td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 8px;">Piotr Mitosek<br>Miriam Backens</td>
-      <td style="vertical-align: top; padding: 8px;">Working with measurement-based computations on qudits</td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 8px;">Aleks Kissinger<br>John van de Wetering</td>
-      <td style="vertical-align: top; padding: 8px;">ZX-Flow: A Flexible Criterion for Deterministic Computation with ZX-Diagrams</td>
     </tr>
   </tbody>
 </table>
