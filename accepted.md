@@ -244,7 +244,7 @@ permalink: /accepted/
       <td style="vertical-align: top; padding: 8px;">Higher-order transformations of bidirectional quantum processes</td>
     </tr>
     <tr>
-      <td style="vertical-align: top; padding: 8px;">Kwok Ho Wan)<br>Henry Price<br>Qing Yao</td>
+      <td style="vertical-align: top; padding: 8px;">Kwok Ho Wan<br>Henry Price<br>Qing Yao</td>
       <td style="vertical-align: top; padding: 8px;">Holographic codes seen through ZX-calculus</td>
     </tr>
     <tr>
@@ -348,7 +348,7 @@ permalink: /accepted/
       <td style="vertical-align: top; padding: 8px;">Sheaf-Theoretic Preparation Contextuality via Stochastic Extension</td>
     </tr>
     <tr>
-      <td style="vertical-align: top; padding: 8px;">Kwok Ho Wan<br>Zhenghao Zhong</td>
+      <td style="vertical-align: top; padding: 8px;">Kwok Ho Wan<br>Zhenghao Zhong <br>Ainhoa Zapirain</td>
       <td style="vertical-align: top; padding: 8px;">Simulating magic state cultivation with few Clifford terms</td>
     </tr>
     <tr>
