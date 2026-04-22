@@ -91,7 +91,7 @@ permalink: /tutorial/
     <td class="zx-calculus">ZX Calculus Part 1</td>
     <td><a href="https://scholar.google.com/citations?user=mgBapYcAAAAJ&amp;hl=en">Lia Yeh</a></td>
     <td class="causality">Causality Part 1</td>
-    <td>TBA</td>
+    <td><a href="https://jessicabavaresco.github.io/">Jessica Bavaresco</a></td>
   </tr>
   <tr>
     <td>15:20 - 15:40</td>
@@ -102,7 +102,7 @@ permalink: /tutorial/
     <td class="zx-calculus">ZX Calculus Part 2</td>
     <td><a href="https://scholar.google.com/citations?user=2upjv1YAAAAJ&amp;hl=en">Razin A. Shaikh</a></td>
     <td class="causality">Causality Part 2</td>
-    <td>TBA</td>
+    <td><a href="https://jessicabavaresco.github.io/">Jessica Bavaresco</a></td>
   </tr>
   <tr>
     <td>16:30 - 17:00</td>
