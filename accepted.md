@@ -292,7 +292,7 @@ permalink: /accepted/
       <td style="vertical-align: top; padding: 8px;">On the experimental falsification of Real Quantum Theory</td>
     </tr>
     <tr>
-      <td style="vertical-align: top; padding: 8px;">Yile Ying<br>Maria Ciudad Alanon<br>Daniel Centeno<br>Jacopo Surace<br>Marina Maciel Ansanelli<br>Ruizhi Liu<br>David Schmid<br>Robert Spekkens</td>
+      <td style="vertical-align: top; padding: 8px;">Yìlè Yīng<br>Maria Ciudad Alanon<br>Daniel Centeno<br>Jacopo Surace<br>Marina Maciel Ansanelli<br>Ruizhi Liu<br>David Schmid<br>Robert Spekkens</td>
       <td style="vertical-align: top; padding: 8px;">On whether quantum theory needs complex numbers: the foil theories perspective</td>
     </tr>
     <tr>
