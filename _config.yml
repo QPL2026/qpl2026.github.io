@@ -27,6 +27,8 @@ title: 'QPL'
 description: 'Official Website for the QPL 2026 Conference'
 permalink: pretty
 logo: "/images/logo.png"
+custom_css:
+- /assets/custom.css
 
 # Pagination
 # paginate: 5
@@ -42,6 +44,8 @@ navigation_header:
   url: /program/
 - title: Tutorials
   url: /tutorial/
+- title: Registration
+  url: /registration/
 - title: Contact
   url: /#contact
 - title: Sponsors
@@ -51,8 +55,6 @@ navigation_header:
 
 - title: Accepted Submissions
   url: /accepted/
-# - title: Registration
-#   url: /registration/
 # - title: Program
 #   url: /program/
 
