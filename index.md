@@ -1,8 +1,8 @@
 ---
 title: QPL 2026
-# feature_image: "images/varna.jpeg"
-# feature_text: |
-#   ## Quantum Physics and Logic 2026
+ feature_image: "images/amsterdam.jpg"
+ feature_text: |
+   ## Quantum Physics and Logic 2026
 ---
 
 <!-- ![Varna](images/varna.jpeg "Varna, Bulgaria") -->
@@ -14,18 +14,6 @@ The **23rd International Conference on Quantum Physics and Logic (QPL 2026)**
 will take place from August 17th to August 21st 2026 in Amsterdam, The Netherlands.  
 Quantum Physics and Logic is an annual conference that brings together academic and industry researchers working on topics ranging from basic research in the foundations of physics to applications in quantum computing and communication, both for near-term quantum hardware and future large-scale, fault-tolerant devices. The conference places particular emphasis on the application of formal algebraic, logical, compositional, and categorical structures to quantum theory and related areas. Work applying quantum-inspired techniques and structures to other fields---such as (classical) computation, linguistics, artificial intelligence, and causality---is also welcome.
 
-<!-- 
-Old version:
-Quantum Physics and Logic is an annual conference that brings together academic and
-industry researchers working on mathematical foundations of quantum
-computation, quantum physics, and related areas. The main focus is on the use
-of algebraic and categorical structures, formal languages, type systems,
-logics, semantic methods, as well as other mathematical and computer scientific
-techniques applicable to the study of physical systems, physical processes, and
-their composition. Work applying quantum-inspired techniques and structures to
-other fields, such as linguistics, artificial intelligence, and causality, is
-also welcome. -->
-
 
 ### Important Dates
 
@@ -34,9 +22,12 @@ also welcome. -->
 * Paper submission deadline: Friday March 6th 2026
 * Notification: April 17th 2026
 <!-- * Camera-ready deadline (revised accepted proceedings manuscripts): 15 June 2025 -->
+* Weekend workshops: August 15 -- August 16
 * Conference: August 17th -- August 21st 2026
 
-All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone](https://www.timeanddate.com/time/zones/aoe). The abstract submission deadline is just for your submission to be in the system so that the Programme Committee has time to divide up the submissions. The submission (whether a talk proposal, proceedings or poster), does not have to be finalised until the paper submission deadline.
+All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone](https://www.timeanddate.com/time/zones/aoe).
+Notifications have now been sent out. If you haven't received a notification, let the PC chairs know.
+ <!-- The abstract submission deadline is just for your submission to be in the system so that the Programme Committee has time to divide up the submissions. The submission (whether a talk proposal, proceedings or poster), does not have to be finalised until the paper submission deadline. -->
 
 
 ### Submissions
@@ -68,7 +59,9 @@ You can submit at this [HotCRP server](https://hotcrp.science.uva.nl/qpl2026/).
 
 ### Registration
 
-To open later.
+To open soon.
+
+This year, QPL will be preceded by a weekend workshop consisting of tutorials on some of the main specialised topics of the conference. You can find more details [here](/tutorial). There is limited availability for these tutorials, preference will be given to registrations from junior attendees and early registrations.
 <!-- Registration is now closed. Please see [here](/registration/) for further information regarding registrations. -->
 
 <!-- ### Presentations

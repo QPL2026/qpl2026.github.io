@@ -45,6 +45,9 @@ permalink: /tutorial/
   }
 </style>
 
+This year, QPL will be preceded by a weekend workshop consisting of tutorials on some of the main specialised topics of the conference. This is to give, especially junior attendees and those for whom this is their first QPL, a chance to learn some more background on these important topics so that they can better follow the research-level talks in the main conference.
+<!-- The programme also allows ample time for you to get to know your fellow attendees and explore the city. -->
+
 <table class="tutorial-table">
   <colgroup>
     <col width="18%" />
@@ -109,3 +112,12 @@ permalink: /tutorial/
     <td colspan="4" class="lightning-talks">Lightning Talks</td>
   </tr>
 </table>
+<br />
+
+The schedule contains a number of slots for lightning talks. These are 5-minute informal talks where you can introduce yourself and your research. We will ask for contributed lightning talks of the workshop attendees closer to the date of the conference.
+
+There is limited availability for attending these tutorials, preference will be given to registrations from junior attendees and early registrations.
+
+Location: Amsterdam University Library UvA, [Vendelstraat 2-8, 1012 XX Amsterdam](https://www.google.com/maps/place/Amsterdam+University+Library/@51.9905877,5.9003475,14z/data=!3m1!4b1!4m6!3m5!1s0x47c609c1e91a2a27:0x36216e405eeb19c2!8m2!3d52.3686498!4d4.8951113!16s%2Fm%2F0n50g7t?entry=ttu&g_ep=EgoyMDI2MDQyMC4wIKXMDSoASAFQAw%3D%3D).
+
+Room: Surgical Theatre (A1.01), First floor of the A-wing
