@@ -107,7 +107,7 @@ Below you can find a preliminary version of the schedule of the conference.
   <td rowspan="3" class="parallel-session">Parallel Sessions</td>
   <td rowspan="3" class="parallel-session">Parallel Sessions</td>
   <td rowspan="3" class="parallel-session">Parallel Sessions</td>
-  <td rowspan="3" class="parallel-session">Parallel Sessions</td>
+  <td rowspan="5" class="parallel-session">Parallel Sessions<br>14:30 – 16:10</td>
   <td rowspan="3" class="parallel-session">Parallel Sessions</td>
 </tr>
 <tr>
@@ -119,7 +119,6 @@ Below you can find a preliminary version of the schedule of the conference.
 <tr>
   <td>15:45 – 16:15</td>
   <td colspan="3">Coffee Break</td>
-  <td rowspan="2" class="parallel-session">Parallel Session<br>15:45 – 16:10</td>
   <td rowspan="2">Coffee Break</td>
 </tr>
 <tr>
