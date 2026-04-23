@@ -1,8 +1,8 @@
 ---
 title: QPL 2026
-# feature_image: "images/varna.jpeg"
-# feature_text: |
-#   ## Quantum Physics and Logic 2026
+ feature_image: "images/amsterdam.jpg"
+ feature_text: |
+   ## Quantum Physics and Logic 2026
 ---
 
 <!-- ![Varna](images/varna.jpeg "Varna, Bulgaria") -->
@@ -13,18 +13,6 @@ title: QPL 2026
 The **23rd International Conference on Quantum Physics and Logic (QPL 2026)**
 will take place from August 17th to August 21st 2026 in Amsterdam, The Netherlands.  
 Quantum Physics and Logic is an annual conference that brings together academic and industry researchers working on topics ranging from basic research in the foundations of physics to applications in quantum computing and communication, both for near-term quantum hardware and future large-scale, fault-tolerant devices. The conference places particular emphasis on the application of formal algebraic, logical, compositional, and categorical structures to quantum theory and related areas. Work applying quantum-inspired techniques and structures to other fields---such as (classical) computation, linguistics, artificial intelligence, and causality---is also welcome.
-
-<!-- 
-Old version:
-Quantum Physics and Logic is an annual conference that brings together academic and
-industry researchers working on mathematical foundations of quantum
-computation, quantum physics, and related areas. The main focus is on the use
-of algebraic and categorical structures, formal languages, type systems,
-logics, semantic methods, as well as other mathematical and computer scientific
-techniques applicable to the study of physical systems, physical processes, and
-their composition. Work applying quantum-inspired techniques and structures to
-other fields, such as linguistics, artificial intelligence, and causality, is
-also welcome. -->
 
 
 ### Important Dates

@@ -44,12 +44,13 @@ navigation_header:
   url: /tutorial/
 - title: Contact
   url: /#contact
+- title: Sponsors
+   url: /#sponsors
 - title: Code of Conduct
   url: /#code-of-conduct
-# - title: Sponsors
-#   url: /#platinum-sponsors
-# - title: Accepted Submissions
-#   url: /accepted/
+
+- title: Accepted Submissions
+  url: /accepted/
 # - title: Registration
 #   url: /registration/
 # - title: Program
