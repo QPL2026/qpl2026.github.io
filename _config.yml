@@ -45,7 +45,7 @@ navigation_header:
 - title: Contact
   url: /#contact
 - title: Sponsors
-   url: /#sponsors
+  url: /#sponsors
 - title: Code of Conduct
   url: /#code-of-conduct
 
