@@ -65,7 +65,7 @@ permalink: /tutorial/
     <td class="category-theory">Category Theory Part 1</td>
     <td>TBA</td>
     <td class="generalised-process-theories">Generalised Probabilistic Theories Part 1</td>
-    <td>TBA</td>
+    <td><a href="https://scholar.google.com/citations?user=Zyp4QCAAAAAJ&amp;hl=en">David Schmid</a></td>
   </tr>
   <tr>
     <td>10:50 - 11:10</td>
@@ -76,7 +76,7 @@ permalink: /tutorial/
     <td class="category-theory">Category Theory Part 2</td>
     <td>TBA</td>
     <td class="generalised-process-theories">Generalised Probabilistic Theories Part 2</td>
-    <td>TBA</td>
+    <td><a href="https://scholar.google.com/citations?user=Zyp4QCAAAAAJ&amp;hl=en">David Schmid</a></td>
   </tr>
   <tr>
     <td>12:00 - 12:30</td>
