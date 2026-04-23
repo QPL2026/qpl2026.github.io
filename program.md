@@ -130,8 +130,8 @@ Below you can find a preliminary version of the schedule of the conference.
 </tr>
 <tr>
   <td>16:40 – 17:05</td>
-  <td>Coffee Break<br>16:10 – 16:40</td>
-  <td class="parallel-session">Parallel Session<br>16:40 – 17:05</td>
+  <td>Coffee Break</td>
+  <td class="parallel-session">Parallel Sessions<br>16:15 – 17:05</td>
 </tr>
 <tr>
   <td>17:05 – 17:30</td>
