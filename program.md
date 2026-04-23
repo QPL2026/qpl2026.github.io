@@ -120,7 +120,7 @@ Below you can find a preliminary version of the schedule of the conference.
   <td>15:45 – 16:15</td>
   <td colspan="3">Coffee Break</td>
   <td rowspan="2" class="parallel-session">Parallel Session<br>15:45 – 16:10</td>
-  <td rowspan="2" class="parallel-session">Parallel Session<br>15:45 – 16:10</td>
+  <td rowspan="2">Coffee Break<br>16:10 – 16:40</td>
 </tr>
 <tr>
   <td>16:15 – 16:40</td>
@@ -131,7 +131,7 @@ Below you can find a preliminary version of the schedule of the conference.
 <tr>
   <td>16:40 – 17:05</td>
   <td>Coffee Break<br>16:10 – 16:40</td>
-  <td>Coffee Break<br>16:10 – 16:40</td>
+  <td class="parallel-session">Parallel Session<br>16:40 – 17:05</td>
 </tr>
 <tr>
   <td>17:05 – 17:30</td>
@@ -140,8 +140,8 @@ Below you can find a preliminary version of the schedule of the conference.
 </tr>
 <tr>
   <td></td>
-  <td style="background-color: #f7c98b">Poster Session<br> 17:30 – 19:30 </td>
   <td class="empty-cell"></td>
-  <td>Conference Dinner</td>
+  <td style="background-color: #f7c98b">Poster Session<br> 17:30 – 19:30 </td>
+  <td>Conference Dinner </td>
 </tr>
 </table>
