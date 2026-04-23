@@ -1,8 +1,8 @@
 ---
-title: QPL 2026
- feature_image: "images/amsterdam.jpg"
- feature_text: |
-   ## Quantum Physics and Logic 2026
+# title: QPL 2026
+# feature_image: "images/amsterdam.jpg"
+# feature_text: |
+#   ## Quantum Physics and Logic 2026
 ---
 
 <!-- ![Varna](images/varna.jpeg "Varna, Bulgaria") -->
