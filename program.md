@@ -119,7 +119,7 @@ Below you can find a preliminary version of the schedule of the conference.
 <tr>
   <td>15:45 – 16:15</td>
   <td colspan="3">Coffee Break</td>
-  <td rowspan="2">Coffee Break</td>
+  <td rowspan="1">Coffee Break</td>
 </tr>
 <tr>
   <td>16:15 – 16:40</td>
