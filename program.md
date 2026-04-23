@@ -134,7 +134,7 @@ Below you can find a preliminary version of the schedule of the conference.
 </tr>
 <tr>
   <td>17:05 – 17:30</td>
-  <td class="empty-cell"></td>
+  <td>Boat Tour</td>
   <td rowspan="2">TBA</td>
   <td rowspan="2">Goodbye!</td>
 </tr>
