@@ -43,7 +43,7 @@ permalink: /program/
 </style>
 
 
-Below you can find a preliminary version of the schedule of the conference.
+Below you can find a preliminary version of the schedule of the conference. 
 
 
 <table class="program-table">
@@ -139,8 +139,8 @@ Below you can find a preliminary version of the schedule of the conference.
   <td rowspan="2">Goodbye!</td>
 </tr>
 <tr>
-  <td>17:30 – 19:30</td>
-  <td style="background-color: #f7c98b">Poster session</td>
+  <td></td>
+  <td style="background-color: #f7c98b">Poster Session<br> 17:30 – 19:30 </td>
   <td class="empty-cell"></td>
   <td>Conference Dinner</td>
 </tr>
