@@ -126,7 +126,7 @@ Below you can find a preliminary version of the schedule of the conference.
   <td>16:15 – 16:40</td>
   <td rowspan="3" class="parallel-session">Parallel Sessions</td>
   <td rowspan="3" class="parallel-session">Parallel Sessions</td>
-  <td rowspan="3" class="parallel-session">Parallel Sessions</td>
+  <td rowspan="2" class="parallel-session">Parallel Sessions<br>16:15 – 17:05</td>
 </tr>
 <tr>
   <td>16:40 – 17:05</td>
@@ -135,6 +135,7 @@ Below you can find a preliminary version of the schedule of the conference.
 </tr>
 <tr>
   <td>17:05 – 17:30</td>
+  <td class="empty-cell"></td>
   <td rowspan="2">TBA</td>
   <td rowspan="2">Goodbye!</td>
 </tr>
