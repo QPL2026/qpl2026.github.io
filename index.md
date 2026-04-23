@@ -34,9 +34,12 @@ also welcome. -->
 * Paper submission deadline: Friday March 6th 2026
 * Notification: April 17th 2026
 <!-- * Camera-ready deadline (revised accepted proceedings manuscripts): 15 June 2025 -->
+* Weekend workshops: August 15 -- August 16
 * Conference: August 17th -- August 21st 2026
 
-All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone](https://www.timeanddate.com/time/zones/aoe). The abstract submission deadline is just for your submission to be in the system so that the Programme Committee has time to divide up the submissions. The submission (whether a talk proposal, proceedings or poster), does not have to be finalised until the paper submission deadline.
+All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone](https://www.timeanddate.com/time/zones/aoe).
+Notifications have now been sent out. If you haven't received a notification, let the PC chairs know.
+ <!-- The abstract submission deadline is just for your submission to be in the system so that the Programme Committee has time to divide up the submissions. The submission (whether a talk proposal, proceedings or poster), does not have to be finalised until the paper submission deadline. -->
 
 
 ### Submissions
@@ -68,7 +71,9 @@ You can submit at this [HotCRP server](https://hotcrp.science.uva.nl/qpl2026/).
 
 ### Registration
 
-To open later.
+To open soon.
+
+This year, QPL will be preceded by a weekend workshop consisting of tutorials on some of the main specialised topics of the conference. You can find more details [here](/tutorial). There is limited availability for these tutorials, preference will be given to registrations from junior attendees and early registrations.
 <!-- Registration is now closed. Please see [here](/registration/) for further information regarding registrations. -->
 
 <!-- ### Presentations

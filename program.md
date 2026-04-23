@@ -42,6 +42,10 @@ permalink: /program/
   }
 </style>
 
+
+Below you can find a preliminary version of the schedule of the conference.
+
+
 <table class="program-table">
 <colgroup>
 <col width="15%" />
