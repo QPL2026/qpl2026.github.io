@@ -126,11 +126,11 @@ Below you can find a preliminary version of the schedule of the conference.
   <td rowspan="3" class="parallel-session">Parallel Sessions</td>
   <td rowspan="3" class="parallel-session">Parallel Sessions</td>
   <td rowspan="2" class="parallel-session">Parallel Sessions<br>16:15 – 17:05</td>
+  <td rowspan="2" class="parallel-session">Parallel Sessions<br>16:15 – 17:05</td>
 </tr>
 <tr>
   <td>16:40 – 17:05</td>
   <td>Coffee Break</td>
-  <td class="parallel-session">Parallel Sessions<br>16:15 – 17:05</td>
 </tr>
 <tr>
   <td>17:05 – 17:30</td>
