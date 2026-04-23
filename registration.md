@@ -2,66 +2,38 @@
 title: Registration
 ---
 
-Registration for QPL 2026 is not yet opened. More information will follow later.
+Registration for QPL 2026 is now opened: [registration form](https://www.aanmelder.nl/174107/registration).
 
-<!-- 
+| Registration Type             | Price | Note                          |
+|-------------------------------|-------|-------------------------------|
+| Early, regular                | €280  | Available until June 30th     |
+| Early, student                | €180  | Available until June 30th     |
+| Late, regular                 | €360  | Starting July 1st             |
+| Late, student                 | €260  | Starting July 1st             |
+| Weekend workshop              | €30   | Add-on, limited availability  |
+| Conference dinner + boat tour | €100  | Add-on                        |
+
+
 ### Useful Information
 
 **Conference Duration**  
-The conference will start in the morning of 14 July 2025 and end in the late afternoon of 18 July 2025. 
+See [Program](/program) for a detailed schedule. 
+The conference will start in the morning of August 17 and end in the late afternoon of August 21. 
+The [weekend workshop](/tutorial) takes place the weekend before, on August 15--16.
+
+**Weekend workshop**   
+Before the conference starts on Monday, we offer the opportunity to join the weekend workshop which includes several tutorials on some of the core topics of QPL. This is a good opportunity for junior researchers and first-time QPL attendees to prepare themselves for a week full of research  talks and to meet fellow attendees. In order to preserve an informal atmosphere, we will limit the number of people that can attend. We have made a first batch of places available. After that runs out you can contact the organiser to express your interest. We will then see how many more places we will make available.
 
 **Poster Session**  
-We preview one or two poster sessions to take place on Monday, 14 July, and/or Tuesday, 15 July, in the early evening. 
+The poster session takes place in the evening of Tuesday August 18. In case there are many posters to be presented, we might organise a second session.
 
-**Conference Dinner**  
-An official Conference Dinner is organised for the evening of Thursday, 17 July, at the [restaurant Veranda, Club Horizont](https://www.horizont.bg/en/veranda-2/). 
-- The price of the dinner is 50 EUR, which will be included as part of the registration fee if a dinner is selected. The dinner is optional but highly recommended as a relaxed and enjoyable opportunity to continue discussions and connect with fellow attendees.  
-- When registering for the conference, you will be able to indicate your attendance and dietary preferences.  
-- If you would like to bring a guest to the dinner, such as a family member travelling with you, please note that you need to make two separate payments – one for yourself and one for the guests. The number of guests that can be paid through the system is limited to 3. In case you need to bring more guests, please contact the organisers. Note that separate dishes could also be purchased at the restaurant.
-
-**Museum Tour and Jazz Concert**  
-We are exploring the possibility of organizing a guided tour of the Archeological Museum of Varna, which features the oldest gold treasure in the world (4600 - 4200 BC) discovered in the Varna Necropolis, as well as a jazz concert by Bulgarian musician Hristo Yotsov later in the evening in the yard of the museum. More details will follow soon. Please indicate your interest in these optional events in the registration form so we can plan accordingly. NOTE: These events will not require additional payment.
+**Conference Dinner and boat tour**  
+The Conference Dinner takes place on Wednesday August 19, at the [Tolhuistuin](https://tolhuistuin.nl/) across the river from the central station. The conference dinner is an additional add-on you can select when registering. The price includes the following:
+* A boat tour through the canals of Amsterdam and across the river, that will bring us from the conference venue to the restaurant.
+* The dinner itself. Instead of a regular conference dinner where you have a fixed seat the entire evening, this will be mostly with standing tables and more smaller courses like tapas. Sitting tables are available for those that prefer that or have mobility issues. 
+* Tokens for 3 drinks. Any additional ones will have to be paid individually.
 
 
 ### Registration
 
-**Registration Fees**  
-Student, with dinner: 100 EUR  
-Student, without dinner: 50 EUR  
-Non-student, with dinner: 130 EUR  
-Non-student, without dinner: 80 EUR  
-Dinner price for one guest: 50 EUR  
-
-
-Registration requires TWO STEPS:
-
-1. Complete the ~~Google Form~~. Now closed.
-2. Make a payment of the corresponding total amount for yourself (participant), and a separate payment for the guests you will be bringing to the dinner, in one of two ways: 
-  - By bank card, following the corresponding link (**please make sure to indicate during the process if you would like to receive an invoice after the payment**):
-    
-    <a href="https://register.event.ulb.be/events/QPL2025-st/" target="_blank"> Student Full Registration (with Conference Dinner) – Participant only </a> (100 EUR) 
-
-    <a href="https://register.event.ulb.be/events/QPL2025-swcd/" target="_blank"> Student without Conference Dinner – Participant only </a> (50 EUR)
-
-    <a href="https://register.event.ulb.be/events/QPL2025-ns/" target="_blank"> Non-Student Full Registration (with Conference Dinner) – Participant only </a> (130 EUR)
-
-    <a href="https://register.event.ulb.be/events/QPL2025-nswcd/" target="_blank"> Non-Student without Conference Dinner – Participant only </a> (80 EUR) 
-
-    <a href="https://register.event.ulb.be/events/QPL2025-1G/" target="_blank"> One guest to the Conference Dinner </a> (50 EUR)
-
-    <a href="https://register.event.ulb.be/events/QPL2025-2G/" target="_blank"> Two guests to the Conference Dinner </a> (100 EUR)
-
-    <a href="https://register.event.ulb.be/events/QPL2025-3G/" target="_blank"> Three guests to the Conference Dinner </a> (150 EUR)
-
-  - By bank transfer to the following ULB account:  
-  &nbsp; &nbsp; IBAN: ​​BE62 0689 3186 3061  
-  &nbsp; &nbsp; BIC/SWIFT: GKCCBEBB  
-  You must use the following reference for the payment for the participant:  
-  &nbsp; &nbsp; QPL2025 4R00H000260 Name of Participant.  
-  You must use the following reference for the payment for guests of the participant (if any):  
-  &nbsp; &nbsp; QPL2025 4R00H000260 Guests Name of Participant
-
-You should receive a confirmation of your payment and registration after the payment has been received and verified. This can take around 10 days. Please contact the organisers if you have not received a confirmation within 10 days. 
-
-REGISTRATION CLOSES ON 15 JUNE 2025 Anywhere on Earth (AoE). 
- -->
+You can register by going to [this form](https://www.aanmelder.nl/174107/registration).
