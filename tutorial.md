@@ -155,6 +155,17 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
       and in more foundational questions such as the certification and simulation of
       indefinite causal order.
     </p>
+    <p>
+      <strong>Abstract.</strong> This tutorial will provide an overview of indefinite causal order in
+      quantum information theory, from the perspective of higher-order quantum operations.
+      We examine the structural aspects of the framework, showing how transformations of
+      quantum channels can go beyond the quantum circuit model by describing computations
+      without a fixed causal order. We discuss which computational tasks can benefit from
+      this feature, as well as the resources required to simulate such advantages within
+      standard quantum circuits. Finally, we turn to a more operational perspective,
+      outlining how these transformations can generate correlations that violate causal
+      inequalities.
+    </p>
   </details>
 </div>
 
