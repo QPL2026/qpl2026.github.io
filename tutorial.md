@@ -43,6 +43,27 @@ permalink: /tutorial/
   .tutorial-table td.causality {
     background-color: #f7c98b;
   }
+
+  .speaker-bios {
+    margin: 1.5rem 0;
+  }
+
+  .speaker-bios details {
+    margin-top: 0.75rem;
+    padding: 0.9rem 1rem;
+    border: 1px solid #d9d9d9;
+    border-radius: 0.75rem;
+    background-color: #fafafa;
+  }
+
+  .speaker-bios summary {
+    cursor: pointer;
+    font-weight: 700;
+  }
+
+  .speaker-bios p {
+    margin: 0.85rem 0 0;
+  }
 </style>
 
 This year, QPL will be preceded by a weekend workshop consisting of tutorials on some of the main specialised topics of the conference. This is to give, especially junior attendees and those for whom this is their first QPL, a chance to learn some more background on these important topics so that they can better follow the research-level talks in the main conference.
@@ -113,6 +134,29 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
   </tr>
 </table>
 <br />
+
+## Speaker Bios
+
+<div class="speaker-bios">
+  <details>
+    <summary>Jessica Bavaresco</summary>
+    <p>
+      Jessica Bavaresco is a research faculty member at the computer science institute
+      LIP6 of Sorbonne University and CNRS, in Paris, where she has led a group working
+      on higher-order quantum computing and quantum foundations since 2025. She obtained
+      a PhD in Physics from the University of Vienna in 2021, following an internship
+      at the University of Tokyo, and subsequently held postdoctoral positions at IQOQI
+      Vienna and at the University of Geneva, where she was awarded an SNSF Swiss
+      Postdoctoral Fellowship. Her work on quantum correlations, which started with
+      topics such as joint measurability, Bell nonlocality, and entanglement theory,
+      currently focuses on quantum correlations in networks and in signaling scenarios.
+      In higher-order quantum computing, her interests are in applications of this
+      formalism to tasks such as channel discrimination, metrology, and purification,
+      and in more foundational questions such as the certification and simulation of
+      indefinite causal order.
+    </p>
+  </details>
+</div>
 
 The schedule contains a number of slots for lightning talks. These are 5-minute informal talks where you can introduce yourself and your research. We will ask for contributed lightning talks of the workshop attendees closer to the date of the conference.
 
