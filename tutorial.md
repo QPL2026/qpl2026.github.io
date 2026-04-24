@@ -139,7 +139,7 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
 
 <div class="speaker-bios">
   <details>
-    <summary>Jessica Bavaresco</summary>
+    <summary>Causality</summary>
     <p>
       Jessica Bavaresco is a research faculty member at the computer science institute
       LIP6 of Sorbonne University and CNRS, in Paris, where she has led a group working
