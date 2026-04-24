@@ -139,6 +139,13 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
 
 <div class="speaker-bios">
   <details>
+  <summary>Generalised Probabilistic Theories</summary>
+    <p>
+      David Schmid is a postdoc at the Perimeter Institute for Theoretical Physics. He obtained his PhD in Quantum Information from the University of Waterloo in 2021. His work focuses on formalizing the sense(s) in which quantum theory is genuinely nonclassical. A central focus of this research is on generalized noncontextuality, which serves as our most well-motivated and useful benchmark for classical explainability. Another key instance of nonclassicality are nonclassical correlations in Bell scenarios, and David uses resource theories to better understand different types of correlations. He also studies generalized probabilistic theories as a way to better understand the structure of scientific theories, and to understand quantum theory from the outside. A final important focus is the study of metaphysical no-go theorems such as Extended Wigner's Friend arguments.
+    </p>
+    <p>
+      <strong>Abstract.</strong> This tutorial will provide an introduction to generalized probabilistic theories—a framework for possible theories of the world, described at the level of the operational predictions they make for experiments. This framework allows us to better understand which features of quantum theory are unique, and which are generic features of any theory of the world. It also gives us tools to re-axiomatize quantum theory using axioms that are more physical and less abstract than the usual axioms, as well as tools for analyzing experiments without assuming the correctness of quantum theory and without assuming prior characterization of one's laboratory devices. Finally, it provides a powerful framework for benchmarking nonclassicality in various observed phenomena. We will see simple examples of all of these uses in this tutorial.
+    </p>
     <summary>Causality</summary>
     <p>
       Jessica Bavaresco is a research faculty member at the computer science institute
