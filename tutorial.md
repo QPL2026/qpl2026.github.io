@@ -87,7 +87,7 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
   <tr>
     <td>10:00 - 10:50</td>
     <td class="category-theory">Category Theory Part 1</td>
-    <td>TBA</td>
+    <td><a href="https://www.priyaa.org/">Priyaa Varshinee Srinivasan</a></td>
     <td class="generalised-process-theories">Generalised Probabilistic Theories Part 1</td>
     <td><a href="https://scholar.google.com/citations?user=Zyp4QCAAAAAJ&amp;hl=en">David Schmid</a></td>
   </tr>
@@ -98,7 +98,7 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
   <tr>
     <td>11:10 - 12:00</td>
     <td class="category-theory">Category Theory Part 2</td>
-    <td>TBA</td>
+    <td><a href="https://www.priyaa.org/">Priyaa Varshinee Srinivasan</a></td>
     <td class="generalised-process-theories">Generalised Probabilistic Theories Part 2</td>
     <td><a href="https://scholar.google.com/citations?user=Zyp4QCAAAAAJ&amp;hl=en">David Schmid</a></td>
   </tr>
