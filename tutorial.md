@@ -148,15 +148,11 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
     </p>
     <p>
       <strong>Abstract.</strong> This tutorial will introduce the ZX-calculus from first principles, showing how quantum computations can be represented and reasoned about using ZX diagrams. We will also cover related graphical calculi such as ZH-, ZW- and scalable ZX-calculus. From there, the content is tailored to prepare you for the talks of this year’s QPL program, overviewing the fundamentals of using ZX-calculus for:
-    </p>
-    <ul>
-      <li>Measurement-based quantum computing</li>
-      <li>Quantum error correction</li>
-      <li>Qudits and mixed-dimensional quantum information</li>
-      <li>Photonic/bosonic quantum computing: discrete- and continuous-variable</li>
-    </ul>
-    <p>
-      Both sessions are designed to be accessible to newcomers while offering refreshing insights for more experienced participants. By the end of this tutorial, you will have an understanding of both the formal underpinnings and practical utility of the ZX-calculus, and a structured entry point into diagrammatic reasoning techniques that are increasingly central to modern quantum computing research in academia and industry.
+      <br />&bull; Measurement-based quantum computing
+      <br />&bull; Quantum error correction
+      <br />&bull; Qudits and mixed-dimensional quantum information
+      <br />&bull; Photonic/bosonic quantum computing: discrete- and continuous-variable
+      <br />Both sessions are designed to be accessible to newcomers while offering refreshing insights for more experienced participants. By the end of this tutorial, you will have an understanding of both the formal underpinnings and practical utility of the ZX-calculus, and a structured entry point into diagrammatic reasoning techniques that are increasingly central to modern quantum computing research in academia and industry.
     </p>
   </details>
   <details>
