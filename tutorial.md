@@ -138,6 +138,23 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
 ## Speaker Bios and Tutorial Abstracts
 
 <div class="speaker-bios">
+<details>
+    <summary>: Razin A. Shaikh \& Lia Yeh: ZX Calculus</summary>
+    <p>
+      <strong>Bio.</strong> Lia Yeh is Dowling Fellow Research Associate in the Department of Computer Science and Technology at the University of Cambridge, investigating the intersection of quantum computer architectures, quantum error correction, and quantum algorithms. She completed her PhD in Computer Science at the University of Oxford on the Clarendon Scholarship and the Google PhD Fellowship, during which she worked as a Research Scientist at Quantinuum. Her research objective is to address each layer of the quantum computing stack, from hardware systems to applications, through co-designing with quantum graphical languages, particularly the ZX-calculus. She is especially interested in constructions for fault-tolerant gate sets, quantum error correcting codes, dynamical quantum programs, and fermionic, bosonic, and higher-dimensional quantum systems. She is also active in quantum education: teaching high school students and educators, open-source software and hackathons, co-founding the Quantum Science and Engineering Education Conference, and establishing the not-for-profit Quantum Universal Education.
+    </p>
+    <p>
+      <strong>Bio.</strong> Razin Shaikh is an R&D Scientist at Quantinuum and a PhD student in Computer Science at the University of Oxford, where he was awarded the Clarendon Scholarship. His research focuses on graphical languages for quantum computation, especially the ZX calculus and its generalisations. His work combines foundational and applied aspects of diagrammatic reasoning, including completeness results for finite-dimensional ZX calculi, graphical calculi for continuous-variable quantum systems, and applications in quantum chemistry and condensed matter physics. He also develops graphical methods for GKP codes and fault-tolerant quantum computation. In conjunction with his research, he is a core developer and maintainer of ZXLive and PyZX, open-source tools for creating, manipulating, and reasoning with ZX diagrams.
+    </p>
+    <p>
+      <strong>Abstract.</strong> This tutorial will introduce the ZX-calculus from first principles, showing how quantum computations can be represented and reasoned about using ZX diagrams. We will also cover related graphical calculi such as ZH-, ZW- and scalable ZX-calculus. From there, the content is tailored to prepare you for the talks of this year’s QPL program, overviewing the fundamentals of using ZX-calculus for:
+Measurement-based quantum computing
+Quantum error correction
+Qudits and mixed-dimensional quantum information
+Photonic/bosonic quantum computing: discrete- and continuous-variable
+Both sessions are designed to be accessible to newcomers while offering refreshing insights for more experienced participants.  By the end of this tutorial, you will have an understanding of both the formal underpinnings and practical utility of the ZX-calculus, and a structured entry point into diagrammatic reasoning techniques that are increasingly central to modern quantum computing research in academia and industry.
+    </p>
+  </details>
   <details>
     <summary>David Schmid: Generalised Probabilistic Theories</summary>
     <p>
