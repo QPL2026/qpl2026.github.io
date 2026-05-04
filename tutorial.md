@@ -1,3 +1,4 @@
+<<<<<<< ours
 ---
 title: Tutorials
 permalink: /tutorial/
@@ -139,7 +140,7 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
 
 <div class="speaker-bios">
 <details>
-    <summary>: Razin A. Shaikh \& Lia Yeh: ZX Calculus</summary>
+    <summary>Razin A. Shaikh & Lia Yeh: ZX Calculus</summary>
     <p>
       <strong>Bio.</strong> Lia Yeh is Dowling Fellow Research Associate in the Department of Computer Science and Technology at the University of Cambridge, investigating the intersection of quantum computer architectures, quantum error correction, and quantum algorithms. She completed her PhD in Computer Science at the University of Oxford on the Clarendon Scholarship and the Google PhD Fellowship, during which she worked as a Research Scientist at Quantinuum. Her research objective is to address each layer of the quantum computing stack, from hardware systems to applications, through co-designing with quantum graphical languages, particularly the ZX-calculus. She is especially interested in constructions for fault-tolerant gate sets, quantum error correcting codes, dynamical quantum programs, and fermionic, bosonic, and higher-dimensional quantum systems. She is also active in quantum education: teaching high school students and educators, open-source software and hackathons, co-founding the Quantum Science and Engineering Education Conference, and establishing the not-for-profit Quantum Universal Education.
     </p>
@@ -223,3 +224,9 @@ There is limited availability for attending these tutorials, preference will be 
 Location: Amsterdam University Library UvA, [Vendelstraat 2-8, 1012 XX Amsterdam](https://www.google.com/maps/place/Amsterdam+University+Library/@51.9905877,5.9003475,14z/data=!3m1!4b1!4m6!3m5!1s0x47c609c1e91a2a27:0x36216e405eeb19c2!8m2!3d52.3686498!4d4.8951113!16s%2Fm%2F0n50g7t?entry=ttu&g_ep=EgoyMDI2MDQyMC4wIKXMDSoASAFQAw%3D%3D).
 
 Room: Surgical Theatre (A1.01), First floor of the A-wing
+=======
+- Measurement-based quantum computing
+- Quantum error correction
+- Qudits and mixed-dimensional quantum information
+- Photonic/bosonic quantum computing: discrete- and continuous-variable
+>>>>>>> theirs
