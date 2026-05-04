@@ -1,4 +1,3 @@
-<<<<<<< ours
 ---
 title: Tutorials
 permalink: /tutorial/
@@ -149,11 +148,15 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
     </p>
     <p>
       <strong>Abstract.</strong> This tutorial will introduce the ZX-calculus from first principles, showing how quantum computations can be represented and reasoned about using ZX diagrams. We will also cover related graphical calculi such as ZH-, ZW- and scalable ZX-calculus. From there, the content is tailored to prepare you for the talks of this year’s QPL program, overviewing the fundamentals of using ZX-calculus for:
-Measurement-based quantum computing
-Quantum error correction
-Qudits and mixed-dimensional quantum information
-Photonic/bosonic quantum computing: discrete- and continuous-variable
-Both sessions are designed to be accessible to newcomers while offering refreshing insights for more experienced participants.  By the end of this tutorial, you will have an understanding of both the formal underpinnings and practical utility of the ZX-calculus, and a structured entry point into diagrammatic reasoning techniques that are increasingly central to modern quantum computing research in academia and industry.
+    </p>
+    <ul>
+      <li>Measurement-based quantum computing</li>
+      <li>Quantum error correction</li>
+      <li>Qudits and mixed-dimensional quantum information</li>
+      <li>Photonic/bosonic quantum computing: discrete- and continuous-variable</li>
+    </ul>
+    <p>
+      Both sessions are designed to be accessible to newcomers while offering refreshing insights for more experienced participants. By the end of this tutorial, you will have an understanding of both the formal underpinnings and practical utility of the ZX-calculus, and a structured entry point into diagrammatic reasoning techniques that are increasingly central to modern quantum computing research in academia and industry.
     </p>
   </details>
   <details>
@@ -224,9 +227,3 @@ There is limited availability for attending these tutorials, preference will be 
 Location: Amsterdam University Library UvA, [Vendelstraat 2-8, 1012 XX Amsterdam](https://www.google.com/maps/place/Amsterdam+University+Library/@51.9905877,5.9003475,14z/data=!3m1!4b1!4m6!3m5!1s0x47c609c1e91a2a27:0x36216e405eeb19c2!8m2!3d52.3686498!4d4.8951113!16s%2Fm%2F0n50g7t?entry=ttu&g_ep=EgoyMDI2MDQyMC4wIKXMDSoASAFQAw%3D%3D).
 
 Room: Surgical Theatre (A1.01), First floor of the A-wing
-=======
-- Measurement-based quantum computing
-- Quantum error correction
-- Qudits and mixed-dimensional quantum information
-- Photonic/bosonic quantum computing: discrete- and continuous-variable
->>>>>>> theirs
