@@ -107,12 +107,27 @@ For inquiries related to the submission and review process, please write to the 
 ### Sponsors
 
 <a href="https://www.quantumsc.nl/" style="background-image: none; background-size: 0;">
-<img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/QSC logo final.svg" alt="Quantum Software Consortium">
+<img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/QSC logo final.svg" alt="Quantum Software Consortium">
 </a>
 
 <a href="https://quantumdelta.nl/" style="background-image: none; background-size: 0;">
-<img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/qdnl-logo.svg" alt="Quantum Delta NL">
+<img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/qdnl-logo.svg" alt="Quantum Delta NL">
 </a>
+
+<a href="https://spooqy.ai/" style="background-image: none; background-size: 0;">
+<img style="vertical-align: middle; max-width: 300px; width: 100%; height: auto" src="images/spooqy-logo-light.png" alt="Spooqy logo">
+</a>
+
+<!--In case we want something that is dark mode aware
+ <div>
+<a href="https://spooqy.ai/" style="background-image: none; background-size: 0;">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="images/spooqy-logo-dark.png">
+<source media="(prefers-color-scheme: light)" srcset="images/spooqy-logo-light.png">
+<img src="images/spooqy-logo-light.png" alt="Spooqy logo" style="vertical-align: middle; max-width: 300px; width: 100%; height: auto">
+</picture>
+</a>
+</div> -->
 
 <!--
 ### Organisational Support and Funding
