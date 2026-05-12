@@ -59,7 +59,7 @@ You can submit at this [HotCRP server](https://hotcrp.science.uva.nl/qpl2026/).
 
 ### Registration
 
-To open soon.
+Registration is now [open](/registration).
 
 This year, QPL will be preceded by a weekend workshop consisting of tutorials on some of the main specialised topics of the conference. You can find more details [here](/tutorial). There is limited availability for these tutorials, preference will be given to registrations from junior attendees and early registrations.
 <!-- Registration is now closed. Please see [here](/registration/) for further information regarding registrations. -->
@@ -81,9 +81,8 @@ Please see [here](/local_info/#poster-instructions) for guidance on preparing po
 ### Conference Proceedings
 
 Conference proceedings will be published 
-<!-- in [Electronic Proceedings in Theoretical Computer Science (EPTCS)](https://about.eptcs.org/)  -->
-after the
-conference. When preparing the final version for publication, authors of
+in [Electronic Proceedings in Theoretical Computer Science (EPTCS)](https://about.eptcs.org/) 
+after the conference. When preparing the final version for publication, authors of
 accepted proceedings submissions are allowed to use up to three extra pages
 (i.e. up to 15 pages excluding bibliography) to address reviewer concerns and
 suggestions under the proviso that they do not introduce new results.
