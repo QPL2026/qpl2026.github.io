@@ -110,7 +110,7 @@ For inquiries related to the submission and review process, please write to the 
 </a>
 
 <a href="https://qdnl.nl/" style="background-image: none; background-size: 0;">
-<img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/qdnl-logo.svg" alt="QDNL">
+<img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/qdnl-logo.svg" alt="QDNL">
 </a>
 
 <a href="https://spooqy.ai/" style="background-image: none; background-size: 0;">
