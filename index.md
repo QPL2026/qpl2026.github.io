@@ -109,8 +109,8 @@ For inquiries related to the submission and review process, please write to the 
 <img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/QSC logo final.svg" alt="Quantum Software Consortium">
 </a>
 
-<a href="https://quantumdelta.nl/" style="background-image: none; background-size: 0;">
-<img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/qdnl-logo.svg" alt="Quantum Delta NL">
+<a href="https://qdnl.nl/" style="background-image: none; background-size: 0;">
+<img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/qdnl-logo.svg" alt="QDNL">
 </a>
 
 <a href="https://spooqy.ai/" style="background-image: none; background-size: 0;">
