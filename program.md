@@ -41,6 +41,16 @@ permalink: /program/
     background-color: #f6e58d;
   }
 
+  .program-table a {
+    color: #0b1f3a;
+    text-decoration: underline;
+  }
+
+  .program-table a:hover,
+  .program-table a:focus {
+    color: #000;
+  }
+
   .talk-details {
     margin: 1.5rem 0;
   }
@@ -174,23 +184,23 @@ Below you can find a preliminary version of the schedule of the conference.
 <div class="talk-details">
   <details>
     <summary>Monday Long Plenary Talks</summary>
-    <p>
-      <strong>9:30 - 10:15 </strong>Equivalence of continuous- and discrete-variable gate-based quantum computers
-    </p>
-    <p>
-      <strong>Abstract.</strong> We examine the ability of gate-based continuous-variable quantum computers to outperform qubit or discrete-variable quantum computers. Gate-based continuous-variable operations refer to operations constructed using a polynomial sequence of elementary gates from a specific finite set, i.e., those selected from the set of Gaussian operations and cubic phase gates. Our results show that for a fixed energy of the system, there is no superpolynomial computational advantage in using gate-based continuous-variable quantum computers over discrete-variable ones. The proof of this result consists of defining a framework - of independent interest - that maps quantum circuits between the paradigms of continuous- to discrete-variables. This framework allows us to conclude that a realistic gate-based model of continuous-variable quantum computers, consisting of states and operations that have a total energy that is polynomial in the number of modes, can be simulated efficiently using discrete-variable devices. We utilize the stabilizer subsystem decomposition [Shaw et al., PRX Quantum 5, 010331] to map continuous-variable states to discrete-variable counterparts, which allows us to find the error of approximating continuous-variable quantum computers with discrete-variable ones in terms of the energy of the continuous-variable system and the dimension of the corresponding encoding qudits.
-    </p>
-    <p>
-      <strong>Joint-Work With.</strong> Alex Maltesson, Ludvig Rodung, Niklas Budinger, Giulia Ferrini, Cameron Calcluth
-    </p>
+    <details>
+      <summary><strong>9:30 - 10:15 </strong><a href="https://arxiv.org/pdf/2510.08546">Equivalence of continuous- and discrete-variable gate-based quantum computers</a></summary>
+      <p>
+        <strong>Abstract.</strong> We examine the ability of gate-based continuous-variable quantum computers to outperform qubit or discrete-variable quantum computers. Gate-based continuous-variable operations refer to operations constructed using a polynomial sequence of elementary gates from a specific finite set, i.e., those selected from the set of Gaussian operations and cubic phase gates. Our results show that for a fixed energy of the system, there is no superpolynomial computational advantage in using gate-based continuous-variable quantum computers over discrete-variable ones. The proof of this result consists of defining a framework - of independent interest - that maps quantum circuits between the paradigms of continuous- to discrete-variables. This framework allows us to conclude that a realistic gate-based model of continuous-variable quantum computers, consisting of states and operations that have a total energy that is polynomial in the number of modes, can be simulated efficiently using discrete-variable devices. We utilize the stabilizer subsystem decomposition [Shaw et al., PRX Quantum 5, 010331] to map continuous-variable states to discrete-variable counterparts, which allows us to find the error of approximating continuous-variable quantum computers with discrete-variable ones in terms of the energy of the continuous-variable system and the dimension of the corresponding encoding qudits.
+      </p>
+      <p>
+        <strong>Joint-Work With.</strong> Alex Maltesson, Ludvig Rodung, Niklas Budinger, Giulia Ferrini, Cameron Calcluth
+      </p>
+    </details>
+    <details>
+      <summary><strong>11:30 - 12:20 </strong>Efficient quantum-circuit simulation of classical control of causal order</summary>
+      <p>
+        <strong>Abstract.</strong>
+      </p>
+    </details>
   </details>
   <details>
-    <summary>Monday Long Plenary Talks</summary>
-    <p>
-      <strong>11:30 - 12:20 </strong>Efficient quantum-circuit simulation of classical control of causal order
-    </p>
-    <p>
-      <strong>Abstract.</strong>
-    </p>
+    <summary>Monday Short Plenary Talks</summary>
   </details>
 </div>
