@@ -215,7 +215,7 @@ Below you can find a preliminary version of the schedule of the conference.
       </p>
     </details>
     <details>
-      <summary><strong>11:55 - 12:20 </strong><a href="https://arxiv.org/pdf/2605.13993" target="_blank" rel="noopener">Graphical algebraic geometry: from ideals and varieties to quantum calculi</a></summary>
+      <summary><strong>11:55 - 12:20 </strong><a href="https://arxiv.org/pdf/2605.13993" target="_blank" rel="noopener">Graphical algebraic geometry: From ideals and varieties to quantum calculi</a></summary>
       <p>
         <strong>Abstract.</strong> We introduce Graphical Algebraic Geometry (GAG), a family of diagrammatic languages extending the Graphical Linear Algebra programme. We construct several languages within this family and prove that they are universal and complete for the corresponding (co)span semantics of commutative algebras and affine varieties. This framework provides clear graphical representations of algebraic structures -- such as polynomials, ideals, and varieties -- enabling intuitive yet rigorous diagrammatic reasoning. We showcase two practical viewpoints on GAG. First, we show that instances of counting constraint satisfaction problem (#CSP) are recast as rewrite problems of closed diagrams in GAG. This means that deciding rewritability in GAG is #P-hard, and GAG can be viewed as a complete and compositional rewrite system for networks of polynomial constraints. Second, we characterize the qudit ZH calculus, a diagrammatic language for quantum computation, as an extension of Graphical Algebraic Geometry. This establishes the correspondence that Graphical Algebraic Geometry is to the ZH calculus what Graphical Linear Algebra is to the ZX calculus. Using this construction, we show that computing amplitudes in qudit ZH requires only a constant number of queries to a GAG oracle.
       </p>
@@ -342,7 +342,7 @@ Below you can find a preliminary version of the schedule of the conference.
   <details id="friday-long-plenary-talks">
     <summary>Friday Long Plenary Talks 9:30 - 11:00</summary>
     <details>
-      <summary><strong>9:30 - 10:15 </strong><a href="https://arxiv.org/pdf/2601.15832" target="_blank" rel="noopener">Quantum Coherence Spaces Revisited: A von Neumann (Co)Algebraic Approach</a></summary>
+      <summary><strong>9:30 - 10:15 </strong><a href="https://arxiv.org/pdf/2601.15832" target="_blank" rel="noopener">Quantum coherence spaces revisited: A von Neumann (co)algebraic approach</a></summary>
       <p>
         <strong>Abstract.</strong> We describe a categorical model of MALL (Multiplicative Additive Linear Logic) inspired by the Heisenberg-Schrödinger duality of finite-dimensional quantum theory. Proofs of formulas with positive logical polarity correspond to CPTP (completely positive trace-preserving) maps in our model, i.e. the quantum operations in the Schrödinger picture, whereas proofs of formulas with negative logical polarity correspond to CPU (completely positive unital) maps, i.e. the quantum operations in the Heisenberg picture. The mathematical development is based on noncommutative geometry and finite-dimensional von Neumann (co)algebras, which can be defined as special kinds of (co)monoid objects internal to the category of finite-dimensional operator spaces.
       </p>
