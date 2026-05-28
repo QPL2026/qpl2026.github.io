@@ -40,6 +40,27 @@ permalink: /program/
   .program-table td.parallel-session {
     background-color: #f6e58d;
   }
+
+  .talk-details {
+    margin: 1.5rem 0;
+  }
+
+  .talk-details details {
+    margin-top: 0.75rem;
+    padding: 0.9rem 1rem;
+    border: 1px solid #d9d9d9;
+    border-radius: 0.75rem;
+    background-color: #fafafa;
+  }
+
+  .talk-details summary {
+    cursor: pointer;
+    font-weight: 700;
+  }
+
+  .talk-details p {
+    margin: 0.85rem 0 0;
+  }
 </style>
 
 
@@ -73,7 +94,7 @@ Below you can find a preliminary version of the schedule of the conference.
 </tr>
 <tr>
   <td>9:30 – 10:15</td>
-  <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
+  <td rowspan="2" style="background-color: #7fcff4"><a href="#monday-long-plenary-talks">Long Plenary Talks</a></td>
   <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
   <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
   <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
@@ -145,3 +166,26 @@ Below you can find a preliminary version of the schedule of the conference.
   <td>Conference Dinner </td>
 </tr>
 </table>
+
+## Monday Long Plenary Talks
+
+<div class="talk-details">
+  <details>
+    <summary>Equivalence of continuous- and discrete-variable gate-based quantum computers</summary>
+    <p>
+      <strong>Coauthors.</strong>
+    </p>
+    <p>
+      <strong>Abstract.</strong>
+    </p>
+  </details>
+  <details>
+    <summary>Efficient quantum-circuit simulation of classical control of causal order</summary>
+    <p>
+      <strong>Coauthors.</strong>
+    </p>
+    <p>
+      <strong>Abstract.</strong>
+    </p>
+  </details>
+</div>
