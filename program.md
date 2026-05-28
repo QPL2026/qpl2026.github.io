@@ -289,7 +289,7 @@ Below you can find a preliminary version of the schedule of the conference.
         <strong>Abstract (Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation).</strong> TBA
       </p>
       <p>
-        <strong>Coauthors.</strong> Miriam Backens
+        <strong>Author.</strong> Miriam Backens
       </p>
     </details>
     <details>
@@ -316,7 +316,7 @@ Below you can find a preliminary version of the schedule of the conference.
       </p>
     </details>
     <details>
-      <summary><strong>10:15 - 11:00 </strong><a href="https://arxiv.org/pdf/2507.10466" target="_blank" rel="noopener">Quantum Control and General Recursion beyond the Unitary Case</a></summary>
+      <summary><strong>10:15 - 11:00 </strong><a href="https://arxiv.org/pdf/2507.10466" target="_blank" rel="noopener">Quantum control and general recursion beyond the unitary case</a></summary>
       <p>
         <strong>Abstract.</strong> Coherent control, aka quantum control, is a central concept in quantum computing that is attracting increasing attention from both the quantum foundations and quantum software communities. Defining coherent control in the presence of recursion and measurement has long been known to be a major challenge. In particular, no-go results have been established for standard semantical domains like completely positive maps. We address this problem by introducing the first quantum programming language with recursion that allows for the coherent control of arbitrary quantum operations. We equip this language with both an operational and a denotational semantics that we prove to be adequate. To design these semantics, we show that combining coherent control, recursion, and measurement crucially requires describing the evolution of subprograms in the absence of input. To address this, the operational semantics takes into account a default evolution branch, while the denotational semantics uses the concept of coherent quantum operation, based on vacuum extensions. We strengthen the validity of our approach by developing an observational equivalence: two programs are equivalent if their probability of termination is the same in any context. The denotational semantics is shown to be fully abstract with respect to this observational equivalence.
       </p>
