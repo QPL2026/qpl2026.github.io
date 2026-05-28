@@ -119,7 +119,7 @@ Below you can find a preliminary version of the schedule of the conference.
 </tr>
 <tr>
   <td>11:30 – 11:55</td>
-  <td rowspan="2" style="background-color: #bfe6cc">Short Plenary Talks</td>
+  <td rowspan="2" style="background-color: #bfe6cc"><a href="#monday-short-plenary-talks">Short Plenary Talks</a></td>
   <td rowspan="2" style="background-color: #bfe6cc">Short Plenary Talks</td>
   <td rowspan="2">Industry Session</td>
   <td style="background-color: #bfe6cc">Short Plenary Talk</td>
@@ -203,7 +203,7 @@ Below you can find a preliminary version of the schedule of the conference.
       </p>
     </details>
   </details>
-  <details>
+  <details id="monday-short-plenary-talks">
     <summary>Monday Short Plenary Talks 11:30 - 12:20</summary>
     <details>
       <summary><strong>11:30 - 11:55 </strong><a href="https://arxiv.org/pdf/2510.20722" target="_blank" rel="noopener">How typical is contextuality?</a></summary>
