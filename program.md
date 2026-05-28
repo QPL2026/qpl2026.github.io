@@ -194,7 +194,7 @@ Below you can find a preliminary version of the schedule of the conference.
       </p>
     </details>
     <details>
-      <summary><strong>10:15 - 11:00 </strong></strong><a href="https://arxiv.org/pdf/2510.08546" target="_blank" rel="noopener">Efficient quantum-circuit simulation of classical control of causal order</a></summary>
+      <summary><strong>10:15 - 11:00 </strong>Efficient quantum-circuit simulation of classical control of causal order</summary>
       <p>
         <strong>Abstract.</strong> TBA
       </p>
