@@ -232,7 +232,9 @@ Below you can find a preliminary version of the schedule of the conference.
         <strong>Abstract (Completeness for fault equivalence of Clifford ZX diagrams).</strong> Two circuits are considered to be equivalent under noise if the effect of faults on one circuit is no worse than the effect of faults on the other circuit. We call this relationship fault equivalence. Fault equivalence offers a way to transform circuits while provably preserving their fault-tolerant properties, enabling a framework for fault-tolerant circuit synthesis and optimisation that is correct by construction. The ZX calculus offers a diagrammatic way to represent and reason about quantum circuits and is a useful tool for manipulating circuits while preserving fault equivalence. For this, the usual set of ZX rewrites has to be restricted to not only preserve the underlying linear map represented by the diagram, but also fault equivalence.<br><br>
         In this work, we provide a set of ZX rewrites that are sound and complete for fault equivalence of Clifford ZX diagrams. This means that any equivalence that can be derived using the proposed rules is certain to be correct, and any correct equivalence can be derived using only these rules. For this, we utilise diagrammatic constructions called fault gadgets to reason about arbitrary, possibly correlated Pauli faults in ZX diagrams. Fault gadgets allow us to separate the diagram into a fault-free part, which captures the noise-free behaviour of a diagram, and a noisy part that enumerates the effects of all possible faults. Using this, we provide a unique normal form for ZX diagrams under noise and show that any diagram can be brought into this normal form using our proposed rule set.
       </p>
+      <p>
       <strong>Joint-Work With.</strong> Maximilian Rüsch, Aleks Kissinger, Benjamin Rodatz
+      </p>
       <p>
         <strong>Abstract (Fault tolerance by construction).</strong> A key challenge in fault-tolerant quantum computing is synthesising and optimising circuits in a noisy environment, as traditional techniques often fail to account for the effect of noise on circuits. In this work, we propose and numerically verify a framework for designing fault-tolerant quantum circuits that are correct by construction. The framework starts with idealised specifications of fault-tolerant gadgets and refines them using provably sound basic transformations.<br><br>
         To reason about manipulating circuits while preserving their error correction properties, we define fault equivalence; two circuits are considered fault-equivalent if all undetectable faults on one circuit have a corresponding fault on the other. This guarantees that the effect of undetectable faults on both circuits is the same. We argue that fault equivalence is a concept that is already implicitly present in the literature. Many problems, such as state preparation and syndrome extraction, can be naturally expressed as finding an implementable circuit that is fault-equivalent to an idealized specification.<br><br>
@@ -278,10 +280,16 @@ Below you can find a preliminary version of the schedule of the conference.
     <details>
       <summary><strong>9:30 - 10:15 </strong>Completeness for flow-preserving rewrite rules / Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation</summary>
       <p>
-        <strong>Abstract.</strong> TBA
+        <strong>Abstract (Completeness for flow-preserving rewrite rules).</strong> TBA
       </p>
       <p>
         <strong>Joint-Work With.</strong> Miriam Backens, Simon Perdrix
+      </p>
+      <p>
+        <strong>Abstract (Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation).</strong> TBA
+      </p>
+      <p>
+        <strong>Joint-Work With.</strong> Miriam Backens
       </p>
     </details>
     <details>
