@@ -183,7 +183,7 @@ Below you can find a preliminary version of the schedule of the conference.
 
 <div class="talk-details">
   <details id="monday-long-plenary-talks">
-    <summary>Monday Long Plenary Talks</summary>
+    <summary>Monday Long Plenary Talks 9:30 - 11:00</summary>
     <details>
       <summary><strong>9:30 - 10:15 </strong><a href="https://arxiv.org/pdf/2510.08546" target="_blank" rel="noopener">Equivalence of continuous- and discrete-variable gate-based quantum computers</a></summary>
       <p>
