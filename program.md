@@ -105,10 +105,10 @@ Below you can find a preliminary version of the schedule of the conference.
 <tr>
   <td>9:30 – 10:15</td>
   <td rowspan="2" style="background-color: #7fcff4"><a href="#monday-long-plenary-talks">Long Plenary Talks</a></td>
-  <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
-  <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
-  <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
-  <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
+  <td rowspan="2" style="background-color: #7fcff4"><a href="#tuesday-long-plenary-talks">Long Plenary Talks</a></td>
+  <td rowspan="2" style="background-color: #7fcff4"><a href="#wednesday-long-plenary-talks">Long Plenary Talks</a></td>
+  <td rowspan="2" style="background-color: #7fcff4"><a href="#thursday-long-plenary-talks">Long Plenary Talks</a></td>
+  <td rowspan="2" style="background-color: #7fcff4"><a href="#friday-long-plenary-talks">Long Plenary Talks</a></td>
 </tr>
 <tr>
   <td>10:15 – 11:00</td>
@@ -120,9 +120,9 @@ Below you can find a preliminary version of the schedule of the conference.
 <tr>
   <td>11:30 – 11:55</td>
   <td rowspan="2" style="background-color: #bfe6cc"><a href="#monday-short-plenary-talks">Short Plenary Talks</a></td>
-  <td rowspan="2" style="background-color: #bfe6cc">Short Plenary Talks</td>
+  <td rowspan="2" style="background-color: #bfe6cc"><a href="#tuesday-short-plenary-talks">Short Plenary Talks</a></td>
   <td rowspan="2">Industry Session</td>
-  <td style="background-color: #bfe6cc">Short Plenary Talk</td>
+  <td style="background-color: #bfe6cc"><a href="#thursday-short-plenary-talk">Short Plenary Talk</a></td>
   <td rowspan="2">Business Meeting</td>
 </tr>
 <tr>
@@ -221,6 +221,126 @@ Below you can find a preliminary version of the schedule of the conference.
       </p>
       <p>
         <strong>Joint-Work With.</strong> Dichuan Gao, Razin A. Shaikh, Aleks Kissinger
+      </p>
+    </details>
+  </details>
+  <details id="tuesday-long-plenary-talks">
+    <summary>Tuesday Long Plenary Talks 9:30 - 11:00</summary>
+    <details>
+      <summary><strong>9:30 - 10:15 </strong><a href="https://arxiv.org/pdf/2510.08477" target="_blank" rel="noopener">Completeness for Fault Equivalence of Clifford ZX Diagrams</a> / <a href="https://arxiv.org/pdf/2506.17181" target="_blank" rel="noopener">Fault Tolerance by Construction</a></summary>
+      <p>
+        <strong>Abstract (Completeness for Fault Equivalence of Clifford ZX Diagrams).</strong> Two circuits are considered to be equivalent under noise if the effect of faults on one circuit is no worse than the effect of faults on the other circuit. We call this fault equivalence. Recent work has shown that fault equivalence enables a framework for fault-tolerant circuit synthesis and optimization that is correct by construction. In this work, we give a set of ZX rewrites that are sound and complete for fault equivalence of Clifford ZX diagrams. That is, any equivalence which is derivable via our rewrites is correct, and conversely, every correct equivalence can be derived using only our rewrites. To do this, we make use of fault gadgets, a diagrammatic construction that allows for reasoning about arbitrary Pauli faults. We use them to split diagrams into a noise-free part and a noisy part, and finally derive a unique normal form under noise.
+      </p>
+      <p>
+        <strong>Abstract (Fault Tolerance by Construction).</strong> A central challenge of fault-tolerant quantum computing is the synthesis and optimization of circuits in the presence of noise. Standard methods can fail to take into account the effects of noise on circuit behavior. We propose and numerically validate a framework for designing fault-tolerant quantum circuits that are correct by construction, starting with idealised specifications of fault-tolerant gadgets and refining them using provably sound basic transformations. To do so, we introduce fault equivalence: two circuits are fault-equivalent if all undetectable faults on one circuit have a corresponding fault on the other, guaranteeing that the effect of undetectable faults on both circuits is the same. We show this concept is already implicitly present in existing literature. Tasks such as state preparation and syndrome extraction can be naturally phrased as finding an implementable circuit that is fault-equivalent to an idealised specification. To make fault equivalence computationally tractable, we adapt the ZX calculus, a diagrammatic language for quantum computing. We restrict its rewrite system to not only preserve the underlying linear map but also the fault equivalence, i.e., the circuit's behaviour under noise. We use this framework to verify, optimize, and synthesize new and efficient circuits for syndrome extraction and cat state preparation. Performance of the optimized circuits is confirmed in simulation. As fault equivalence aligns with existing methods, we suggest it could serve as a unifying framework for various approaches to fault-tolerant quantum computing, enabling end-to-end compilation of circuits that are fault-tolerant by construction.
+      </p>
+      <p>
+        <strong>Joint-Work With.</strong> Maximilian Rüsch, Aleks Kissinger, Benjamin Rodatz, Boldizsár Poór
+      </p>
+    </details>
+    <details>
+      <summary><strong>10:15 - 11:00 </strong>Algebraic paradoxes in adaptive quantum computation</summary>
+      <p>
+        <strong>Abstract.</strong> TBA
+      </p>
+      <p>
+        <strong>Joint-Work With.</strong> Samson Abramsky, Rui Soares Barbosa, Carmen Constantin, Martti Karvonen
+      </p>
+    </details>
+  </details>
+  <details id="tuesday-short-plenary-talks">
+    <summary>Tuesday Short Plenary Talks 11:30 - 12:20</summary>
+    <details>
+      <summary><strong>11:30 - 11:55 </strong><a href="https://arxiv.org/pdf/2502.17576" target="_blank" rel="noopener">Invariance under quantum permutations rules out parastatistics</a></summary>
+      <p>
+        <strong>Abstract.</strong> Quantum systems invariant under particle exchange are either Bosons or Fermions, even though quantum theory in principle admits more general behavior under permutations. But why do we not observe such 'paraparticles' in nature? The analysis of this question was previously limited primarily to specific quantum field theory models. Here we give two independent arguments that rule out parastatistics universally, originating in quantum information theory and recent research on internal quantum reference frames. First, we introduce a notion of complete invariance: quantum systems should not only preserve their local state under permutations, but also the quantum information they carry about other systems, in analogy to the notion of complete positivity in quantum information theory. Second, we demand that quantum systems are invariant under quantum permutations, i.e. permutations conditioned on values of permutation-invariant observables. For both, we show that the respective principle is fulfilled if and only if the particle is a Boson or Fermion. Our results show how quantum reference frames can shed light on a longstanding problem of quantum physics, they underline the crucial role played by the compositional structure of quantum information, and demonstrate the explanatory power but also subtle limitations of recently proposed quantum covariance principles.
+      </p>
+      <p>
+        <strong>Joint-Work With.</strong> Manuel Mekonnen, Thomas D. Galley, Markus P. Müller
+      </p>
+    </details>
+    <details>
+      <summary><strong>11:55 - 12:20 </strong>A higher-order perspective on quantum signal processing</summary>
+      <p>
+        <strong>Abstract.</strong> TBA
+      </p>
+      <p>
+        <strong>Joint-Work With.</strong> Marek Arsenault, Hlér Kristjánsson
+      </p>
+    </details>
+  </details>
+  <details id="wednesday-long-plenary-talks">
+    <summary>Wednesday Long Plenary Talks 9:30 - 11:00</summary>
+    <details>
+      <summary><strong>9:30 - 10:15 </strong>Completeness for flow-preserving rewrite rules / Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation</summary>
+      <p>
+        <strong>Abstract.</strong> TBA
+      </p>
+      <p>
+        <strong>Joint-Work With.</strong> Miriam Backens, Simon Perdrix
+      </p>
+    </details>
+    <details>
+      <summary><strong>10:15 - 11:00 </strong><a href="https://arxiv.org/pdf/2511.06012" target="_blank" rel="noopener">Beyond Penrose tensor diagrams with the ZX calculus: Applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity</a></summary>
+      <p>
+        <strong>Abstract.</strong> We introduce the Spin-ZX calculus as an elevation of Penrose's diagrams and associated binor calculus to the level of a formal diagrammatic language. The power of doing so is illustrated by the variety of scientific areas we apply it to: permutational quantum computing, quantum machine learning, condensed matter physics, and quantum gravity. Respectively, we analyse permutational computing transition amplitudes, evaluate barren plateaus for SU(2) symmetric ansätze, study properties of AKLT states, and derive the minimum quantised volume in loop quantum gravity. Our starting point is the mixed-dimensional ZX calculus, a purely diagrammatic language that has been proven to be complete for finite-dimensional Hilbert spaces. That is, any equation that can be derived in the Hilbert space formalism, can also be derived in the mixed-dimensional ZX calculus. We embed the Spin-ZX calculus inside the mixed-dimensional ZX calculus, rendering it a quantum information flavoured diagrammatic language for the quantum theory of angular momentum, i.e. SU(2) representation theory. We diagrammatically derive the fundamental spin coupling objects - such as Clebsch-Gordan coefficients, symmetrising mappings between qubits and spin spaces, and spin Hamiltonians - under this embedding. Our results establish the Spin-ZX calculus as a powerful tool for representing and computing with SU(2) systems graphically, offering new insights into foundational relationships and paving the way for new diagrammatic algorithms for theoretical physics.
+      </p>
+      <p>
+        <strong>Joint-Work With.</strong> Quanlong Wang, Richard D. P. East, Razin A. Shaikh, Lia Yeh, Boldizsár Poór, Bob Coecke
+      </p>
+    </details>
+  </details>
+  <details id="thursday-long-plenary-talks">
+    <summary>Thursday Long Plenary Talks 9:30 - 11:00</summary>
+    <details>
+      <summary><strong>9:30 - 10:15 </strong><a href="https://arxiv.org/pdf/2511.22734" target="_blank" rel="noopener">Denotational semantics for stabiliser quantum programs</a></summary>
+      <p>
+        <strong>Abstract.</strong> The stabiliser fragment of quantum theory is a foundational building block for quantum error correction and the fault-tolerant compilation of quantum programs. In this article, we develop a sound, universal and complete denotational semantics for stabiliser operations which include measurement, classically-controlled Pauli operators, and affine classical operations, in which quantum error-correcting codes are first-class objects. The operations are interpreted as certain affine relations over finite fields. This offers a conceptually motivated and computationally-tractable alternative to the standard operator-algebraic semantics of quantum programs (whose time complexity grows exponentially as the state space increases in size). We demonstrate the power of the resulting semantics by describing a small, proof-of-concept assembly language for stabiliser programs with fully-abstract denotational semantics.
+      </p>
+      <p>
+        <strong>Joint-Work With.</strong> Robert I. Booth, Cole Comfort
+      </p>
+    </details>
+    <details>
+      <summary><strong>10:15 - 11:00 </strong><a href="https://arxiv.org/pdf/2507.10466" target="_blank" rel="noopener">Quantum Control and General Recursion beyond the Unitary Case</a></summary>
+      <p>
+        <strong>Abstract.</strong> Coherent control, aka quantum control, is a central concept in quantum computing that is attracting increasing attention from both the quantum foundations and quantum software communities. Defining coherent control in the presence of recursion and measurement has long been known to be a major challenge. In particular, no-go results have been established for standard semantical domains like completely positive maps. We address this problem by introducing the first quantum programming language with recursion that allows for the coherent control of arbitrary quantum operations. We equip this language with both an operational and a denotational semantics that we prove to be adequate. To design these semantics, we show that combining coherent control, recursion, and measurement crucially requires describing the evolution of subprograms in the absence of input. To address this, the operational semantics takes into account a default evolution branch, while the denotational semantics uses the concept of coherent quantum operation, based on vacuum extensions. We strengthen the validity of our approach by developing an observational equivalence: two programs are equivalent if their probability of termination is the same in any context. The denotational semantics is shown to be fully abstract with respect to this observational equivalence.
+      </p>
+      <p>
+        <strong>Joint-Work With.</strong> Kathleen Barsse, Romain Péchoux, Simon Perdrix
+      </p>
+    </details>
+  </details>
+  <details id="thursday-short-plenary-talk">
+    <summary>Thursday Short Plenary Talk 11:30 - 11:55</summary>
+    <details>
+      <summary><strong>11:30 - 11:55 </strong><a href="https://arxiv.org/pdf/2602.15800" target="_blank" rel="noopener">Entanglement in the Dicke Subspace</a></summary>
+      <p>
+        <strong>Abstract.</strong> In this paper, we provide a complete mathematical theory for the entanglement of mixtures of Dicke states. These quantum states form an important subclass of bosonic states arising in the study of indistinguishable particles. We introduce a tensor-based parametrization where the diagonal entries of these states are encoded as a symmetric tensor, enabling a direct translation between entanglement properties and well-studied convex cones of tensors. Our results bridge multipartite entanglement theory with semialgebraic geometry and the theory of completely positive and copositive tensors. This dictionary maps separability to completely positive tensors, the PPT property to moment tensors, entanglement witnesses to copositive tensors, and decomposable witnesses to sum of squares tensors. Using this framework, we construct explicit PPT entangled states in three or more qutrits. In this class of states, we establish that PPT entanglement exists for all multipartite systems with three qutrits or more, disproving a recent conjecture in [J. Math. Phys. 66, 022203 (2025)]. We also show that, for mixtures of Dicke states, the PPT condition with respect to the most balanced bipartition implies PPT with respect to any other bipartition. We further connect bosonic extendibility of mixtures of Dicke states to the duals of known hierarchies for non-negative polynomials, such as the ones by Reznick and Polya. We thus provide semidefinite programming relaxations for separability and entanglement testing in the Dicke subspace.
+      </p>
+      <p>
+        <strong>Joint-Work With.</strong> Aabhas Gulati, Ion Nechita, Clément Pellegrini
+      </p>
+    </details>
+  </details>
+  <details id="friday-long-plenary-talks">
+    <summary>Friday Long Plenary Talks 9:30 - 11:00</summary>
+    <details>
+      <summary><strong>9:30 - 10:15 </strong><a href="https://arxiv.org/pdf/2601.15832" target="_blank" rel="noopener">Quantum Coherence Spaces Revisited: A von Neumann (Co)Algebraic Approach</a></summary>
+      <p>
+        <strong>Abstract.</strong> We describe a categorical model of MALL (Multiplicative Additive Linear Logic) inspired by the Heisenberg-Schrödinger duality of finite-dimensional quantum theory. Proofs of formulas with positive logical polarity correspond to CPTP (completely positive trace-preserving) maps in our model, i.e. the quantum operations in the Schrödinger picture, whereas proofs of formulas with negative logical polarity correspond to CPU (completely positive unital) maps, i.e. the quantum operations in the Heisenberg picture. The mathematical development is based on noncommutative geometry and finite-dimensional von Neumann (co)algebras, which can be defined as special kinds of (co)monoid objects internal to the category of finite-dimensional operator spaces.
+      </p>
+      <p>
+        <strong>Joint-Work With.</strong> Thea Li, Vladimir Zamdzhiev
+      </p>
+    </details>
+    <details>
+      <summary><strong>10:15 - 11:00 </strong><a href="https://arxiv.org/pdf/2601.05158" target="_blank" rel="noopener">Composable simultaneous purification</a></summary>
+      <p>
+        <strong>Abstract.</strong> Bell non-locality is a powerful framework to distinguish classical, quantum and post-quantum resources, which relies on non-communicating players. Under which restriction can we have the same separations, if we allow for communication? Non-signalling state assemblages, and the fact that they can always be simultaneously purified, turned out to be the key element to restrict the simplest bipartite communication scenario, the prepare-and-measure, to the standard bipartite Bell scenario. Yet, many distinctive features of quantum theory are genuinely multipartite and cannot be reduced to two-party behaviour. In this work we are interested in extending this simultaneous purification inspired result to all multipartite communication schemes. As a first step, we unify and extend the simultaneous purification result from states to instruments and super-instruments, which are composable structures, and open up the possibility to explore more complex communication scenarios. Our main contribution is to establish that arbitrary compositions of non-signalling assemblages cannot escape the standard spatial quantum Bell correlations set. As a consequence, any interactive quantum realization of correlations outside of this set must involve at least one signalling assemblage of quantum operations, even when the resulting correlations are non-signalling.
+      </p>
+      <p>
+        <strong>Joint-Work With.</strong> Matilde Baroni, Dominik Leichtle, Ivan Šupić, Damian Markham, Marco Túlio Quintino
       </p>
     </details>
   </details>
