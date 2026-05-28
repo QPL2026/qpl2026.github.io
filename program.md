@@ -74,7 +74,7 @@ permalink: /program/
 </style>
 
 
-Below you can find an overview of the conference schedule. Here is the <a href="{{ '/assets/pdfs/QPL_2026_Schedule' | relative_url }}" target="_blank" rel="noopener">full schedule in table formatting</a>. 
+Below you can find an overview of the conference schedule. Here is the <a href="{{ '/assets/pdfs/QPL_2026_Schedule.pdf' | relative_url }}" target="_blank" rel="noopener">full schedule in table formatting</a>. 
 
 
 <table class="program-table">
