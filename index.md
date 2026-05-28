@@ -59,7 +59,7 @@ You can submit at this [HotCRP server](https://hotcrp.science.uva.nl/qpl2026/).
 
 ### Registration
 
-To open soon.
+Registration is now [open](/registration).
 
 This year, QPL will be preceded by a weekend workshop consisting of tutorials on some of the main specialised topics of the conference. You can find more details [here](/tutorial). There is limited availability for these tutorials, preference will be given to registrations from junior attendees and early registrations.
 <!-- Registration is now closed. Please see [here](/registration/) for further information regarding registrations. -->
@@ -81,9 +81,8 @@ Please see [here](/local_info/#poster-instructions) for guidance on preparing po
 ### Conference Proceedings
 
 Conference proceedings will be published 
-<!-- in [Electronic Proceedings in Theoretical Computer Science (EPTCS)](https://about.eptcs.org/)  -->
-after the
-conference. When preparing the final version for publication, authors of
+in [Electronic Proceedings in Theoretical Computer Science (EPTCS)](https://about.eptcs.org/) 
+after the conference. When preparing the final version for publication, authors of
 accepted proceedings submissions are allowed to use up to three extra pages
 (i.e. up to 15 pages excluding bibliography) to address reviewer concerns and
 suggestions under the proviso that they do not introduce new results.
@@ -107,12 +106,27 @@ For inquiries related to the submission and review process, please write to the 
 ### Sponsors
 
 <a href="https://www.quantumsc.nl/" style="background-image: none; background-size: 0;">
-<img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/QSC logo final.svg" alt="Quantum Software Consortium">
+<img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/QSC logo final.svg" alt="Quantum Software Consortium">
 </a>
 
-<a href="https://quantumdelta.nl/" style="background-image: none; background-size: 0;">
-<img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/qdnl-logo.svg" alt="Quantum Delta NL">
+<a href="https://qdnl.nl/" style="background-image: none; background-size: 0;">
+<img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/qdnl-logo.svg" alt="QDNL">
 </a>
+
+<a href="https://spooqy.ai/" style="background-image: none; background-size: 0;">
+<img style="vertical-align: middle; max-width: 300px; width: 100%; height: auto" src="images/spooqy-logo-light.png" alt="Spooqy logo">
+</a>
+
+<!--In case we want something that is dark mode aware
+ <div>
+<a href="https://spooqy.ai/" style="background-image: none; background-size: 0;">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="images/spooqy-logo-dark.png">
+<source media="(prefers-color-scheme: light)" srcset="images/spooqy-logo-light.png">
+<img src="images/spooqy-logo-light.png" alt="Spooqy logo" style="vertical-align: middle; max-width: 300px; width: 100%; height: auto">
+</picture>
+</a>
+</div> -->
 
 <!--
 ### Organisational Support and Funding
