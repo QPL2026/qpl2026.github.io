@@ -786,6 +786,138 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </div>
 </details>
 
+<details class="day-section" id="day-thursday" data-date="2026-08-20">
+<summary>Thursday, August 20th</summary>
+<div class="day-body">
+
+<table class="schedule-table">
+<colgroup>
+<col class="time-col" />
+<col />
+</colgroup>
+<tr>
+  <td class="band" colspan="2">Long plenary talks</td>
+</tr>
+<tr>
+  <td>9:30 – 10:15</td>
+  <td>
+    <span class="talk-authors">Cole Comfort, Robert I. Booth</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2511.22734" target="_blank" rel="noopener">Denotational semantics for stabiliser quantum programs</a></span>
+  </td>
+</tr>
+<tr>
+  <td>10:15 – 11:00</td>
+  <td>
+    <span class="talk-authors">Kathleen Barsse, Romain Péchoux, Simon Perdrix</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2507.10466" target="_blank" rel="noopener">Quantum control and general recursion beyond the unitary case</a></span>
+  </td>
+</tr>
+<tr>
+  <td class="break-row" colspan="2">Coffee break</td>
+</tr>
+<tr>
+  <td class="band" colspan="2">Short plenary talk</td>
+</tr>
+<tr>
+  <td>11:30 – 11:55</td>
+  <td>
+    <span class="talk-authors">Aabhas Gulati, Ion Nechita, Clément Pellegrini</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.15800" target="_blank" rel="noopener">Entanglement in the Dicke subspace</a></span>
+  </td>
+</tr>
+<tr>
+  <td>11:55 – 12:20</td>
+  <td><strong>Conference photo</strong></td>
+</tr>
+<tr>
+  <td class="break-row" colspan="2">Lunch break</td>
+</tr>
+</table>
+
+<table class="schedule-table">
+<colgroup>
+<col class="time-col" />
+<col />
+<col />
+<col />
+</colgroup>
+<tr>
+  <td class="band"></td>
+  <td class="band">Parallel A</td>
+  <td class="band">Parallel B</td>
+  <td class="band">Parallel C</td>
+</tr>
+<tr>
+  <td>14:30 – 14:55</td>
+  <td>
+    <span class="talk-authors">Arianne Meijer-van de Griend, Leo Becker</span>
+    <span class="talk-title">Pauli gadget synthesis for gatesets with arbitrary even-arity Clifford gates</span>
+  </td>
+  <td>
+    <span class="talk-authors">Haruki Emori</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.05821" target="_blank" rel="noopener">Quantum statistical functions</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">Nadish de Silva, Santanil Jana, Ming Yin</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2508.14673" target="_blank" rel="noopener">Three-qubit nonlocality paradoxes: beyond GHZ</a></span>
+  </td>
+</tr>
+<tr>
+  <td>14:55 – 15:20</td>
+  <td>
+    <span class="talk-authors">Soichiro Yamazaki, Seiseki Akibue</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.14202" target="_blank" rel="noopener">Multi-qubit controlled gate with optimal T-count</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">Michael Zurel, Jack Davis</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.22336" target="_blank" rel="noopener">Basis-independent stabilizerness and maximally noisy magic states</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">Shashaank Khanna, Matthew Pusey, Roger Colbeck</span>
+    <span class="talk-title">Identifying causal structures which cannot support quantum correlations without fine-tuning</span>
+  </td>
+</tr>
+<tr>
+  <td>15:20 – 15:45</td>
+  <td>
+    <span class="talk-authors">Akash Kundu</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2505.09371" target="_blank" rel="noopener">Tensor and gadget reinforcement learning for improved, hardware-aware quantum architecture search</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">Cameron Calcluth, Oliver Hahn, Juani Bermejo Vega, Alessandro Ferraro, Giulia Ferrini</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2412.13136" target="_blank" rel="noopener">Classical simulation of circuits with realistic odd-dimensional Gottesman–Kitaev–Preskill states</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">C. E. Lopetegui-Gonzalez, G. Masse, E. Oudot, U. I. Meyer, F. Centrone, F. Grosshans, P. E. Emeriau, U. Chabaud, M. Walschaers</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2601.07686" target="_blank" rel="noopener">A unified framework for Bell inequalities from continuous-variable contextuality</a></span>
+  </td>
+</tr>
+<tr>
+  <td>15:45 – 16:10</td>
+  <td>
+    <span class="talk-authors">Mark Deaconu, Nihar Gargava, Amolak Ratan Kalra, Michele Mosca, Jon Yard</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2510.11526" target="_blank" rel="noopener">Buildings for synthesis with Clifford+R</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">Massimo Frigerio, Mattia Walschaers, Andrei Aralov, Carlos Ernesto Lopetegui-Gonzalez, Emilie Gillet</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2507.19397" target="_blank" rel="noopener">Algebraic techniques for photonic state preparation and characterization</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">Martin J. Renner, Edwin Peter Lobo, Arturo Konderak, Remigiusz Augusiak, Antonio Acín</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2604.26605" target="_blank" rel="noopener">Full nonlocality for non-maximally entangled states</a></span>
+  </td>
+</tr>
+<tr>
+  <td class="break-row" colspan="4">Coffee break 16:10 – 16:40</td>
+</tr>
+<tr>
+  <td class="break-row" colspan="4" style="background-color: #f7c98b">Career fair 16:40 – 19:00</td>
+</tr>
+</table>
+
+</div>
+</details>
+
 {% comment %}
 <div class="talk-details">
   <details id="monday-long-plenary-talks">
