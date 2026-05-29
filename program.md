@@ -312,14 +312,12 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td rowspan="2">Goodbye!</td>
 </tr>
 <tr>
-  <td></td>
-  <td class="empty-cell"></td>
+  <td rowspan="2"></td>
+  <td rowspan="2" class="empty-cell"></td>
   <td style="background-color: #f7c98b">Poster Session<br> 17:30 – 19:30 </td>
   <td>Boat Tour <br> 17:30 – 18:30 </td>
 </tr>
 <tr>
-  <td></td>
-  <td class="empty-cell"></td>
   <td class="empty-cell"></td>
   <td>Conference Dinner <br> 19:00 onwards</td>
   <td class="empty-cell"></td>
