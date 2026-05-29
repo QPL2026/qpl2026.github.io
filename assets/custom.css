@@ -1,3 +1,18 @@
 .nav {
   text-align: left;
 }
+
+/* The Alembic theme caps .content at 62% width on screens >= 640px to leave
+   room for a sidebar/aside. QPL pages never use an aside, so this just left
+   the content narrowed and centered with large empty margins on desktop.
+   Let the content fill the page container instead. */
+@media screen and (min-width: 640px) {
+  .main .content {
+    width: 100%;
+  }
+}
+
+/* Give the overall page a bit more room on large desktop screens. */
+.container {
+  max-width: 1400px;
+}
