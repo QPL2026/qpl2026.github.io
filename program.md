@@ -368,91 +368,100 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <details id="monday-parallel-sessions-1">
     <summary>Monday Parallel Sessions 14:30 - 15:45</summary>
     <details>
-      <summary><strong>14:30 - 14:55 (Track 1) </strong><a href="https://arxiv.org/pdf/2506.08091" target="_blank" rel="noopener">On whether quantum theory needs complex numbers: the foil theories perspective</a></summary>
-      <p>
-        <strong>Abstract.</strong> A 2021 work by Renou et al. sparked a controversy about whether quantum theory needs to make use of complex numbers. Some recent work has promoted the view that this debate is best understood as a claim about the possibility of experimentally adjudicating between standard quantum theory and a foil theory, real-amplitude quantum theory (RQT) — an alternative theory equivalent to quantum theory in many of its predictions but distinguishable from it in certain network experiments under assumptions about the causal structure of the experiment. Since the 1990s, RQT has served as a canonical foil theory for probing the role played by complex amplitudes in quantum theory. This paper recasts the comparison of the two theories as an instance of a broader class of theory comparisons, by recasting RQT as the subtheory of quantum theory that arises by symmetrizing with respect to the collective action of a time-reversal symmetry. The authors introduce "twirled" and "swirled" quantum worlds, identifying necessary conditions for causal compatibility gaps between theories and their symmetrized versions, and extend the analysis beyond quantum mechanics to generalized probabilistic theories.
-      </p>
-      <p>
-        <strong>Coauthors.</strong> Yìlè Yīng, Maria Ciudad Alañón, Daniel Centeno, Jacopo Surace, Marina Maciel Ansanelli, Ruizhi Liu, David Schmid, Robert W. Spekkens
-      </p>
+      <summary><strong>Track 1</strong></summary>
+      <details>
+        <summary><strong>14:30 - 14:55 </strong><a href="https://arxiv.org/pdf/2506.08091" target="_blank" rel="noopener">On whether quantum theory needs complex numbers: the foil theories perspective</a></summary>
+        <p>
+          <strong>Abstract.</strong> A 2021 work by Renou et al. sparked a controversy about whether quantum theory needs to make use of complex numbers. Some recent work has promoted the view that this debate is best understood as a claim about the possibility of experimentally adjudicating between standard quantum theory and a foil theory, real-amplitude quantum theory (RQT) — an alternative theory equivalent to quantum theory in many of its predictions but distinguishable from it in certain network experiments under assumptions about the causal structure of the experiment. Since the 1990s, RQT has served as a canonical foil theory for probing the role played by complex amplitudes in quantum theory. This paper recasts the comparison of the two theories as an instance of a broader class of theory comparisons, by recasting RQT as the subtheory of quantum theory that arises by symmetrizing with respect to the collective action of a time-reversal symmetry. The authors introduce "twirled" and "swirled" quantum worlds, identifying necessary conditions for causal compatibility gaps between theories and their symmetrized versions, and extend the analysis beyond quantum mechanics to generalized probabilistic theories.
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Yìlè Yīng, Maria Ciudad Alañón, Daniel Centeno, Jacopo Surace, Marina Maciel Ansanelli, Ruizhi Liu, David Schmid, Robert W. Spekkens
+        </p>
+      </details>
+      <details>
+        <summary><strong>14:55 - 15:20 </strong><a href="https://arxiv.org/pdf/2603.19208" target="_blank" rel="noopener">On the experimental falsification of Real QT</a> / <a href="https://arxiv.org/pdf/2504.02808" target="_blank" rel="noopener">A real matrix theory consistent with QT</a> [MERGED]</summary>
+        <p>
+          <strong>Abstract (On the experimental falsification of Real QT).</strong> Whether the complex numbers of standard quantum theory (QT) are experimentally indispensable has remained an open question for decades. Real Quantum Theory (RQT), obtained by replacing complex amplitudes with real ones while retaining the usual Kronecker-product composition rule, reproduces all single-party and bipartite Bell correlations of QT, but its lack of local tomography suggested that the two theories might diverge in more general local experiments. Renou et al. argued that a bilocal network experiment can falsify RQT. The authors show that this conclusion relies on an experimentally untestable assumption — product-state independence of the sources — rather than a fully operational notion. By distinguishing this mathematical assumption from operational independence (the empirically observable lack of correlations between local outputs of different sources), they prove that every finite network correlation achievable in QT is also achievable in RQT with the same locality structure. The result extends to arbitrary finite sequential multipartite protocols involving channels and measurements, establishing that no such experiment can distinguish RQT from QT.
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Timothée Hoffreumon, Mischa P. Woods
+        </p>
+        <p>
+          <strong>Abstract (A real matrix theory consistent with QT).</strong> Whether quantum theory fundamentally requires the use of complex numbers, or whether their use is merely a convenient choice, is a longstanding debate. A 2021 Nature article asserted that quantum theory needs complex numbers, since "real-number quantum theory" is inconsistent with the postulates of quantum theory. In this work, the authors show that this conclusion was premature, and that a real-number quantum theory is consistent with the postulates of quantum theory. Their theory retains key features such as theory-representation locality (local physical operations are represented by local changes to the states) and positive semi-definiteness of states and effects. A direct consequence of their results is that quantum theory based on real or complex numbers are experimentally indistinguishable.
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Timothée Hoffreumon, Mischa P. Woods
+        </p>
+      </details>
+      <details>
+        <summary><strong>15:20 - 15:45 </strong><a href="https://arxiv.org/pdf/2602.16280" target="_blank" rel="noopener">Tomographically-Nonlocal Entanglement</a></summary>
+        <p>
+          <strong>Abstract.</strong> In tomographically nonlocal theories — such as real quantum theory, twirled worlds, or fermionic quantum theory — composite systems possess holistic degrees of freedom that are inaccessible to local measurements. Working within the framework of generalized probabilistic theories, the authors show that the failure of tomographic locality leads to two qualitatively distinct forms of entanglement, which they term tomographically-local entanglement and tomographically-nonlocal entanglement. They prove that tomographically-nonlocal entanglement is useless for Bell nonlocality, steering, and teleportation, but sufficient for dense coding and perfectly secure data hiding. This framework also clarifies previously puzzling features of entanglement arising in real quantum theory, fermionic systems, and theories with superselection rules.
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Roberto D. Baldijão, Marco Erba, David Schmid, John H. Selby, Ana Belén Sainz
+        </p>
+      </details>
     </details>
     <details>
-      <summary><strong>14:30 - 14:55 (Track 2) </strong>Restricted Negation in Orthomodular Logic</summary>
-      <p>
-        <strong>Abstract.</strong> TBA
-      </p>
-      <p>
-        <strong>Coauthors.</strong> Piotr Mitosek, Miriam Backens
-      </p>
+      <summary><strong>Track 2</strong></summary>
+      <details>
+        <summary><strong>14:30 - 14:55 </strong>Restricted Negation in Orthomodular Logic</summary>
+        <p>
+          <strong>Abstract.</strong> TBA
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Piotr Mitosek, Miriam Backens
+        </p>
+      </details>
+      <details>
+        <summary><strong>14:55 - 15:20 </strong><a href="https://arxiv.org/pdf/2307.01713" target="_blank" rel="noopener">Logic Meets Wigner's Friend (and their Friends)</a></summary>
+        <p>
+          <strong>Abstract.</strong> The authors take a fresh look at Wigner's Friend thought-experiment and some of its more recent variants and extensions, such as the Frauchiger-Renner (FR) Paradox. They discuss various solutions proposed in the literature, focusing on a few questions: (1) When can one include classical observers in the quantum state description, in a way that is still compatible with standard quantum theory? (2) When can one system be admitted as an additional "observer" in the description provided by another given observer? (3) When do the predictions of various observers cohere with each other, in such a way that they can be combined within a "common knowledge"-type description? In the last part of the paper, they propose a new answer to these questions, sketch a particular formal implementation of this answer, and apply it to obtain a principled solution to Wigner Friend-type paradoxes.
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Alexandru Baltag, Sonja Smets
+        </p>
+      </details>
+      <details>
+        <summary><strong>15:20 - 15:45 </strong><a href="https://arxiv.org/pdf/2505.06069" target="_blank" rel="noopener">Operator Spaces, Linear Logic and the Heisenberg-Schrödinger Duality</a></summary>
+        <p>
+          <strong>Abstract.</strong> The authors show that the category OS of operator spaces, with complete contractions as morphisms, is locally countably presentable and a model of Intuitionistic Linear Logic in the sense of Lafont. More precisely, they describe a model of Classical Linear Logic based on OS, whose duality is compatible with the Heisenberg-Schrödinger duality of quantum theory. More specifically, system descriptions in the Schrödinger picture correspond to formulas with a positive logical polarity, whereas those in the Heisenberg picture correspond to formulas with a negative logical polarity. OS provides a good setting for studying pure state and mixed state quantum information, the interaction between the two, and even higher-order quantum maps such as the quantum switch.
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Bert Lindenhovius, Vladimir Zamdzhiev
+        </p>
+      </details>
     </details>
     <details>
-      <summary><strong>14:30 - 14:55 (Track 3) </strong><a href="https://arxiv.org/pdf/2602.06644" target="_blank" rel="noopener">A Complete Equational Theory for Real-Clifford+CH Quantum Circuits</a></summary>
-      <p>
-        <strong>Abstract.</strong> This paper introduces a complete equational theory for the fragment of quantum circuits generated by the real Clifford gates plus the two-qubit controlled-Hadamard gate. Specifically, the work establishes a simple set of equalities between circuits of this fragment and proves that any other true equation can be derived from these. This is the first such completeness result for a finitely-generated, universal fragment of quantum circuits, with no parameterized gates and no need for ancillas.
-      </p>
-      <p>
-        <strong>Author.</strong> Alexandre Clément
-      </p>
-    </details>
-    <details>
-      <summary><strong>14:55 - 15:20 (Track 1) </strong><a href="https://arxiv.org/pdf/2603.19208" target="_blank" rel="noopener">On the experimental falsification of Real QT</a> / <a href="https://arxiv.org/pdf/2504.02808" target="_blank" rel="noopener">A real matrix theory consistent with QT</a> [MERGED]</summary>
-      <p>
-        <strong>Abstract (On the experimental falsification of Real QT).</strong> Whether the complex numbers of standard quantum theory (QT) are experimentally indispensable has remained an open question for decades. Real Quantum Theory (RQT), obtained by replacing complex amplitudes with real ones while retaining the usual Kronecker-product composition rule, reproduces all single-party and bipartite Bell correlations of QT, but its lack of local tomography suggested that the two theories might diverge in more general local experiments. Renou et al. argued that a bilocal network experiment can falsify RQT. The authors show that this conclusion relies on an experimentally untestable assumption — product-state independence of the sources — rather than a fully operational notion. By distinguishing this mathematical assumption from operational independence (the empirically observable lack of correlations between local outputs of different sources), they prove that every finite network correlation achievable in QT is also achievable in RQT with the same locality structure. The result extends to arbitrary finite sequential multipartite protocols involving channels and measurements, establishing that no such experiment can distinguish RQT from QT.
-      </p>
-      <p>
-        <strong>Coauthors.</strong> Timothée Hoffreumon, Mischa P. Woods
-      </p>
-      <p>
-        <strong>Abstract (A real matrix theory consistent with QT).</strong> Whether quantum theory fundamentally requires the use of complex numbers, or whether their use is merely a convenient choice, is a longstanding debate. A 2021 Nature article asserted that quantum theory needs complex numbers, since "real-number quantum theory" is inconsistent with the postulates of quantum theory. In this work, the authors show that this conclusion was premature, and that a real-number quantum theory is consistent with the postulates of quantum theory. Their theory retains key features such as theory-representation locality (local physical operations are represented by local changes to the states) and positive semi-definiteness of states and effects. A direct consequence of their results is that quantum theory based on real or complex numbers are experimentally indistinguishable.
-      </p>
-      <p>
-        <strong>Coauthors.</strong> Timothée Hoffreumon, Mischa P. Woods
-      </p>
-    </details>
-    <details>
-      <summary><strong>14:55 - 15:20 (Track 2) </strong><a href="https://arxiv.org/pdf/2307.01713" target="_blank" rel="noopener">Logic Meets Wigner's Friend (and their Friends)</a></summary>
-      <p>
-        <strong>Abstract.</strong> The authors take a fresh look at Wigner's Friend thought-experiment and some of its more recent variants and extensions, such as the Frauchiger-Renner (FR) Paradox. They discuss various solutions proposed in the literature, focusing on a few questions: (1) When can one include classical observers in the quantum state description, in a way that is still compatible with standard quantum theory? (2) When can one system be admitted as an additional "observer" in the description provided by another given observer? (3) When do the predictions of various observers cohere with each other, in such a way that they can be combined within a "common knowledge"-type description? In the last part of the paper, they propose a new answer to these questions, sketch a particular formal implementation of this answer, and apply it to obtain a principled solution to Wigner Friend-type paradoxes.
-      </p>
-      <p>
-        <strong>Coauthors.</strong> Alexandru Baltag, Sonja Smets
-      </p>
-    </details>
-    <details>
-      <summary><strong>14:55 - 15:20 (Track 3) </strong>A Complete and Natural Rule Set for Multi-Qudit Clifford Circuits</summary>
-      <p>
-        <strong>Abstract.</strong> TBA
-      </p>
-      <p>
-        <strong>Coauthors.</strong> Xiaoning Bian, Sarah Meng Li, Neil J. Ross, John van de Wetering, Yuming Zhao
-      </p>
-    </details>
-    <details>
-      <summary><strong>15:20 - 15:45 (Track 1) </strong><a href="https://arxiv.org/pdf/2602.16280" target="_blank" rel="noopener">Tomographically-Nonlocal Entanglement</a></summary>
-      <p>
-        <strong>Abstract.</strong> In tomographically nonlocal theories — such as real quantum theory, twirled worlds, or fermionic quantum theory — composite systems possess holistic degrees of freedom that are inaccessible to local measurements. Working within the framework of generalized probabilistic theories, the authors show that the failure of tomographic locality leads to two qualitatively distinct forms of entanglement, which they term tomographically-local entanglement and tomographically-nonlocal entanglement. They prove that tomographically-nonlocal entanglement is useless for Bell nonlocality, steering, and teleportation, but sufficient for dense coding and perfectly secure data hiding. This framework also clarifies previously puzzling features of entanglement arising in real quantum theory, fermionic systems, and theories with superselection rules.
-      </p>
-      <p>
-        <strong>Coauthors.</strong> Roberto D. Baldijão, Marco Erba, David Schmid, John H. Selby, Ana Belén Sainz
-      </p>
-    </details>
-    <details>
-      <summary><strong>15:20 - 15:45 (Track 2) </strong><a href="https://arxiv.org/pdf/2505.06069" target="_blank" rel="noopener">Operator Spaces, Linear Logic and the Heisenberg-Schrödinger Duality</a></summary>
-      <p>
-        <strong>Abstract.</strong> The authors show that the category OS of operator spaces, with complete contractions as morphisms, is locally countably presentable and a model of Intuitionistic Linear Logic in the sense of Lafont. More precisely, they describe a model of Classical Linear Logic based on OS, whose duality is compatible with the Heisenberg-Schrödinger duality of quantum theory. More specifically, system descriptions in the Schrödinger picture correspond to formulas with a positive logical polarity, whereas those in the Heisenberg picture correspond to formulas with a negative logical polarity. OS provides a good setting for studying pure state and mixed state quantum information, the interaction between the two, and even higher-order quantum maps such as the quantum switch.
-      </p>
-      <p>
-        <strong>Coauthors.</strong> Bert Lindenhovius, Vladimir Zamdzhiev
-      </p>
-    </details>
-    <details>
-      <summary><strong>15:20 - 15:45 (Track 3) </strong><a href="https://arxiv.org/pdf/2603.06466" target="_blank" rel="noopener">Completeness for Prime-Dimensional Phase-Affine Circuits</a></summary>
-      <p>
-        <strong>Abstract.</strong> This work generalises the CNOT-dihedral picture from qubits to prime-dimensional qudits. It first presents a compact PROP for reversible affine circuits over a prime field, with a strict symmetric monoidal semantics into the affine group and a Lafont-style affine normal form; it then adjoins finite-angle diagonal phase generators organised by polynomial degree to obtain linear, quadratic (odd prime), and cubic (prime greater than 3) calculi, fixing a binomial-basis on the additive group so that unique normal forms exist. The paper proves completeness: semantic equality coincides with derivable equality.
-      </p>
-      <p>
-        <strong>Author.</strong> Colin Blake
-      </p>
+      <summary><strong>Track 3</strong></summary>
+      <details>
+        <summary><strong>14:30 - 14:55 </strong><a href="https://arxiv.org/pdf/2602.06644" target="_blank" rel="noopener">A Complete Equational Theory for Real-Clifford+CH Quantum Circuits</a></summary>
+        <p>
+          <strong>Abstract.</strong> This paper introduces a complete equational theory for the fragment of quantum circuits generated by the real Clifford gates plus the two-qubit controlled-Hadamard gate. Specifically, the work establishes a simple set of equalities between circuits of this fragment and proves that any other true equation can be derived from these. This is the first such completeness result for a finitely-generated, universal fragment of quantum circuits, with no parameterized gates and no need for ancillas.
+        </p>
+        <p>
+          <strong>Author.</strong> Alexandre Clément
+        </p>
+      </details>
+      <details>
+        <summary><strong>14:55 - 15:20 </strong>A Complete and Natural Rule Set for Multi-Qudit Clifford Circuits</summary>
+        <p>
+          <strong>Abstract.</strong> TBA
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Xiaoning Bian, Sarah Meng Li, Neil J. Ross, John van de Wetering, Yuming Zhao
+        </p>
+      </details>
+      <details>
+        <summary><strong>15:20 - 15:45 </strong><a href="https://arxiv.org/pdf/2603.06466" target="_blank" rel="noopener">Completeness for Prime-Dimensional Phase-Affine Circuits</a></summary>
+        <p>
+          <strong>Abstract.</strong> This work generalises the CNOT-dihedral picture from qubits to prime-dimensional qudits. It first presents a compact PROP for reversible affine circuits over a prime field, with a strict symmetric monoidal semantics into the affine group and a Lafont-style affine normal form; it then adjoins finite-angle diagonal phase generators organised by polynomial degree to obtain linear, quadratic (odd prime), and cubic (prime greater than 3) calculi, fixing a binomial-basis on the additive group so that unique normal forms exist. The paper proves completeness: semantic equality coincides with derivable equality.
+        </p>
+        <p>
+          <strong>Author.</strong> Colin Blake
+        </p>
+      </details>
     </details>
   </details>
   <details id="monday-parallel-sessions-2">
