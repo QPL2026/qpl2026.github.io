@@ -511,7 +511,8 @@ Below you can find an overview of the conference schedule. Here is the <a href="
       <details>
         <summary><strong>16:40 - 17:05 </strong><a href="https://arxiv.org/pdf/2601.09685" target="_blank" rel="noopener">The category of quantum graphs is closed</a></summary>
         <p>
-          <strong>Abstract.</strong> The authors introduce a category qGph of quantum graphs whose definition is motivated entirely from noncommutative geometry. They construct a quantum graph of homomorphisms [G,H] from G to H for all quantum graphs G and H, making qGph a closed symmetric monoidal category. For finite graphs G and H, the quantum graph [G,H] is nonempty if and only if the (G,H)-homomorphism game has a winning quantum strategy, directly generalizing the classical case. They also prove that every finite reflexive quantum graph corresponds to a confusability quantum graph of a quantum channel.
+          <strong>Abstract.</strong> We introduce a category 𝗊𝖦𝗉𝗁 of quantum graphs, whose definition is motivated entirely from noncommutative geometry. For all quantum graphs G and H in 𝗊𝖦𝗉𝗁, we then construct a quantum graph [G,H] of homomorphisms from G to H, making 𝗊𝖦𝗉𝗁 a closed symmetric monoidal category. We prove that for all finite graphs G and H, the quantum graph [G,H] is nonempty iff the (G,H)-homomorphism game has a winning quantum strategy, directly generalizing the classical case.<br><br>
+          The finite quantum graphs in 𝗊𝖦𝗉𝗁 are tracial, real, and self-adjoint, and the morphisms between them are CP morphisms that are adjoint to a unital ∗-homomorphism. We prove that Weaver's two notions of a CP morphism coincide in this context. We also include a short proof that every finite reflexive quantum graph is the confusability quantum graph of a quantum channel.
         </p>
         <p>
           <strong>Coauthors.</strong> Andre Kornell, Bert Lindenhovius
