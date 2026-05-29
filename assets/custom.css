@@ -7,3 +7,8 @@
   width: 86%;
   max-width: 1100px;
 }
+
+/* Match the header navigation tab text to the "Go to today's talks" button (1rem) */
+.header .nav a {
+  font-size: 1rem;
+}

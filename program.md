@@ -308,8 +308,8 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td>17:05 – 17:30</td>
   <td class="empty-cell"></td>
-  <td rowspan="2">TBA</td>
-  <td rowspan="2">Goodbye!</td>
+  <td rowspan="3">TBA</td>
+  <td rowspan="3">Goodbye!</td>
 </tr>
 <tr>
   <td rowspan="2"></td>
@@ -320,8 +320,6 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td class="empty-cell"></td>
   <td>Conference Dinner <br> 19:00 onwards</td>
-  <td class="empty-cell"></td>
-  <td class="empty-cell"></td>
 </tr>
 </table>
 
