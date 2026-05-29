@@ -763,4 +763,3 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     </details>
   </details>
 {% endcomment %}
-</div>
