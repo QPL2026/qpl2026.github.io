@@ -179,8 +179,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 
 <br />
 
-## Plenary Talk Schedule
+## Monday, August 17th
 
+{% comment %}
 <div class="talk-details">
   <details id="monday-long-plenary-talks">
     <summary>Monday Long Plenary Talks 9:30 - 11:00</summary>
@@ -560,4 +561,5 @@ Below you can find an overview of the conference schedule. Here is the <a href="
       </details>
     </details>
   </details>
+{% endcomment %}
 </div>
