@@ -473,7 +473,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>14:30 – 14:55</td>
   <td>
     <span class="talk-authors">Andrey Boris Khesin, Sarah Meng Li, Boldizsár Poór, Benjamin Rodatz, John van de Wetering, Richie Yeung</span>
-    <span class="talk-title">SpiderCat: optimal fault-tolerant cat state preparation</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.05391" target="_blank" rel="noopener">SpiderCat: optimal fault-tolerant cat state preparation</a></span>
   </td>
   <td>
     <span class="talk-authors">Daniel Brod, Lorenzo Catani, Robert Spekkens</span>
@@ -481,22 +481,22 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Matthew Wilson</span>
-    <span class="talk-title">Agent policies from higher-order causal functions</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2512.10937" target="_blank" rel="noopener">Agent policies from higher-order causal functions</a></span>
   </td>
 </tr>
 <tr>
   <td>14:55 – 15:20</td>
   <td>
     <span class="talk-authors">Kwok Ho Wan, Henry Price, Qing Yao</span>
-    <span class="talk-title">Holographic codes seen through ZX-calculus</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2601.04467" target="_blank" rel="noopener">Holographic codes seen through ZX-calculus</a></span>
   </td>
   <td>
     <span class="talk-authors">Tim Achenbach, Andreas Bluhm, Leevi Leppäjärvi, Ion Nechita, Martin Plávala</span>
-    <span class="talk-title">Factorization of multimeters: a unified view on nonclassical quantum phenomena</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2504.19865" target="_blank" rel="noopener">Factorization of multimeters: a unified view on nonclassical quantum phenomena</a></span>
   </td>
   <td>
     <span class="talk-authors">V. Vilasini, Lin-Qing Chen, Liuhang Ye, Renato Renner</span>
-    <span class="talk-title">Events and their localisation are relative to a lab</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2505.21797" target="_blank" rel="noopener">Events and their localisation are relative to a lab</a></span>
   </td>
 </tr>
 <tr>
@@ -507,11 +507,11 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Cihan Okay, Aziz Kharoof</span>
-    <span class="talk-title">The geometry of fiber products of probability polytopes</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.19479" target="_blank" rel="noopener">The geometry of fiber products of probability polytopes</a></span>
   </td>
   <td>
     <span class="talk-authors">Zixuan Liu, Ognyan Oreshkov</span>
-    <span class="talk-title">Parity erasure: a foundational principle for indefinite causal order</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2512.08635" target="_blank" rel="noopener">Parity erasure: a foundational principle for indefinite causal order</a></span>
   </td>
 </tr>
 <tr>
@@ -525,18 +525,18 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Tom Williams, Mina Doosti, Farid Shahandeh</span>
-    <span class="talk-title">Sheaf-theoretic preparation contextuality via stochastic extension</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2605.00975" target="_blank" rel="noopener">Sheaf-theoretic preparation contextuality via stochastic extension</a></span>
   </td>
   <td>
     <span class="talk-authors">Luca Apadula, Alexei Grinbaum, Časlav Brukner</span>
-    <span class="talk-title">Reference frames for process matrices: from coordinate parametrization to spacetime representation</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2604.02873" target="_blank" rel="noopener">Reference frames for process matrices: from coordinate parametrization to spacetime representation</a></span>
   </td>
 </tr>
 <tr>
   <td>16:40 – 17:05</td>
   <td>
     <span class="talk-authors">Gaurang Agrawal, Matt Wilson</span>
-    <span class="talk-title">Deriving the generalised Born rule from first principles</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2511.21355" target="_blank" rel="noopener">Deriving the generalised Born rule from first principles</a></span>
   </td>
   <td>
     <span class="talk-authors">Theodoros Yianni, Farid Shahandeh, Nyan Raess</span>
@@ -544,18 +544,18 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Yassine Benhaj, Kuntal Sengupta, Cyril Branciard</span>
-    <span class="talk-title">How many systems can be dephased before the quantum switch becomes causally definite?</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2605.22807" target="_blank" rel="noopener">How many systems can be dephased before the quantum switch becomes causally definite?</a></span>
   </td>
 </tr>
 <tr>
   <td>17:05 – 17:30</td>
   <td>
     <span class="talk-authors">James Hefford, Matt Wilson</span>
-    <span class="talk-title">Quantum theory can decohere from a causally-indefinite post-quantum theory</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2511.02772" target="_blank" rel="noopener">Quantum theory can decohere from a causally-indefinite post-quantum theory</a></span>
   </td>
   <td>
     <span class="talk-authors">David Schmid, Roberto D. Baldijão, John Selby, Ana Belen Sainz, Robert W. Spekkens</span>
-    <span class="talk-title">Noncontextuality inequalities for prepare-transform-measure scenarios</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2407.09624" target="_blank" rel="noopener">Noncontextuality inequalities for prepare-transform-measure scenarios</a></span>
   </td>
   <td>
     <span class="talk-authors">Raphaël Le Bihan, Alastair Abbott, Mnacho Echenim</span>
