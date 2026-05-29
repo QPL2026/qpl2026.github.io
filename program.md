@@ -701,22 +701,22 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>14:30 – 14:55</td>
   <td>
     <span class="talk-authors">Luca Apadula, Alessandro Bisio, Giulio Chiribella, Paolo Perinotti, Kyrylo Simonov</span>
-    <span class="talk-title">Higher-order transformations of bidirectional quantum processes</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.00856" target="_blank" rel="noopener">Higher-order transformations of bidirectional quantum processes</a></span>
   </td>
   <td>
     <span class="talk-authors">Nathan Claudet, Simon Perdrix</span>
-    <span class="talk-title">Insights in graph state entanglement via r-local complementation: structure and a quasi-polynomial algorithm</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2502.06566" target="_blank" rel="noopener">Insights in graph state entanglement via r-local complementation: structure and a quasi-polynomial algorithm</a></span>
   </td>
   <td>
     <span class="talk-authors">Pablo Arrighi, Doğukan Bakircioglu, Nathan Houyet</span>
-    <span class="talk-title">Quantum theory over dual-complex numbers</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.17581" target="_blank" rel="noopener">Quantum theory over dual-complex numbers</a></span>
   </td>
 </tr>
 <tr>
   <td>14:55 – 15:20</td>
   <td>
     <span class="talk-authors">Matthew Wilson, James Hefford, Timothée Hoffreumon</span>
-    <span class="talk-title">Supermaps on generalised theories</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.23865" target="_blank" rel="noopener">Supermaps on generalised theories</a></span>
   </td>
   <td>
     <span class="talk-authors">Piotr Mitosek, Miriam Backens</span>
@@ -735,11 +735,11 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Aleks Kissinger, John van de Wetering</span>
-    <span class="talk-title">ZX-flow: a flexible criterion for deterministic computation with ZX-diagrams</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.09580" target="_blank" rel="noopener">ZX-flow: a flexible criterion for deterministic computation with ZX-diagrams</a></span>
   </td>
   <td>
     <span class="talk-authors">John Harding, Alexander Wilce</span>
-    <span class="talk-title">Classical explanations in (and of) general probabilistic theories</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.05627" target="_blank" rel="noopener">Classical explanations in (and of) general probabilistic theories</a></span>
   </td>
 </tr>
 <tr>
@@ -749,22 +749,22 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>16:15 – 16:40</td>
   <td>
     <span class="talk-authors">Thomas Bartsch, Yuhan Gai, Sakura Schäfer-Nameki</span>
-    <span class="talk-title">Beyond Wigner – how non-invertible symmetries preserve probabilities</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.07110" target="_blank" rel="noopener">Beyond Wigner – how non-invertible symmetries preserve probabilities</a></span>
   </td>
   <td>
     <span class="talk-authors">Haytham McDowall-Rose, Razin A. Shaikh, Lia Yeh</span>
-    <span class="talk-title">From fermions to qubits: a ZX-calculus perspective</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2505.06212" target="_blank" rel="noopener">From fermions to qubits: a ZX-calculus perspective</a></span>
   </td>
   <td>
     <span class="talk-authors">Amrapali Sen, Flavio Del Santo</span>
-    <span class="talk-title">Superluminal transformations and indeterminism</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2601.15263" target="_blank" rel="noopener">Superluminal transformations and indeterminism</a></span>
   </td>
 </tr>
 <tr>
   <td>16:40 – 17:05</td>
   <td>
     <span class="talk-authors">Vanessa Brzić, Satoshi Yoshida, Mio Murao, Marco Túlio Quintino</span>
-    <span class="talk-title">Higher-order quantum computing with known input states</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2510.20530" target="_blank" rel="noopener">Higher-order quantum computing with known input states</a></span>
   </td>
   <td>
     <span class="talk-authors">Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li, John van de Wetering</span>
@@ -772,7 +772,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Maarten Grothus, V. Vilasini</span>
-    <span class="talk-title">Impossibility of superluminal signalling rules out causal loops in conical spacetimes</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2403.00916" target="_blank" rel="noopener">Impossibility of superluminal signalling rules out causal loops in conical spacetimes</a></span>
   </td>
 </tr>
 <tr>

@@ -257,7 +257,7 @@ permalink: /accepted/
     </tr>
     <tr>
       <td style="vertical-align: top; padding: 8px;">Shashaank Khanna<br>Matthew Pusey<br>Roger Colbeck</td>
-      <td style="vertical-align: top; padding: 8px;">Identifying causal structures which cannot support quantum correlations without fine-</td>
+      <td style="vertical-align: top; padding: 8px;">Identifying causal structures which cannot support quantum correlations without fine-tuning</td>
     </tr>
     <tr>
       <td style="vertical-align: top; padding: 8px;">Maarten Grothus<br>V. Vilasini</td>
