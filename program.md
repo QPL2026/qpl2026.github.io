@@ -130,10 +130,11 @@ permalink: /program/
   }
 
   .schedule-table .talk-title a::after {
-    content: " \1F4C4";
+    content: "\1F4C4";
     font-size: 0.85em;
     text-decoration: none;
     display: inline-block;
+    margin-left: 0.35em;
   }
 </style>
 
