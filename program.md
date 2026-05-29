@@ -115,6 +115,26 @@ permalink: /program/
     font-weight: 700;
     font-size: 0.95em;
   }
+
+  /* Titles with a paper link keep the same dark red, but are
+     underlined and carry an external-link arrow so they are
+     visually distinct from titles that have no paper. */
+  .schedule-table .talk-title a {
+    color: #7e1b1b;
+    text-decoration: underline;
+  }
+
+  .schedule-table .talk-title a:hover,
+  .schedule-table .talk-title a:focus {
+    color: #5a1313;
+  }
+
+  .schedule-table .talk-title a::after {
+    content: " \2197";
+    font-size: 0.85em;
+    text-decoration: none;
+    display: inline-block;
+  }
 </style>
 
 
