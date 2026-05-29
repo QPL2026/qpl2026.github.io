@@ -30,7 +30,7 @@
   titlec(text(size: 9.5pt, title))
 }))
 
-= QPL 2026 program (17 -- 21 August 2026 in Amsterdam, The Netherlands)
+= QPL 2026 program (17 -- 21 August 2026 in Amsterdam, NL)
 
 == Overview of the program
 
