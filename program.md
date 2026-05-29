@@ -240,11 +240,11 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 <tr>
   <td>9:30 – 10:15</td>
-  <td rowspan="2" style="background-color: #7fcff4"><a href="#monday-long-plenary-talks">Long Plenary Talks</a></td>
-  <td rowspan="2" style="background-color: #7fcff4"><a href="#tuesday-long-plenary-talks">Long Plenary Talks</a></td>
-  <td rowspan="2" style="background-color: #7fcff4"><a href="#wednesday-long-plenary-talks">Long Plenary Talks</a></td>
-  <td rowspan="2" style="background-color: #7fcff4"><a href="#thursday-long-plenary-talks">Long Plenary Talks</a></td>
-  <td rowspan="2" style="background-color: #7fcff4"><a href="#friday-long-plenary-talks">Long Plenary Talks</a></td>
+  <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
+  <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
+  <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
+  <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
+  <td rowspan="2" style="background-color: #7fcff4">Long Plenary Talks</td>
 </tr>
 <tr>
   <td>10:15 – 11:00</td>
@@ -255,10 +255,10 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 <tr>
   <td>11:30 – 11:55</td>
-  <td rowspan="2" style="background-color: #bfe6cc"><a href="#monday-short-plenary-talks">Short Plenary Talks</a></td>
-  <td rowspan="2" style="background-color: #bfe6cc"><a href="#tuesday-short-plenary-talks">Short Plenary Talks</a></td>
+  <td rowspan="2" style="background-color: #bfe6cc">Short Plenary Talks</td>
+  <td rowspan="2" style="background-color: #bfe6cc">Short Plenary Talks</td>
   <td rowspan="2">Industry Session</td>
-  <td style="background-color: #bfe6cc"><a href="#thursday-short-plenary-talk">Short Plenary Talk</a></td>
+  <td style="background-color: #bfe6cc">Short Plenary Talk</td>
   <td rowspan="2">Business Meeting</td>
 </tr>
 <tr>
@@ -271,7 +271,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 <tr>
   <td>14:30 – 14:55</td>
-  <td rowspan="3" class="parallel-session"><a href="#monday-parallel-sessions-1">Parallel Sessions</a></td>
+  <td rowspan="3" class="parallel-session">Parallel Sessions</td>
   <td rowspan="3" class="parallel-session">Parallel Sessions</td>
   <td rowspan="3" class="parallel-session">Parallel Sessions</td>
   <td rowspan="5" class="parallel-session">Parallel Sessions<br>14:30 – 16:10</td>
@@ -290,7 +290,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 <tr>
   <td>16:15 – 16:40</td>
-  <td rowspan="3" class="parallel-session"><a href="#monday-parallel-sessions-2">Parallel Sessions</a></td>
+  <td rowspan="3" class="parallel-session">Parallel Sessions</td>
   <td rowspan="3" class="parallel-session">Parallel Sessions</td>
   <td rowspan="2" class="parallel-session">Parallel Sessions<br>16:15 – 17:05</td>
   <td rowspan="2" class="parallel-session">Parallel Sessions<br>16:15 – 17:05</td>
