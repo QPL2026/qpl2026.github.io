@@ -1,0 +1,470 @@
+// QPL 2026 program, styled after qpl_program.pdf (Typst-generated, Libertinus Serif)
+
+#set page(paper: "a4", margin: (x: 2.5cm, y: 2cm), numbering: "1")
+#set text(font: "Libertinus Serif", size: 10.5pt)
+#set par(justify: false, leading: 0.55em)
+#show heading.where(level: 1): set text(size: 16pt, weight: "bold")
+#show heading.where(level: 2): set text(size: 13pt, weight: "bold")
+#show heading.where(level: 3): set text(size: 11pt, weight: "bold")
+
+// Palette mirroring program.md
+#let c-plenary     = rgb("#7fcff4")  // long plenary (light blue)
+#let c-plenary2    = rgb("#bfe6cc")  // short plenary (light green)
+#let c-parallel    = rgb("#f6e58d")  // parallel sessions (yellow)
+#let c-poster      = rgb("#f7c98b")  // poster session (light orange)
+#let c-break       = rgb("#e8eef5")  // coffee/lunch (soft grey-blue)
+#let c-special     = rgb("#f7c98b")  // boat tour / dinner (peach, matches poster tone)
+#let c-especial    = rgb("#bfe6cc")  // career fair (light green)
+#let c-chair-bg    = rgb("#dfeefa")  // session band (very light blue)
+#let c-title       = rgb("#7e1b1b")
+
+// Helpers
+#let titlec(t)  = text(fill: c-title, weight: "bold", t)
+#let chairrow(label) = table.cell(fill: c-chair-bg, colspan: 2, align: center, text(size: 9pt, label))
+#let banner(label, col: 2, fill: none) = table.cell(fill: fill, colspan: col, align: center, label)
+#let cellc(fill, body, ..rest) = table.cell(fill: fill, align: center + horizon, ..rest, body)
+#let timec(t) = align(center + horizon, t)
+#let talkcell(authors, title) = block(breakable: false, align(center + horizon, {
+  text(size: 9.5pt, authors)
+  linebreak()
+  titlec(text(size: 9.5pt, title))
+}))
+
+= QPL 2026 program (17 -- 21 August 2026 in Amsterdam, The Netherlands)
+
+== Overview of the program
+
+Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the University of Amsterdam’s Roeterseiland campus. The conference runs through Friday, August 21, 2026, with three parallel sessions each afternoon. On Wednesday, there is a boat tour and conference dinner after the parallel sessions.
+
+#v(0.4em)
+
+#let plen     = cellc(c-plenary, [Plenary\ sessions])
+#let para     = cellc(c-parallel, [Parallel\ sessions])
+#let coffee5  = table.cell(colspan: 5, fill: c-break, align: center, [Coffee break])
+#let lunch5   = table.cell(colspan: 5, fill: c-break, align: center, [Lunch break])
+
+#table(
+  columns: (2.2cm, 1fr, 1fr, 1fr, 1fr, 1fr),
+  stroke: 0.5pt + black,
+  align: center + horizon,
+  inset: 6pt,
+  // Header
+  [], [*Monday*], [*Tuesday*], [*Wednesday*], [*Thursday*], [*Friday*],
+  // 8:50 - 9:30: Registration on Monday only
+  [8:50 -- 9:30], [Registration\ (until 9:30)], [], [], [], [],
+  // 9:30 - 10:15: Plenary on all days
+  [9:30 -- 10:15], plen, plen, plen, plen, plen,
+  [10:15 -- 11:00], plen, plen, plen, plen, plen,
+  // Coffee break
+  [11:00 -- 11:30], coffee5,
+  // Short plenary / industry / business
+  [11:30 -- 11:55],
+    cellc(c-plenary2, [Plenary]),
+    cellc(c-plenary2, [Plenary]),
+    cellc(none, [Industry\ session]),
+    cellc(c-plenary2, [Plenary]),
+    cellc(none, [Business\ meeting]),
+  [11:55 -- 12:20],
+    cellc(c-plenary2, [Plenary]),
+    cellc(c-plenary2, [Plenary]),
+    cellc(none, [Industry\ session]),
+    cellc(none, [Conference\ photo]),
+    cellc(none, [Business\ meeting]),
+  // Lunch
+  [12:30 -- 14:30], lunch5,
+  // Parallel afternoon block 1
+  [14:30 -- 14:55], para, para, para, para, para,
+  [14:55 -- 15:20], para, para, para, para, para,
+  [15:20 -- 15:45], para, para, para, para, para,
+  [15:45 -- 16:10],
+    table.cell(colspan: 3, fill: c-break, align: center, [Coffee break]),
+    para,
+    table.cell(colspan: 1, fill: c-break, align: center, [Coffee break]),
+  // Parallel afternoon block 2 (Thu has coffee here, parallel ends at 16:10)
+  [16:15 -- 16:40], para, para, para,
+    table.cell(fill: c-break, align: center, [Coffee break]),
+    para,
+  [16:40 -- 17:05], para, para, para,
+    cellc(c-especial, [Career fair]),
+    para,
+  [17:05 -- 17:30], para, para,
+    cellc(c-special, [Boat tour]),
+    cellc(c-especial, [Career fair]),
+    [Goodbye!],
+  // Evening
+  [17:30 -- 19:00], [],
+    cellc(c-poster, [Poster session\ (with reception)]),
+    cellc(c-special, [Boat tour\ (until 18:30)]),
+    cellc(c-especial, [Career fair]),
+    [],
+  [19:00 -- 22:00], [], [],
+    cellc(c-special, [Conference\ dinner]),
+    [], [],
+)
+
+#pagebreak()
+
+== Monday, August 17th
+
+#table(
+  columns: (3cm, 1fr),
+  stroke: 0.5pt,
+  inset: 6pt,
+  align: left + horizon,
+  timec[8:50 -- 9:30], align(center, [Registration]),
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Long plenary talks])),
+  timec[9:30 -- 10:15], talkcell(
+    [Alex Maltesson, Ludvig Rodung, Niklas Budinger, Giulia Ferrini, Cameron Calcluth],
+    [Equivalence of continuous- and discrete-variable gate-based quantum computers with finite energy]
+  ),
+  timec[10:15 -- 11:00], talkcell(
+    [Raphaël Mothe, Jessica Bavaresco],
+    [Efficient quantum-circuit simulation of classical control of causal order]
+  ),
+  table.cell(colspan: 2, fill: c-break, align: center)[Coffee break],
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Short plenary talks])),
+  timec[11:30 -- 11:55], talkcell(
+    [Vinicius Pretti Rossi, Beata Zjawin, Roberto D. Baldijão, David Schmid, John H. Selby, Ana Belén Sainz],
+    [How typical is contextuality?]
+  ),
+  timec[11:55 -- 12:20], talkcell(
+    [Dichuan Gao, Razin A. Shaikh, Aleks Kissinger],
+    [Graphical Algebraic Geometry: From Ideals and Varieties to Qudit ZH Completeness]
+  ),
+  table.cell(colspan: 2, fill: c-break, align: center)[Lunch break],
+)
+
+#v(0.5em)
+
+#table(
+  columns: (2.4cm, 1fr, 1fr, 1fr),
+  stroke: 0.5pt,
+  inset: 5pt,
+  align: left + horizon,
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [])),
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel A])),
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel B])),
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel C])),
+  timec[14:30 -- 14:55],
+    talkcell([Yìlè Yīng, Maria Ciudad Alanon, Daniel Centeno, Jacopo Surace, Marina Maciel Ansanelli, Ruizhi Liu, David Schmid, Robert Spekkens],
+      [On whether quantum theory needs complex numbers: the foil theories perspective]),
+    talkcell([Tomoaki Kawano, Ryo Kashima], [Restricted Negation in Orthomodular Logic]),
+    talkcell([Alexandre Clément], [A Complete Equational Theory for Real-Clifford+CH Quantum Circuits]),
+  timec[14:55 -- 15:20],
+    talkcell([Timothée Hoffreumon, Mischa P. Woods], [On the experimental falsification of Real QT / A real matrix theory consistent with QT (merged)]),
+    talkcell([Alexandru Baltag, Sonja Smets], [Logic Meets Wigner's Friend (and their Friends)]),
+    talkcell([Xiaoning Bian, Sarah Meng Li, Neil J. Ross, John van de Wetering, Yuming Zhao],
+      [A Complete and Natural Rule Set for Multi-Qudit Clifford Circuits in All Odd Prime Dimensions]),
+  timec[15:20 -- 15:45],
+    talkcell([Roberto D. Baldijão, Marco Erba, David Schmid, John Selby, Ana Belén Sainz],
+      [Tomographically-Nonlocal Entanglement]),
+    talkcell([Bert Lindenhovius, Vladimir Zamdzhiev],
+      [Operator Spaces, Linear Logic and the Heisenberg--Schrödinger Duality of Quantum Theory]),
+    talkcell([Colin Blake], [Completeness for Prime-Dimensional Phase-Affine Circuits]),
+  table.cell(colspan: 4, fill: c-break, align: center)[Coffee break],
+  timec[16:15 -- 16:40],
+    talkcell([Beata Zjawin, Marina Maciel Ansanelli, David Schmid, Yìlè Yīng, John H. Selby, Ciarán M. Gilligan-Lee, Ana Belén Sainz, Robert Spekkens],
+      [The resource theory of causal influence and knowledge of causal influence]),
+    talkcell([Priyaa Varshinee Srinivasan, Jean-Simon Pacaud Lemay, Robin Cockett],
+      [Generalized Inverses of Quantum Channels: a categorical perspective]),
+    talkcell([Fedor Kuyanov, Aleks Kissinger],
+      [Efficient Classical Simulation of Low-Rank-Width Quantum Circuits Using ZX-Calculus]),
+  timec[16:40 -- 17:05],
+    talkcell([Leonardo Vaglini, Nasra Daher Ahmed, Ravi Kunjwal],
+      [Causal Inequalities witness non-stabilizerness without magic]),
+    talkcell([Andre Kornell, Bert Lindenhovius], [The category of quantum graphs is closed]),
+    talkcell([Kwok Ho Wan, Zhenghao Zhong, Ainhoa Zapirain],
+      [Simulating magic state cultivation with few Clifford terms]),
+  timec[17:05 -- 17:30],
+    talkcell([Carla Ferradini, Giulia Mazzola, V. Vilasini],
+      [Emergent causal order and time direction: bridging causal models and tensor networks]),
+    talkcell([James Hefford], [Nuclearity and Trace in Monoidal Bicategories with Application to Extended CFTs]),
+    talkcell([Mark Koch], [Classical Clifford+T sampling without computing marginals]),
+)
+
+#pagebreak()
+
+== Tuesday, August 18th
+
+#table(
+  columns: (3cm, 1fr),
+  stroke: 0.5pt,
+  inset: 6pt,
+  align: left + horizon,
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Long plenary talks])),
+  timec[9:30 -- 10:15], talkcell(
+    [Maximilian Rüsch, Aleks Kissinger, Benjamin Rodatz #h(1em) / #h(1em) Benjamin Rodatz, Boldizsár Poór, Aleks Kissinger],
+    [Completeness for Fault Equivalence of Clifford ZX Diagrams / Fault Tolerance by Construction]
+  ),
+  timec[10:15 -- 11:00], talkcell(
+    [Samson Abramsky, Rui Soares Barbosa, Carmen Constantin, Martti Karvonen],
+    [Algebraic paradoxes in adaptive quantum computation]
+  ),
+  table.cell(colspan: 2, fill: c-break, align: center)[Coffee break],
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Short plenary talks])),
+  timec[11:30 -- 11:55], talkcell(
+    [Manuel Mekonnen, Thomas D. Galley, Markus P. Müller],
+    [Invariance under quantum permutations rules out parastatistics]
+  ),
+  timec[11:55 -- 12:20], talkcell(
+    [Marek Arsenault, Hlér Kristjánsson],
+    [A higher-order perspective on quantum signal processing]
+  ),
+  table.cell(colspan: 2, fill: c-break, align: center)[Lunch break],
+)
+
+#v(0.5em)
+
+#table(
+  columns: (2.4cm, 1fr, 1fr, 1fr),
+  stroke: 0.5pt,
+  inset: 5pt,
+  align: left + horizon,
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [])),
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel A])),
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel B])),
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel C])),
+  timec[14:30 -- 14:55],
+    talkcell([Andrey Boris Khesin, Sarah Meng Li, Boldizsár Poór, Benjamin Rodatz, John van de Wetering, Richie Yeung],
+      [SpiderCat: Optimal Fault-Tolerant Cat State Preparation]),
+    talkcell([Daniel Brod, Lorenzo Catani, Robert Spekkens],
+      [The toy theory is the unique noncontextual theory satisfying $A_1^3$-symmetry]),
+    talkcell([Matthew Wilson], [Agent policies from higher-order causal functions]),
+  timec[14:55 -- 15:20],
+    talkcell([Kwok Ho Wan, Henry Price, Qing Yao], [Holographic codes seen through ZX-calculus]),
+    talkcell([Tim Achenbach, Andreas Bluhm, Leevi Leppäjärvi, Ion Nechita, Martin Plávala],
+      [Factorization of multimeters: a unified view on nonclassical quantum phenomena]),
+    talkcell([V. Vilasini, Lin-Qing Chen, Liuhang Ye, Renato Renner],
+      [Events and their Localisation are Relative to a Lab]),
+  timec[15:20 -- 15:45],
+    talkcell([Cole Comfort, Giovanni de Felice], [The delayed stabiliser ZX-calculus]),
+    talkcell([Cihan Okay, Aziz Kharoof], [The geometry of fiber products of probability polytopes]),
+    talkcell([Zixuan Liu, Ognyan Oreshkov], [Parity erasure: a foundational principle for indefinite causal order]),
+  table.cell(colspan: 4, fill: c-break, align: center)[Coffee break],
+  timec[16:15 -- 16:40],
+    talkcell([Vincenzo Fiorentino, Kuntal Sengupta],
+      [Superposition and its connections to Uncertainty, Entanglement and the Quantum Tensor Product]),
+    talkcell([Tom Williams, Mina Doosti, Farid Shahandeh],
+      [Sheaf-Theoretic Preparation Contextuality via Stochastic Extension]),
+    talkcell([Luca Apadula, Alexei Grinbaum, Časlav Brukner],
+      [Reference frames for process matrices: from coordinate parametrization to spacetime representation]),
+  timec[16:40 -- 17:05],
+    talkcell([Gaurang Agrawal, Matt Wilson], [Deriving the Generalised Born Rule from First Principles]),
+    talkcell([Theodoros Yianni, Farid Shahandeh, Nyan Raess],
+      [Linear Algebra of Generalized Contextuality in Prepare-Transform-Measure Scenarios]),
+    talkcell([Yassine Benhaj, Kuntal Sengupta, Cyril Branciard],
+      [How many systems can be dephased before the quantum switch becomes causally definite?]),
+  timec[17:05 -- 17:30],
+    talkcell([James Hefford, Matt Wilson],
+      [Quantum Theory Can Decohere from a Causally-Indefinite Post-Quantum Theory]),
+    talkcell([David Schmid, Roberto D. Baldijão, John Selby, Ana Belen Sainz, Robert W. Spekkens],
+      [Noncontextuality inequalities for prepare-transform-measure scenarios]),
+    talkcell([Raphaël Le Bihan, Alastair Abbott, Mnacho Echenim],
+      [Probing the composition of processes with first-order-ISOMIX logic]),
+  table.cell(colspan: 4, fill: c-poster, align: center)[Poster session (with reception) #h(1em) 17:30 -- 19:30],
+)
+
+#pagebreak()
+
+== Wednesday, August 19th
+
+#table(
+  columns: (3cm, 1fr),
+  stroke: 0.5pt,
+  inset: 6pt,
+  align: left + horizon,
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Long plenary talks])),
+  timec[9:30 -- 10:15], talkcell(
+    [Miriam Backens, Simon Perdrix #h(1em) / #h(1em) Miriam Backens],
+    [Completeness for flow-preserving rewrite rules / Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation]
+  ),
+  timec[10:15 -- 11:00], talkcell(
+    [Quanlong Wang, Richard D. P. East, Razin A. Shaikh, Lia Yeh, Boldizsár Poór, Bob Coecke],
+    [Beyond Penrose tensor diagrams with the ZX calculus: Applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity]
+  ),
+  table.cell(colspan: 2, fill: c-break, align: center)[Coffee break],
+  table.cell(colspan: 2, align: center, text(weight: "bold", [Industry session #h(1em) 11:30 -- 12:20])),
+  table.cell(colspan: 2, fill: c-break, align: center)[Lunch break],
+)
+
+#v(0.5em)
+
+#table(
+  columns: (2.4cm, 1fr, 1fr, 1fr),
+  stroke: 0.5pt,
+  inset: 5pt,
+  align: left + horizon,
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [])),
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel A])),
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel B])),
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel C])),
+  timec[14:30 -- 14:55],
+    talkcell([Luca Apadula, Alessandro Bisio, Giulio Chiribella, Paolo Perinotti, Kyrylo Simonov],
+      [Higher-order transformations of bidirectional quantum processes]),
+    talkcell([Nathan Claudet, Simon Perdrix],
+      [Insights in Graph State Entanglement via r-Local Complementation: Structure and a Quasi-Polynomial Algorithm]),
+    talkcell([Pablo Arrighi, Doğukan Bakircioglu, Nathan Houyet],
+      [Quantum theory over dual-complex numbers]),
+  timec[14:55 -- 15:20],
+    talkcell([Matthew Wilson, James Hefford, Timothée Hoffreumon], [Supermaps on generalised theories]),
+    talkcell([Piotr Mitosek, Miriam Backens], [Working with measurement-based computations on qudits]),
+    talkcell([Nicolas Moulonguet, Augustin Vanrietvelde],
+      [Subsystems as subsets of quantum channels, and the strange case of blind agents]),
+  timec[15:20 -- 15:45],
+    talkcell([Samson Abramsky, Radha Jagadeesan], [Essential Unitarity for Higher-Order Quantum Computation]),
+    talkcell([Aleks Kissinger, John van de Wetering],
+      [ZX-Flow: A Flexible Criterion for Deterministic Computation with ZX-Diagrams]),
+    talkcell([John Harding, Alexander Wilce],
+      [Classical explanations in (and of) general probabilistic theories]),
+  table.cell(colspan: 4, fill: c-break, align: center)[Coffee break],
+  timec[16:15 -- 16:40],
+    talkcell([Thomas Bartsch, Yuhan Gai, Sakura Schäfer-Nameki],
+      [Beyond Wigner -- How Non-Invertible Symmetries Preserve Probabilities]),
+    talkcell([Haytham McDowall-Rose, Razin A. Shaikh, Lia Yeh],
+      [From Fermions to Qubits: A ZX-Calculus Perspective]),
+    talkcell([Amrapali Sen, Flavio Del Santo], [Superluminal Transformations and Indeterminism]),
+  timec[16:40 -- 17:05],
+    talkcell([Vanessa Brzić, Satoshi Yoshida, Mio Murao, Marco Túlio Quintino],
+      [Higher-order quantum computing with known input states]),
+    talkcell([Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li, John van de Wetering],
+      [A Three-Way Normal Form for Stabiliser Codes across ZX Diagrams, Circuits, and Tableaus]),
+    talkcell([Maarten Grothus, V. Vilasini],
+      [Impossibility of superluminal signalling rules out causal loops in conical spacetimes]),
+  table.cell(colspan: 4, fill: c-special, align: center)[Boat tour #h(1em) 17:30 -- 18:30],
+  table.cell(colspan: 4, fill: c-special, align: center)[Conference dinner #h(1em) starting 19:00],
+)
+
+#pagebreak()
+
+== Thursday, August 20th
+
+#table(
+  columns: (3cm, 1fr),
+  stroke: 0.5pt,
+  inset: 6pt,
+  align: left + horizon,
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Long plenary talks])),
+  timec[9:30 -- 10:15], talkcell(
+    [Cole Comfort, Robert I. Booth],
+    [Denotational semantics for stabiliser quantum programs]
+  ),
+  timec[10:15 -- 11:00], talkcell(
+    [Kathleen Barsse, Romain Péchoux, Simon Perdrix],
+    [Quantum Control and General Recursion beyond the Unitary Case]
+  ),
+  table.cell(colspan: 2, fill: c-break, align: center)[Coffee break],
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Short plenary talk])),
+  timec[11:30 -- 11:55], talkcell(
+    [Aabhas Gulati, Ion Nechita, Clément Pellegrini],
+    [Entanglement in the Dicke Subspace]
+  ),
+  table.cell(colspan: 2, align: center, text(weight: "bold", [Conference photo #h(1em) 11:55 -- 12:20])),
+  table.cell(colspan: 2, fill: c-break, align: center)[Lunch break],
+)
+
+#v(0.5em)
+
+#table(
+  columns: (2.4cm, 1fr, 1fr, 1fr),
+  stroke: 0.5pt,
+  inset: 5pt,
+  align: left + horizon,
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [])),
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel A])),
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel B])),
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel C])),
+  timec[14:30 -- 14:55],
+    talkcell([Arianne Meijer-van de Griend, Leo Becker],
+      [Pauli Gadget Synthesis for Gatesets with Arbitrary Even-Arity Clifford Gates]),
+    talkcell([Haruki Emori], [Quantum statistical functions]),
+    talkcell([Nadish de Silva, Santanil Jana, Ming Yin],
+      [Three-qubit nonlocality paradoxes: beyond GHZ]),
+  timec[14:55 -- 15:20],
+    talkcell([Soichiro Yamazaki, Seiseki Akibue], [Multi-qubit controlled gate with optimal T-count]),
+    talkcell([Michael Zurel, Jack Davis],
+      [Basis-independent stabilizerness and maximally noisy magic states]),
+    talkcell([Shashaank Khanna, Matthew Pusey, Roger Colbeck],
+      [Identifying causal structures which cannot support quantum correlations without fine-tuning]),
+  timec[15:20 -- 15:45],
+    talkcell([Akash Kundu],
+      [Tensor and gadget reinforcement learning for improved, hardware-aware quantum architecture search]),
+    talkcell([Cameron Calcluth, Oliver Hahn, Juani Bermejo Vega, Alessandro Ferraro, Giulia Ferrini],
+      [Classical simulation of circuits with realistic odd-dimensional Gottesman--Kitaev--Preskill states]),
+    talkcell([C. E. Lopetegui-Gonzalez, G. Masse, E. Oudot, U. I. Meyer, F. Centrone, F. Grosshans, P. E. Emeriau, U. Chabaud, M. Walschaers],
+      [A unified framework for Bell inequalities from continuous-variable contextuality]),
+  timec[15:45 -- 16:10],
+    talkcell([Mark Deaconu, Nihar Gargava, Amolak Ratan Kalra, Michele Mosca, Jon Yard],
+      [Buildings for Synthesis with Clifford+R]),
+    talkcell([Massimo Frigerio, Mattia Walschaers, Andrei Aralov, Carlos Ernesto Lopetegui-Gonzalez, Emilie Gillet],
+      [Algebraic techniques for photonic state preparation and characterization]),
+    talkcell([Martin J. Renner, Edwin Peter Lobo, Arturo Konderak, Remigiusz Augusiak, Antonio Acín],
+      [Full nonlocality for non-maximally entangled states]),
+  table.cell(colspan: 4, fill: c-break, align: center)[Coffee break #h(1em) 16:10 -- 16:40],
+  table.cell(colspan: 4, fill: c-especial, align: center, [Career fair #h(1em) 16:40 -- 19:00]),
+)
+
+#pagebreak()
+
+== Friday, August 21st
+
+#table(
+  columns: (3cm, 1fr),
+  stroke: 0.5pt,
+  inset: 6pt,
+  align: left + horizon,
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Long plenary talks])),
+  timec[9:30 -- 10:15], talkcell(
+    [Thea Li, Vladimir Zamdzhiev],
+    [Quantum Coherence Spaces Revisited: A von Neumann (Co)Algebraic Approach]
+  ),
+  timec[10:15 -- 11:00], talkcell(
+    [Matilde Baroni, Dominik Leichtle, Ivan Šupić, Damian Markham, Marco Túlio Quintino],
+    [Composable simultaneous purification: when all communication scenarios reduce to spatial correlations]
+  ),
+  table.cell(colspan: 2, fill: c-break, align: center)[Coffee break],
+  table.cell(colspan: 2, align: center, text(weight: "bold", [Business meeting #h(1em) 11:30 -- 12:20])),
+  table.cell(colspan: 2, fill: c-break, align: center)[Lunch break],
+)
+
+#v(0.5em)
+
+#table(
+  columns: (2.4cm, 1fr, 1fr, 1fr),
+  stroke: 0.5pt,
+  inset: 5pt,
+  align: left + horizon,
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [])),
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel A])),
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel B])),
+  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel C])),
+  timec[14:30 -- 14:55],
+    talkcell([Simon Burton, Hussain Anwar], [Meromorphic Quantum Computing]),
+    talkcell([Noé Delorme, Simon Perdrix],
+      [Diagrammatic Reasoning with Control as a Constructor, Applications to Quantum Circuits]),
+    talkcell([David Schmid, John H. Selby, Vinicius Pretti Rossi, Roberto D. Baldijão, Ana Belén Sainz],
+      [Shadows and subsystems of generalised probabilistic theories: when tomographic incompleteness is not a loophole for contextuality proofs]),
+  timec[14:55 -- 15:20],
+    talkcell([Christine Li, Lia Yeh], [Transversal AND in Quantum Codes]),
+    talkcell([Chris Heunen, Robin Kaarsgaard, Louis Lemonnier], [One rig to control them all]),
+    talkcell([Jan-Åke Larsson], [The contextual Heisenberg microscope]),
+  timec[15:20 -- 15:45],
+    talkcell([Jin Ming Koh, Anqi Gong, Andrei C. Diaconu, Daniel Bochen Tan, Alexandra A. Geim, Michael J. Gullans, Norman Y. Yao, Mikhail D. Lukin, Shayan Majidy],
+      [Phantom codes: Entangling logical qubits without physical operations]),
+    talkcell([William Schober, Scott Wesley],
+      [A Complete Equational Theory for Quantum Circuits with Generalized Control]),
+    talkcell([Daniel McNulty], [Quantifying Quantum Measurement Incompatibility via Graph Invariants]),
+  table.cell(colspan: 4, fill: c-break, align: center)[Coffee break],
+  timec[16:15 -- 16:40],
+    talkcell([Vivien Vandaele], [Asymptotically Optimal Quantum Circuits for Comparators and Incrementers]),
+    talkcell([Sacha Cerf, Harold Ollivier], [The perturbative method for quantum correlations]),
+    talkcell([Raffaele D'Avino, Lorenzo Caramelli, Raja Yehia, Gabriel Senno, Roberto González Pousa, Antonio Acín, Tamás Kriváchy],
+      [Device Independent Quantum Key Distribution with a Single Measurement per Site]),
+  timec[16:40 -- 17:05],
+    talkcell([Giuseppe De Riso, Giuseppe Catalano, Seth Lloyd, Vittorio Giovannetti, Dario De Santis],
+      [A resource-efficient quantum-walker Quantum RAM]),
+    talkcell([Subhendu Bikas Ghosh, Snehasish Roy Chowdhury, Guruprasad Kar, Arup Roy, Tamal Guha, Manik Banik],
+      [Strong Inequivalence of Quantum Nonlocal Resources]),
+    talkcell([Paul Becsi, Matthew Joseph Hoban],
+      [Bounding Classical and Quantum Correlations in Bayesian Networks with Quasiprobabilities]),
+  table.cell(colspan: 4, align: center, text(weight: "bold", [End of QPL 2026. Goodbye!])),
+)
