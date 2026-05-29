@@ -136,10 +136,81 @@ permalink: /program/
     display: inline-block;
     margin-left: 0.35em;
   }
+
+  /* Collapsible per-day schedule sections */
+  .day-section {
+    margin: 1.25rem 0;
+    border: 1px solid #cdd7e0;
+    border-radius: 0.75rem;
+    overflow: hidden;
+  }
+
+  .day-section > summary {
+    cursor: pointer;
+    list-style: none;
+    padding: 0.85rem 1.25rem;
+    background-color: #dfeefa;
+    color: #0b1f3a;
+    font-size: 1.35rem;
+    font-weight: 700;
+  }
+
+  .day-section > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .day-section > summary::after {
+    content: "\25B8";
+    float: right;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  .day-section[open] > summary {
+    border-bottom: 1px solid #cdd7e0;
+  }
+
+  .day-section[open] > summary::after {
+    content: "\25BE";
+  }
+
+  .day-section .day-body {
+    padding: 0.75rem 1.25rem 1.25rem;
+  }
+
+  /* "Go to today's talk" button */
+  .today-button {
+    display: inline-block;
+    margin: 0.5rem 0 1rem;
+    padding: 0.6rem 1.3rem;
+    background-color: #0b1f3a;
+    color: #fff;
+    border: none;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  .today-button:hover,
+  .today-button:focus {
+    background-color: #16335f;
+  }
+
+  .today-note {
+    margin: 0 0 1rem;
+    font-size: 0.9rem;
+    color: #555;
+  }
 </style>
 
 
 Below you can find an overview of the conference schedule. Here is the <a href="{{ '/assets/pdfs/QPL_2026_Program.pdf' | relative_url }}" target="_blank" rel="noopener">full schedule in table formatting</a>. 
+
+<p>
+  <button type="button" id="today-talk-btn" class="today-button">📅 Go to today's talks</button>
+</p>
+<p class="today-note" id="today-note"></p>
 
 
 <table class="program-table">
@@ -244,7 +315,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 
 <br />
 
-## Monday, August 17th
+<details class="day-section" id="day-monday" data-date="2026-08-17" open>
+<summary>Monday, August 17th</summary>
+<div class="day-body">
 
 <table class="schedule-table">
 <colgroup>
@@ -405,9 +478,12 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 </table>
 
-<br />
+</div>
+</details>
 
-## Tuesday, August 18th
+<details class="day-section" id="day-tuesday" data-date="2026-08-18">
+<summary>Tuesday, August 18th</summary>
+<div class="day-body">
 
 <table class="schedule-table">
 <colgroup>
@@ -566,6 +642,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="break-row" colspan="4" style="background-color: #f7c98b">Poster session (with reception) 17:30 – 19:30</td>
 </tr>
 </table>
+
+</div>
+</details>
 
 {% comment %}
 <div class="talk-details">
@@ -948,3 +1027,56 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     </details>
   </details>
 {% endcomment %}
+
+<script>
+  (function () {
+    function pad(n) { return (n < 10 ? '0' : '') + n; }
+
+    function goToToday(announce) {
+      var sections = Array.prototype.slice.call(
+        document.querySelectorAll('.day-section[data-date]')
+      );
+      if (!sections.length) { return; }
+
+      var now = new Date();
+      var todayStr = now.getFullYear() + '-' + pad(now.getMonth() + 1) + '-' + pad(now.getDate());
+
+      // Prefer an exact match for today; otherwise fall back to the next
+      // upcoming conference day, or the last day once the conference is over.
+      var target = null;
+      var upcoming = null;
+      sections.forEach(function (s) {
+        var d = s.getAttribute('data-date');
+        if (d === todayStr) { target = s; }
+        if (!upcoming && d >= todayStr) { upcoming = s; }
+      });
+      var exact = !!target;
+      if (!target) { target = upcoming || sections[sections.length - 1]; }
+
+      // Open the target day, collapse the others, and scroll to it.
+      sections.forEach(function (s) {
+        if (s === target) { s.setAttribute('open', ''); }
+        else { s.removeAttribute('open'); }
+      });
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+
+      if (announce) {
+        var note = document.getElementById('today-note');
+        if (note) {
+          var label = target.querySelector('summary');
+          var name = label ? label.textContent.trim() : 'the schedule';
+          note.textContent = exact
+            ? "Showing today's talks: " + name + '.'
+            : "No talks scheduled for today — showing the next session: " + name + '.';
+        }
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+      var btn = document.getElementById('today-talk-btn');
+      if (btn) {
+        btn.addEventListener('click', function () { goToToday(true); });
+      }
+    });
+  })();
+</script>
