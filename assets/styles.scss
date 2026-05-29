@@ -16,24 +16,43 @@ styles: true
 }
 
 // Give the overall page a bit more room on large desktop screens
-// (theme default is 1200px).
+// (theme default is 1200px). This widening is wanted on content-heavy pages
+// like the program/schedule tables.
 .container {
   max-width: 1400px;
 }
 
-// Keep all header menu items on a single line on desktop. The menu outgrew
-// one line's width (Sponsors / Code of Conduct / Accepted Submissions were
-// added), so shrink the nav link font size and tighten the spacing between
-// items. On phones the nav collapses to a menu button, so this is desktop-only.
+// Home page only: match the more comfortable boundary used on
+// https://qpl2025.github.io/ — a 1200px container plus the theme's default
+// 62% content column. This gives wider left/right margins and keeps the hero
+// image from spanning the full page width.
+//
+// The home page (index.md has no `title:`) renders exactly
+// `<body class="layout-page">`, whereas every other page gets an extra
+// title-slug class (e.g. `layout-page program`). The exact-attribute match
+// therefore scopes these rules to the home page and leaves the deliberately
+// wide program/schedule pages untouched.
+body[class="layout-page"] {
+  .container {
+    max-width: 1200px;
+  }
+
+  .main .content {
+    @include breakpoint(break-1) {
+      width: 62%;
+    }
+  }
+}
+
+// Use the theme's default nav link font size (matching qpl2025.github.io)
+// rather than shrinking it. With many menu items the nav simply wraps to a
+// second line on desktop, which is fine. We still tighten the horizontal
+// spacing a little so items don't sprawl. On phones the nav collapses to a
+// menu button, so this is desktop-only.
 .nav--header {
   @include breakpoint(break-1) {
     .item--nav {
       margin-left: 0.3rem;
-    }
-    a {
-      font-size: 0.75rem;
-      padding-left: 0;
-      padding-right: 0;
     }
   }
 }
