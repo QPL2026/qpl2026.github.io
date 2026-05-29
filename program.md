@@ -165,7 +165,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 <tr>
   <td>17:05 – 17:30</td>
-  <td>Boat Tour</td>
+  <td>Boat Tour <br> 17:30 – 18:30 </td>
   <td rowspan="2">TBA</td>
   <td rowspan="2">Goodbye!</td>
 </tr>
