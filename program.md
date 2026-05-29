@@ -477,7 +477,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Daniel Brod, Lorenzo Catani, Robert Spekkens</span>
-    <span class="talk-title">The toy theory is the unique noncontextual theory satisfying A<sub>1</sub><sup>3</sup>-symmetry</span>
+    <span class="talk-title">The toy theory is the unique noncontextual theory satisfying \(A_1^3\)-symmetry</span>
   </td>
   <td>
     <span class="talk-authors">Matthew Wilson</span>
