@@ -646,6 +646,146 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </div>
 </details>
 
+<details class="day-section" id="day-wednesday" data-date="2026-08-19">
+<summary>Wednesday, August 19th</summary>
+<div class="day-body">
+
+<table class="schedule-table">
+<colgroup>
+<col class="time-col" />
+<col />
+</colgroup>
+<tr>
+  <td class="band" colspan="2">Long plenary talks</td>
+</tr>
+<tr>
+  <td>9:30 – 10:15</td>
+  <td>
+    <span class="talk-authors">Miriam Backens, Simon Perdrix / Miriam Backens</span>
+    <span class="talk-title">Completeness for flow-preserving rewrite rules / Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation</span>
+  </td>
+</tr>
+<tr>
+  <td>10:15 – 11:00</td>
+  <td>
+    <span class="talk-authors">Quanlong Wang, Richard D. P. East, Razin A. Shaikh, Lia Yeh, Boldizsár Poór, Bob Coecke</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2511.06012" target="_blank" rel="noopener">Beyond Penrose tensor diagrams with the ZX calculus: applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity</a></span>
+  </td>
+</tr>
+<tr>
+  <td class="break-row" colspan="2">Coffee break</td>
+</tr>
+<tr>
+  <td>11:30 – 12:20</td>
+  <td><strong>Industry session</strong></td>
+</tr>
+<tr>
+  <td class="break-row" colspan="2">Lunch break</td>
+</tr>
+</table>
+
+<table class="schedule-table">
+<colgroup>
+<col class="time-col" />
+<col />
+<col />
+<col />
+</colgroup>
+<tr>
+  <td class="band"></td>
+  <td class="band">Parallel A</td>
+  <td class="band">Parallel B</td>
+  <td class="band">Parallel C</td>
+</tr>
+<tr>
+  <td>14:30 – 14:55</td>
+  <td>
+    <span class="talk-authors">Luca Apadula, Alessandro Bisio, Giulio Chiribella, Paolo Perinotti, Kyrylo Simonov</span>
+    <span class="talk-title">Higher-order transformations of bidirectional quantum processes</span>
+  </td>
+  <td>
+    <span class="talk-authors">Nathan Claudet, Simon Perdrix</span>
+    <span class="talk-title">Insights in graph state entanglement via r-local complementation: structure and a quasi-polynomial algorithm</span>
+  </td>
+  <td>
+    <span class="talk-authors">Pablo Arrighi, Doğukan Bakircioglu, Nathan Houyet</span>
+    <span class="talk-title">Quantum theory over dual-complex numbers</span>
+  </td>
+</tr>
+<tr>
+  <td>14:55 – 15:20</td>
+  <td>
+    <span class="talk-authors">Matthew Wilson, James Hefford, Timothée Hoffreumon</span>
+    <span class="talk-title">Supermaps on generalised theories</span>
+  </td>
+  <td>
+    <span class="talk-authors">Piotr Mitosek, Miriam Backens</span>
+    <span class="talk-title">Working with measurement-based computations on qudits</span>
+  </td>
+  <td>
+    <span class="talk-authors">Nicolas Moulonguet, Augustin Vanrietvelde</span>
+    <span class="talk-title">Subsystems as subsets of quantum channels, and the strange case of blind agents</span>
+  </td>
+</tr>
+<tr>
+  <td>15:20 – 15:45</td>
+  <td>
+    <span class="talk-authors">Samson Abramsky, Radha Jagadeesan</span>
+    <span class="talk-title">Essential unitarity for higher-order quantum computation</span>
+  </td>
+  <td>
+    <span class="talk-authors">Aleks Kissinger, John van de Wetering</span>
+    <span class="talk-title">ZX-flow: a flexible criterion for deterministic computation with ZX-diagrams</span>
+  </td>
+  <td>
+    <span class="talk-authors">John Harding, Alexander Wilce</span>
+    <span class="talk-title">Classical explanations in (and of) general probabilistic theories</span>
+  </td>
+</tr>
+<tr>
+  <td class="break-row" colspan="4">Coffee break</td>
+</tr>
+<tr>
+  <td>16:15 – 16:40</td>
+  <td>
+    <span class="talk-authors">Thomas Bartsch, Yuhan Gai, Sakura Schäfer-Nameki</span>
+    <span class="talk-title">Beyond Wigner – how non-invertible symmetries preserve probabilities</span>
+  </td>
+  <td>
+    <span class="talk-authors">Haytham McDowall-Rose, Razin A. Shaikh, Lia Yeh</span>
+    <span class="talk-title">From fermions to qubits: a ZX-calculus perspective</span>
+  </td>
+  <td>
+    <span class="talk-authors">Amrapali Sen, Flavio Del Santo</span>
+    <span class="talk-title">Superluminal transformations and indeterminism</span>
+  </td>
+</tr>
+<tr>
+  <td>16:40 – 17:05</td>
+  <td>
+    <span class="talk-authors">Vanessa Brzić, Satoshi Yoshida, Mio Murao, Marco Túlio Quintino</span>
+    <span class="talk-title">Higher-order quantum computing with known input states</span>
+  </td>
+  <td>
+    <span class="talk-authors">Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li, John van de Wetering</span>
+    <span class="talk-title">A three-way normal form for stabiliser codes across ZX diagrams, circuits, and tableaus</span>
+  </td>
+  <td>
+    <span class="talk-authors">Maarten Grothus, V. Vilasini</span>
+    <span class="talk-title">Impossibility of superluminal signalling rules out causal loops in conical spacetimes</span>
+  </td>
+</tr>
+<tr>
+  <td class="break-row" colspan="4" style="background-color: #f7c98b">Boat tour 17:30 – 18:30</td>
+</tr>
+<tr>
+  <td class="break-row" colspan="4" style="background-color: #f7c98b">Conference dinner starting 19:00</td>
+</tr>
+</table>
+
+</div>
+</details>
+
 {% comment %}
 <div class="talk-details">
   <details id="monday-long-plenary-talks">
