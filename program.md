@@ -241,7 +241,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>9:30 – 10:15</td>
   <td>
     <span class="talk-authors">Alex Maltesson, Ludvig Rodung, Niklas Budinger, Giulia Ferrini, Cameron Calcluth</span>
-    <span class="talk-title">Equivalence of continuous- and discrete-variable gate-based quantum computers with finite energy</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2510.08546" target="_blank" rel="noopener">Equivalence of continuous- and discrete-variable gate-based quantum computers with finite energy</a></span>
   </td>
 </tr>
 <tr>
@@ -261,14 +261,14 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>11:30 – 11:55</td>
   <td>
     <span class="talk-authors">Vinicius Pretti Rossi, Beata Zjawin, Roberto D. Baldijão, David Schmid, John H. Selby, Ana Belén Sainz</span>
-    <span class="talk-title">How typical is contextuality?</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2510.20722" target="_blank" rel="noopener">How typical is contextuality?</a></span>
   </td>
 </tr>
 <tr>
   <td>11:55 – 12:20</td>
   <td>
     <span class="talk-authors">Dichuan Gao, Razin A. Shaikh, Aleks Kissinger</span>
-    <span class="talk-title">Graphical algebraic geometry: from ideals and varieties to qudit ZH completeness</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2605.13993" target="_blank" rel="noopener">Graphical algebraic geometry: from ideals and varieties to qudit ZH completeness</a></span>
   </td>
 </tr>
 <tr>
@@ -293,7 +293,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>14:30 – 14:55</td>
   <td>
     <span class="talk-authors">Yìlè Yīng, Maria Ciudad Alanon, Daniel Centeno, Jacopo Surace, Marina Maciel Ansanelli, Ruizhi Liu, David Schmid, Robert Spekkens</span>
-    <span class="talk-title">On whether quantum theory needs complex numbers: the foil theories perspective</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2506.08091" target="_blank" rel="noopener">On whether quantum theory needs complex numbers: the foil theories perspective</a></span>
   </td>
   <td>
     <span class="talk-authors">Tomoaki Kawano, Ryo Kashima</span>
@@ -301,18 +301,18 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Alexandre Clément</span>
-    <span class="talk-title">A complete equational theory for real-Clifford+CH quantum circuits</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.06644" target="_blank" rel="noopener">A complete equational theory for real-Clifford+CH quantum circuits</a></span>
   </td>
 </tr>
 <tr>
   <td>14:55 – 15:20</td>
   <td>
     <span class="talk-authors">Timothée Hoffreumon, Mischa P. Woods</span>
-    <span class="talk-title">On the experimental falsification of real QT / A real matrix theory consistent with QT (merged)</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.19208" target="_blank" rel="noopener">On the experimental falsification of real QT</a> / <a href="https://arxiv.org/pdf/2504.02808" target="_blank" rel="noopener">A real matrix theory consistent with QT</a> (merged)</span>
   </td>
   <td>
     <span class="talk-authors">Alexandru Baltag, Sonja Smets</span>
-    <span class="talk-title">Logic meets Wigner's friend (and their friends)</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2307.01713" target="_blank" rel="noopener">Logic meets Wigner's friend (and their friends)</a></span>
   </td>
   <td>
     <span class="talk-authors">Xiaoning Bian, Sarah Meng Li, Neil J. Ross, John van de Wetering, Yuming Zhao</span>
@@ -323,15 +323,15 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>15:20 – 15:45</td>
   <td>
     <span class="talk-authors">Roberto D. Baldijão, Marco Erba, David Schmid, John Selby, Ana Belén Sainz</span>
-    <span class="talk-title">Tomographically-nonlocal entanglement</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.16280" target="_blank" rel="noopener">Tomographically-nonlocal entanglement</a></span>
   </td>
   <td>
     <span class="talk-authors">Bert Lindenhovius, Vladimir Zamdzhiev</span>
-    <span class="talk-title">Operator spaces, linear logic and the Heisenberg–Schrödinger duality of quantum theory</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2505.06069" target="_blank" rel="noopener">Operator spaces, linear logic and the Heisenberg–Schrödinger duality of quantum theory</a></span>
   </td>
   <td>
     <span class="talk-authors">Colin Blake</span>
-    <span class="talk-title">Completeness for prime-dimensional phase-affine circuits</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.06466" target="_blank" rel="noopener">Completeness for prime-dimensional phase-affine circuits</a></span>
   </td>
 </tr>
 <tr>
@@ -341,15 +341,15 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>16:15 – 16:40</td>
   <td>
     <span class="talk-authors">Beata Zjawin, Marina Maciel Ansanelli, David Schmid, Yìlè Yīng, John H. Selby, Ciarán M. Gilligan-Lee, Ana Belén Sainz, Robert Spekkens</span>
-    <span class="talk-title">The resource theory of causal influence and knowledge of causal influence</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2512.11209" target="_blank" rel="noopener">The resource theory of causal influence and knowledge of causal influence</a></span>
   </td>
   <td>
     <span class="talk-authors">Priyaa Varshinee Srinivasan, Jean-Simon Pacaud Lemay, Robin Cockett</span>
-    <span class="talk-title">Generalized inverses of quantum channels: a categorical perspective</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.13946" target="_blank" rel="noopener">Generalized inverses of quantum channels: a categorical perspective</a></span>
   </td>
   <td>
     <span class="talk-authors">Fedor Kuyanov, Aleks Kissinger</span>
-    <span class="talk-title">Efficient classical simulation of low-rank-width quantum circuits using ZX-calculus</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.06764" target="_blank" rel="noopener">Efficient classical simulation of low-rank-width quantum circuits using ZX-calculus</a></span>
   </td>
 </tr>
 <tr>
@@ -360,18 +360,18 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Andre Kornell, Bert Lindenhovius</span>
-    <span class="talk-title">The category of quantum graphs is closed</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2601.09685" target="_blank" rel="noopener">The category of quantum graphs is closed</a></span>
   </td>
   <td>
     <span class="talk-authors">Kwok Ho Wan, Zhenghao Zhong, Ainhoa Zapirain</span>
-    <span class="talk-title">Simulating magic state cultivation with few Clifford terms</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2509.08658" target="_blank" rel="noopener">Simulating magic state cultivation with few Clifford terms</a></span>
   </td>
 </tr>
 <tr>
   <td>17:05 – 17:30</td>
   <td>
     <span class="talk-authors">Carla Ferradini, Giulia Mazzola, V. Vilasini</span>
-    <span class="talk-title">Emergent causal order and time direction: bridging causal models and tensor networks</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.12283" target="_blank" rel="noopener">Emergent causal order and time direction: bridging causal models and tensor networks</a></span>
   </td>
   <td>
     <span class="talk-authors">James Hefford</span>
