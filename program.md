@@ -71,6 +71,48 @@ permalink: /program/
   .talk-details p {
     margin: 0.85rem 0 0;
   }
+
+  .schedule-table {
+    width: 100%;
+    margin: 1rem auto 1.5rem;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
+
+  .schedule-table td,
+  .schedule-table th {
+    border: 1px solid #333;
+    padding: 0.45rem 0.5rem;
+    text-align: center;
+    vertical-align: middle;
+    overflow-wrap: break-word;
+  }
+
+  .schedule-table col.time-col {
+    width: 7.5em;
+  }
+
+  .schedule-table .band {
+    background-color: #dfeefa;
+    font-size: 0.9rem;
+  }
+
+  .schedule-table .break-row {
+    background-color: #e8eef5;
+  }
+
+  .schedule-table .talk-authors {
+    display: block;
+    font-size: 0.95em;
+  }
+
+  .schedule-table .talk-title {
+    display: block;
+    margin-top: 0.2rem;
+    color: #7e1b1b;
+    font-weight: 700;
+    font-size: 0.95em;
+  }
 </style>
 
 
@@ -180,6 +222,165 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <br />
 
 ## Monday, August 17th
+
+<table class="schedule-table">
+<colgroup>
+<col class="time-col" />
+<col />
+</colgroup>
+<tr>
+  <td>8:50 – 9:30</td>
+  <td>Registration</td>
+</tr>
+<tr>
+  <td class="band" colspan="2">Long plenary talks</td>
+</tr>
+<tr>
+  <td>9:30 – 10:15</td>
+  <td>
+    <span class="talk-authors">Alex Maltesson, Ludvig Rodung, Niklas Budinger, Giulia Ferrini, Cameron Calcluth</span>
+    <span class="talk-title">Equivalence of continuous- and discrete-variable gate-based quantum computers with finite energy</span>
+  </td>
+</tr>
+<tr>
+  <td>10:15 – 11:00</td>
+  <td>
+    <span class="talk-authors">Raphaël Mothe, Jessica Bavaresco</span>
+    <span class="talk-title">Efficient quantum-circuit simulation of classical control of causal order</span>
+  </td>
+</tr>
+<tr>
+  <td class="break-row" colspan="2">Coffee break</td>
+</tr>
+<tr>
+  <td class="band" colspan="2">Short plenary talks</td>
+</tr>
+<tr>
+  <td>11:30 – 11:55</td>
+  <td>
+    <span class="talk-authors">Vinicius Pretti Rossi, Beata Zjawin, Roberto D. Baldijão, David Schmid, John H. Selby, Ana Belén Sainz</span>
+    <span class="talk-title">How typical is contextuality?</span>
+  </td>
+</tr>
+<tr>
+  <td>11:55 – 12:20</td>
+  <td>
+    <span class="talk-authors">Dichuan Gao, Razin A. Shaikh, Aleks Kissinger</span>
+    <span class="talk-title">Graphical algebraic geometry: from ideals and varieties to qudit ZH completeness</span>
+  </td>
+</tr>
+<tr>
+  <td class="break-row" colspan="2">Lunch break</td>
+</tr>
+</table>
+
+<table class="schedule-table">
+<colgroup>
+<col class="time-col" />
+<col />
+<col />
+<col />
+</colgroup>
+<tr>
+  <td class="band"></td>
+  <td class="band">Parallel A</td>
+  <td class="band">Parallel B</td>
+  <td class="band">Parallel C</td>
+</tr>
+<tr>
+  <td>14:30 – 14:55</td>
+  <td>
+    <span class="talk-authors">Yìlè Yīng, Maria Ciudad Alanon, Daniel Centeno, Jacopo Surace, Marina Maciel Ansanelli, Ruizhi Liu, David Schmid, Robert Spekkens</span>
+    <span class="talk-title">On whether quantum theory needs complex numbers: the foil theories perspective</span>
+  </td>
+  <td>
+    <span class="talk-authors">Tomoaki Kawano, Ryo Kashima</span>
+    <span class="talk-title">Restricted negation in orthomodular logic</span>
+  </td>
+  <td>
+    <span class="talk-authors">Alexandre Clément</span>
+    <span class="talk-title">A complete equational theory for real-Clifford+CH quantum circuits</span>
+  </td>
+</tr>
+<tr>
+  <td>14:55 – 15:20</td>
+  <td>
+    <span class="talk-authors">Timothée Hoffreumon, Mischa P. Woods</span>
+    <span class="talk-title">On the experimental falsification of real QT / A real matrix theory consistent with QT (merged)</span>
+  </td>
+  <td>
+    <span class="talk-authors">Alexandru Baltag, Sonja Smets</span>
+    <span class="talk-title">Logic meets Wigner's friend (and their friends)</span>
+  </td>
+  <td>
+    <span class="talk-authors">Xiaoning Bian, Sarah Meng Li, Neil J. Ross, John van de Wetering, Yuming Zhao</span>
+    <span class="talk-title">A complete and natural rule set for multi-qudit Clifford circuits in all odd prime dimensions</span>
+  </td>
+</tr>
+<tr>
+  <td>15:20 – 15:45</td>
+  <td>
+    <span class="talk-authors">Roberto D. Baldijão, Marco Erba, David Schmid, John Selby, Ana Belén Sainz</span>
+    <span class="talk-title">Tomographically-nonlocal entanglement</span>
+  </td>
+  <td>
+    <span class="talk-authors">Bert Lindenhovius, Vladimir Zamdzhiev</span>
+    <span class="talk-title">Operator spaces, linear logic and the Heisenberg–Schrödinger duality of quantum theory</span>
+  </td>
+  <td>
+    <span class="talk-authors">Colin Blake</span>
+    <span class="talk-title">Completeness for prime-dimensional phase-affine circuits</span>
+  </td>
+</tr>
+<tr>
+  <td class="break-row" colspan="4">Coffee break</td>
+</tr>
+<tr>
+  <td>16:15 – 16:40</td>
+  <td>
+    <span class="talk-authors">Beata Zjawin, Marina Maciel Ansanelli, David Schmid, Yìlè Yīng, John H. Selby, Ciarán M. Gilligan-Lee, Ana Belén Sainz, Robert Spekkens</span>
+    <span class="talk-title">The resource theory of causal influence and knowledge of causal influence</span>
+  </td>
+  <td>
+    <span class="talk-authors">Priyaa Varshinee Srinivasan, Jean-Simon Pacaud Lemay, Robin Cockett</span>
+    <span class="talk-title">Generalized inverses of quantum channels: a categorical perspective</span>
+  </td>
+  <td>
+    <span class="talk-authors">Fedor Kuyanov, Aleks Kissinger</span>
+    <span class="talk-title">Efficient classical simulation of low-rank-width quantum circuits using ZX-calculus</span>
+  </td>
+</tr>
+<tr>
+  <td>16:40 – 17:05</td>
+  <td>
+    <span class="talk-authors">Leonardo Vaglini, Nasra Daher Ahmed, Ravi Kunjwal</span>
+    <span class="talk-title">Causal inequalities witness non-stabilizerness without magic</span>
+  </td>
+  <td>
+    <span class="talk-authors">Andre Kornell, Bert Lindenhovius</span>
+    <span class="talk-title">The category of quantum graphs is closed</span>
+  </td>
+  <td>
+    <span class="talk-authors">Kwok Ho Wan, Zhenghao Zhong, Ainhoa Zapirain</span>
+    <span class="talk-title">Simulating magic state cultivation with few Clifford terms</span>
+  </td>
+</tr>
+<tr>
+  <td>17:05 – 17:30</td>
+  <td>
+    <span class="talk-authors">Carla Ferradini, Giulia Mazzola, V. Vilasini</span>
+    <span class="talk-title">Emergent causal order and time direction: bridging causal models and tensor networks</span>
+  </td>
+  <td>
+    <span class="talk-authors">James Hefford</span>
+    <span class="talk-title">Nuclearity and trace in monoidal bicategories with application to extended CFTs</span>
+  </td>
+  <td>
+    <span class="talk-authors">Mark Koch</span>
+    <span class="talk-title">Classical Clifford+T sampling without computing marginals</span>
+  </td>
+</tr>
+</table>
 
 {% comment %}
 <div class="talk-details">
