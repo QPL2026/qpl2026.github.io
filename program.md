@@ -325,7 +325,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 
 <br />
 
-<details class="day-section" id="day-monday" data-date="2026-08-17" open>
+<details class="day-section" id="day-monday" data-date="2026-08-17">
 <summary>Monday, August 17th</summary>
 <div class="day-body">
 
