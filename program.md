@@ -178,6 +178,11 @@ permalink: /program/
     padding: 0.75rem 1.25rem 1.25rem;
   }
 
+  /* Tighten the gap between the day header and its first table */
+  .day-section .day-body > .schedule-table:first-child {
+    margin-top: 0;
+  }
+
   /* "Go to today's talk" button */
   .today-button {
     display: inline-block;
