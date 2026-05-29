@@ -519,7 +519,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>17:05 - 17:30 </strong>Nuclearity and trace in monoidal bicategories</summary>
+        <summary><strong>17:05 - 17:30 </strong>Nuclearity and trace in monoidal bicategories with application to extended CFTs</summary>
         <p>
           <strong>Abstract.</strong> TBA
         </p>
