@@ -1451,14 +1451,31 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   (function () {
     function pad(n) { return (n < 10 ? '0' : '') + n; }
 
+    // QPL runs on Amsterdam local time, so determine "today" in that time
+    // zone rather than relying on the visitor's local clock.
+    function amsterdamToday() {
+      try {
+        var parts = new Intl.DateTimeFormat('en-CA', {
+          timeZone: 'Europe/Amsterdam',
+          year: 'numeric', month: '2-digit', day: '2-digit'
+        }).formatToParts(new Date());
+        var map = {};
+        parts.forEach(function (p) { map[p.type] = p.value; });
+        if (map.year && map.month && map.day) {
+          return map.year + '-' + map.month + '-' + map.day;
+        }
+      } catch (e) { /* fall through to local time */ }
+      var now = new Date();
+      return now.getFullYear() + '-' + pad(now.getMonth() + 1) + '-' + pad(now.getDate());
+    }
+
     function goToToday(announce) {
       var sections = Array.prototype.slice.call(
         document.querySelectorAll('.day-section[data-date]')
       );
       if (!sections.length) { return; }
 
-      var now = new Date();
-      var todayStr = now.getFullYear() + '-' + pad(now.getMonth() + 1) + '-' + pad(now.getDate());
+      var todayStr = amsterdamToday();
 
       // Prefer an exact match for today; otherwise fall back to the next
       // upcoming conference day, or the last day once the conference is over.
