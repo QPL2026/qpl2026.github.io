@@ -370,7 +370,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     <details>
       <summary><strong>Track 1</strong></summary>
       <details>
-        <summary><strong>14:30 - 14:55 </strong><a href="https://arxiv.org/pdf/2506.08091" target="_blank" rel="noopener">On whether quantum theory needs complex numbers: the foil theories perspective</a></summary>
+        <summary><strong>14:30 - 14:55 </strong><a href="https://arxiv.org/pdf/2506.08091" target="_blank" rel="noopener">On whether quantum theory needs complex numbers: The foil theories perspective</a></summary>
         <p>
           <strong>Abstract.</strong> A 2021 work by Renou et al. sparked a controversy about whether quantum theory needs to make use of complex numbers. Some recent work has promoted the view that this debate is best understood as a claim about the possibility of experimentally adjudicating between standard quantum theory and a foil theory, real-amplitude quantum theory (RQT) — an alternative theory equivalent to quantum theory in many of its predictions but distinguishable from it in certain network experiments under assumptions about the causal structure of the experiment. Since the 1990s, RQT has served as a canonical foil theory for probing the role played by complex amplitudes in quantum theory. This paper recasts the comparison of the two theories as an instance of a broader class of theory comparisons, by recasting RQT as the subtheory of quantum theory that arises by symmetrizing with respect to the collective action of a time-reversal symmetry. The authors introduce "twirled" and "swirled" quantum worlds, identifying necessary conditions for causal compatibility gaps between theories and their symmetrized versions, and extend the analysis beyond quantum mechanics to generalized probabilistic theories.
         </p>
@@ -394,7 +394,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>15:20 - 15:45 </strong><a href="https://arxiv.org/pdf/2602.16280" target="_blank" rel="noopener">Tomographically-Nonlocal Entanglement</a></summary>
+        <summary><strong>15:20 - 15:45 </strong><a href="https://arxiv.org/pdf/2602.16280" target="_blank" rel="noopener">Tomographically-nonlocal entanglement</a></summary>
         <p>
           <strong>Abstract.</strong> In tomographically nonlocal theories — such as real quantum theory, twirled worlds, or fermionic quantum theory — composite systems possess holistic degrees of freedom that are inaccessible to local measurements. Working within the framework of generalized probabilistic theories, the authors show that the failure of tomographic locality leads to two qualitatively distinct forms of entanglement, which they term tomographically-local entanglement and tomographically-nonlocal entanglement. They prove that tomographically-nonlocal entanglement is useless for Bell nonlocality, steering, and teleportation, but sufficient for dense coding and perfectly secure data hiding. This framework also clarifies previously puzzling features of entanglement arising in real quantum theory, fermionic systems, and theories with superselection rules.
         </p>
@@ -406,7 +406,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     <details>
       <summary><strong>Track 2</strong></summary>
       <details>
-        <summary><strong>14:30 - 14:55 </strong>Restricted Negation in Orthomodular Logic</summary>
+        <summary><strong>14:30 - 14:55 </strong>Restricted negation in orthomodular logic</summary>
         <p>
           <strong>Abstract.</strong> TBA
         </p>
@@ -415,7 +415,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>14:55 - 15:20 </strong><a href="https://arxiv.org/pdf/2307.01713" target="_blank" rel="noopener">Logic Meets Wigner's Friend (and their Friends)</a></summary>
+        <summary><strong>14:55 - 15:20 </strong><a href="https://arxiv.org/pdf/2307.01713" target="_blank" rel="noopener">Logic meets Wigner's friend (and their friends)</a></summary>
         <p>
           <strong>Abstract.</strong> The authors take a fresh look at Wigner's Friend thought-experiment and some of its more recent variants and extensions, such as the Frauchiger-Renner (FR) Paradox. They discuss various solutions proposed in the literature, focusing on a few questions: (1) When can one include classical observers in the quantum state description, in a way that is still compatible with standard quantum theory? (2) When can one system be admitted as an additional "observer" in the description provided by another given observer? (3) When do the predictions of various observers cohere with each other, in such a way that they can be combined within a "common knowledge"-type description? In the last part of the paper, they propose a new answer to these questions, sketch a particular formal implementation of this answer, and apply it to obtain a principled solution to Wigner Friend-type paradoxes.
         </p>
@@ -424,7 +424,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>15:20 - 15:45 </strong><a href="https://arxiv.org/pdf/2505.06069" target="_blank" rel="noopener">Operator Spaces, Linear Logic and the Heisenberg-Schrödinger Duality</a></summary>
+        <summary><strong>15:20 - 15:45 </strong><a href="https://arxiv.org/pdf/2505.06069" target="_blank" rel="noopener">Operator spaces, linear logic and the Heisenberg-Schrödinger duality</a></summary>
         <p>
           <strong>Abstract.</strong> The authors show that the category OS of operator spaces, with complete contractions as morphisms, is locally countably presentable and a model of Intuitionistic Linear Logic in the sense of Lafont. More precisely, they describe a model of Classical Linear Logic based on OS, whose duality is compatible with the Heisenberg-Schrödinger duality of quantum theory. More specifically, system descriptions in the Schrödinger picture correspond to formulas with a positive logical polarity, whereas those in the Heisenberg picture correspond to formulas with a negative logical polarity. OS provides a good setting for studying pure state and mixed state quantum information, the interaction between the two, and even higher-order quantum maps such as the quantum switch.
         </p>
@@ -436,7 +436,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     <details>
       <summary><strong>Track 3</strong></summary>
       <details>
-        <summary><strong>14:30 - 14:55 </strong><a href="https://arxiv.org/pdf/2602.06644" target="_blank" rel="noopener">A Complete Equational Theory for Real-Clifford+CH Quantum Circuits</a></summary>
+        <summary><strong>14:30 - 14:55 </strong><a href="https://arxiv.org/pdf/2602.06644" target="_blank" rel="noopener">A complete equational theory for Real-Clifford+CH quantum circuits</a></summary>
         <p>
           <strong>Abstract.</strong> This paper introduces a complete equational theory for the fragment of quantum circuits generated by the real Clifford gates plus the two-qubit controlled-Hadamard gate. Specifically, the work establishes a simple set of equalities between circuits of this fragment and proves that any other true equation can be derived from these. This is the first such completeness result for a finitely-generated, universal fragment of quantum circuits, with no parameterized gates and no need for ancillas.
         </p>
@@ -445,7 +445,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>14:55 - 15:20 </strong>A Complete and Natural Rule Set for Multi-Qudit Clifford Circuits</summary>
+        <summary><strong>14:55 - 15:20 </strong>A complete and natural rule set for multi-qudit Clifford circuits</summary>
         <p>
           <strong>Abstract.</strong> TBA
         </p>
@@ -454,7 +454,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>15:20 - 15:45 </strong><a href="https://arxiv.org/pdf/2603.06466" target="_blank" rel="noopener">Completeness for Prime-Dimensional Phase-Affine Circuits</a></summary>
+        <summary><strong>15:20 - 15:45 </strong><a href="https://arxiv.org/pdf/2603.06466" target="_blank" rel="noopener">Completeness for prime-dimensional phase-affine circuits</a></summary>
         <p>
           <strong>Abstract.</strong> This work generalises the CNOT-dihedral picture from qubits to prime-dimensional qudits. It first presents a compact PROP for reversible affine circuits over a prime field, with a strict symmetric monoidal semantics into the affine group and a Lafont-style affine normal form; it then adjoins finite-angle diagonal phase generators organised by polynomial degree to obtain linear, quadratic (odd prime), and cubic (prime greater than 3) calculi, fixing a binomial-basis on the additive group so that unique normal forms exist. The paper proves completeness: semantic equality coincides with derivable equality.
         </p>
@@ -467,85 +467,94 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <details id="monday-parallel-sessions-2">
     <summary>Monday Parallel Sessions 16:15 - 17:30</summary>
     <details>
-      <summary><strong>16:15 - 16:40 (Track 1) </strong><a href="https://arxiv.org/pdf/2512.11209" target="_blank" rel="noopener">The resource theory of causal influence and knowledge of causal influence</a></summary>
-      <p>
-        <strong>Abstract.</strong> The authors develop a resource-theoretic framework to understand and quantify causal relationships. They focus on the simplest nontrivial setting — two variables that are causally ordered, meaning that the first has the potential to influence the second, without hidden confounding. First, they introduce a resource theory that directly quantifies the causal influence of a functional dependence (taking values in {0,1}^X→{0,1}^Y for some sets X and Y). For binary variables (|X|=|Y|=2), they identify a triple of monotones that are complete in capturing the ordering of all possible resources, and offer interpretations for each. They show that deciding convertibility of resources and identifying a complete set of monotones has a relatively straightforward solution. Second, they introduce a resource theory that arises when one has uncertainty about the functional dependence. For this, they provide a linear program for deciding whether one state of knowledge about the functional dependence can be converted to another.
-      </p>
-      <p>
-        <strong>Coauthors.</strong> Marina Maciel Ansanelli, Beata Zjawin, David Schmid, Yìlè Yīng, John H. Selby, Ciarán M. Gilligan-Lee, Ana Belén Sainz, Robert W. Spekkens
-      </p>
+      <summary><strong>Track 1</strong></summary>
+      <details>
+        <summary><strong>16:15 - 16:40 </strong><a href="https://arxiv.org/pdf/2512.11209" target="_blank" rel="noopener">The resource theory of causal influence and knowledge of causal influence</a></summary>
+        <p>
+          <strong>Abstract.</strong> The authors develop a resource-theoretic framework to understand and quantify causal relationships. They focus on the simplest nontrivial setting — two variables that are causally ordered, meaning that the first has the potential to influence the second, without hidden confounding. First, they introduce a resource theory that directly quantifies the causal influence of a functional dependence (taking values in {0,1}^X→{0,1}^Y for some sets X and Y). For binary variables (|X|=|Y|=2), they identify a triple of monotones that are complete in capturing the ordering of all possible resources, and offer interpretations for each. They show that deciding convertibility of resources and identifying a complete set of monotones has a relatively straightforward solution. Second, they introduce a resource theory that arises when one has uncertainty about the functional dependence. For this, they provide a linear program for deciding whether one state of knowledge about the functional dependence can be converted to another.
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Marina Maciel Ansanelli, Beata Zjawin, David Schmid, Yìlè Yīng, John H. Selby, Ciarán M. Gilligan-Lee, Ana Belén Sainz, Robert W. Spekkens
+        </p>
+      </details>
+      <details>
+        <summary><strong>16:40 - 17:05 </strong>Causal inequalities witness non-stabilizerness without magic</summary>
+        <p>
+          <strong>Abstract.</strong> TBA
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Leonardo Vaglini, Nasra Daher Ahmed, Ravi Kunjwal
+        </p>
+      </details>
+      <details>
+        <summary><strong>17:05 - 17:30 </strong><a href="https://arxiv.org/pdf/2603.12283" target="_blank" rel="noopener">Emergent causal order and time direction</a></summary>
+        <p>
+          <strong>Abstract.</strong> Can the direction of time and the causal structure of space-time be inferred from operational principles? Causal models and tensor networks offer complementary perspectives: the former encodes cause-effect relations via directed graphs, with an intrinsic ordering; the latter describes multipartite systems on undirected graphs, without presupposing directionality. The authors construct two-way mappings between these two frameworks, linking direction-agnostic correlation functions and operational notions of signalling. This framework clarifies the operational meaning of causal influence in tensor networks and introduces discrete "space-time rotations" of causal models which preserve signalling relations. They apply their framework to holographic tensor networks, using tools from causal inference, like graph-separation, to analyse emergent causal structures, and extend the formalism to accommodate cyclic and indefinite causal structures.
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Carla Ferradini, Giulia Mazzola, V. Vilasini
+        </p>
+      </details>
     </details>
     <details>
-      <summary><strong>16:15 - 16:40 (Track 2) </strong><a href="https://arxiv.org/pdf/2603.13946" target="_blank" rel="noopener">Generalized Inverses of Quantum Channels: a categorical perspective</a></summary>
-      <p>
-        <strong>Abstract.</strong> Quantum channels are completely positive (CP) and trace preserving (TP) transformations. Not every quantum channel is invertible or reversible. However, every quantum channel admits various kinds of generalized inverses such as the Moore-Penrose inverse and the Drazin inverse, which have applications in quantum error mitigation. This paper takes a categorical perspective on generalized inverses of quantum channels. From this perspective, the authors give a simple proof that the Drazin inverse of a quantum channel is always TP. They also show that for unital quantum channels, the Drazin inverse is also unital. Moreover, the categorical framework shows that for unital channels the Moore-Penrose inverse becomes both trace-preserving and unital — properties it typically lacks.
-      </p>
-      <p>
-        <strong>Coauthors.</strong> Robin Cockett, Jean-Simon Pacaud Lemay, Priyaa Varshinee Srinivasan
-      </p>
+      <summary><strong>Track 2</strong></summary>
+      <details>
+        <summary><strong>16:15 - 16:40 </strong><a href="https://arxiv.org/pdf/2603.13946" target="_blank" rel="noopener">Generalized inverses of quantum channels: A categorical perspective</a></summary>
+        <p>
+          <strong>Abstract.</strong> Quantum channels are completely positive (CP) and trace preserving (TP) transformations. Not every quantum channel is invertible or reversible. However, every quantum channel admits various kinds of generalized inverses such as the Moore-Penrose inverse and the Drazin inverse, which have applications in quantum error mitigation. This paper takes a categorical perspective on generalized inverses of quantum channels. From this perspective, the authors give a simple proof that the Drazin inverse of a quantum channel is always TP. They also show that for unital quantum channels, the Drazin inverse is also unital. Moreover, the categorical framework shows that for unital channels the Moore-Penrose inverse becomes both trace-preserving and unital — properties it typically lacks.
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Robin Cockett, Jean-Simon Pacaud Lemay, Priyaa Varshinee Srinivasan
+        </p>
+      </details>
+      <details>
+        <summary><strong>16:40 - 17:05 </strong><a href="https://arxiv.org/pdf/2601.09685" target="_blank" rel="noopener">The category of quantum graphs is closed</a></summary>
+        <p>
+          <strong>Abstract.</strong> The authors introduce a category qGph of quantum graphs whose definition is motivated entirely from noncommutative geometry. They construct a quantum graph of homomorphisms [G,H] from G to H for all quantum graphs G and H, making qGph a closed symmetric monoidal category. For finite graphs G and H, the quantum graph [G,H] is nonempty if and only if the (G,H)-homomorphism game has a winning quantum strategy, directly generalizing the classical case. They also prove that every finite reflexive quantum graph corresponds to a confusability quantum graph of a quantum channel.
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Andre Kornell, Bert Lindenhovius
+        </p>
+      </details>
+      <details>
+        <summary><strong>17:05 - 17:30 </strong>Nuclearity and trace in monoidal bicategories</summary>
+        <p>
+          <strong>Abstract.</strong> TBA
+        </p>
+        <p>
+          <strong>Author.</strong> James Hefford
+        </p>
+      </details>
     </details>
     <details>
-      <summary><strong>16:15 - 16:40 (Track 3) </strong><a href="https://arxiv.org/pdf/2603.06764" target="_blank" rel="noopener">Efficient Classical Simulation of Low-Rank-Width Quantum Circuits</a></summary>
-      <p>
-        <strong>Abstract.</strong> This paper introduces a technique for numerically evaluating ZX-diagrams whose complexity scales with their rank-width, a graph parameter that behaves nicely under ZX rewrite rules. Given a rank-decomposition of width R, the method simulates a graph-like ZX-diagram in Õ(4^R) time. Applied to classical simulation of quantum circuits, it is no slower than either naive state vector simulation or stabiliser decompositions with α=0.5, and in practice can be significantly faster for suitably chosen rank-decompositions. Since finding optimal rank-decompositions is hard, the authors develop heuristics that yield good rank-decompositions in practice. They benchmark their simulation routine against Quimb, a popular tensor contraction library, and observe substantial reductions in floating-point operations (often by several orders of magnitude) for random and structured non-Clifford circuits as well as random ZX-diagrams.
-      </p>
-      <p>
-        <strong>Coauthors.</strong> Fedor Kuyanov, Aleks Kissinger
-      </p>
-    </details>
-    <details>
-      <summary><strong>16:40 - 17:05 (Track 1) </strong>Causal Inequalities witness non-stabilizerness without magic</summary>
-      <p>
-        <strong>Abstract.</strong> TBA
-      </p>
-      <p>
-        <strong>Coauthors.</strong> Leonardo Vaglini, Nasra Daher Ahmed, Ravi Kunjwal
-      </p>
-    </details>
-    <details>
-      <summary><strong>16:40 - 17:05 (Track 2) </strong><a href="https://arxiv.org/pdf/2601.09685" target="_blank" rel="noopener">The category of quantum graphs is closed</a></summary>
-      <p>
-        <strong>Abstract.</strong> The authors introduce a category qGph of quantum graphs whose definition is motivated entirely from noncommutative geometry. They construct a quantum graph of homomorphisms [G,H] from G to H for all quantum graphs G and H, making qGph a closed symmetric monoidal category. For finite graphs G and H, the quantum graph [G,H] is nonempty if and only if the (G,H)-homomorphism game has a winning quantum strategy, directly generalizing the classical case. They also prove that every finite reflexive quantum graph corresponds to a confusability quantum graph of a quantum channel.
-      </p>
-      <p>
-        <strong>Coauthors.</strong> Andre Kornell, Bert Lindenhovius
-      </p>
-    </details>
-    <details>
-      <summary><strong>16:40 - 17:05 (Track 3) </strong><a href="https://arxiv.org/pdf/2509.08658" target="_blank" rel="noopener">Simulating magic state cultivation with few Clifford terms</a></summary>
-      <p>
-        <strong>Abstract.</strong> The authors present methods to simulate non-Clifford d=5 magic state cultivation circuits with approximately 8 Clifford ZX-diagrams on average, at 0.1% noise. Compared to a magic cat state stabiliser decomposition requiring 6,377,292 terms, this represents more than 7 × 10^5 times reduction in the number of terms. The stabiliser decomposition represents the final non-Clifford state (in light of circuit errors) as a sum of Clifford ZX-diagrams, which is useful in simulating the escape stage of magic state cultivation where the resultant state needs to be ported into a larger Clifford circuit. Numerical results show nearly 4 × 10^6 shots per second can be obtained on a laptop for smaller d=3 circuits, making it comparable to fully Clifford simulations.
-      </p>
-      <p>
-        <strong>Coauthors.</strong> Kwok Ho Wan, Zhenghao Zhong, Ainhoa Zapirain
-      </p>
-    </details>
-    <details>
-      <summary><strong>17:05 - 17:30 (Track 1) </strong><a href="https://arxiv.org/pdf/2603.12283" target="_blank" rel="noopener">Emergent causal order and time direction</a></summary>
-      <p>
-        <strong>Abstract.</strong> Can the direction of time and the causal structure of space-time be inferred from operational principles? Causal models and tensor networks offer complementary perspectives: the former encodes cause-effect relations via directed graphs, with an intrinsic ordering; the latter describes multipartite systems on undirected graphs, without presupposing directionality. The authors construct two-way mappings between these two frameworks, linking direction-agnostic correlation functions and operational notions of signalling. This framework clarifies the operational meaning of causal influence in tensor networks and introduces discrete "space-time rotations" of causal models which preserve signalling relations. They apply their framework to holographic tensor networks, using tools from causal inference, like graph-separation, to analyse emergent causal structures, and extend the formalism to accommodate cyclic and indefinite causal structures.
-      </p>
-      <p>
-        <strong>Coauthors.</strong> Carla Ferradini, Giulia Mazzola, V. Vilasini
-      </p>
-    </details>
-    <details>
-      <summary><strong>17:05 - 17:30 (Track 2) </strong>Nuclearity and Trace in Monoidal Bicategories</summary>
-      <p>
-        <strong>Abstract.</strong> TBA
-      </p>
-      <p>
-        <strong>Author.</strong> James Hefford
-      </p>
-    </details>
-    <details>
-      <summary><strong>17:05 - 17:30 (Track 3) </strong>Classical Clifford+T sampling without computing marginals</summary>
-      <p>
-        <strong>Abstract.</strong> TBA
-      </p>
-      <p>
-        <strong>Author.</strong> Mark Koch
-      </p>
+      <summary><strong>Track 3</strong></summary>
+      <details>
+        <summary><strong>16:15 - 16:40 </strong><a href="https://arxiv.org/pdf/2603.06764" target="_blank" rel="noopener">Efficient classical simulation of low-rank-width quantum circuits</a></summary>
+        <p>
+          <strong>Abstract.</strong> This paper introduces a technique for numerically evaluating ZX-diagrams whose complexity scales with their rank-width, a graph parameter that behaves nicely under ZX rewrite rules. Given a rank-decomposition of width R, the method simulates a graph-like ZX-diagram in Õ(4^R) time. Applied to classical simulation of quantum circuits, it is no slower than either naive state vector simulation or stabiliser decompositions with α=0.5, and in practice can be significantly faster for suitably chosen rank-decompositions. Since finding optimal rank-decompositions is hard, the authors develop heuristics that yield good rank-decompositions in practice. They benchmark their simulation routine against Quimb, a popular tensor contraction library, and observe substantial reductions in floating-point operations (often by several orders of magnitude) for random and structured non-Clifford circuits as well as random ZX-diagrams.
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Fedor Kuyanov, Aleks Kissinger
+        </p>
+      </details>
+      <details>
+        <summary><strong>16:40 - 17:05 </strong><a href="https://arxiv.org/pdf/2509.08658" target="_blank" rel="noopener">Simulating magic state cultivation with few Clifford terms</a></summary>
+        <p>
+          <strong>Abstract.</strong> The authors present methods to simulate non-Clifford d=5 magic state cultivation circuits with approximately 8 Clifford ZX-diagrams on average, at 0.1% noise. Compared to a magic cat state stabiliser decomposition requiring 6,377,292 terms, this represents more than 7 × 10^5 times reduction in the number of terms. The stabiliser decomposition represents the final non-Clifford state (in light of circuit errors) as a sum of Clifford ZX-diagrams, which is useful in simulating the escape stage of magic state cultivation where the resultant state needs to be ported into a larger Clifford circuit. Numerical results show nearly 4 × 10^6 shots per second can be obtained on a laptop for smaller d=3 circuits, making it comparable to fully Clifford simulations.
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Kwok Ho Wan, Zhenghao Zhong, Ainhoa Zapirain
+        </p>
+      </details>
+      <details>
+        <summary><strong>17:05 - 17:30 </strong>Classical Clifford+T sampling without computing marginals</summary>
+        <p>
+          <strong>Abstract.</strong> TBA
+        </p>
+        <p>
+          <strong>Author.</strong> Mark Koch
+        </p>
+      </details>
     </details>
   </details>
 </div>
