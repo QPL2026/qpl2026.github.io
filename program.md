@@ -411,13 +411,13 @@ Below you can find an overview of the conference schedule. Here is the <a href="
           <strong>Abstract.</strong> TBA
         </p>
         <p>
-          <strong>Coauthors.</strong> Piotr Mitosek, Miriam Backens
+          <strong>Coauthors.</strong> Tomoaki Kawano, Ryo Kashima
         </p>
       </details>
       <details>
         <summary><strong>14:55 - 15:20 </strong><a href="https://arxiv.org/pdf/2307.01713" target="_blank" rel="noopener">Logic meets Wigner's friend (and their friends)</a></summary>
         <p>
-          <strong>Abstract.</strong> The authors take a fresh look at Wigner's Friend thought-experiment and some of its more recent variants and extensions, such as the Frauchiger-Renner (FR) Paradox. They discuss various solutions proposed in the literature, focusing on a few questions: (1) When can one include classical observers in the quantum state description, in a way that is still compatible with standard quantum theory? (2) When can one system be admitted as an additional "observer" in the description provided by another given observer? (3) When do the predictions of various observers cohere with each other, in such a way that they can be combined within a "common knowledge"-type description? In the last part of the paper, they propose a new answer to these questions, sketch a particular formal implementation of this answer, and apply it to obtain a principled solution to Wigner Friend-type paradoxes.
+          <strong>Abstract.</strong> We take a fresh look at Wigner's Friend thought-experiment and some of its more recent variants and extensions, such as the Frauchiger-Renner (FR) Paradox. We discuss various solutions proposed in the literature, focusing on a few questions: What is the correct epistemic interpretation of the multiplicity of state assignments in these scenarios? Under which conditions can one include classical observers into the quantum state descriptions, in a way that is still compatible with traditional Quantum Mechanics? Under which conditions can one system be admitted as an additional 'observer' from the perspective of another background observer? When can the standard axioms of multi-agent Epistemic Logic (that allow "knowledge transfer" between agents) be applied to quantum-physical observers? In the last part of the paper, we propose a new answer to these questions, sketch a particular formal implementation of this answer, and apply it to obtain a principled solution to Wigner Friend-type paradoxes.
         </p>
         <p>
           <strong>Coauthors.</strong> Alexandru Baltag, Sonja Smets
@@ -426,7 +426,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
       <details>
         <summary><strong>15:20 - 15:45 </strong><a href="https://arxiv.org/pdf/2505.06069" target="_blank" rel="noopener">Operator spaces, linear logic and the Heisenberg-Schrödinger duality</a></summary>
         <p>
-          <strong>Abstract.</strong> The authors show that the category OS of operator spaces, with complete contractions as morphisms, is locally countably presentable and a model of Intuitionistic Linear Logic in the sense of Lafont. More precisely, they describe a model of Classical Linear Logic based on OS, whose duality is compatible with the Heisenberg-Schrödinger duality of quantum theory. More specifically, system descriptions in the Schrödinger picture correspond to formulas with a positive logical polarity, whereas those in the Heisenberg picture correspond to formulas with a negative logical polarity. OS provides a good setting for studying pure state and mixed state quantum information, the interaction between the two, and even higher-order quantum maps such as the quantum switch.
+          <strong>Abstract.</strong> We show that the category OS of operator spaces, with complete contractions as morphisms, is locally countably presentable and a model of Intuitionistic Linear Logic in the sense of Lafont. We then describe a model of Classical Linear Logic, based on OS, whose duality is compatible with the HeisenbergSchrödinger duality of quantum theory. We also show that OS provides a good setting for studying pure state and mixed state quantum information, the interaction between the two, and even higher-order quantum maps such as the quantum switch.
         </p>
         <p>
           <strong>Coauthors.</strong> Bert Lindenhovius, Vladimir Zamdzhiev
