@@ -95,10 +95,12 @@ permalink: /program/
   .schedule-table .band {
     background-color: #dfeefa;
     font-size: 0.9rem;
+    font-weight: 700;
   }
 
   .schedule-table .break-row {
     background-color: #e8eef5;
+    font-weight: 700;
   }
 
   .schedule-table .talk-authors {
@@ -230,7 +232,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </colgroup>
 <tr>
   <td>8:50 – 9:30</td>
-  <td>Registration</td>
+  <td><strong>Registration</strong></td>
 </tr>
 <tr>
   <td class="band" colspan="2">Long plenary talks</td>
