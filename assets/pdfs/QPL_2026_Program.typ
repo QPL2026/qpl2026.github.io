@@ -38,10 +38,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
 
 #v(0.4em)
 
-#let plen     = cellc(c-plenary, [Plenary\ sessions])
-#let para     = cellc(c-parallel, [Parallel\ sessions])
-#let coffee5  = table.cell(colspan: 5, fill: c-break, align: center, [Coffee break])
-#let lunch5   = table.cell(colspan: 5, fill: c-break, align: center, [Lunch break])
+#let xcell = text(fill: rgb("#bbbbbb"), size: 14pt)[$times$]
 
 #table(
   columns: (2.2cm, 1fr, 1fr, 1fr, 1fr, 1fr),
@@ -49,57 +46,75 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   align: center + horizon,
   inset: 6pt,
   // Header
-  [], [*Monday*], [*Tuesday*], [*Wednesday*], [*Thursday*], [*Friday*],
+  [],
+  [*Monday,\ August 17th*],
+  [*Tuesday,\ August 18th*],
+  [*Wednesday,\ August 19th*],
+  [*Thursday,\ August 20th*],
+  [*Friday,\ August 21st*],
+
   // 8:50 - 9:30: Registration on Monday only
-  [8:50 -- 9:30], [Registration\ (until 9:30)], [], [], [], [],
-  // 9:30 - 10:15: Plenary on all days
-  [9:30 -- 10:15], plen, plen, plen, plen, plen,
-  [10:15 -- 11:00], plen, plen, plen, plen, plen,
-  // Coffee break
-  [11:00 -- 11:30], coffee5,
-  // Short plenary / industry / business
+  [8:50 -- 9:30], [Registration], xcell, xcell, xcell, xcell,
+
+  // 9:30 - 11:00: Long Plenary Talks (rowspan 2)
+  [9:30 -- 10:15],
+    table.cell(rowspan: 2, fill: c-plenary)[Long Plenary\ Talks],
+    table.cell(rowspan: 2, fill: c-plenary)[Long Plenary\ Talks],
+    table.cell(rowspan: 2, fill: c-plenary)[Long Plenary\ Talks],
+    table.cell(rowspan: 2, fill: c-plenary)[Long Plenary\ Talks],
+    table.cell(rowspan: 2, fill: c-plenary)[Long Plenary\ Talks],
+  [10:15 -- 11:00],
+
+  // 11:00 - 11:30: Coffee Break
+  [11:00 -- 11:30], table.cell(colspan: 5, fill: c-break)[Coffee Break],
+
+  // 11:30 - 12:20
   [11:30 -- 11:55],
-    cellc(c-plenary2, [Plenary]),
-    cellc(c-plenary2, [Plenary]),
-    cellc(none, [Industry\ session]),
-    cellc(c-plenary2, [Plenary]),
-    cellc(none, [Business\ meeting]),
-  [11:55 -- 12:20],
-    cellc(c-plenary2, [Plenary]),
-    cellc(c-plenary2, [Plenary]),
-    cellc(none, [Industry\ session]),
-    cellc(none, [Conference\ photo]),
-    cellc(none, [Business\ meeting]),
-  // Lunch
-  [12:30 -- 14:30], lunch5,
-  // Parallel afternoon block 1
-  [14:30 -- 14:55], para, para, para, para, para,
-  [14:55 -- 15:20], para, para, para, para, para,
-  [15:20 -- 15:45], para, para, para, para, para,
-  [15:45 -- 16:10],
-    table.cell(colspan: 3, fill: c-break, align: center, [Coffee break]),
-    para,
-    table.cell(colspan: 1, fill: c-break, align: center, [Coffee break]),
-  // Parallel afternoon block 2 (Thu has coffee here, parallel ends at 16:10)
-  [16:15 -- 16:40], para, para, para,
-    table.cell(fill: c-break, align: center, [Coffee break]),
-    para,
-  [16:40 -- 17:05], para, para, para,
-    cellc(c-especial, [Career fair]),
-    para,
-  [17:05 -- 17:30], para, para,
-    cellc(c-special, [Boat tour]),
-    cellc(c-especial, [Career fair]),
-    [Goodbye!],
-  // Evening
-  [17:30 -- 19:00], [],
-    cellc(c-poster, [Poster session\ (with reception)]),
-    cellc(c-special, [Boat tour\ (until 18:30)]),
-    cellc(c-especial, [Career fair]),
-    [],
-  [19:00 -- 22:00], [], [],
-    cellc(c-special, [Conference\ dinner]),
-    [], [],
+    table.cell(rowspan: 2, fill: c-plenary2)[Short Plenary\ Talks],
+    table.cell(rowspan: 2, fill: c-plenary2)[Short Plenary\ Talks],
+    table.cell(rowspan: 2)[Industry\ Session],
+    table.cell(fill: c-plenary2)[Short Plenary\ Talk],
+    table.cell(rowspan: 2)[Business\ Meeting],
+  [11:55 -- 12:20], [Conference\ Photo],
+
+  // 12:30 - 14:30: Lunch Break
+  [12:30 -- 14:30], table.cell(colspan: 5, fill: c-break)[Lunch Break],
+
+  // 14:30 - 15:45: Parallel sessions (Mon/Tue/Wed/Fri rs3; Thu rs5 until 16:15-16:40)
+  [14:30 -- 14:55],
+    table.cell(rowspan: 3, fill: c-parallel)[Parallel\ Sessions],
+    table.cell(rowspan: 3, fill: c-parallel)[Parallel\ Sessions],
+    table.cell(rowspan: 3, fill: c-parallel)[Parallel\ Sessions],
+    table.cell(rowspan: 5, fill: c-parallel)[Parallel\ Sessions\ 14:30 -- 16:10],
+    table.cell(rowspan: 3, fill: c-parallel)[Parallel\ Sessions],
+  [14:55 -- 15:20],
+  [15:20 -- 15:45],
+
+  // 15:45 - 16:15: Coffee Break (Mon-Tue-Wed merged); Thu still in parallel block; Fri Coffee Break
+  [15:45 -- 16:15],
+    table.cell(colspan: 3, fill: c-break)[Coffee Break],
+    table.cell(fill: c-break)[Coffee Break],
+
+  // 16:15 - 16:40: Mon/Tue parallel rs3 (until 17:30); Wed/Fri parallel rs2 (16:15-17:05); Thu still covered
+  [16:15 -- 16:40],
+    table.cell(rowspan: 3, fill: c-parallel)[Parallel\ Sessions],
+    table.cell(rowspan: 3, fill: c-parallel)[Parallel\ Sessions],
+    table.cell(rowspan: 2, fill: c-parallel)[Parallel\ Sessions\ 16:15 -- 17:05],
+    table.cell(rowspan: 2, fill: c-parallel)[Parallel\ Sessions\ 16:15 -- 17:05],
+
+  // 16:40 - 17:05: only Thu has a new cell here (Coffee Break)
+  [16:40 -- 17:05], table.cell(fill: c-break)[Coffee Break],
+
+  // 17:05 - 17:30: Wed Boat Tour; Thu TBA (rs2); Fri Goodbye! (rs2)
+  [17:05 -- 17:30],
+    [Boat Tour],
+    table.cell(rowspan: 2)[TBA],
+    table.cell(rowspan: 2)[Goodbye!],
+
+  // After 17:30 (no time label)
+  [], xcell,
+    table.cell(fill: c-poster)[Poster Session\ 17:30 -- 19:30],
+    table.cell(fill: c-special)[Conference\ Dinner],
 )
 
 #pagebreak()
