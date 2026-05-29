@@ -21,6 +21,23 @@ styles: true
   max-width: 1400px;
 }
 
+// Keep all header menu items on a single line on desktop. The menu outgrew
+// one line's width (Sponsors / Code of Conduct / Accepted Submissions were
+// added), so shrink the nav link font size and tighten the spacing between
+// items. On phones the nav collapses to a menu button, so this is desktop-only.
+.nav--header {
+  @include breakpoint(break-1) {
+    .item--nav {
+      margin-left: 0.3rem;
+    }
+    a {
+      font-size: 0.75rem;
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+}
+
 .typeset{
 h4, .delta {
     @include sassline(delta, $headingtype, 3, 1, all);
