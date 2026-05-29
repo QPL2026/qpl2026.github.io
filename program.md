@@ -405,7 +405,167 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 </table>
 
+<br />
+
 ## Tuesday, August 18th
+
+<table class="schedule-table">
+<colgroup>
+<col class="time-col" />
+<col />
+</colgroup>
+<tr>
+  <td class="band" colspan="2">Long plenary talks</td>
+</tr>
+<tr>
+  <td>9:30 – 10:15</td>
+  <td>
+    <span class="talk-authors">Maximilian Rüsch, Aleks Kissinger, Benjamin Rodatz / Benjamin Rodatz, Boldizsár Poór, Aleks Kissinger</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2510.08477" target="_blank" rel="noopener">Completeness for fault equivalence of Clifford ZX diagrams</a> / <a href="https://arxiv.org/pdf/2506.17181" target="_blank" rel="noopener">Fault tolerance by construction</a></span>
+  </td>
+</tr>
+<tr>
+  <td>10:15 – 11:00</td>
+  <td>
+    <span class="talk-authors">Samson Abramsky, Rui Soares Barbosa, Carmen Constantin, Martti Karvonen</span>
+    <span class="talk-title">Algebraic paradoxes in adaptive quantum computation</span>
+  </td>
+</tr>
+<tr>
+  <td class="break-row" colspan="2">Coffee break</td>
+</tr>
+<tr>
+  <td class="band" colspan="2">Short plenary talks</td>
+</tr>
+<tr>
+  <td>11:30 – 11:55</td>
+  <td>
+    <span class="talk-authors">Manuel Mekonnen, Thomas D. Galley, Markus P. Müller</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2502.17576" target="_blank" rel="noopener">Invariance under quantum permutations rules out parastatistics</a></span>
+  </td>
+</tr>
+<tr>
+  <td>11:55 – 12:20</td>
+  <td>
+    <span class="talk-authors">Marek Arsenault, Hlér Kristjánsson</span>
+    <span class="talk-title">A higher-order perspective on quantum signal processing</span>
+  </td>
+</tr>
+<tr>
+  <td class="break-row" colspan="2">Lunch break</td>
+</tr>
+</table>
+
+<table class="schedule-table">
+<colgroup>
+<col class="time-col" />
+<col />
+<col />
+<col />
+</colgroup>
+<tr>
+  <td class="band"></td>
+  <td class="band">Parallel A</td>
+  <td class="band">Parallel B</td>
+  <td class="band">Parallel C</td>
+</tr>
+<tr>
+  <td>14:30 – 14:55</td>
+  <td>
+    <span class="talk-authors">Andrey Boris Khesin, Sarah Meng Li, Boldizsár Poór, Benjamin Rodatz, John van de Wetering, Richie Yeung</span>
+    <span class="talk-title">SpiderCat: optimal fault-tolerant cat state preparation</span>
+  </td>
+  <td>
+    <span class="talk-authors">Daniel Brod, Lorenzo Catani, Robert Spekkens</span>
+    <span class="talk-title">The toy theory is the unique noncontextual theory satisfying A<sub>1</sub><sup>3</sup>-symmetry</span>
+  </td>
+  <td>
+    <span class="talk-authors">Matthew Wilson</span>
+    <span class="talk-title">Agent policies from higher-order causal functions</span>
+  </td>
+</tr>
+<tr>
+  <td>14:55 – 15:20</td>
+  <td>
+    <span class="talk-authors">Kwok Ho Wan, Henry Price, Qing Yao</span>
+    <span class="talk-title">Holographic codes seen through ZX-calculus</span>
+  </td>
+  <td>
+    <span class="talk-authors">Tim Achenbach, Andreas Bluhm, Leevi Leppäjärvi, Ion Nechita, Martin Plávala</span>
+    <span class="talk-title">Factorization of multimeters: a unified view on nonclassical quantum phenomena</span>
+  </td>
+  <td>
+    <span class="talk-authors">V. Vilasini, Lin-Qing Chen, Liuhang Ye, Renato Renner</span>
+    <span class="talk-title">Events and their localisation are relative to a lab</span>
+  </td>
+</tr>
+<tr>
+  <td>15:20 – 15:45</td>
+  <td>
+    <span class="talk-authors">Cole Comfort, Giovanni de Felice</span>
+    <span class="talk-title">The delayed stabiliser ZX-calculus</span>
+  </td>
+  <td>
+    <span class="talk-authors">Cihan Okay, Aziz Kharoof</span>
+    <span class="talk-title">The geometry of fiber products of probability polytopes</span>
+  </td>
+  <td>
+    <span class="talk-authors">Zixuan Liu, Ognyan Oreshkov</span>
+    <span class="talk-title">Parity erasure: a foundational principle for indefinite causal order</span>
+  </td>
+</tr>
+<tr>
+  <td class="break-row" colspan="4">Coffee break</td>
+</tr>
+<tr>
+  <td>16:15 – 16:40</td>
+  <td>
+    <span class="talk-authors">Vincenzo Fiorentino, Kuntal Sengupta</span>
+    <span class="talk-title">Superposition and its connections to uncertainty, entanglement and the quantum tensor product</span>
+  </td>
+  <td>
+    <span class="talk-authors">Tom Williams, Mina Doosti, Farid Shahandeh</span>
+    <span class="talk-title">Sheaf-theoretic preparation contextuality via stochastic extension</span>
+  </td>
+  <td>
+    <span class="talk-authors">Luca Apadula, Alexei Grinbaum, Časlav Brukner</span>
+    <span class="talk-title">Reference frames for process matrices: from coordinate parametrization to spacetime representation</span>
+  </td>
+</tr>
+<tr>
+  <td>16:40 – 17:05</td>
+  <td>
+    <span class="talk-authors">Gaurang Agrawal, Matt Wilson</span>
+    <span class="talk-title">Deriving the generalised Born rule from first principles</span>
+  </td>
+  <td>
+    <span class="talk-authors">Theodoros Yianni, Farid Shahandeh, Nyan Raess</span>
+    <span class="talk-title">Linear algebra of generalized contextuality in prepare-transform-measure scenarios</span>
+  </td>
+  <td>
+    <span class="talk-authors">Yassine Benhaj, Kuntal Sengupta, Cyril Branciard</span>
+    <span class="talk-title">How many systems can be dephased before the quantum switch becomes causally definite?</span>
+  </td>
+</tr>
+<tr>
+  <td>17:05 – 17:30</td>
+  <td>
+    <span class="talk-authors">James Hefford, Matt Wilson</span>
+    <span class="talk-title">Quantum theory can decohere from a causally-indefinite post-quantum theory</span>
+  </td>
+  <td>
+    <span class="talk-authors">David Schmid, Roberto D. Baldijão, John Selby, Ana Belen Sainz, Robert W. Spekkens</span>
+    <span class="talk-title">Noncontextuality inequalities for prepare-transform-measure scenarios</span>
+  </td>
+  <td>
+    <span class="talk-authors">Raphaël Le Bihan, Alastair Abbott, Mnacho Echenim</span>
+    <span class="talk-title">Probing the composition of processes with first-order-ISOMIX logic</span>
+  </td>
+</tr>
+<tr>
+  <td class="break-row" colspan="4" style="background-color: #f7c98b">Poster session (with reception) 17:30 – 19:30</td>
+</tr>
+</table>
 
 {% comment %}
 <div class="talk-details">
