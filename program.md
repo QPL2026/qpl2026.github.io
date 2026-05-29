@@ -918,6 +918,143 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </div>
 </details>
 
+<details class="day-section" id="day-friday" data-date="2026-08-21">
+<summary>Friday, August 21st</summary>
+<div class="day-body">
+
+<table class="schedule-table">
+<colgroup>
+<col class="time-col" />
+<col />
+</colgroup>
+<tr>
+  <td class="band" colspan="2">Long plenary talks</td>
+</tr>
+<tr>
+  <td>9:30 – 10:15</td>
+  <td>
+    <span class="talk-authors">Thea Li, Vladimir Zamdzhiev</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2601.15832" target="_blank" rel="noopener">Quantum coherence spaces revisited: a von Neumann (co)algebraic approach</a></span>
+  </td>
+</tr>
+<tr>
+  <td>10:15 – 11:00</td>
+  <td>
+    <span class="talk-authors">Matilde Baroni, Dominik Leichtle, Ivan Šupić, Damian Markham, Marco Túlio Quintino</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2601.05158" target="_blank" rel="noopener">Composable simultaneous purification: when all communication scenarios reduce to spatial correlations</a></span>
+  </td>
+</tr>
+<tr>
+  <td class="break-row" colspan="2">Coffee break</td>
+</tr>
+<tr>
+  <td>11:30 – 12:20</td>
+  <td><strong>Business meeting</strong></td>
+</tr>
+<tr>
+  <td class="break-row" colspan="2">Lunch break</td>
+</tr>
+</table>
+
+<table class="schedule-table">
+<colgroup>
+<col class="time-col" />
+<col />
+<col />
+<col />
+</colgroup>
+<tr>
+  <td class="band"></td>
+  <td class="band">Parallel A</td>
+  <td class="band">Parallel B</td>
+  <td class="band">Parallel C</td>
+</tr>
+<tr>
+  <td>14:30 – 14:55</td>
+  <td>
+    <span class="talk-authors">Simon Burton, Hussain Anwar</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2605.06251" target="_blank" rel="noopener">Meromorphic quantum computing</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">Noé Delorme, Simon Perdrix</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2508.21756" target="_blank" rel="noopener">Diagrammatic reasoning with control as a constructor, applications to quantum circuits</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">David Schmid, John H. Selby, Vinicius Pretti Rossi, Roberto D. Baldijão, Ana Belén Sainz</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2409.13024" target="_blank" rel="noopener">Shadows and subsystems of generalised probabilistic theories: when tomographic incompleteness is not a loophole for contextuality proofs</a></span>
+  </td>
+</tr>
+<tr>
+  <td>14:55 – 15:20</td>
+  <td>
+    <span class="talk-authors">Christine Li, Lia Yeh</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.04548" target="_blank" rel="noopener">Transversal AND in quantum codes</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">Chris Heunen, Robin Kaarsgaard, Louis Lemonnier</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2510.05032" target="_blank" rel="noopener">One rig to control them all</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">Jan-Åke Larsson</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2504.20816" target="_blank" rel="noopener">The contextual Heisenberg microscope</a></span>
+  </td>
+</tr>
+<tr>
+  <td>15:20 – 15:45</td>
+  <td>
+    <span class="talk-authors">Jin Ming Koh, Anqi Gong, Andrei C. Diaconu, Daniel Bochen Tan, Alexandra A. Geim, Michael J. Gullans, Norman Y. Yao, Mikhail D. Lukin, Shayan Majidy</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2601.20927" target="_blank" rel="noopener">Phantom codes: entangling logical qubits without physical operations</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">William Schober, Scott Wesley</span>
+    <span class="talk-title">A complete equational theory for quantum circuits with generalized control</span>
+  </td>
+  <td>
+    <span class="talk-authors">Daniel McNulty</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2511.15954" target="_blank" rel="noopener">Quantifying quantum measurement incompatibility via graph invariants</a></span>
+  </td>
+</tr>
+<tr>
+  <td class="break-row" colspan="4">Coffee break</td>
+</tr>
+<tr>
+  <td>16:15 – 16:40</td>
+  <td>
+    <span class="talk-authors">Vivien Vandaele</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.12917" target="_blank" rel="noopener">Asymptotically optimal quantum circuits for comparators and incrementers</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">Sacha Cerf, Harold Ollivier</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.26875" target="_blank" rel="noopener">The perturbative method for quantum correlations</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">Raffaele D'Avino, Lorenzo Caramelli, Raja Yehia, Gabriel Senno, Roberto González Pousa, Antonio Acín, Tamás Kriváchy</span>
+    <span class="talk-title">Device independent quantum key distribution with a single measurement per site</span>
+  </td>
+</tr>
+<tr>
+  <td>16:40 – 17:05</td>
+  <td>
+    <span class="talk-authors">Giuseppe De Riso, Giuseppe Catalano, Seth Lloyd, Vittorio Giovannetti, Dario De Santis</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2508.02855" target="_blank" rel="noopener">A resource-efficient quantum-walker quantum RAM</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">Subhendu Bikas Ghosh, Snehasish Roy Chowdhury, Guruprasad Kar, Arup Roy, Tamal Guha, Manik Banik</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2310.16386" target="_blank" rel="noopener">Strong inequivalence of quantum nonlocal resources</a></span>
+  </td>
+  <td>
+    <span class="talk-authors">Paul Becsi, Matthew Joseph Hoban</span>
+    <span class="talk-title">Bounding classical and quantum correlations in Bayesian networks with quasiprobabilities</span>
+  </td>
+</tr>
+<tr>
+  <td class="break-row" colspan="4">End of QPL 2026. Goodbye!</td>
+</tr>
+</table>
+
+</div>
+</details>
+
 {% comment %}
 <div class="talk-details">
   <details id="monday-long-plenary-talks">
