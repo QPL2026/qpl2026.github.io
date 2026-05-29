@@ -86,6 +86,7 @@ permalink: /program/
     text-align: center;
     vertical-align: middle;
     overflow-wrap: break-word;
+    font-size: 1.05rem;
   }
 
   .schedule-table col.time-col {
@@ -94,7 +95,7 @@ permalink: /program/
 
   .schedule-table .band {
     background-color: #dfeefa;
-    font-size: 0.9rem;
+    font-size: 1rem;
     font-weight: 700;
   }
 
@@ -105,7 +106,7 @@ permalink: /program/
 
   .schedule-table .talk-authors {
     display: block;
-    font-size: 0.95em;
+    font-size: 1em;
   }
 
   .schedule-table .talk-title {
@@ -113,7 +114,7 @@ permalink: /program/
     margin-top: 0.2rem;
     color: #7e1b1b;
     font-weight: 700;
-    font-size: 0.95em;
+    font-size: 1em;
   }
 
   /* Titles with a paper link keep the same dark red, but are
@@ -320,7 +321,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td></td>
   <td class="empty-cell"></td>
   <td class="empty-cell"></td>
-  <td>Conference Dinner </td>
+  <td>Conference Dinner <br> 19:00 onwards</td>
   <td class="empty-cell"></td>
   <td class="empty-cell"></td>
 </tr>
