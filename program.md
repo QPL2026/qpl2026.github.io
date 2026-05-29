@@ -117,8 +117,8 @@ permalink: /program/
   }
 
   /* Titles with a paper link keep the same dark red, but are
-     underlined and carry an external-link arrow so they are
-     visually distinct from titles that have no paper. */
+     underlined and carry a paper icon so they are visually
+     distinct from titles that have no paper. */
   .schedule-table .talk-title a {
     color: #7e1b1b;
     text-decoration: underline;
@@ -130,7 +130,7 @@ permalink: /program/
   }
 
   .schedule-table .talk-title a::after {
-    content: " \2197";
+    content: " \1F4C4";
     font-size: 0.85em;
     text-decoration: none;
     display: inline-block;
@@ -403,6 +403,8 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
 </tr>
 </table>
+
+## Tuesday, August 18th
 
 {% comment %}
 <div class="talk-details">
