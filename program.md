@@ -1463,28 +1463,6 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 {% endcomment %}
 
 <script>
-  // The theme footer renders <a href="/#top">Back to top</a>. The "/#top"
-  // points at the site root, so on inner pages (like this one) it navigates
-  // back to the home page instead of scrolling up. Rewrite that link to scroll
-  // to the top of the current page.
-  (function () {
-    function fixBackToTop() {
-      var links = document.querySelectorAll('a[href="/#top"], a[href="#top"]');
-      for (var i = 0; i < links.length; i++) {
-        links[i].setAttribute('href', '#');
-        links[i].addEventListener('click', function (e) {
-          e.preventDefault();
-          window.scrollTo({ top: 0, behavior: 'smooth' });
-        });
-      }
-    }
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', fixBackToTop);
-    } else {
-      fixBackToTop();
-    }
-  })();
-
   (function () {
     function pad(n) { return (n < 10 ? '0' : '') + n; }
 

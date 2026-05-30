@@ -4,9 +4,27 @@ title: Accepted Submissions
 permalink: /accepted/
 ---
 
+<style>
+  /* Keep the tables within the same content boundary as the rest of the
+     page (and the home page): force them to respect the container width
+     and wrap long titles/authors instead of overflowing. */
+  .accepted-table {
+    width: 100%;
+    max-width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+  }
+
+  .accepted-table td,
+  .accepted-table th {
+    overflow-wrap: break-word;
+    word-break: break-word;
+  }
+</style>
+
 ## Proceedings
 
-<table style="width: 100%; border-collapse: collapse;">
+<table class="accepted-table">
   <colgroup>
     <col style="width: 35%;">
     <col style="width: 65%;">
@@ -79,7 +97,7 @@ permalink: /accepted/
 
 ## Talks
 
-<table style="width: 100%; border-collapse: collapse;">
+<table class="accepted-table">
   <colgroup>
     <col style="width: 35%;">
     <col style="width: 65%;">
