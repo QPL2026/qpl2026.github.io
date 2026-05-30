@@ -93,6 +93,22 @@ permalink: /program/
     width: 7.5em;
   }
 
+  /* On narrow screens (phones) the time range eats a lot of horizontal
+     space, leaving little room for the talk titles. Shrink the time
+     column and let the range wrap onto multiple lines instead. */
+  @media (max-width: 600px) {
+    .schedule-table col.time-col {
+      width: 4.25em;
+    }
+
+    .schedule-table td:first-child {
+      overflow-wrap: anywhere;
+      word-break: break-word;
+      padding-left: 0.3rem;
+      padding-right: 0.3rem;
+    }
+  }
+
   .schedule-table .band {
     background-color: #dfeefa;
     font-size: 1rem;
