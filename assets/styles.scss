@@ -57,6 +57,22 @@ body[class="layout-page"] {
   }
 }
 
+// Move the QPL logo closer to the navigation. The Alembic header
+// (`.header .container`) is a flexbox with `justify-content: space-between`,
+// so the small logo sits hard against the left edge while the nav is pinned
+// to the right, leaving a wide empty gap. (Auto margins don't help here: the
+// nav absorbs the free space, so an `auto` left-margin computes to 0.) A
+// percentage left-margin instead pushes the logo rightward into that gap so
+// it sits roughly midway, nearer the menu. Scoped to the desktop layout so
+// the collapsed mobile menu (logo top-left by the hamburger) is untouched.
+.header {
+  @include breakpoint(break-1) {
+    .logo {
+      margin-left: 25%;
+    }
+  }
+}
+
 .typeset{
 h4, .delta {
     @include sassline(delta, $headingtype, 3, 1, all);
