@@ -415,7 +415,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
     talkcell([Martin J. Renner, Edwin Peter Lobo, Arturo Konderak, Remigiusz Augusiak, Antonio Acín],
       [Full nonlocality for non-maximally entangled states]),
   table.cell(colspan: 4, fill: c-break, align: center)[Coffee break #h(1em) 16:10 -- 16:40],
-  table.cell(colspan: 4, fill: c-especial, align: center, [Career fair #h(1em) 16:40 -- 19:00]),
+  // table.cell(colspan: 4, fill: c-especial, align: center, [Career fair #h(1em) 16:40 -- 19:00]),
 )
 
 #pagebreak()

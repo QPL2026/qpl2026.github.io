@@ -65,10 +65,6 @@ permalink: /accepted/
       <td style="vertical-align: top; padding: 8px;">Generalized Inverses of Quantum Channels: a categorical perspective</td>
     </tr>
     <tr>
-      <td style="vertical-align: top; padding: 8px;">Simon Burton<br>Hussain Anwar</td>
-      <td style="vertical-align: top; padding: 8px;">Meromorphic Quantum Computing</td>
-    </tr>
-    <tr>
       <td style="vertical-align: top; padding: 8px;">Soichiro Yamazaki<br>Seiseki Akibue</td>
       <td style="vertical-align: top; padding: 8px;">Multi-qubit controlled gate with optimal T-count</td>
     </tr>
@@ -296,6 +292,10 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Alexandru Baltag<br>Sonja Smets</td>
       <td style="vertical-align: top; padding: 8px;">Logic Meets Wigner’s Friend (and their Friends)</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Simon Burton<br>Hussain Anwar</td>
+      <td style="vertical-align: top; padding: 8px;">Meromorphic Quantum Computing</td>
     </tr>
     <tr>
       <td style="vertical-align: top; padding: 8px;">David Schmid<br>Roberto D. Baldijão<br>John Selby<br>Ana Belen Sainz<br>Robert W. Spekkens</td>
