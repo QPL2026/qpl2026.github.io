@@ -222,7 +222,7 @@ For inquiries related to the submission and review process, please write to the 
 
 ### QPL Steering Committee
 
-* [Bob Coecke](https://www.quantinuum.com/qai/bobcoecke) (Quantinuum) 
+* [Bob Coecke](https://rel-int.ai/) (Relational Intelligence) 
 * [Ana Belén Sainz](https://www.absainz.com/) (ICTQT, University of Gdansk)
 * [Peter Selinger](https://www.mathstat.dal.ca/~selinger/) (Dalhousie University) 
 
