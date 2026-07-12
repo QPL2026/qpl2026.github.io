@@ -644,8 +644,8 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     <span class="talk-title">Linear algebra of generalized contextuality in prepare-transform-measure scenarios</span>
   </td>
   <td>
-    <span class="talk-authors">Yassine Benhaj, Kuntal Sengupta, Cyril Branciard</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2605.22807" target="_blank" rel="noopener">How many systems can be dephased before the quantum switch becomes causally definite?</a></span>
+    <span class="talk-authors">Raphaël Le Bihan, Alastair Abbott, Mnacho Echenim</span>
+    <span class="talk-title">Probing the composition of processes with first-order-ISOMIX logic</span>
   </td>
 </tr>
 <tr>
@@ -659,8 +659,8 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     <span class="talk-title"><a href="https://arxiv.org/pdf/2407.09624" target="_blank" rel="noopener">Noncontextuality inequalities for prepare-transform-measure scenarios</a></span>
   </td>
   <td>
-    <span class="talk-authors">Raphaël Le Bihan, Alastair Abbott, Mnacho Echenim</span>
-    <span class="talk-title">Probing the composition of processes with first-order-ISOMIX logic</span>
+    <span class="talk-authors">Yassine Benhaj, Kuntal Sengupta, Cyril Branciard</span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2605.22807" target="_blank" rel="noopener">How many systems can be dephased before the quantum switch becomes causally definite?</a></span>
   </td>
 </tr>
 <tr>
