@@ -105,12 +105,16 @@ For inquiries related to the submission and review process, please write to the 
  
 ### Sponsors
 
-<a href="https://www.quantumsc.nl/" style="background-image: none; background-size: 0;">
-<img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/QSC logo final.svg" alt="Quantum Software Consortium">
+<a href="https://www.quantinuum.com/" style="background-image: none; background-size: 0;">
+<img style="vertical-align: middle; max-width: 600px; width: 100%; height: auto" src="images/quantinuum logo.svg" alt="Quantinuum">
 </a>
 
 <a href="https://qdnl.nl/" style="background-image: none; background-size: 0;">
-<img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/qdnl-logo.svg" alt="QDNL">
+<img style="vertical-align: middle; max-width: 550px; width: 100%; height: auto" src="images/qdnl-logo.svg" alt="QDNL">
+</a>
+
+<a href="https://www.quantumsc.nl/" style="background-image: none; background-size: 0;">
+<img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/QSC logo final.svg" alt="Quantum Software Consortium">
 </a>
 
 <a href="https://spooqy.ai/" style="background-image: none; background-size: 0;">
