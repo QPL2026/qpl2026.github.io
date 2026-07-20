@@ -74,3 +74,44 @@ th, td {
 table {
   border-spacing: 30px;
 }
+
+// Career Fair page: a bulleted list where each company is a click-to-expand
+// dropdown. The Alembic theme hides the native <details> disclosure triangle,
+// so we add our own caret (in the theme's green link colour) to make it
+// obvious that each bullet opens on click.
+.career-list {
+  list-style: disc;            // keep the bullet-point format
+  padding-left: 1.5rem;
+  margin-top: 1rem;
+
+  > li {
+    margin-bottom: 0.6rem;
+  }
+
+  summary {
+    cursor: pointer;           // signals the item is clickable
+    list-style: none;          // drop the default Firefox/Chrome marker
+    display: inline-block;     // so the summary hugs its text, not the row
+
+    &::-webkit-details-marker { display: none; }   // …and the Safari one
+
+    &::after {
+      content: "\25B8";        // ▸ caret; rotates to point down when open
+      display: inline-block;   // required for the rotate transform
+      margin-left: 0.4rem;
+      color: #05bf85;          // theme link / interaction colour
+      font-size: 0.9em;
+      transition: transform 0.15s ease;
+    }
+
+    &:hover { color: #05bf85; }   // hover feedback on the label
+  }
+
+  details[open] > summary::after {
+    transform: rotate(90deg);     // ▾ points down while expanded
+  }
+
+  // Expanded body: description + link, set apart from the summary line.
+  details[open] > summary { margin-bottom: 0.35rem; }
+  details p { margin: 0 0 0.4rem 0; }
+}
