@@ -117,6 +117,10 @@ For inquiries related to the submission and review process, please write to the 
 <img style="vertical-align: middle; max-width: 300px; width: 100%; height: auto" src="images/spooqy-logo-light.png" alt="Spooqy logo">
 </a>
 
+<a href="https://magiqware.com/" style="background-image: none; background-size: 0; display: inline-block; background-color: #000; padding: 12px 24px; border-radius: 8px;">
+<img style="vertical-align: middle; max-width: 360px; width: 100%; height: auto" src="images/magiqware-logo.png" alt="MagiQware">
+</a>
+
 <!--In case we want something that is dark mode aware
  <div>
 <a href="https://spooqy.ai/" style="background-image: none; background-size: 0;">
