@@ -324,7 +324,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td>17:05 – 17:30</td>
   <td class="empty-cell"></td>
-  <td rowspan="3">TBA</td>
+  <td rowspan="3" style="background-color: #fad4e0">Career Fair<br> 16:30 – 19:00 </td>
   <td rowspan="3">Goodbye!</td>
 </tr>
 <tr>
