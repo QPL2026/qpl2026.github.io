@@ -63,7 +63,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Colin Blake</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final109.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper109.pdf">
           Completeness for Prime-Dimensional Phase-Affine Circuits
         </a>
       </td>
@@ -79,7 +79,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Samson Abramsky<br>Radha Jagadeesan</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final119.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper119.pdf">
           Essential Unitarity for Higher-Order Quantum Computation
         </a>
       </td>
@@ -119,7 +119,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Tomoaki Kawano<br>Ryo Kashima</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final32.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper32.pdf">
           Restricted Negation in Orthomodular Logic
         </a>
       </td>
@@ -160,7 +160,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Xiaoning Bian<br>Sarah Meng Li<br>Neil J. Ross<br>John van de Wetering<br>Yuming Zhao</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final27.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper27.pdf">
           A Complete and Natural Rule Set for Multi-Qudit Clifford Circuits in All Odd Prime Dimensions
         </a>
       </td>
@@ -184,7 +184,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Timothée Hoffreumon<br>Mischa P. Woods</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final23.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper23.pdf">
           A real matrix theory consistent with both the postulates and predictions of quantum theory
         </a>
       </td>
@@ -200,7 +200,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Lia Yeh<br>Jiaxin Huang<br>Aleks Kissinger<br>Sarah Meng Li<br>John van de Wetering</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final187.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper187.pdf">
           A Three-Way Normal Form for Stabiliser Codes across ZX Diagrams, Circuits, and Tableaus
         </a>
       </td>
@@ -208,7 +208,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">C. E. Lopetegui-Gonzalez<br>G. Masse<br>E. Oudot<br>U.I. Meyer<br>F. Centrone<br>F. Grosshans<br>P. E. Emeriau<br>U. Chabaud<br>M. Walschaers</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final162.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper162.pdf">
           A unified framework for Bell inequalities from continuous-variable contextuality
         </a>
       </td>
@@ -216,7 +216,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Matthew Wilson</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final15.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper15.pdf">
           Agent policies from higher-order causal functions
         </a>
       </td>
@@ -240,7 +240,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Vivien Vandaele</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final211.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper211.pdf">
           Asymptotically Optimal Quantum Circuits for Comparators and Incrementers
         </a>
       </td>
@@ -256,7 +256,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Quanlong Wang<br>Richard D. P. East<br>Razin A. Shaikh<br>Lia Yeh<br>Boldizsar Poor<br>Bob Coecke</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final98.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper98.pdf">
           Beyond Penrose tensor diagrams with the ZX calculus: Applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity
         </a>
       </td>
@@ -264,7 +264,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Thomas Bartsch<br>Yuhan Gai<br>Sakura Schäfer-Nameki</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final175.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper175.pdf">
           Beyond Wigner - How Non-Invertible Symmetries Preserve Probabilities
         </a>
       </td>
@@ -272,7 +272,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Paul Becsi<br>Matthew Joseph Hoban</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final157.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper157.pdf">
           Bounding Classical and Quantum Correlations in Bayesian Networks with Quasiprobabilities
         </a>
       </td>
@@ -280,7 +280,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Leonardo Vaglini<br>Nasra Daher Ahmed<br>Ravi Kunjwal</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final168.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper168.pdf">
           Causal Inequalities witness non-stabilizerness without magic
         </a>
       </td>
@@ -288,7 +288,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">John Harding<br>Alexander Wilce</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final182.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper182.pdf">
           Classical explanations in (and of) general probabilistic theories
         </a>
       </td>
@@ -304,7 +304,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Maximilian Ruesch<br>Aleks Kissinger<br>Benjamin Rodatz</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final56.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper56.pdf">
           Completeness for Fault Equivalence of Clifford ZX Diagrams
         </a>
       </td>
@@ -320,7 +320,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Matilde Baroni<br>Dominik Leichtle<br>Ivan Šupić<br>Damian Markham<br>Marco Túlio Quintino</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final25.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper25.pdf">
           Composable simultaneous purification: when all communication scenarios reduce to spatial correlations
         </a>
       </td>
@@ -328,7 +328,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Cole Comfort<br>Robert I. Booth</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final178.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper178.pdf">
           Denotational semantics for stabiliser quantum programs
         </a>
       </td>
@@ -344,7 +344,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Raffaele D’Avino<br>Lorenzo Caramelli<br>Raja Yehia<br>Gabriel Senno<br>Roberto González Pousa<br>Antonio Acı́n<br>Tamás Kriváchy</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final144.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper144.pdf">
           Device Independent Quantum Key Distribution with a Single Measurement per Site
         </a>
       </td>
@@ -360,7 +360,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Raphaël Mothe<br>Jessica Bavaresco</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final136.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper136.pdf">
           Efficient quantum-circuit simulation of classical control of causal order
         </a>
       </td>
@@ -376,7 +376,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Aabhas Gulati<br>Ion Nechita<br>Clément Pellegrini</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final81.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper81.pdf">
           Entanglement in the Dicke Subspace
         </a>
       </td>
@@ -392,7 +392,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">V. Vilasini<br>Lin-Qing Chen<br>Liuhang Ye<br>Renato Renner</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final48.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper48.pdf">
           Events and their Localisation are Relative to a Lab
         </a>
       </td>
@@ -408,7 +408,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Benjamin Rodatz<br>Boldizsar Poor<br>Aleks Kissinger</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final96.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper96.pdf">
           Fault Tolerance by Construction
         </a>
       </td>
@@ -416,7 +416,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Haytham McDowall-Rose<br>Razin A. Shaikh<br>Lia Yeh</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final104.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper104.pdf">
           From Fermions to Qubits: A ZX-Calculus Perspective
         </a>
       </td>
@@ -424,7 +424,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Martin J. Renner<br>Edwin Peter Lobo<br>Arturo Konderak<br>Remigiusz Augusiak<br>Antonio Acín</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final207.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper207.pdf">
           Full nonlocality for non-maximally entangled states
         </a>
       </td>
@@ -440,7 +440,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Dichuan Gao<br>Razin A. Shaikh<br>Aleks Kissinger</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final95.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper95.pdf">
           Graphical Algebraic Geometry: From Ideals and Varieties to Qudit ZH Completeness
         </a>
       </td>
@@ -448,7 +448,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Vanessa Brzić<br>Satoshi Yoshida<br>Mio Murao<br>Marco Túlio Quintino</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final177.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper177.pdf">
           Higher-order quantum computing with known input states
         </a>
       </td>
@@ -456,7 +456,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Luca Apadula<br>Alessandro Bisio<br>Giulio Chiribella<br>Paolo Perinotti<br>Kyrylo Simonov</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final52.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper52.pdf">
           Higher-order transformations of bidirectional quantum processes
         </a>
       </td>
@@ -464,7 +464,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Kwok Ho Wan<br>Henry Price<br>Qing Yao</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final42.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper42.pdf">
           Holographic codes seen through ZX-calculus
         </a>
       </td>
@@ -472,7 +472,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Yassine BENHAJ<br>Kuntal Sengupta<br>Cyril Branciard</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final142.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper142.pdf">
           How many systems can be dephased before the quantum switch becomes causally definite?
         </a>
       </td>
@@ -488,7 +488,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Shashaank Khanna<br>Matthew Pusey<br>Roger Colbeck</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final59.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper59.pdf">
           Identifying causal structures which cannot support quantum correlations without fine-tuning
         </a>
       </td>
@@ -496,7 +496,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Maarten Grothus<br>V. Vilasini</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final36.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper36.pdf">
           Impossibility of superluminal signalling rules out causal loops in conical spacetimes
         </a>
       </td>
@@ -520,7 +520,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Theodoros Yianni<br>Farid Shahandeh<br>Nyan Raess</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final191.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper191.pdf">
           Linear Algebra of Generalized Contextuality in Prepare-Transform-Measure Scenarios
         </a>
       </td>
@@ -552,7 +552,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">James Hefford</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final80.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper80.pdf">
           Nuclearity and Trace in Monoidal Bicategories with Application to Extended CFTs
         </a>
       </td>
@@ -560,7 +560,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Timothée Hoffreumon<br>Mischa P. Woods</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final22.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper22.pdf">
           On the experimental falsification of Real Quantum Theory
         </a>
       </td>
@@ -584,7 +584,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Bert Lindenhovius<br>Vladimir Zamdzhiev</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final137.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper137.pdf">
           Operator Spaces, Linear Logic and the Heisenberg-Schrödinger Duality of Quantum Theory
         </a>
       </td>
@@ -600,7 +600,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Jin Ming Koh<br>Anqi Gong<br>Andrei C. Diaconu<br>Daniel Bochen Tan<br>Alexandra A. Geim<br>Michael J. Gullans<br>Norman Y. Yao<br>Mikhail D. Lukin<br>Shayan Majidy</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final190.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper190.pdf">
           Phantom codes: Entangling logical qubits without physical operations
         </a>
       </td>
@@ -608,7 +608,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Raphaël Le Bihan<br>Alastair Abbott<br>Mnacho Echenim</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final158.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper158.pdf">
           Probing the composition of processes with first-order-ISOMIX logic
         </a>
       </td>
@@ -616,7 +616,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Daniel McNulty</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final24.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper24.pdf">
           Quantifying Quantum Measurement Incompatibility via Graph Invariants
         </a>
       </td>
@@ -624,7 +624,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Thea Li<br>Vladimir Zamdzhiev</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final93.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper93.pdf">
           Quantum Coherence Spaces Revisited: A von Neumann (Co)Algebraic Approach
         </a>
       </td>
@@ -640,7 +640,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Haruki Emori</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final122.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper122.pdf">
           Quantum statistical functions
         </a>
       </td>
@@ -648,7 +648,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">James Hefford<br>Matt Wilson</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final79.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper79.pdf">
           Quantum Theory Can Decohere from a Causally-Indefinite Post-Quantum Theory
         </a>
       </td>
@@ -656,7 +656,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Luca Apadula<br>Alexei Grinbaum<br>Časlav Brukner</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final103.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper103.pdf">
           Reference frames for process matrices: from coordinate parametrization to spacetime representation
         </a>
       </td>
@@ -672,7 +672,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Tom Williams<br>Mina Doosti<br>Farid Shahandeh</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final204.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper204.pdf">
           Sheaf-Theoretic Preparation Contextuality via Stochastic Extension
         </a>
       </td>
@@ -680,7 +680,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Kwok Ho Wan<br>Zhenghao Zhong <br>Ainhoa Zapirain</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final39.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper39.pdf">
           Simulating magic state cultivation with few Clifford terms
         </a>
       </td>
@@ -688,7 +688,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Andrey Boris Khesin<br>Sarah Meng Li<br>Boldizsár Poór<br>Benjamin Rodatz<br>John van de Wetering<br>Richie Yeung</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final54.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper54.pdf">
           SpiderCat: Optimal Fault-Tolerant Cat State Preparation
         </a>
       </td>
@@ -696,7 +696,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Subhendu Bikas Ghosh<br>Snehasish Roy Chowdhury<br>Guruprasad Kar<br>Arup Roy<br>Tamal Guha<br>Manik Banik</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final203.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper203.pdf">
           Strong Inequivalence of Quantum Nonlocal Resources
         </a>
       </td>
@@ -704,7 +704,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Nicolas Moulonguet<br>Augustin Vanrietvelde</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final94.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper94.pdf">
           Subsystems as subsets of quantum channels, and the strange case of blind agents
         </a>
       </td>
@@ -712,7 +712,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Amrapali Sen<br>Flavio Del Santo</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final35.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper35.pdf">
           Superluminal Transformations and Indeterminism
         </a>
       </td>
@@ -720,7 +720,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Matthew Wilson<br>James Hefford<br>Timothee Hoffreumon</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final73.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper73.pdf">
           Supermaps on generalised theories
         </a>
       </td>
@@ -728,7 +728,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Vincenzo Fiorentino<br>Kuntal Sengupta</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final53.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper53.pdf">
           Superposition and its connections to Uncertainty, Entanglement and the Quantum Tensor Product
         </a>
       </td>
@@ -736,7 +736,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Akash Kundu</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final47.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper47.pdf">
           Tensor and gadget reinforcement learning for improved, hardware-aware quantum architecture search
         </a>
       </td>
@@ -744,7 +744,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Andre Kornell<br>Bert Lindenhovius</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final127.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper127.pdf">
           The category of quantum graphs is closed
         </a>
       </td>
@@ -760,7 +760,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Cole Comfort<br>Giovanni de Felice</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final179.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper179.pdf">
           The delayed stabiliser ZX-calculus
         </a>
       </td>
@@ -776,7 +776,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Sacha Cerf<br>Harold Ollivier</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final74.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper74.pdf">
           The perturbative method for quantum correlations.
         </a>
       </td>
@@ -816,7 +816,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Christine Li<br>Lia Yeh</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final123.pdf">
+        <a href="/assets/submissions/non-final/qpl2026-paper123.pdf">
           Transversal AND in Quantum Codes
         </a>
       </td>
