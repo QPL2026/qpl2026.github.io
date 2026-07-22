@@ -125,10 +125,6 @@ For inquiries related to the submission and review process, please write to the 
 <img style="vertical-align: middle; max-width: 360px; width: 100%; height: auto" src="images/magiqware-logo.png" alt="MagiQware">
 </a>
 
-<a href="https://www.quantinuum.com/" style="background-image: none; background-size: 0;">
-<img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/quantinuum.png" alt="Quantinuum">
-</a>
-
 <!--In case we want something that is dark mode aware
  <div>
 <a href="https://spooqy.ai/" style="background-image: none; background-size: 0;">
