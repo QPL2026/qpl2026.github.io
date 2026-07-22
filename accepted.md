@@ -38,7 +38,11 @@ permalink: /accepted/
   <tbody>
     <tr>
       <td style="vertical-align: top; padding: 8px;">William Schober<br>Scott Wesley</td>
-      <td style="vertical-align: top; padding: 8px;">A Complete Equational Theory for Quantum Circuits with Generalized Control</td>
+      <td style="vertical-align: top; padding: 8px;">
+        <a href="/assets/submissions/qpl2026-final163.pdf">
+          A Complete Equational Theory for Quantum Circuits with Generalized Control
+        </a>
+      </td>
     </tr>
     <tr>
       <td style="vertical-align: top; padding: 8px;">Mark Deaconu<br>Nihar Gargava<br>Amolak Ratan Kalra<br>Michele Mosca<br>Jon Yard</td>
