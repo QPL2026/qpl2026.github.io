@@ -40,4 +40,16 @@ QPL 2026 will host a Career Fair, giving attendees the opportunity to meet compa
 <p>A full-stack quantum computing provider offering cloud access to 100+ qubit quantum computers and the open-source Qiskit software platform, focused on delivering useful quantum computing through hardware, tools, and research partnerships.</p>
 <p><a href="https://www.ibm.com/quantum" target="_blank" rel="noopener">ibm.com/quantum</a></p>
 </details></li>
+
+<li><details>
+<summary><strong>WIQD</strong></summary>
+<p>A professional network for the Dutch quantum sector — We in Quantum Development — connecting and supporting women and other underrepresented groups across industry, academia, and policy through networking events, mentoring, and an annual symposium.</p>
+<p><a href="https://www.wiqd.nl/" target="_blank" rel="noopener">wiqd.nl</a></p>
+</details></li>
+
+<li><details>
+<summary><strong>Quantum.Amsterdam</strong></summary>
+<p>The Amsterdam innovation hub for quantum software, technology, and applications — founded by QuSoft, CWI, and the University of Amsterdam as part of Quantum Delta NL — connecting academia, industry, and startups through shared facilities, training, and talent development.</p>
+<p><a href="https://www.quantum.amsterdam/" target="_blank" rel="noopener">quantum.amsterdam</a></p>
+</details></li>
 </ul>
