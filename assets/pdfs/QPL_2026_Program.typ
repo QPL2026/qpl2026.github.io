@@ -14,7 +14,7 @@
 #let c-poster      = rgb("#f7c98b")  // poster session (light orange)
 #let c-break       = rgb("#e8eef5")  // coffee/lunch (soft grey-blue)
 #let c-special     = rgb("#f7c98b")  // boat tour / dinner (peach, matches poster tone)
-#let c-especial    = rgb("#bfe6cc")  // career fair (light green)
+#let c-especial    = rgb("#fad4e0")  // career fair (pink, matches program.md overview)
 #let c-chair-bg    = rgb("#dfeefa")  // session band (very light blue)
 #let c-title       = rgb("#7e1b1b")
 
@@ -34,7 +34,7 @@
 
 == Overview of the program
 
-Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the University of Amsterdam’s Roeterseiland campus. The conference runs through Friday, August 21, 2026, with three parallel sessions each afternoon. On Wednesday, there is a boat tour and conference dinner after the parallel sessions.
+Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the University of Amsterdam’s Roeterseiland campus. The conference runs through Friday, August 21, 2026, with three parallel sessions each afternoon. On Wednesday, there is a boat tour and conference dinner after the parallel sessions. On Thursday, a career fair follows the parallel sessions.
 
 #v(0.4em)
 
@@ -105,16 +105,18 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   // 16:40 - 17:05: only Thu has a new cell here (Coffee Break)
   [16:40 -- 17:05], table.cell(fill: c-break)[Coffee Break],
 
-  // 17:05 - 17:30: Wed Boat Tour; Thu TBA (rs2); Fri Goodbye! (rs2)
+  // 17:05 - 17:30: Wed empty; Thu Career Fair (rs3); Fri Goodbye! (rs3)
   [17:05 -- 17:30],
-    [Boat Tour],
-    table.cell(rowspan: 2)[TBA],
-    table.cell(rowspan: 2)[Goodbye!],
+    xcell,
+    table.cell(rowspan: 3, fill: c-especial)[Career Fair\ 16:30 -- 19:00],
+    table.cell(rowspan: 3)[Goodbye!],
 
   // After 17:30 (no time label)
-  [], xcell,
-    table.cell(fill: c-poster)[Poster Session\ 17:30 -- 19:30],
-    table.cell(fill: c-special)[Conference\ Dinner],
+  table.cell(rowspan: 2)[],
+    table.cell(rowspan: 2, xcell),
+    table.cell(rowspan: 2, fill: c-poster)[Poster Session\ 17:30 -- 19:30],
+    [Boat Tour\ 17:30 -- 18:30],
+  [Conference Dinner\ 19:00 onwards],
 )
 
 #pagebreak()
@@ -267,15 +269,15 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
     talkcell([Gaurang Agrawal, Matt Wilson], [Deriving the generalised Born rule from first principles]),
     talkcell([Theodoros Yianni, Farid Shahandeh, Nyan Raess],
       [Linear algebra of generalized contextuality in prepare-transform-measure scenarios]),
-    talkcell([Yassine Benhaj, Kuntal Sengupta, Cyril Branciard],
-      [How many systems can be dephased before the quantum switch becomes causally definite?]),
+    talkcell([Raphaël Le Bihan, Alastair Abbott, Mnacho Echenim],
+      [Probing the composition of processes with first-order-ISOMIX logic]),
   timec[17:05 -- 17:30],
     talkcell([James Hefford, Matt Wilson],
       [Quantum theory can decohere from a causally-indefinite post-quantum theory]),
     talkcell([David Schmid, Roberto D. Baldijão, John Selby, Ana Belen Sainz, Robert W. Spekkens],
       [Noncontextuality inequalities for prepare-transform-measure scenarios]),
-    talkcell([Raphaël Le Bihan, Alastair Abbott, Mnacho Echenim],
-      [Probing the composition of processes with first-order-ISOMIX logic]),
+    talkcell([Yassine Benhaj, Kuntal Sengupta, Cyril Branciard],
+      [How many systems can be dephased before the quantum switch becomes causally definite?]),
   table.cell(colspan: 4, fill: c-poster, align: center)[Poster session (with reception) #h(1em) 17:30 -- 19:30],
 )
 
@@ -415,7 +417,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
     talkcell([Martin J. Renner, Edwin Peter Lobo, Arturo Konderak, Remigiusz Augusiak, Antonio Acín],
       [Full nonlocality for non-maximally entangled states]),
   table.cell(colspan: 4, fill: c-break, align: center)[Coffee break #h(1em) 16:10 -- 16:40],
-  // table.cell(colspan: 4, fill: c-especial, align: center, [Career fair #h(1em) 16:40 -- 19:00]),
+  table.cell(colspan: 4, fill: c-special, align: center)[Career fair #h(1em) 16:40 -- 19:00],
 )
 
 #pagebreak()
