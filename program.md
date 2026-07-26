@@ -120,6 +120,13 @@ permalink: /program/
     font-weight: 700;
   }
 
+  .schedule-table .session-chair {
+    background-color: #d9f2e1;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #000;
+  }
+
   .schedule-table .talk-authors {
     display: block;
     font-size: 1em;
@@ -357,6 +364,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="band" colspan="2">Long plenary talks</td>
 </tr>
 <tr>
+  <td class="session-chair" colspan="2">Chair: Aleks Kissinger</td>
+</tr>
+<tr>
   <td>9:30 – 10:15</td>
   <td>
     <span class="talk-authors">Alex Maltesson, Ludvig Rodung, Niklas Budinger, Giulia Ferrini, Cameron Calcluth</span>
@@ -409,6 +419,12 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="band">Parallel C</td>
 </tr>
 <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="session-chair">Chair: Aleks Kissinger</td>
+</tr>
+<tr>
   <td>14:30 – 14:55</td>
   <td>
     <span class="talk-authors">Yìlè Yīng, Maria Ciudad Alanon, Daniel Centeno, Jacopo Surace, Marina Maciel Ansanelli, Ruizhi Liu, David Schmid, Robert Spekkens</span>
@@ -455,6 +471,12 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 <tr>
   <td class="break-row" colspan="4">Coffee break</td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="session-chair">Chair: Simon Perdrix</td>
 </tr>
 <tr>
   <td>16:15 – 16:40</td>
@@ -519,6 +541,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="band" colspan="2">Long plenary talks</td>
 </tr>
 <tr>
+  <td class="session-chair" colspan="2">Chair: John van de Wetering</td>
+</tr>
+<tr>
   <td>9:30 – 10:15</td>
   <td>
     <span class="talk-authors">Maximilian Rüsch, Aleks Kissinger, Benjamin Rodatz / Benjamin Rodatz, Boldizsár Poór, Aleks Kissinger</span>
@@ -537,6 +562,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 <tr>
   <td class="band" colspan="2">Short plenary talks</td>
+</tr>
+<tr>
+  <td class="session-chair" colspan="2">Chair: Titouan Carette</td>
 </tr>
 <tr>
   <td>11:30 – 11:55</td>
@@ -569,6 +597,12 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="band">Parallel A</td>
   <td class="band">Parallel B</td>
   <td class="band">Parallel C</td>
+</tr>
+<tr>
+  <td></td>
+  <td class="session-chair">Chair: Simon Perdrix</td>
+  <td></td>
+  <td class="session-chair">Chair: Priyaa Varshinee Srinivasan</td>
 </tr>
 <tr>
   <td>14:30 – 14:55</td>
@@ -684,6 +718,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="band" colspan="2">Long plenary talks</td>
 </tr>
 <tr>
+  <td class="session-chair" colspan="2">Chair: John van de Wetering</td>
+</tr>
+<tr>
   <td>9:30 – 10:15</td>
   <td>
     <span class="talk-authors">Miriam Backens, Simon Perdrix / Miriam Backens</span>
@@ -721,6 +758,12 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="band">Parallel A</td>
   <td class="band">Parallel B</td>
   <td class="band">Parallel C</td>
+</tr>
+<tr>
+  <td></td>
+  <td class="session-chair">Chair: Robin Kaarsgaard</td>
+  <td></td>
+  <td class="session-chair">Chair: Priyaa Varshinee Srinivasan</td>
 </tr>
 <tr>
   <td>14:30 – 14:55</td>
@@ -769,6 +812,12 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 <tr>
   <td class="break-row" colspan="4">Coffee break</td>
+</tr>
+<tr>
+  <td></td>
+  <td class="session-chair">Chair: Alastair Abbott</td>
+  <td></td>
+  <td class="session-chair">Chair: Titouan Carette</td>
 </tr>
 <tr>
   <td>16:15 – 16:40</td>
@@ -822,6 +871,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </colgroup>
 <tr>
   <td class="band" colspan="2">Long plenary talks</td>
+</tr>
+<tr>
+  <td class="session-chair" colspan="2">Chair: Robin Kaarsgaard</td>
 </tr>
 <tr>
   <td>9:30 – 10:15</td>
@@ -995,6 +1047,12 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="band">Parallel C</td>
 </tr>
 <tr>
+  <td></td>
+  <td></td>
+  <td class="session-chair">Chair: Peter Selinger</td>
+  <td></td>
+</tr>
+<tr>
   <td>14:30 – 14:55</td>
   <td>
     <span class="talk-authors">Simon Burton, Hussain Anwar</span>
@@ -1041,6 +1099,12 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 <tr>
   <td class="break-row" colspan="4">Coffee break</td>
+</tr>
+<tr>
+  <td></td>
+  <td class="session-chair">Chair: Peter Selinger</td>
+  <td></td>
+  <td class="session-chair">Chair: Alastair Abbott</td>
 </tr>
 <tr>
   <td>16:15 – 16:40</td>
