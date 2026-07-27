@@ -783,7 +783,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr class="session-chair">
   <td>Session Chair</td>
   <td>Robin Kaarsgaard</td>
-  <td></td>
+  <td>Lia Yeh</td>
   <td>Priyaa Varshinee Srinivasan</td>
 </tr>
 <tr>
@@ -837,7 +837,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr class="session-chair">
   <td>Session Chair</td>
   <td>Alastair Abbott</td>
-  <td></td>
+  <td>Rui Soares Barbosa</td>
   <td>Titouan Carette</td>
 </tr>
 <tr>
@@ -949,7 +949,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr class="session-chair">
   <td>Session Chair</td>
   <td>Miriam Backens</td>
-  <td></td>
+  <td>Rui Soares Barbosa</td>
   <td></td>
 </tr>
 <tr>
