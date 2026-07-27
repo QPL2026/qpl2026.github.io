@@ -370,7 +370,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>9:30 – 10:15</td>
   <td>
     <span class="talk-authors">Alex Maltesson, Ludvig Rodung, Niklas Budinger, Giulia Ferrini, Cameron Calcluth</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2510.08546" target="_blank" rel="noopener">Equivalence of continuous- and discrete-variable gate-based quantum computers with finite energy</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final75.pdf" target="_blank" rel="noopener">Equivalence of continuous- and discrete-variable gate-based quantum computers with finite energy</a></span>
   </td>
 </tr>
 <tr>
@@ -393,14 +393,14 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>11:30 – 11:55</td>
   <td>
     <span class="talk-authors">Vinicius Pretti Rossi, Beata Zjawin, Roberto D. Baldijão, David Schmid, John H. Selby, Ana Belén Sainz</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2510.20722" target="_blank" rel="noopener">How typical is contextuality?</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final9.pdf" target="_blank" rel="noopener">How typical is contextuality?</a></span>
   </td>
 </tr>
 <tr>
   <td>11:55 – 12:20</td>
   <td>
     <span class="talk-authors">Dichuan Gao, Razin A. Shaikh, Aleks Kissinger</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2605.13993" target="_blank" rel="noopener">Graphical algebraic geometry: from ideals and varieties to qudit ZH completeness</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper95.pdf" target="_blank" rel="noopener">Graphical algebraic geometry: from ideals and varieties to qudit ZH completeness</a></span>
   </td>
 </tr>
 <tr>
@@ -431,7 +431,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>14:30 – 14:55</td>
   <td>
     <span class="talk-authors">Yìlè Yīng, Maria Ciudad Alanon, Daniel Centeno, Jacopo Surace, Marina Maciel Ansanelli, Ruizhi Liu, David Schmid, Robert Spekkens</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2506.08091" target="_blank" rel="noopener">On whether quantum theory needs complex numbers: the foil theories perspective</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final1.pdf" target="_blank" rel="noopener">On whether quantum theory needs complex numbers: the foil theories perspective</a></span>
   </td>
   <td>
     <span class="talk-authors">Tomoaki Kawano, Ryo Kashima</span>
@@ -439,18 +439,18 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Alexandre Clément</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.06644" target="_blank" rel="noopener">A complete equational theory for real-Clifford+CH quantum circuits</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final18.pdf" target="_blank" rel="noopener">A complete equational theory for real-Clifford+CH quantum circuits</a></span>
   </td>
 </tr>
 <tr>
   <td>14:55 – 15:20</td>
   <td>
     <span class="talk-authors">Timothée Hoffreumon, Mischa P. Woods</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.19208" target="_blank" rel="noopener">On the experimental falsification of real QT</a> / <a href="https://arxiv.org/pdf/2504.02808" target="_blank" rel="noopener">A real matrix theory consistent with QT</a> (merged)</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper22.pdf" target="_blank" rel="noopener">On the experimental falsification of real QT</a> / <a href="/assets/submissions/non-final/qpl2026-paper23.pdf" target="_blank" rel="noopener">A real matrix theory consistent with QT</a> (merged)</span>
   </td>
   <td>
     <span class="talk-authors">Alexandru Baltag, Sonja Smets</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2307.01713" target="_blank" rel="noopener">Logic meets Wigner's friend (and their friends)</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final41.pdf" target="_blank" rel="noopener">Logic meets Wigner's friend (and their friends)</a></span>
   </td>
   <td>
     <span class="talk-authors">Xiaoning Bian, Sarah Meng Li, Neil J. Ross, John van de Wetering, Yuming Zhao</span>
@@ -461,15 +461,15 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>15:20 – 15:45</td>
   <td>
     <span class="talk-authors">Roberto D. Baldijão, Marco Erba, David Schmid, John Selby, Ana Belén Sainz</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.16280" target="_blank" rel="noopener">Tomographically-nonlocal entanglement</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final114.pdf" target="_blank" rel="noopener">Tomographically-nonlocal entanglement</a></span>
   </td>
   <td>
     <span class="talk-authors">Bert Lindenhovius, Vladimir Zamdzhiev</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2505.06069" target="_blank" rel="noopener">Operator spaces, linear logic and the Heisenberg–Schrödinger duality of quantum theory</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper137.pdf" target="_blank" rel="noopener">Operator spaces, linear logic and the Heisenberg–Schrödinger duality of quantum theory</a></span>
   </td>
   <td>
     <span class="talk-authors">Colin Blake</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.06466" target="_blank" rel="noopener">Completeness for prime-dimensional phase-affine circuits</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper109.pdf" target="_blank" rel="noopener">Completeness for prime-dimensional phase-affine circuits</a></span>
   </td>
 </tr>
 <tr>
@@ -485,15 +485,15 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>16:15 – 16:40</td>
   <td>
     <span class="talk-authors">Beata Zjawin, Marina Maciel Ansanelli, David Schmid, Yìlè Yīng, John H. Selby, Ciarán M. Gilligan-Lee, Ana Belén Sainz, Robert Spekkens</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2512.11209" target="_blank" rel="noopener">The resource theory of causal influence and knowledge of causal influence</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final7.pdf" target="_blank" rel="noopener">The resource theory of causal influence and knowledge of causal influence</a></span>
   </td>
   <td>
     <span class="talk-authors">Priyaa Varshinee Srinivasan, Jean-Simon Pacaud Lemay, Robin Cockett</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.13946" target="_blank" rel="noopener">Generalized inverses of quantum channels: a categorical perspective</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final83.pdf" target="_blank" rel="noopener">Generalized inverses of quantum channels: a categorical perspective</a></span>
   </td>
   <td>
     <span class="talk-authors">Fedor Kuyanov, Aleks Kissinger</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.06764" target="_blank" rel="noopener">Efficient classical simulation of low-rank-width quantum circuits using ZX-calculus</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final57.pdf" target="_blank" rel="noopener">Efficient classical simulation of low-rank-width quantum circuits using ZX-calculus</a></span>
   </td>
 </tr>
 <tr>
@@ -504,18 +504,18 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Andre Kornell, Bert Lindenhovius</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2601.09685" target="_blank" rel="noopener">The category of quantum graphs is closed</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper127.pdf" target="_blank" rel="noopener">The category of quantum graphs is closed</a></span>
   </td>
   <td>
     <span class="talk-authors">Kwok Ho Wan, Zhenghao Zhong, Ainhoa Zapirain</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2509.08658" target="_blank" rel="noopener">Simulating magic state cultivation with few Clifford terms</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper39.pdf" target="_blank" rel="noopener">Simulating magic state cultivation with few Clifford terms</a></span>
   </td>
 </tr>
 <tr>
   <td>17:05 – 17:30</td>
   <td>
     <span class="talk-authors">Carla Ferradini, Giulia Mazzola, V. Vilasini</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.12283" target="_blank" rel="noopener">Emergent causal order and time direction: bridging causal models and tensor networks</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final69.pdf" target="_blank" rel="noopener">Emergent causal order and time direction: bridging causal models and tensor networks</a></span>
   </td>
   <td>
     <span class="talk-authors">James Hefford</span>
@@ -550,7 +550,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>9:30 – 10:15</td>
   <td>
     <span class="talk-authors">Maximilian Rüsch, Aleks Kissinger, Benjamin Rodatz / Benjamin Rodatz, Boldizsár Poór, Aleks Kissinger</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2510.08477" target="_blank" rel="noopener">Completeness for fault equivalence of Clifford ZX diagrams</a> / <a href="https://arxiv.org/pdf/2506.17181" target="_blank" rel="noopener">Fault tolerance by construction</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper56.pdf" target="_blank" rel="noopener">Completeness for fault equivalence of Clifford ZX diagrams</a> / <a href="/assets/submissions/non-final/qpl2026-paper96.pdf" target="_blank" rel="noopener">Fault tolerance by construction</a></span>
   </td>
 </tr>
 <tr>
@@ -573,7 +573,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>11:30 – 11:55</td>
   <td>
     <span class="talk-authors">Manuel Mekonnen, Thomas D. Galley, Markus P. Müller</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2502.17576" target="_blank" rel="noopener">Invariance under quantum permutations rules out parastatistics</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final63.pdf" target="_blank" rel="noopener">Invariance under quantum permutations rules out parastatistics</a></span>
   </td>
 </tr>
 <tr>
@@ -611,7 +611,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>14:30 – 14:55</td>
   <td>
     <span class="talk-authors">Andrey Boris Khesin, Sarah Meng Li, Boldizsár Poór, Benjamin Rodatz, John van de Wetering, Richie Yeung</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.05391" target="_blank" rel="noopener">SpiderCat: optimal fault-tolerant cat state preparation</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper54.pdf" target="_blank" rel="noopener">SpiderCat: optimal fault-tolerant cat state preparation</a></span>
   </td>
   <td>
     <span class="talk-authors">Daniel Brod, Lorenzo Catani, Robert Spekkens</span>
@@ -619,22 +619,22 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Matthew Wilson</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2512.10937" target="_blank" rel="noopener">Agent policies from higher-order causal functions</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper15.pdf" target="_blank" rel="noopener">Agent policies from higher-order causal functions</a></span>
   </td>
 </tr>
 <tr>
   <td>14:55 – 15:20</td>
   <td>
     <span class="talk-authors">Kwok Ho Wan, Henry Price, Qing Yao</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2601.04467" target="_blank" rel="noopener">Holographic codes seen through ZX-calculus</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper42.pdf" target="_blank" rel="noopener">Holographic codes seen through ZX-calculus</a></span>
   </td>
   <td>
     <span class="talk-authors">Tim Achenbach, Andreas Bluhm, Leevi Leppäjärvi, Ion Nechita, Martin Plávala</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2504.19865" target="_blank" rel="noopener">Factorization of multimeters: a unified view on nonclassical quantum phenomena</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final68.pdf" target="_blank" rel="noopener">Factorization of multimeters: a unified view on nonclassical quantum phenomena</a></span>
   </td>
   <td>
     <span class="talk-authors">V. Vilasini, Lin-Qing Chen, Liuhang Ye, Renato Renner</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2505.21797" target="_blank" rel="noopener">Events and their localisation are relative to a lab</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper48.pdf" target="_blank" rel="noopener">Events and their localisation are relative to a lab</a></span>
   </td>
 </tr>
 <tr>
@@ -645,11 +645,11 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Cihan Okay, Aziz Kharoof</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.19479" target="_blank" rel="noopener">The geometry of fiber products of probability polytopes</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final159.pdf" target="_blank" rel="noopener">The geometry of fiber products of probability polytopes</a></span>
   </td>
   <td>
     <span class="talk-authors">Zixuan Liu, Ognyan Oreshkov</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2512.08635" target="_blank" rel="noopener">Parity erasure: a foundational principle for indefinite causal order</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final202.pdf" target="_blank" rel="noopener">Parity erasure: a foundational principle for indefinite causal order</a></span>
   </td>
 </tr>
 <tr>
@@ -663,18 +663,18 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Tom Williams, Mina Doosti, Farid Shahandeh</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2605.00975" target="_blank" rel="noopener">Sheaf-theoretic preparation contextuality via stochastic extension</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper204.pdf" target="_blank" rel="noopener">Sheaf-theoretic preparation contextuality via stochastic extension</a></span>
   </td>
   <td>
     <span class="talk-authors">Luca Apadula, Alexei Grinbaum, Časlav Brukner</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2604.02873" target="_blank" rel="noopener">Reference frames for process matrices: from coordinate parametrization to spacetime representation</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper103.pdf" target="_blank" rel="noopener">Reference frames for process matrices: from coordinate parametrization to spacetime representation</a></span>
   </td>
 </tr>
 <tr>
   <td>16:40 – 17:05</td>
   <td>
     <span class="talk-authors">Gaurang Agrawal, Matt Wilson</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2511.21355" target="_blank" rel="noopener">Deriving the generalised Born rule from first principles</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final71.pdf" target="_blank" rel="noopener">Deriving the generalised Born rule from first principles</a></span>
   </td>
   <td>
     <span class="talk-authors">Theodoros Yianni, Farid Shahandeh, Nyan Raess</span>
@@ -689,15 +689,15 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>17:05 – 17:30</td>
   <td>
     <span class="talk-authors">James Hefford, Matt Wilson</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2511.02772" target="_blank" rel="noopener">Quantum theory can decohere from a causally-indefinite post-quantum theory</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper79.pdf" target="_blank" rel="noopener">Quantum theory can decohere from a causally-indefinite post-quantum theory</a></span>
   </td>
   <td>
     <span class="talk-authors">David Schmid, Roberto D. Baldijão, John Selby, Ana Belen Sainz, Robert W. Spekkens</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2407.09624" target="_blank" rel="noopener">Noncontextuality inequalities for prepare-transform-measure scenarios</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final115.pdf" target="_blank" rel="noopener">Noncontextuality inequalities for prepare-transform-measure scenarios</a></span>
   </td>
   <td>
     <span class="talk-authors">Yassine Benhaj, Kuntal Sengupta, Cyril Branciard</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2605.22807" target="_blank" rel="noopener">How many systems can be dephased before the quantum switch becomes causally definite?</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper142.pdf" target="_blank" rel="noopener">How many systems can be dephased before the quantum switch becomes causally definite?</a></span>
   </td>
 </tr>
 <tr>
@@ -734,7 +734,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>10:15 – 11:00</td>
   <td>
     <span class="talk-authors">Quanlong Wang, Richard D. P. East, Razin A. Shaikh, Lia Yeh, Boldizsár Poór, Bob Coecke</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2511.06012" target="_blank" rel="noopener">Beyond Penrose tensor diagrams with the ZX calculus: applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper98.pdf" target="_blank" rel="noopener">Beyond Penrose tensor diagrams with the ZX calculus: applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity</a></span>
   </td>
 </tr>
 <tr>
@@ -772,22 +772,22 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>14:30 – 14:55</td>
   <td>
     <span class="talk-authors">Luca Apadula, Alessandro Bisio, Giulio Chiribella, Paolo Perinotti, Kyrylo Simonov</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.00856" target="_blank" rel="noopener">Higher-order transformations of bidirectional quantum processes</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper52.pdf" target="_blank" rel="noopener">Higher-order transformations of bidirectional quantum processes</a></span>
   </td>
   <td>
     <span class="talk-authors">Nathan Claudet, Simon Perdrix</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2502.06566" target="_blank" rel="noopener">Insights in graph state entanglement via r-local complementation: structure and a quasi-polynomial algorithm</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final33.pdf" target="_blank" rel="noopener">Insights in graph state entanglement via r-local complementation: structure and a quasi-polynomial algorithm</a></span>
   </td>
   <td>
     <span class="talk-authors">Pablo Arrighi, Doğukan Bakircioglu, Nathan Houyet</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.17581" target="_blank" rel="noopener">Quantum theory over dual-complex numbers</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final134.pdf" target="_blank" rel="noopener">Quantum theory over dual-complex numbers</a></span>
   </td>
 </tr>
 <tr>
   <td>14:55 – 15:20</td>
   <td>
     <span class="talk-authors">Matthew Wilson, James Hefford, Timothée Hoffreumon</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.23865" target="_blank" rel="noopener">Supermaps on generalised theories</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper73.pdf" target="_blank" rel="noopener">Supermaps on generalised theories</a></span>
   </td>
   <td>
     <span class="talk-authors">Piotr Mitosek, Miriam Backens</span>
@@ -806,11 +806,11 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Aleks Kissinger, John van de Wetering</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.09580" target="_blank" rel="noopener">ZX-flow: a flexible criterion for deterministic computation with ZX-diagrams</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final147.pdf" target="_blank" rel="noopener">ZX-flow: a flexible criterion for deterministic computation with ZX-diagrams</a></span>
   </td>
   <td>
     <span class="talk-authors">John Harding, Alexander Wilce</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.05627" target="_blank" rel="noopener">Classical explanations in (and of) general probabilistic theories</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper182.pdf" target="_blank" rel="noopener">Classical explanations in (and of) general probabilistic theories</a></span>
   </td>
 </tr>
 <tr>
@@ -826,22 +826,22 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>16:15 – 16:40</td>
   <td>
     <span class="talk-authors">Thomas Bartsch, Yuhan Gai, Sakura Schäfer-Nameki</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.07110" target="_blank" rel="noopener">Beyond Wigner – how non-invertible symmetries preserve probabilities</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper175.pdf" target="_blank" rel="noopener">Beyond Wigner – how non-invertible symmetries preserve probabilities</a></span>
   </td>
   <td>
     <span class="talk-authors">Haytham McDowall-Rose, Razin A. Shaikh, Lia Yeh</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2505.06212" target="_blank" rel="noopener">From fermions to qubits: a ZX-calculus perspective</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper104.pdf" target="_blank" rel="noopener">From fermions to qubits: a ZX-calculus perspective</a></span>
   </td>
   <td>
     <span class="talk-authors">Amrapali Sen, Flavio Del Santo</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2601.15263" target="_blank" rel="noopener">Superluminal transformations and indeterminism</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper35.pdf" target="_blank" rel="noopener">Superluminal transformations and indeterminism</a></span>
   </td>
 </tr>
 <tr>
   <td>16:40 – 17:05</td>
   <td>
     <span class="talk-authors">Vanessa Brzić, Satoshi Yoshida, Mio Murao, Marco Túlio Quintino</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2510.20530" target="_blank" rel="noopener">Higher-order quantum computing with known input states</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper177.pdf" target="_blank" rel="noopener">Higher-order quantum computing with known input states</a></span>
   </td>
   <td>
     <span class="talk-authors">Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li, John van de Wetering</span>
@@ -849,7 +849,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Maarten Grothus, V. Vilasini</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2403.00916" target="_blank" rel="noopener">Impossibility of superluminal signalling rules out causal loops in conical spacetimes</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper36.pdf" target="_blank" rel="noopener">Impossibility of superluminal signalling rules out causal loops in conical spacetimes</a></span>
   </td>
 </tr>
 <tr>
@@ -882,14 +882,14 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>9:30 – 10:15</td>
   <td>
     <span class="talk-authors">Cole Comfort, Robert I. Booth</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2511.22734" target="_blank" rel="noopener">Denotational semantics for stabiliser quantum programs</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper178.pdf" target="_blank" rel="noopener">Denotational semantics for stabiliser quantum programs</a></span>
   </td>
 </tr>
 <tr>
   <td>10:15 – 11:00</td>
   <td>
     <span class="talk-authors">Kathleen Barsse, Romain Péchoux, Simon Perdrix</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2507.10466" target="_blank" rel="noopener">Quantum control and general recursion beyond the unitary case</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final85.pdf" target="_blank" rel="noopener">Quantum control and general recursion beyond the unitary case</a></span>
   </td>
 </tr>
 <tr>
@@ -902,7 +902,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>11:30 – 11:55</td>
   <td>
     <span class="talk-authors">Aabhas Gulati, Ion Nechita, Clément Pellegrini</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.15800" target="_blank" rel="noopener">Entanglement in the Dicke subspace</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper81.pdf" target="_blank" rel="noopener">Entanglement in the Dicke subspace</a></span>
   </td>
 </tr>
 <tr>
@@ -941,22 +941,22 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Haruki Emori</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.05821" target="_blank" rel="noopener">Quantum statistical functions</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper122.pdf" target="_blank" rel="noopener">Quantum statistical functions</a></span>
   </td>
   <td>
     <span class="talk-authors">Nadish de Silva, Santanil Jana, Ming Yin</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2508.14673" target="_blank" rel="noopener">Three-qubit nonlocality paradoxes: beyond GHZ</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final34.pdf" target="_blank" rel="noopener">Three-qubit nonlocality paradoxes: beyond GHZ</a></span>
   </td>
 </tr>
 <tr>
   <td>14:55 – 15:20</td>
   <td>
     <span class="talk-authors">Soichiro Yamazaki, Seiseki Akibue</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.14202" target="_blank" rel="noopener">Multi-qubit controlled gate with optimal T-count</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final138.pdf" target="_blank" rel="noopener">Multi-qubit controlled gate with optimal T-count</a></span>
   </td>
   <td>
     <span class="talk-authors">Michael Zurel, Jack Davis</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2602.22336" target="_blank" rel="noopener">Basis-independent stabilizerness and maximally noisy magic states</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final76.pdf" target="_blank" rel="noopener">Basis-independent stabilizerness and maximally noisy magic states</a></span>
   </td>
   <td>
     <span class="talk-authors">Shashaank Khanna, Matthew Pusey, Roger Colbeck</span>
@@ -967,30 +967,30 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>15:20 – 15:45</td>
   <td>
     <span class="talk-authors">Akash Kundu</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2505.09371" target="_blank" rel="noopener">Tensor and gadget reinforcement learning for improved, hardware-aware quantum architecture search</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper47.pdf" target="_blank" rel="noopener">Tensor and gadget reinforcement learning for improved, hardware-aware quantum architecture search</a></span>
   </td>
   <td>
     <span class="talk-authors">Cameron Calcluth, Oliver Hahn, Juani Bermejo Vega, Alessandro Ferraro, Giulia Ferrini</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2412.13136" target="_blank" rel="noopener">Classical simulation of circuits with realistic odd-dimensional Gottesman–Kitaev–Preskill states</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final77.pdf" target="_blank" rel="noopener">Classical simulation of circuits with realistic odd-dimensional Gottesman–Kitaev–Preskill states</a></span>
   </td>
   <td>
     <span class="talk-authors">C. E. Lopetegui-Gonzalez, G. Masse, E. Oudot, U. I. Meyer, F. Centrone, F. Grosshans, P. E. Emeriau, U. Chabaud, M. Walschaers</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2601.07686" target="_blank" rel="noopener">A unified framework for Bell inequalities from continuous-variable contextuality</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper162.pdf" target="_blank" rel="noopener">A unified framework for Bell inequalities from continuous-variable contextuality</a></span>
   </td>
 </tr>
 <tr>
   <td>15:45 – 16:10</td>
   <td>
     <span class="talk-authors">Mark Deaconu, Nihar Gargava, Amolak Ratan Kalra, Michele Mosca, Jon Yard</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2510.11526" target="_blank" rel="noopener">Buildings for synthesis with Clifford+R</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final174.pdf" target="_blank" rel="noopener">Buildings for synthesis with Clifford+R</a></span>
   </td>
   <td>
     <span class="talk-authors">Massimo Frigerio, Mattia Walschaers, Andrei Aralov, Carlos Ernesto Lopetegui-Gonzalez, Emilie Gillet</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2507.19397" target="_blank" rel="noopener">Algebraic techniques for photonic state preparation and characterization</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final64.pdf" target="_blank" rel="noopener">Algebraic techniques for photonic state preparation and characterization</a></span>
   </td>
   <td>
     <span class="talk-authors">Martin J. Renner, Edwin Peter Lobo, Arturo Konderak, Remigiusz Augusiak, Antonio Acín</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2604.26605" target="_blank" rel="noopener">Full nonlocality for non-maximally entangled states</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper207.pdf" target="_blank" rel="noopener">Full nonlocality for non-maximally entangled states</a></span>
   </td>
 </tr>
 <tr>
@@ -1020,14 +1020,14 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>9:30 – 10:15</td>
   <td>
     <span class="talk-authors">Thea Li, Vladimir Zamdzhiev</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2601.15832" target="_blank" rel="noopener">Quantum coherence spaces revisited: a von Neumann (co)algebraic approach</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper93.pdf" target="_blank" rel="noopener">Quantum coherence spaces revisited: a von Neumann (co)algebraic approach</a></span>
   </td>
 </tr>
 <tr>
   <td>10:15 – 11:00</td>
   <td>
     <span class="talk-authors">Matilde Baroni, Dominik Leichtle, Ivan Šupić, Damian Markham, Marco Túlio Quintino</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2601.05158" target="_blank" rel="noopener">Composable simultaneous purification: when all communication scenarios reduce to spatial correlations</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper25.pdf" target="_blank" rel="noopener">Composable simultaneous purification: when all communication scenarios reduce to spatial correlations</a></span>
   </td>
 </tr>
 <tr>
@@ -1065,37 +1065,37 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>14:30 – 14:55</td>
   <td>
     <span class="talk-authors">Simon Burton, Hussain Anwar</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2605.06251" target="_blank" rel="noopener">Meromorphic quantum computing</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final112.pdf" target="_blank" rel="noopener">Meromorphic quantum computing</a></span>
   </td>
   <td>
     <span class="talk-authors">Noé Delorme, Simon Perdrix</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2508.21756" target="_blank" rel="noopener">Diagrammatic reasoning with control as a constructor, applications to quantum circuits</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final3.pdf" target="_blank" rel="noopener">Diagrammatic reasoning with control as a constructor, applications to quantum circuits</a></span>
   </td>
   <td>
     <span class="talk-authors">David Schmid, John H. Selby, Vinicius Pretti Rossi, Roberto D. Baldijão, Ana Belén Sainz</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2409.13024" target="_blank" rel="noopener">Shadows and subsystems of generalised probabilistic theories: when tomographic incompleteness is not a loophole for contextuality proofs</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final11.pdf" target="_blank" rel="noopener">Shadows and subsystems of generalised probabilistic theories: when tomographic incompleteness is not a loophole for contextuality proofs</a></span>
   </td>
 </tr>
 <tr>
   <td>14:55 – 15:20</td>
   <td>
     <span class="talk-authors">Christine Li, Lia Yeh</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.04548" target="_blank" rel="noopener">Transversal AND in quantum codes</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper123.pdf" target="_blank" rel="noopener">Transversal AND in quantum codes</a></span>
   </td>
   <td>
     <span class="talk-authors">Chris Heunen, Robin Kaarsgaard, Louis Lemonnier</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2510.05032" target="_blank" rel="noopener">One rig to control them all</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final10.pdf" target="_blank" rel="noopener">One rig to control them all</a></span>
   </td>
   <td>
     <span class="talk-authors">Jan-Åke Larsson</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2504.20816" target="_blank" rel="noopener">The contextual Heisenberg microscope</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final12.pdf" target="_blank" rel="noopener">The contextual Heisenberg microscope</a></span>
   </td>
 </tr>
 <tr>
   <td>15:20 – 15:45</td>
   <td>
     <span class="talk-authors">Jin Ming Koh, Anqi Gong, Andrei C. Diaconu, Daniel Bochen Tan, Alexandra A. Geim, Michael J. Gullans, Norman Y. Yao, Mikhail D. Lukin, Shayan Majidy</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2601.20927" target="_blank" rel="noopener">Phantom codes: entangling logical qubits without physical operations</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper190.pdf" target="_blank" rel="noopener">Phantom codes: entangling logical qubits without physical operations</a></span>
   </td>
   <td>
     <span class="talk-authors">William Schober, Scott Wesley</span>
@@ -1103,7 +1103,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Daniel McNulty</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2511.15954" target="_blank" rel="noopener">Quantifying quantum measurement incompatibility via graph invariants</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper24.pdf" target="_blank" rel="noopener">Quantifying quantum measurement incompatibility via graph invariants</a></span>
   </td>
 </tr>
 <tr>
@@ -1119,11 +1119,11 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>16:15 – 16:40</td>
   <td>
     <span class="talk-authors">Vivien Vandaele</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.12917" target="_blank" rel="noopener">Asymptotically optimal quantum circuits for comparators and incrementers</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper211.pdf" target="_blank" rel="noopener">Asymptotically optimal quantum circuits for comparators and incrementers</a></span>
   </td>
   <td>
     <span class="talk-authors">Sacha Cerf, Harold Ollivier</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2603.26875" target="_blank" rel="noopener">The perturbative method for quantum correlations</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper74.pdf" target="_blank" rel="noopener">The perturbative method for quantum correlations</a></span>
   </td>
   <td>
     <span class="talk-authors">Raffaele D'Avino, Lorenzo Caramelli, Raja Yehia, Gabriel Senno, Roberto González Pousa, Antonio Acín, Tamás Kriváchy</span>
@@ -1134,11 +1134,11 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>16:40 – 17:05</td>
   <td>
     <span class="talk-authors">Giuseppe De Riso, Giuseppe Catalano, Seth Lloyd, Vittorio Giovannetti, Dario De Santis</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2508.02855" target="_blank" rel="noopener">A resource-efficient quantum-walker quantum RAM</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final181.pdf" target="_blank" rel="noopener">A resource-efficient quantum-walker quantum RAM</a></span>
   </td>
   <td>
     <span class="talk-authors">Subhendu Bikas Ghosh, Snehasish Roy Chowdhury, Guruprasad Kar, Arup Roy, Tamal Guha, Manik Banik</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2310.16386" target="_blank" rel="noopener">Strong inequivalence of quantum nonlocal resources</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper203.pdf" target="_blank" rel="noopener">Strong inequivalence of quantum nonlocal resources</a></span>
   </td>
   <td>
     <span class="talk-authors">Paul Becsi, Matthew Joseph Hoban</span>
@@ -1158,7 +1158,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <details id="monday-long-plenary-talks">
     <summary>Monday Long Plenary Talks 9:30 - 11:00</summary>
     <details>
-      <summary><strong>9:30 - 10:15 </strong><a href="https://arxiv.org/pdf/2510.08546" target="_blank" rel="noopener">Equivalence of continuous- and discrete-variable gate-based quantum computers</a></summary>
+      <summary><strong>9:30 - 10:15 </strong><a href="/assets/submissions/qpl2026-final75.pdf" target="_blank" rel="noopener">Equivalence of continuous- and discrete-variable gate-based quantum computers</a></summary>
       <p>
         <strong>Abstract.</strong> We examine the ability of gate-based continuous-variable quantum computers to outperform qubit or discrete-variable quantum computers. Gate-based continuous-variable operations refer to operations constructed using a polynomial sequence of elementary gates from a specific finite set, i.e., those selected from the set of Gaussian operations and cubic phase gates. Our results show that for a fixed energy of the system, there is no superpolynomial computational advantage in using gate-based continuous-variable quantum computers over discrete-variable ones. The proof of this result consists of defining a framework - of independent interest - that maps quantum circuits between the paradigms of continuous- to discrete-variables. This framework allows us to conclude that a realistic gate-based model of continuous-variable quantum computers, consisting of states and operations that have a total energy that is polynomial in the number of modes, can be simulated efficiently using discrete-variable devices. We utilize the stabilizer subsystem decomposition [Shaw et al., PRX Quantum 5, 010331] to map continuous-variable states to discrete-variable counterparts, which allows us to find the error of approximating continuous-variable quantum computers with discrete-variable ones in terms of the energy of the continuous-variable system and the dimension of the corresponding encoding qudits.
       </p>
@@ -1179,7 +1179,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <details id="monday-short-plenary-talks">
     <summary>Monday Short Plenary Talks 11:30 - 12:20</summary>
     <details>
-      <summary><strong>11:30 - 11:55 </strong><a href="https://arxiv.org/pdf/2510.20722" target="_blank" rel="noopener">How typical is contextuality?</a></summary>
+      <summary><strong>11:30 - 11:55 </strong><a href="/assets/submissions/qpl2026-final9.pdf" target="_blank" rel="noopener">How typical is contextuality?</a></summary>
       <p>
         <strong>Abstract.</strong> Identifying when observed statistics cannot be explained by any reasonable classical model is a central problem in quantum foundations. A principled and universally applicable approach to defining and identifying nonclassicality is given by the notion of generalized noncontextuality. Here, we study the typicality of contextuality -- namely, the likelihood that randomly chosen quantum preparations and measurements produce nonclassical statistics. Using numerical linear programs to test for the existence of a generalized-noncontextual model, we find that contextuality is fairly common: even in experiments with only a modest number of random preparations and measurements, contextuality arises with probability over 99%. We also show that while typicality of contextuality decreases as the purity (sharpness) of the preparations (measurements) decreases, this dependence is not especially pronounced, so contextuality is fairly typical even in settings with realistic noise. Finally, we show that although nonzero contextuality is quite typical, quantitatively high degrees of contextuality are not as typical, and so large quantum advantages (like for parity-oblivious multiplexing, which we take as a case study) are not as typical. We provide an open-source toolbox that outputs the typicality of contextuality as a function of tunable parameters (such as lower and upper bounds on purity and other constraints on states and measurements). This toolbox can inform the design of experiments that achieve the desired typicality of contextuality for specified experimental constraints.
       </p>
@@ -1188,7 +1188,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
       </p>
     </details>
     <details>
-      <summary><strong>11:55 - 12:20 </strong><a href="https://arxiv.org/pdf/2605.13993" target="_blank" rel="noopener">Graphical algebraic geometry: From ideals and varieties to quantum calculi</a></summary>
+      <summary><strong>11:55 - 12:20 </strong><a href="/assets/submissions/non-final/qpl2026-paper95.pdf" target="_blank" rel="noopener">Graphical algebraic geometry: From ideals and varieties to quantum calculi</a></summary>
       <p>
         <strong>Abstract.</strong> We introduce Graphical Algebraic Geometry (GAG), a family of diagrammatic languages extending the Graphical Linear Algebra programme. We construct several languages within this family and prove that they are universal and complete for the corresponding (co)span semantics of commutative algebras and affine varieties. This framework provides clear graphical representations of algebraic structures -- such as polynomials, ideals, and varieties -- enabling intuitive yet rigorous diagrammatic reasoning. We showcase two practical viewpoints on GAG. First, we show that instances of counting constraint satisfaction problem (#CSP) are recast as rewrite problems of closed diagrams in GAG. This means that deciding rewritability in GAG is #P-hard, and GAG can be viewed as a complete and compositional rewrite system for networks of polynomial constraints. Second, we characterize the qudit ZH calculus, a diagrammatic language for quantum computation, as an extension of Graphical Algebraic Geometry. This establishes the correspondence that Graphical Algebraic Geometry is to the ZH calculus what Graphical Linear Algebra is to the ZX calculus. Using this construction, we show that computing amplitudes in qudit ZH requires only a constant number of queries to a GAG oracle.
       </p>
@@ -1200,7 +1200,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <details id="tuesday-long-plenary-talks">
     <summary>Tuesday Long Plenary Talks 9:30 - 11:00</summary>
     <details>
-      <summary><strong>9:30 - 10:15 </strong><a href="https://arxiv.org/pdf/2510.08477" target="_blank" rel="noopener">Completeness for fault equivalence of Clifford ZX diagrams</a> / <a href="https://arxiv.org/pdf/2506.17181" target="_blank" rel="noopener">Fault tolerance by construction</a></summary>
+      <summary><strong>9:30 - 10:15 </strong><a href="/assets/submissions/non-final/qpl2026-paper56.pdf" target="_blank" rel="noopener">Completeness for fault equivalence of Clifford ZX diagrams</a> / <a href="/assets/submissions/non-final/qpl2026-paper96.pdf" target="_blank" rel="noopener">Fault tolerance by construction</a></summary>
       <p>
         <strong>Abstract (Completeness for fault equivalence of Clifford ZX diagrams).</strong> Two circuits are considered to be equivalent under noise if the effect of faults on one circuit is no worse than the effect of faults on the other circuit. We call this relationship fault equivalence. Fault equivalence offers a way to transform circuits while provably preserving their fault-tolerant properties, enabling a framework for fault-tolerant circuit synthesis and optimisation that is correct by construction. The ZX calculus offers a diagrammatic way to represent and reason about quantum circuits and is a useful tool for manipulating circuits while preserving fault equivalence. For this, the usual set of ZX rewrites has to be restricted to not only preserve the underlying linear map represented by the diagram, but also fault equivalence.<br><br>
         In this work, we provide a set of ZX rewrites that are sound and complete for fault equivalence of Clifford ZX diagrams. This means that any equivalence that can be derived using the proposed rules is certain to be correct, and any correct equivalence can be derived using only these rules. For this, we utilise diagrammatic constructions called fault gadgets to reason about arbitrary, possibly correlated Pauli faults in ZX diagrams. Fault gadgets allow us to separate the diagram into a fault-free part, which captures the noise-free behaviour of a diagram, and a noisy part that enumerates the effects of all possible faults. Using this, we provide a unique normal form for ZX diagrams under noise and show that any diagram can be brought into this normal form using our proposed rule set.
@@ -1230,7 +1230,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <details id="tuesday-short-plenary-talks">
     <summary>Tuesday Short Plenary Talks 11:30 - 12:20</summary>
     <details>
-      <summary><strong>11:30 - 11:55 </strong><a href="https://arxiv.org/pdf/2502.17576" target="_blank" rel="noopener">Invariance under quantum permutations rules out parastatistics</a></summary>
+      <summary><strong>11:30 - 11:55 </strong><a href="/assets/submissions/qpl2026-final63.pdf" target="_blank" rel="noopener">Invariance under quantum permutations rules out parastatistics</a></summary>
       <p>
         <strong>Abstract.</strong> Quantum systems invariant under particle exchange are either Bosons or Fermions, even though quantum theory in principle admits more general behavior under permutations. But why do we not observe such 'paraparticles' in nature? The analysis of this question was previously limited primarily to specific quantum field theory models. Here we give two independent arguments that rule out parastatistics universally, originating in quantum information theory and recent research on internal quantum reference frames. First, we introduce a notion of complete invariance: quantum systems should not only preserve their local state under permutations, but also the quantum information they carry about other systems, in analogy to the notion of complete positivity in quantum information theory. Second, we demand that quantum systems are invariant under quantum permutations, i.e. permutations conditioned on values of permutation-invariant observables. For both, we show that the respective principle is fulfilled if and only if the particle is a Boson or Fermion. Our results show how quantum reference frames can shed light on a longstanding problem of quantum physics, they underline the crucial role played by the compositional structure of quantum information, and demonstrate the explanatory power but also subtle limitations of recently proposed quantum covariance principles.
       </p>
@@ -1266,7 +1266,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
       </p>
     </details>
     <details>
-      <summary><strong>10:15 - 11:00 </strong><a href="https://arxiv.org/pdf/2511.06012" target="_blank" rel="noopener">Beyond Penrose tensor diagrams with the ZX calculus: Applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity</a></summary>
+      <summary><strong>10:15 - 11:00 </strong><a href="/assets/submissions/non-final/qpl2026-paper98.pdf" target="_blank" rel="noopener">Beyond Penrose tensor diagrams with the ZX calculus: Applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity</a></summary>
       <p>
         <strong>Abstract.</strong> We introduce the Spin-ZX calculus as an elevation of Penrose's diagrams and associated binor calculus to the level of a formal diagrammatic language. The power of doing so is illustrated by the variety of scientific areas we apply it to: permutational quantum computing, quantum machine learning, condensed matter physics, and quantum gravity. Respectively, we analyse permutational computing transition amplitudes, evaluate barren plateaus for SU(2) symmetric ansätze, study properties of AKLT states, and derive the minimum quantised volume in loop quantum gravity. <br><br>
         Our starting point is the mixed-dimensional ZX calculus, a purely diagrammatic language that has been proven to be complete for finite-dimensional Hilbert spaces. That is, any equation that can be derived in the Hilbert space formalism, can also be derived in the mixed-dimensional ZX calculus. We embed the Spin-ZX calculus inside the mixed-dimensional ZX calculus, rendering it a quantum information flavoured diagrammatic language for the quantum theory of angular momentum, i.e. SU(2) representation theory. We diagrammatically derive the fundamental spin coupling objects - such as Clebsch-Gordan coefficients, symmetrising mappings between qubits and spin spaces, and spin Hamiltonians - under this embedding. <br><br>
@@ -1280,7 +1280,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <details id="thursday-long-plenary-talks">
     <summary>Thursday Long Plenary Talks 9:30 - 11:00</summary>
     <details>
-      <summary><strong>9:30 - 10:15 </strong><a href="https://arxiv.org/pdf/2511.22734" target="_blank" rel="noopener">Denotational semantics for stabiliser quantum programs</a></summary>
+      <summary><strong>9:30 - 10:15 </strong><a href="/assets/submissions/non-final/qpl2026-paper178.pdf" target="_blank" rel="noopener">Denotational semantics for stabiliser quantum programs</a></summary>
       <p>
         <strong>Abstract.</strong> The stabiliser fragment of quantum theory is a foundational building block for quantum error correction and the fault-tolerant compilation of quantum programs. In this article, we develop a sound, universal and complete denotational semantics for stabiliser operations which include measurement, classically-controlled Pauli operators, and affine classical operations, in which quantum error-correcting codes are first-class objects. The operations are interpreted as certain affine relations over finite fields. This offers a conceptually motivated and computationally-tractable alternative to the standard operator-algebraic semantics of quantum programs (whose time complexity grows exponentially as the state space increases in size). We demonstrate the power of the resulting semantics by describing a small, proof-of-concept assembly language for stabiliser programs with fully-abstract denotational semantics.
       </p>
@@ -1289,7 +1289,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
       </p>
     </details>
     <details>
-      <summary><strong>10:15 - 11:00 </strong><a href="https://arxiv.org/pdf/2507.10466" target="_blank" rel="noopener">Quantum control and general recursion beyond the unitary case</a></summary>
+      <summary><strong>10:15 - 11:00 </strong><a href="/assets/submissions/qpl2026-final85.pdf" target="_blank" rel="noopener">Quantum control and general recursion beyond the unitary case</a></summary>
       <p>
         <strong>Abstract.</strong> Coherent control, aka quantum control, is a central concept in quantum computing that is attracting increasing attention from both the quantum foundations and quantum software communities. Defining coherent control in the presence of recursion and measurement has long been known to be a major challenge. In particular, no-go results have been established for standard semantical domains like completely positive maps. We address this problem by introducing the first quantum programming language with recursion that allows for the coherent control of arbitrary quantum operations. We equip this language with both an operational and a denotational semantics that we prove to be adequate. To design these semantics, we show that combining coherent control, recursion, and measurement crucially requires describing the evolution of subprograms in the absence of input. To address this, the operational semantics takes into account a default evolution branch, while the denotational semantics uses the concept of coherent quantum operation, based on vacuum extensions. We strengthen the validity of our approach by developing an observational equivalence: two programs are equivalent if their probability of termination is the same in any context. The denotational semantics is shown to be fully abstract with respect to this observational equivalence.
       </p>
@@ -1301,7 +1301,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <details id="thursday-short-plenary-talk">
     <summary>Thursday Short Plenary Talk 11:30 - 11:55</summary>
     <details>
-      <summary><strong>11:30 - 11:55 </strong><a href="https://arxiv.org/pdf/2602.15800" target="_blank" rel="noopener">Entanglement in the Dicke subspace</a></summary>
+      <summary><strong>11:30 - 11:55 </strong><a href="/assets/submissions/non-final/qpl2026-paper81.pdf" target="_blank" rel="noopener">Entanglement in the Dicke subspace</a></summary>
       <p>
         <strong>Abstract.</strong> In this paper, we provide a complete mathematical theory for the entanglement of mixtures of Dicke states. These quantum states form an important subclass of bosonic states arising in the study of indistinguishable particles. We introduce a tensor-based parametrization where the diagonal entries of these states are encoded as a symmetric tensor, enabling a direct translation between entanglement properties and well-studied convex cones of tensors. Our results bridge multipartite entanglement theory with semialgebraic geometry and the theory of completely positive and copositive tensors. <br><br>
         This dictionary maps separability to completely positive tensors, the PPT property to moment tensors, entanglement witnesses to copositive tensors, and decomposable witnesses to sum of squares tensors. Using this framework, we construct explicit PPT entangled states in three or more qutrits. In this class of states, we establish that PPT entanglement exists for all multipartite systems with three qutrits or more, disproving a recent conjecture in [J. Math. Phys. 66, 022203 (2025)]. We also show that, for mixtures of Dicke states, the PPT condition with respect to the most balanced bipartition implies PPT with respect to any other bipartition. <br><br>
@@ -1315,7 +1315,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <details id="friday-long-plenary-talks">
     <summary>Friday Long Plenary Talks 9:30 - 11:00</summary>
     <details>
-      <summary><strong>9:30 - 10:15 </strong><a href="https://arxiv.org/pdf/2601.15832" target="_blank" rel="noopener">Quantum coherence spaces revisited: A von Neumann (co)algebraic approach</a></summary>
+      <summary><strong>9:30 - 10:15 </strong><a href="/assets/submissions/non-final/qpl2026-paper93.pdf" target="_blank" rel="noopener">Quantum coherence spaces revisited: A von Neumann (co)algebraic approach</a></summary>
       <p>
         <strong>Abstract.</strong> We describe a categorical model of MALL (Multiplicative Additive Linear Logic) inspired by the Heisenberg-Schrödinger duality of finite-dimensional quantum theory. Proofs of formulas with positive logical polarity correspond to CPTP (completely positive trace-preserving) maps in our model, i.e. the quantum operations in the Schrödinger picture, whereas proofs of formulas with negative logical polarity correspond to CPU (completely positive unital) maps, i.e. the quantum operations in the Heisenberg picture. The mathematical development is based on noncommutative geometry and finite-dimensional von Neumann (co)algebras, which can be defined as special kinds of (co)monoid objects internal to the category of finite-dimensional operator spaces.
       </p>
@@ -1324,7 +1324,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
       </p>
     </details>
     <details>
-      <summary><strong>10:15 - 11:00 </strong><a href="https://arxiv.org/pdf/2601.05158" target="_blank" rel="noopener">Composable simultaneous purification: When all communication scenarios reduce to spatial correlations</a></summary>
+      <summary><strong>10:15 - 11:00 </strong><a href="/assets/submissions/non-final/qpl2026-paper25.pdf" target="_blank" rel="noopener">Composable simultaneous purification: When all communication scenarios reduce to spatial correlations</a></summary>
       <p>
         <strong>Abstract.</strong> Bell non-locality is a powerful framework to distinguish classical, quantum and post-quantum resources, which relies on non-communicating players. Under which restriction can we have the same separations, if we allow for communication? Non-signalling state assemblages, and the fact that they can always be simultaneously purified, turned out to be the key element to restrict the simplest bipartite communication scenario, the prepare-and-measure, to the standard bipartite Bell scenario. Yet, many distinctive features of quantum theory are genuinely multipartite and cannot be reduced to two-party behaviour. In this work we are interested in extending this simultaneous purification inspired result to all multipartite communication schemes. As a first step, we unify and extend the simultaneous purification result from states to instruments and super-instruments, which are composable structures, and open up the possibility to explore more complex communication scenarios. Our main contribution is to establish that arbitrary compositions of non-signalling assemblages cannot escape the standard spatial quantum Bell correlations set. As a consequence, any interactive quantum realization of correlations outside of this set must involve at least one signalling assemblage of quantum operations, even when the resulting correlations are non-signalling.
       </p>
@@ -1343,7 +1343,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     <details>
       <summary><strong>Track 1</strong></summary>
       <details>
-        <summary><strong>14:30 - 14:55 </strong><a href="https://arxiv.org/pdf/2506.08091" target="_blank" rel="noopener">On whether quantum theory needs complex numbers: The foil theories perspective</a></summary>
+        <summary><strong>14:30 - 14:55 </strong><a href="/assets/submissions/qpl2026-final1.pdf" target="_blank" rel="noopener">On whether quantum theory needs complex numbers: The foil theories perspective</a></summary>
         <p>
           <strong>Abstract.</strong> Recent work by Renou et al. (2021) has led to some controversy concerning the question of whether quantum theory requires complex numbers for its formulation. We promote the view that the main result of that work is best understood not as a claim about the relative merits of different representations of quantum theory, but rather as a claim about the possibility of experimentally adjudicating between standard quantum theory and an alternative theory -- a foil theory -- known as real-amplitude quantum theory (RQT). In particular, the claim is that this adjudication can be achieved given only an assumption about the causal structure of the experiment. Here, we aim to shed some light on why this is possible, by reconceptualizing the comparison of the two theories as an instance of a broader class of such theory comparisons. By recasting RQT as the subtheory of quantum theory that arises by symmetrizing with respect to the collective action of a time-reversal symmetry, we can compare it to other subtheories that arise by symmetrization, but for different symmetries. If the symmetry has a unitary representation, the resulting foil theory is termed a twirled quantum world, and if it does not (as is the case in RQT), the resulting foil theory is termed a swirled quantum world. We show that, in contrast to RQT, there is no possibility of distinguishing any twirled quantum world from quantum theory given only an assumption about causal structure. We also define analogues of twirling and swirling for an arbitrary generalized probabilistic theory and identify certain necessary conditions on a causal structure for it to be able to support a causal compatibility gap between the theory and its symmetrized version. We draw out the implications of these analyses for the question of how a lack of a shared reference frame state features into the possibility of such a gap.
         </p>
@@ -1352,7 +1352,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>14:55 - 15:20 </strong><a href="https://arxiv.org/pdf/2603.19208" target="_blank" rel="noopener">On the experimental falsification of Real QT</a> / <a href="https://arxiv.org/pdf/2504.02808" target="_blank" rel="noopener">A real matrix theory consistent with both the postulates and predictions of quantum theory</a> [MERGED]</summary>
+        <summary><strong>14:55 - 15:20 </strong><a href="/assets/submissions/non-final/qpl2026-paper22.pdf" target="_blank" rel="noopener">On the experimental falsification of Real QT</a> / <a href="/assets/submissions/non-final/qpl2026-paper23.pdf" target="_blank" rel="noopener">A real matrix theory consistent with both the postulates and predictions of quantum theory</a> [MERGED]</summary>
         <p>
           <strong>Abstract (On the experimental falsification of Real QT).</strong> Whether the complex numbers of standard quantum theory are experimentally indispensable has remained open for decades. Real quantum theory (RQT), obtained by replacing complex amplitudes with real ones while retaining the usual Kronecker-product composition rule, reproduces all single-party and bipartite Bell correlations of quantum theory (QT), but its lack of local tomography suggested that the two theories might diverge in more general local experiments. This possibility appeared to be confirmed by Renou et al., who argued that a bilocal network experiment can falsify RQT without falsifying QT. Here we show that this conclusion relies on an experimentally untestable assumption. The key distinction is between product-state independence, which constrains the mathematical form of source states, and operational independence, which is defined entirely by the absence of observable cross-source correlations. We prove that, once source independence is imposed operationally, every finite network correlation achievable in QT is also achievable in RQT with the same locality structure of the measurements. We then extend this equivalence to arbitrary finite sequential multipartite protocols involving channels and measurements with prescribed locality structure. Thus, as long as no violation of QT is observed, RQT cannot be experimentally falsified. Our results restore the empirical indistinguishability of QT and RQT, while showing that they support markedly different pictures of the correlation structure underlying the same observed world.
         </p>
@@ -1367,7 +1367,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>15:20 - 15:45 </strong><a href="https://arxiv.org/pdf/2602.16280" target="_blank" rel="noopener">Tomographically-nonlocal entanglement</a></summary>
+        <summary><strong>15:20 - 15:45 </strong><a href="/assets/submissions/qpl2026-final114.pdf" target="_blank" rel="noopener">Tomographically-nonlocal entanglement</a></summary>
         <p>
           <strong>Abstract.</strong> Entanglement is a central and subtle feature of quantum theory, whose structure and operational behavior can change dramatically when additional physical constraints, such as symmetries or superselection rules, are imposed. Such constraints can give rise to striking and counter-intuitive phenomena, including local broadcasting of entangled states and failures of entanglement monogamy. These effects naturally arise in tomographically nonlocal theories (like real quantum theory, twirled worlds, or fermionic quantum theory), where composite systems possess holistic degrees of freedom that are inaccessible to local measurements. In this work, we study entanglement in such theories within the framework of generalized probabilistic theories. We show that the failure of tomographic locality leads to two qualitatively distinct forms of entanglement, which we term tomographically-local entanglement and tomographically-nonlocal entanglement. We analyze the operational consequences of this distinction, proving that tomographically-nonlocal entanglement is useless for Bell nonlocality, steering, and teleportation, but sufficient for dense coding and perfectly secure data hiding. This framework clarifies the origin of several previously puzzling features of entanglement that arise when tomographic locality fails, as can happen even in quantum theory when one considers fermions or fundamental superselection rules.
         </p>
@@ -1388,7 +1388,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>14:55 - 15:20 </strong><a href="https://arxiv.org/pdf/2307.01713" target="_blank" rel="noopener">Logic meets Wigner's friend (and their friends)</a></summary>
+        <summary><strong>14:55 - 15:20 </strong><a href="/assets/submissions/qpl2026-final41.pdf" target="_blank" rel="noopener">Logic meets Wigner's friend (and their friends)</a></summary>
         <p>
           <strong>Abstract.</strong> We take a fresh look at Wigner's Friend thought-experiment and some of its more recent variants and extensions, such as the Frauchiger-Renner (FR) Paradox. We discuss various solutions proposed in the literature, focusing on a few questions: What is the correct epistemic interpretation of the multiplicity of state assignments in these scenarios? Under which conditions can one include classical observers into the quantum state descriptions, in a way that is still compatible with traditional Quantum Mechanics? Under which conditions can one system be admitted as an additional 'observer' from the perspective of another background observer? When can the standard axioms of multi-agent Epistemic Logic (that allow "knowledge transfer" between agents) be applied to quantum-physical observers? In the last part of the paper, we propose a new answer to these questions, sketch a particular formal implementation of this answer, and apply it to obtain a principled solution to Wigner Friend-type paradoxes.
         </p>
@@ -1397,7 +1397,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>15:20 - 15:45 </strong><a href="https://arxiv.org/pdf/2505.06069" target="_blank" rel="noopener">Operator spaces, linear logic and the Heisenberg-Schrödinger duality</a></summary>
+        <summary><strong>15:20 - 15:45 </strong><a href="/assets/submissions/non-final/qpl2026-paper137.pdf" target="_blank" rel="noopener">Operator spaces, linear logic and the Heisenberg-Schrödinger duality</a></summary>
         <p>
           <strong>Abstract.</strong> We show that the category OS of operator spaces, with complete contractions as morphisms, is locally countably presentable and a model of Intuitionistic Linear Logic in the sense of Lafont. We then describe a model of Classical Linear Logic, based on OS, whose duality is compatible with the HeisenbergSchrödinger duality of quantum theory. We also show that OS provides a good setting for studying pure state and mixed state quantum information, the interaction between the two, and even higher-order quantum maps such as the quantum switch.
         </p>
@@ -1409,7 +1409,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     <details>
       <summary><strong>Track 3</strong></summary>
       <details>
-        <summary><strong>14:30 - 14:55 </strong><a href="https://arxiv.org/pdf/2602.06644" target="_blank" rel="noopener">A complete equational theory for Real-Clifford+CH quantum circuits</a></summary>
+        <summary><strong>14:30 - 14:55 </strong><a href="/assets/submissions/qpl2026-final18.pdf" target="_blank" rel="noopener">A complete equational theory for Real-Clifford+CH quantum circuits</a></summary>
         <p>
           <strong>Abstract.</strong> We introduce a complete equational theory for the fragment of quantum circuits generated by the real Clifford gates plus the two-qubit controlled-Hadamard gate. That is, we give a simple set of equalities between circuits of this fragment, and prove that any other true equation can be derived from these. This is the first such completeness result for a finitely-generated, universal fragment of quantum circuits, with no parameterized gates and no need for ancillas.
         </p>
@@ -1427,7 +1427,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>15:20 - 15:45 </strong><a href="https://arxiv.org/pdf/2603.06466" target="_blank" rel="noopener">Completeness for prime-dimensional phase-affine circuits</a></summary>
+        <summary><strong>15:20 - 15:45 </strong><a href="/assets/submissions/non-final/qpl2026-paper109.pdf" target="_blank" rel="noopener">Completeness for prime-dimensional phase-affine circuits</a></summary>
         <p>
           <strong>Abstract.</strong> Equational reasoning about circuits is central in quantum software for validation, optimisation, and verification. For qubits, the CNOT-dihedral fragment supports efficient rewriting via phase polynomials and layered normal forms, yielding a complete and practically effective equational theory. In this work we generalise that CNOT-dihedral picture from qubits to prime-dimensional qudits. We present a compact PROP for reversible affine circuits over a prime field, with a strict symmetric monoidal semantics into the affine group and a Lafont-style affine normal form. We then adjoin finite-angle diagonal phase generators and organise them by polynomial degree, obtaining linear, quadratic (odd prime), and cubic (prime greater than 3) calculi. Using binomial-basis identities we derive uniform transport rules, establish unique phase-affine normal forms, and prove completeness: semantic equality coincides with derivable equality. This yields a prime-dimensional, phase-polynomial-aligned generalisation of the CNOT-dihedral equational theory.
         </p>
@@ -1442,7 +1442,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     <details>
       <summary><strong>Track 1</strong></summary>
       <details>
-        <summary><strong>16:15 - 16:40 </strong><a href="https://arxiv.org/pdf/2512.11209" target="_blank" rel="noopener">The resource theory of causal influence and knowledge of causal influence</a></summary>
+        <summary><strong>16:15 - 16:40 </strong><a href="/assets/submissions/qpl2026-final7.pdf" target="_blank" rel="noopener">The resource theory of causal influence and knowledge of causal influence</a></summary>
         <p>
           <strong>Abstract.</strong> Understanding and quantifying causal relationships between variables is essential for reasoning about the physical world. In this work, we develop a resource-theoretic framework to do so. Here, we focus on the simplest nontrivial setting -- two variables that are causally ordered, meaning that the first has the potential to influence the second, without hidden confounding. First, we introduce the resource theory that directly quantifies causal influence of a functional dependence in this setting and show that the problem of deciding convertibility of resources and identifying a complete set of monotones has a relatively straightforward solution. Following this, we introduce the resource theory that arises naturally when one has uncertainty about the functional dependence. We describe a linear program for deciding the question of whether one resource (i.e., state of knowledge about the functional dependence) can be converted to another. Then, we focus on the case where the variables are binary. In this case, we identify a triple of monotones that are complete in the sense that they capture the partial order over the set of all resources, and we provide an interpretation of each.
         </p>
@@ -1460,7 +1460,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>17:05 - 17:30 </strong><a href="https://arxiv.org/pdf/2603.12283" target="_blank" rel="noopener">Emergent causal order and time direction: Bridging causal models and tensor networks</a></summary>
+        <summary><strong>17:05 - 17:30 </strong><a href="/assets/submissions/qpl2026-final69.pdf" target="_blank" rel="noopener">Emergent causal order and time direction: Bridging causal models and tensor networks</a></summary>
         <p>
           <strong>Abstract.</strong> Can the direction of time and the causal structure of space-time be inferred from operational principles? Causal models and tensor networks offer complementary perspectives: the former encodes cause-effect relations via directed graphs, with intrinsic ordering; the latter describes multipartite systems on undirected graphs, without presupposing directionality. We construct two-way mappings between these two frameworks, linking direction agnostic correlation functions and operational notions of signalling. This clarifies the operational meaning of causal influence in tensor networks and introduces discrete "space-time rotations'' of causal models which preserve signalling relations. Applying our framework to holographic tensor networks, we use tools from causal inference, like graph-separation, to analyse emergent causal structures. By permitting cyclic and indefinite causal structures, our results enable transfer of techniques across tensor networks and a range of causality frameworks.
         </p>
@@ -1472,7 +1472,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     <details>
       <summary><strong>Track 2</strong></summary>
       <details>
-        <summary><strong>16:15 - 16:40 </strong><a href="https://arxiv.org/pdf/2603.13946" target="_blank" rel="noopener">Generalized inverses of quantum channels: A categorical perspective</a></summary>
+        <summary><strong>16:15 - 16:40 </strong><a href="/assets/submissions/qpl2026-final83.pdf" target="_blank" rel="noopener">Generalized inverses of quantum channels: A categorical perspective</a></summary>
         <p>
           <strong>Abstract.</strong> A quantum channel is defined as being completely positive (CP) and trace preserving (TP). While not every quantum channel is invertible or reversible, every quantum channel admits various kinds of generalized inverses such as the Moore-Penrose inverse and the Drazin inverse. A generalized inverse of a quantum channel may not itself be a quantum channel: it often fails to be CP. However, generalized inverses still play an important role in quantum error mitigation. Here, because it is often desirable for the generalized inverse of a quantum channel to be at least TP, the Drazin inverse, which is TP, is favoured over the Moore-Penrose inverse, which is not in general TP.<br><br>
           In this paper, we take a categorical perspective on generalized inverses of quantum channels. This allows us to give a simple proof of the fact that the Drazin inverse of a quantum channel is always TP. It also allows us to show that for unital quantum channels, the Drazin inverse is also unital. We then generalize this result to dagger Drazin inverses, which allows us to show that for unital quantum channels, the Moore-Penrose inverse is both TP and unital as well. This opens the door to new applications of both the Drazin inverse and Moore-Penrose inverse in quantum information theory and, in particular, in quantum error mitigation.
@@ -1482,7 +1482,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>16:40 - 17:05 </strong><a href="https://arxiv.org/pdf/2601.09685" target="_blank" rel="noopener">The category of quantum graphs is closed</a></summary>
+        <summary><strong>16:40 - 17:05 </strong><a href="/assets/submissions/non-final/qpl2026-paper127.pdf" target="_blank" rel="noopener">The category of quantum graphs is closed</a></summary>
         <p>
           <strong>Abstract.</strong> We introduce a category 𝗊𝖦𝗉𝗁 of quantum graphs, whose definition is motivated entirely from noncommutative geometry. For all quantum graphs G and H in 𝗊𝖦𝗉𝗁, we then construct a quantum graph [G,H] of homomorphisms from G to H, making 𝗊𝖦𝗉𝗁 a closed symmetric monoidal category. We prove that for all finite graphs G and H, the quantum graph [G,H] is nonempty iff the (G,H)-homomorphism game has a winning quantum strategy, directly generalizing the classical case.<br><br>
           The finite quantum graphs in 𝗊𝖦𝗉𝗁 are tracial, real, and self-adjoint, and the morphisms between them are CP morphisms that are adjoint to a unital ∗-homomorphism. We prove that Weaver's two notions of a CP morphism coincide in this context. We also include a short proof that every finite reflexive quantum graph is the confusability quantum graph of a quantum channel.
@@ -1504,7 +1504,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     <details>
       <summary><strong>Track 3</strong></summary>
       <details>
-        <summary><strong>16:15 - 16:40 </strong><a href="https://arxiv.org/pdf/2603.06764" target="_blank" rel="noopener">Efficient classical simulation of low-rank-width quantum circuits using ZX-Calculus</a></summary>
+        <summary><strong>16:15 - 16:40 </strong><a href="/assets/submissions/qpl2026-final57.pdf" target="_blank" rel="noopener">Efficient classical simulation of low-rank-width quantum circuits using ZX-Calculus</a></summary>
         <p>
           <strong>Abstract.</strong> In this paper, we introduce a technique for contracting (i.e. numerically evaluating) ZX-diagrams whose complexity scales with their rank-width, a graph parameter that behaves nicely under ZX rewrite rules. Given a rank-decomposition of width R, our method simulates a graph-like ZX-diagram in \(\tilde{O}(4^R)\) time. Applied to classical simulation of quantum circuits, it is no slower than either naive state vector simulation or stabiliser decompositions with \(\alpha=0.5\), and in practice can be significantly faster for suitably chosen rank-decompositions. Since finding optimal rank-decompositions is NP-hard, we introduce heuristics that produce good decompositions in practice. We benchmark our simulation routine against Quimb, a popular tensor contraction library, and observe substantial reductions in floating-point operations (often by several orders of magnitude) for random and structured non-Clifford circuits as well as random ZX-diagrams.
         </p>
@@ -1513,7 +1513,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>16:40 - 17:05 </strong><a href="https://arxiv.org/pdf/2509.08658" target="_blank" rel="noopener">Simulating magic state cultivation with few Clifford terms</a></summary>
+        <summary><strong>16:40 - 17:05 </strong><a href="/assets/submissions/non-final/qpl2026-paper39.pdf" target="_blank" rel="noopener">Simulating magic state cultivation with few Clifford terms</a></summary>
         <p>
           <strong>Abstract.</strong> Building upon [arXiv:2509.01224], we present a few methods on how to simulate the non-Clifford d=5 magic state cultivation circuits [arXiv:2409.17595] with a sum of ≈8 Clifford ZX-diagrams on average, at 0.1% noise. Compared to a magic cat state stabiliser decomposition of all 53 non-Clifford spiders (6,377,292 terms required), this is more than 7×105 times reduction in the number of terms. Our stabiliser decomposition has the advantage of representing the final non-Clifford state (in light of circuit errors) as a sum of Clifford ZX-diagrams. This will be useful in simulating the escape stage of magic state cultivation, where one needs to port the resultant state of cultivation into a larger Clifford circuit with many more qubits. Still, it's necessary to only track ≈8 Clifford terms. Our result sheds light on the simulability of operationally relevant, high T-count quantum circuits with some internal structure.<br><br>
           Finally, we provide numerical results for full non-Clifford stabiliser rank simulation based on 𝚝𝚜𝚒𝚖 along with optimisations using our cutting decompositions. Nearly 4×106 shots per second can be obtained on a laptop for the smaller d=3 circuits at SD6 circuit level noise p=0.0005, making it only ∼1.1 times slower than its (circuit-unspecific and un-optimised) fully Clifford proxy simulation via 𝚜𝚝𝚒𝚖 using S gates.
