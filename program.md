@@ -387,6 +387,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="band" colspan="2">Short plenary talks</td>
 </tr>
 <tr>
+  <td class="session-chair" colspan="2">Chair: Miriam Backens</td>
+</tr>
+<tr>
   <td>11:30 – 11:55</td>
   <td>
     <span class="talk-authors">Vinicius Pretti Rossi, Beata Zjawin, Roberto D. Baldijão, David Schmid, John H. Selby, Ana Belén Sainz</span>
@@ -420,7 +423,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 <tr>
   <td></td>
-  <td></td>
+  <td class="session-chair">Chair: Augustin Vanrietvelde</td>
   <td></td>
   <td class="session-chair">Chair: Aleks Kissinger</td>
 </tr>
@@ -474,8 +477,8 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 <tr>
   <td></td>
-  <td></td>
-  <td></td>
+  <td class="session-chair">Chair: Augustin Vanrietvelde</td>
+  <td class="session-chair">Chair: Martti Karvonen</td>
   <td class="session-chair">Chair: Simon Perdrix</td>
 </tr>
 <tr>
@@ -923,6 +926,12 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="band">Parallel A</td>
   <td class="band">Parallel B</td>
   <td class="band">Parallel C</td>
+</tr>
+<tr>
+  <td></td>
+  <td class="session-chair">Chair: Miriam Backens</td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>14:30 – 14:55</td>
