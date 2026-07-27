@@ -2,19 +2,17 @@
 title: Career Fair
 ---
 
-QPL 2026 will host a Career Fair, giving attendees the opportunity to meet companies working across the quantum industry. The following companies will be present. Click each one to see what they do and find out if it matches your interests.
+This year QPL will be hosting a career fair, giving attendees the opportunity to meet companies working across the quantum industry. This will take place after the final talks on Thursday afternoon, from 16:30 to 19:00 at De Brug in the main [Roeterseiland campus](https://maps.app.goo.gl/aL4S6p95Vg45XcnCA) building. 
+
+The career fair is accessible to everyone free of charge, including those not registered for the conference. The event will be an informal affair, where we will give conference attendees, prospective employees and organisations a chance to mingle and connect. We will provide some snacks and drinks.
+
+The following companies and organisations will be present. Click each one to see what they do and find out if it matches your interests.
 
 <ul class="career-list">
 <li><details>
-<summary><strong>Relational Intelligence</strong></summary>
-<p>Develops compositional AI systems that are explainable by design and can scale on both classical and quantum hardware, combining quantum computing with interpretable, auditable AI models.</p>
-<p><a href="https://rel-int.ai/" target="_blank" rel="noopener">rel-int.ai</a></p>
-</details></li>
-
-<li><details>
-<summary><strong>MagiQware BV.</strong></summary>
-<p>Builds AI-powered software for magic state distillation — a technique essential to fault-tolerant quantum computing — automating and optimizing the process to use fewer qubits while improving speed and efficiency.</p>
-<p><a href="https://magiqware.com/" target="_blank" rel="noopener">magiqware.com</a></p>
+<summary><strong>IBM</strong></summary>
+<p>A full-stack quantum computing provider offering cloud access to 100+ qubit quantum computers and the open-source Qiskit software platform, focused on delivering useful quantum computing through hardware, tools, and research partnerships.</p>
+<p><a href="https://www.ibm.com/quantum" target="_blank" rel="noopener">ibm.com/quantum</a></p>
 </details></li>
 
 <li><details>
@@ -30,15 +28,21 @@ QPL 2026 will host a Career Fair, giving attendees the opportunity to meet compa
 </details></li>
 
 <li><details>
+<summary><strong>MagiQware BV.</strong></summary>
+<p>Builds AI-powered software for magic state distillation — a technique essential to fault-tolerant quantum computing — automating and optimizing the process to use fewer qubits while improving speed and efficiency.</p>
+<p><a href="https://magiqware.com/" target="_blank" rel="noopener">magiqware.com</a></p>
+</details></li>
+
+<li><details>
 <summary><strong>Delft Circuits</strong></summary>
 <p>Manufactures quantum I/O infrastructure for cryogenic systems, with its flagship Cri/oFlex® superconducting cables that replace conventional cryostat wiring to deliver higher channel density and lower thermal load at scale.</p>
 <p><a href="https://delft-circuits.com/" target="_blank" rel="noopener">delft-circuits.com</a></p>
 </details></li>
 
 <li><details>
-<summary><strong>IBM</strong></summary>
-<p>A full-stack quantum computing provider offering cloud access to 100+ qubit quantum computers and the open-source Qiskit software platform, focused on delivering useful quantum computing through hardware, tools, and research partnerships.</p>
-<p><a href="https://www.ibm.com/quantum" target="_blank" rel="noopener">ibm.com/quantum</a></p>
+<summary><strong>Relational Intelligence</strong></summary>
+<p>Develops compositional AI systems that are explainable by design and can scale on both classical and quantum hardware, combining quantum computing with interpretable, auditable AI models.</p>
+<p><a href="https://rel-int.ai/" target="_blank" rel="noopener">rel-int.ai</a></p>
 </details></li>
 
 <li><details>

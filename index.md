@@ -22,8 +22,9 @@ Quantum Physics and Logic is an annual conference that brings together academic 
 * Paper submission deadline: Friday March 6th 2026
 * Notification: April 17th 2026
 <!-- * Camera-ready deadline (revised accepted proceedings manuscripts): 15 June 2025 -->
-* Weekend workshops: August 15 -- August 16
+* [Weekend workshops](/tutorial): August 15 -- August 16
 * Conference: August 17th -- August 21st 2026
+* [Career Fair](/career_fair): Thursday August 20th, 16:30 - 19:00
 
 All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone](https://www.timeanddate.com/time/zones/aoe).
 Notifications have now been sent out. If you haven't received a notification, let the PC chairs know.
