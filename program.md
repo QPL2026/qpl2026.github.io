@@ -377,7 +377,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>10:15 – 11:00</td>
   <td>
     <span class="talk-authors">Raphaël Mothe, Jessica Bavaresco</span>
-    <span class="talk-title">Efficient quantum-circuit simulation of classical control of causal order</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper136.pdf" target="_blank" rel="noopener">Efficient quantum-circuit simulation of classical control of causal order</a></span>
   </td>
 </tr>
 <tr>
@@ -435,7 +435,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Tomoaki Kawano, Ryo Kashima</span>
-    <span class="talk-title">Restricted negation in orthomodular logic</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper32.pdf" target="_blank" rel="noopener">Restricted negation in orthomodular logic</a></span>
   </td>
   <td>
     <span class="talk-authors">Alexandre Clément</span>
@@ -454,7 +454,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Xiaoning Bian, Sarah Meng Li, Neil J. Ross, John van de Wetering, Yuming Zhao</span>
-    <span class="talk-title">A complete and natural rule set for multi-qudit Clifford circuits in all odd prime dimensions</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper27.pdf" target="_blank" rel="noopener">A complete and natural rule set for multi-qudit Clifford circuits in all odd prime dimensions</a></span>
   </td>
 </tr>
 <tr>
@@ -500,7 +500,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>16:40 – 17:05</td>
   <td>
     <span class="talk-authors">Leonardo Vaglini, Nasra Daher Ahmed, Ravi Kunjwal</span>
-    <span class="talk-title">Causal inequalities witness non-stabilizerness without magic</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper168.pdf" target="_blank" rel="noopener">Causal inequalities witness non-stabilizerness without magic</a></span>
   </td>
   <td>
     <span class="talk-authors">Andre Kornell, Bert Lindenhovius</span>
@@ -519,11 +519,11 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">James Hefford</span>
-    <span class="talk-title">Nuclearity and trace in monoidal bicategories with application to extended CFTs</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper80.pdf" target="_blank" rel="noopener">Nuclearity and trace in monoidal bicategories with application to extended CFTs</a></span>
   </td>
   <td>
     <span class="talk-authors">Mark Koch</span>
-    <span class="talk-title">Classical Clifford+T sampling without computing marginals</span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final188.pdf" target="_blank" rel="noopener">Classical Clifford+T sampling without computing marginals</a></span>
   </td>
 </tr>
 </table>
@@ -557,7 +557,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>10:15 – 11:00</td>
   <td>
     <span class="talk-authors">Samson Abramsky, Rui Soares Barbosa, Carmen Constantin, Martti Karvonen</span>
-    <span class="talk-title">Algebraic paradoxes in adaptive quantum computation</span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final121.pdf" target="_blank" rel="noopener">Algebraic paradoxes in adaptive quantum computation</a></span>
   </td>
 </tr>
 <tr>
@@ -580,7 +580,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>11:55 – 12:20</td>
   <td>
     <span class="talk-authors">Marek Arsenault, Hlér Kristjánsson</span>
-    <span class="talk-title">A higher-order perspective on quantum signal processing</span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final171.pdf" target="_blank" rel="noopener">A higher-order perspective on quantum signal processing</a></span>
   </td>
 </tr>
 <tr>
@@ -615,7 +615,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Daniel Brod, Lorenzo Catani, Robert Spekkens</span>
-    <span class="talk-title">The toy theory is the unique noncontextual theory satisfying \(A_1^3\)-symmetry</span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final46.pdf" target="_blank" rel="noopener">The toy theory is the unique noncontextual theory satisfying \(A_1^3\)-symmetry</a></span>
   </td>
   <td>
     <span class="talk-authors">Matthew Wilson</span>
@@ -641,7 +641,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>15:20 – 15:45</td>
   <td>
     <span class="talk-authors">Cole Comfort, Giovanni de Felice</span>
-    <span class="talk-title">The delayed stabiliser ZX-calculus</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper179.pdf" target="_blank" rel="noopener">The delayed stabiliser ZX-calculus</a></span>
   </td>
   <td>
     <span class="talk-authors">Cihan Okay, Aziz Kharoof</span>
@@ -659,7 +659,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>16:15 – 16:40</td>
   <td>
     <span class="talk-authors">Vincenzo Fiorentino, Kuntal Sengupta</span>
-    <span class="talk-title">Superposition and its connections to uncertainty, entanglement and the quantum tensor product</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper53.pdf" target="_blank" rel="noopener">Superposition and its connections to uncertainty, entanglement and the quantum tensor product</a></span>
   </td>
   <td>
     <span class="talk-authors">Tom Williams, Mina Doosti, Farid Shahandeh</span>
@@ -678,11 +678,11 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Theodoros Yianni, Farid Shahandeh, Nyan Raess</span>
-    <span class="talk-title">Linear algebra of generalized contextuality in prepare-transform-measure scenarios</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper191.pdf" target="_blank" rel="noopener">Linear algebra of generalized contextuality in prepare-transform-measure scenarios</a></span>
   </td>
   <td>
     <span class="talk-authors">Raphaël Le Bihan, Alastair Abbott, Mnacho Echenim</span>
-    <span class="talk-title">Probing the composition of processes with first-order-ISOMIX logic</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper158.pdf" target="_blank" rel="noopener">Probing the composition of processes with first-order-ISOMIX logic</a></span>
   </td>
 </tr>
 <tr>
@@ -727,7 +727,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>9:30 – 10:15</td>
   <td>
     <span class="talk-authors">Miriam Backens, Simon Perdrix / Miriam Backens</span>
-    <span class="talk-title">Completeness for flow-preserving rewrite rules / Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation</span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final132.pdf" target="_blank" rel="noopener">Completeness for flow-preserving rewrite rules</a> / <a href="/assets/submissions/qpl2026-final140.pdf" target="_blank" rel="noopener">Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation</a></span>
   </td>
 </tr>
 <tr>
@@ -791,18 +791,18 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Piotr Mitosek, Miriam Backens</span>
-    <span class="talk-title">Working with measurement-based computations on qudits</span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final156.pdf" target="_blank" rel="noopener">Working with measurement-based computations on qudits</a></span>
   </td>
   <td>
     <span class="talk-authors">Nicolas Moulonguet, Augustin Vanrietvelde</span>
-    <span class="talk-title">Subsystems as subsets of quantum channels, and the strange case of blind agents</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper94.pdf" target="_blank" rel="noopener">Subsystems as subsets of quantum channels, and the strange case of blind agents</a></span>
   </td>
 </tr>
 <tr>
   <td>15:20 – 15:45</td>
   <td>
     <span class="talk-authors">Samson Abramsky, Radha Jagadeesan</span>
-    <span class="talk-title">Essential unitarity for higher-order quantum computation</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper119.pdf" target="_blank" rel="noopener">Essential unitarity for higher-order quantum computation</a></span>
   </td>
   <td>
     <span class="talk-authors">Aleks Kissinger, John van de Wetering</span>
@@ -845,7 +845,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li, John van de Wetering</span>
-    <span class="talk-title">A three-way normal form for stabiliser codes across ZX diagrams, circuits, and tableaus</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper187.pdf" target="_blank" rel="noopener">A three-way normal form for stabiliser codes across ZX diagrams, circuits, and tableaus</a></span>
   </td>
   <td>
     <span class="talk-authors">Maarten Grothus, V. Vilasini</span>
@@ -937,7 +937,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>14:30 – 14:55</td>
   <td>
     <span class="talk-authors">Arianne Meijer-van de Griend, Leo Becker</span>
-    <span class="talk-title">Pauli gadget synthesis for gatesets with arbitrary even-arity Clifford gates</span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final89.pdf" target="_blank" rel="noopener">Pauli gadget synthesis for gatesets with arbitrary even-arity Clifford gates</a></span>
   </td>
   <td>
     <span class="talk-authors">Haruki Emori</span>
@@ -960,7 +960,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Shashaank Khanna, Matthew Pusey, Roger Colbeck</span>
-    <span class="talk-title">Identifying causal structures which cannot support quantum correlations without fine-tuning</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper59.pdf" target="_blank" rel="noopener">Identifying causal structures which cannot support quantum correlations without fine-tuning</a></span>
   </td>
 </tr>
 <tr>
@@ -1099,7 +1099,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">William Schober, Scott Wesley</span>
-    <span class="talk-title">A complete equational theory for quantum circuits with generalized control</span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final163.pdf" target="_blank" rel="noopener">A complete equational theory for quantum circuits with generalized control</a></span>
   </td>
   <td>
     <span class="talk-authors">Daniel McNulty</span>
@@ -1127,7 +1127,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Raffaele D'Avino, Lorenzo Caramelli, Raja Yehia, Gabriel Senno, Roberto González Pousa, Antonio Acín, Tamás Kriváchy</span>
-    <span class="talk-title">Device independent quantum key distribution with a single measurement per site</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper144.pdf" target="_blank" rel="noopener">Device independent quantum key distribution with a single measurement per site</a></span>
   </td>
 </tr>
 <tr>
@@ -1142,7 +1142,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Paul Becsi, Matthew Joseph Hoban</span>
-    <span class="talk-title">Bounding classical and quantum correlations in Bayesian networks with quasiprobabilities</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper157.pdf" target="_blank" rel="noopener">Bounding classical and quantum correlations in Bayesian networks with quasiprobabilities</a></span>
   </td>
 </tr>
 <tr>
@@ -1167,7 +1167,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
       </p>
     </details>
     <details>
-      <summary><strong>10:15 - 11:00 </strong>Efficient quantum-circuit simulation of classical control of causal order</summary>
+      <summary><strong>10:15 - 11:00 </strong><a href="/assets/submissions/non-final/qpl2026-paper136.pdf" target="_blank" rel="noopener">Efficient quantum-circuit simulation of classical control of causal order</a></summary>
       <p>
         <strong>Abstract.</strong> TBA
       </p>
@@ -1218,7 +1218,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
       </p>
     </details>
     <details>
-      <summary><strong>10:15 - 11:00 </strong>Algebraic paradoxes in adaptive quantum computation</summary>
+      <summary><strong>10:15 - 11:00 </strong><a href="/assets/submissions/qpl2026-final121.pdf" target="_blank" rel="noopener">Algebraic paradoxes in adaptive quantum computation</a></summary>
       <p>
         <strong>Abstract.</strong> TBA
       </p>
@@ -1239,7 +1239,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
       </p>
     </details>
     <details>
-      <summary><strong>11:55 - 12:20 </strong>A higher-order perspective on quantum signal processing</summary>
+      <summary><strong>11:55 - 12:20 </strong><a href="/assets/submissions/qpl2026-final171.pdf" target="_blank" rel="noopener">A higher-order perspective on quantum signal processing</a></summary>
       <p>
         <strong>Abstract.</strong> TBA
       </p>
@@ -1251,7 +1251,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <details id="wednesday-long-plenary-talks">
     <summary>Wednesday Long Plenary Talks 9:30 - 11:00</summary>
     <details>
-      <summary><strong>9:30 - 10:15 </strong>Completeness for flow-preserving rewrite rules / Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation</summary>
+      <summary><strong>9:30 - 10:15 </strong><a href="/assets/submissions/qpl2026-final132.pdf" target="_blank" rel="noopener">Completeness for flow-preserving rewrite rules</a> / <a href="/assets/submissions/qpl2026-final140.pdf" target="_blank" rel="noopener">Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation</a></summary>
       <p>
         <strong>Abstract (Completeness for flow-preserving rewrite rules).</strong> TBA
       </p>
@@ -1379,7 +1379,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     <details>
       <summary><strong>Track 2</strong></summary>
       <details>
-        <summary><strong>14:30 - 14:55 </strong>Restricted negation in orthomodular logic</summary>
+        <summary><strong>14:30 - 14:55 </strong><a href="/assets/submissions/non-final/qpl2026-paper32.pdf" target="_blank" rel="noopener">Restricted negation in orthomodular logic</a></summary>
         <p>
           <strong>Abstract.</strong> TBA
         </p>
@@ -1418,7 +1418,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>14:55 - 15:20 </strong>A complete and natural rule set for multi-qudit Clifford circuits</summary>
+        <summary><strong>14:55 - 15:20 </strong><a href="/assets/submissions/non-final/qpl2026-paper27.pdf" target="_blank" rel="noopener">A complete and natural rule set for multi-qudit Clifford circuits</a></summary>
         <p>
           <strong>Abstract.</strong> We present a complete set of rewrite rules for multi-qudit Clifford circuits in all prime dimensions. Completeness implies that any two Clifford circuits representing the same linear map can be rewritten into each other using these rules. There are 19 rewrite rules in total, each involving no more than three qudits and admitting an intuitive interpretation. Our approach leverages the isomorphism between the symplectic group $\mathrm{Sp}(2n, \mathbb{Z}_d)$ and the quotient of the Clifford group by the Pauli group. We first derive a complete set of symplectic relations for $\mathrm{Sp}(2n, \mathbb{Z}_d)$, and then lift them to Clifford relations by incorporating Pauli corrections. To do this, we introduce a symplectic normal form that captures the stabiliser tableau of a Clifford operator and is unique up to Pauli correction. This simplification enables a streamlined derivation of a complete set of $66$ relations, which we further compress to $18$ symplectic relations. Our computations in $\mathrm{Sp}(2n, \mathbb{Z}_d)$ are formalised in the Agda proof assistant, providing a machine-verified proof of correctness.
         </p>
@@ -1451,7 +1451,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>16:40 - 17:05 </strong>Causal inequalities witness non-stabilizerness without magic</summary>
+        <summary><strong>16:40 - 17:05 </strong><a href="/assets/submissions/non-final/qpl2026-paper168.pdf" target="_blank" rel="noopener">Causal inequalities witness non-stabilizerness without magic</a></summary>
         <p>
           <strong>Abstract.</strong> TBA
         </p>
@@ -1492,7 +1492,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>17:05 - 17:30 </strong>Nuclearity and trace in monoidal bicategories with application to extended CFTs</summary>
+        <summary><strong>17:05 - 17:30 </strong><a href="/assets/submissions/non-final/qpl2026-paper80.pdf" target="_blank" rel="noopener">Nuclearity and trace in monoidal bicategories with application to extended CFTs</a></summary>
         <p>
           <strong>Abstract.</strong> TBA
         </p>
@@ -1523,7 +1523,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>17:05 - 17:30 </strong>Classical Clifford+T sampling without computing marginals</summary>
+        <summary><strong>17:05 - 17:30 </strong><a href="/assets/submissions/qpl2026-final188.pdf" target="_blank" rel="noopener">Classical Clifford+T sampling without computing marginals</a></summary>
         <p>
           <strong>Abstract.</strong> TBA
         </p>
