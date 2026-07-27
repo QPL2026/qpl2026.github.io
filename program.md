@@ -120,7 +120,7 @@ permalink: /program/
     font-weight: 700;
   }
 
-  .schedule-table .session-chair {
+  .schedule-table tr.session-chair > td {
     background-color: #d9f2e1;
     font-size: 0.85rem;
     font-weight: 600;
@@ -159,6 +159,19 @@ permalink: /program/
     text-decoration: none;
     display: inline-block;
     margin-left: 0.35em;
+  }
+
+  .remote-label {
+    display: inline-block;
+    margin-left: 0.45em;
+    padding: 0.05em 0.45em;
+    border: 1px solid #7e1b1b;
+    border-radius: 999px;
+    color: #7e1b1b;
+    font-size: 0.78em;
+    line-height: 1.3;
+    vertical-align: middle;
+    white-space: nowrap;
   }
 
   /* Collapsible per-day schedule sections */
@@ -234,7 +247,7 @@ permalink: /program/
 </style>
 
 
-Below you can find an overview of the conference schedule. Here is the <a href="{{ '/assets/pdfs/QPL_2026_Program.pdf' | relative_url }}" target="_blank" rel="noopener">full schedule in table formatting</a>. 
+Below you can find an overview of the conference schedule. Here is the <a href="{{ '/assets/pdfs/QPL_2026_Program.pdf' | relative_url }}" target="_blank" rel="noopener">full schedule in table formatting</a>. Unless otherwise specified, all talks will take place in person.
 
 <p>
   <button type="button" id="today-talk-btn" class="today-button">📅 Go to today's talks</button>
@@ -363,8 +376,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td class="band" colspan="2">Long plenary talks</td>
 </tr>
-<tr>
-  <td class="session-chair" colspan="2">Chair: Aleks Kissinger</td>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td>Aleks Kissinger</td>
 </tr>
 <tr>
   <td>9:30 – 10:15</td>
@@ -386,8 +400,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td class="band" colspan="2">Short plenary talks</td>
 </tr>
-<tr>
-  <td class="session-chair" colspan="2">Chair: Miriam Backens</td>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td>Miriam Backens</td>
 </tr>
 <tr>
   <td>11:30 – 11:55</td>
@@ -421,11 +436,11 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="band">Parallel B</td>
   <td class="band">Parallel C</td>
 </tr>
-<tr>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td>Augustin Vanrietvelde</td>
   <td></td>
-  <td class="session-chair">Chair: Augustin Vanrietvelde</td>
-  <td></td>
-  <td class="session-chair">Chair: Aleks Kissinger</td>
+  <td>Aleks Kissinger</td>
 </tr>
 <tr>
   <td>14:30 – 14:55</td>
@@ -475,11 +490,11 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td class="break-row" colspan="4">Coffee break</td>
 </tr>
-<tr>
-  <td></td>
-  <td class="session-chair">Chair: Augustin Vanrietvelde</td>
-  <td class="session-chair">Chair: Martti Karvonen</td>
-  <td class="session-chair">Chair: Simon Perdrix</td>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td>Augustin Vanrietvelde</td>
+  <td>Martti Karvonen</td>
+  <td>Simon Perdrix</td>
 </tr>
 <tr>
   <td>16:15 – 16:40</td>
@@ -508,7 +523,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Kwok Ho Wan, Zhenghao Zhong, Ainhoa Zapirain</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper39.pdf" target="_blank" rel="noopener">Simulating magic state cultivation with few Clifford terms</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper39.pdf" target="_blank" rel="noopener">Simulating magic state cultivation with few Clifford terms</a><span class="remote-label">Remote</span></span>
   </td>
 </tr>
 <tr>
@@ -543,8 +558,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td class="band" colspan="2">Long plenary talks</td>
 </tr>
-<tr>
-  <td class="session-chair" colspan="2">Chair: John van de Wetering</td>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td>John van de Wetering</td>
 </tr>
 <tr>
   <td>9:30 – 10:15</td>
@@ -566,8 +582,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td class="band" colspan="2">Short plenary talks</td>
 </tr>
-<tr>
-  <td class="session-chair" colspan="2">Chair: Titouan Carette</td>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td>Titouan Carette</td>
 </tr>
 <tr>
   <td>11:30 – 11:55</td>
@@ -601,11 +618,11 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="band">Parallel B</td>
   <td class="band">Parallel C</td>
 </tr>
-<tr>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td>Simon Perdrix</td>
   <td></td>
-  <td class="session-chair">Chair: Simon Perdrix</td>
-  <td></td>
-  <td class="session-chair">Chair: Priyaa Varshinee Srinivasan</td>
+  <td>Priyaa Varshinee Srinivasan</td>
 </tr>
 <tr>
   <td>14:30 – 14:55</td>
@@ -615,7 +632,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Daniel Brod, Lorenzo Catani, Robert Spekkens</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final46.pdf" target="_blank" rel="noopener">The toy theory is the unique noncontextual theory satisfying \(A_1^3\)-symmetry</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final46.pdf" target="_blank" rel="noopener">The toy theory is the unique noncontextual theory satisfying \(A_1^3\)-symmetry</a><span class="remote-label">Remote</span></span>
   </td>
   <td>
     <span class="talk-authors">Matthew Wilson</span>
@@ -626,7 +643,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>14:55 – 15:20</td>
   <td>
     <span class="talk-authors">Kwok Ho Wan, Henry Price, Qing Yao</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper42.pdf" target="_blank" rel="noopener">Holographic codes seen through ZX-calculus</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper42.pdf" target="_blank" rel="noopener">Holographic codes seen through ZX-calculus</a><span class="remote-label">Remote</span></span>
   </td>
   <td>
     <span class="talk-authors">Tim Achenbach, Andreas Bluhm, Leevi Leppäjärvi, Ion Nechita, Martin Plávala</span>
@@ -720,8 +737,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td class="band" colspan="2">Long plenary talks</td>
 </tr>
-<tr>
-  <td class="session-chair" colspan="2">Chair: John van de Wetering</td>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td>John van de Wetering</td>
 </tr>
 <tr>
   <td>9:30 – 10:15</td>
@@ -762,11 +780,11 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="band">Parallel B</td>
   <td class="band">Parallel C</td>
 </tr>
-<tr>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td>Robin Kaarsgaard</td>
   <td></td>
-  <td class="session-chair">Chair: Robin Kaarsgaard</td>
-  <td></td>
-  <td class="session-chair">Chair: Priyaa Varshinee Srinivasan</td>
+  <td>Priyaa Varshinee Srinivasan</td>
 </tr>
 <tr>
   <td>14:30 – 14:55</td>
@@ -816,17 +834,17 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td class="break-row" colspan="4">Coffee break</td>
 </tr>
-<tr>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td>Alastair Abbott</td>
   <td></td>
-  <td class="session-chair">Chair: Alastair Abbott</td>
-  <td></td>
-  <td class="session-chair">Chair: Titouan Carette</td>
+  <td>Titouan Carette</td>
 </tr>
 <tr>
   <td>16:15 – 16:40</td>
   <td>
     <span class="talk-authors">Thomas Bartsch, Yuhan Gai, Sakura Schäfer-Nameki</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper175.pdf" target="_blank" rel="noopener">Beyond Wigner – how non-invertible symmetries preserve probabilities</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper175.pdf" target="_blank" rel="noopener">Beyond Wigner – how non-invertible symmetries preserve probabilities</a><span class="remote-label">Remote</span></span>
   </td>
   <td>
     <span class="talk-authors">Haytham McDowall-Rose, Razin A. Shaikh, Lia Yeh</span>
@@ -875,8 +893,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td class="band" colspan="2">Long plenary talks</td>
 </tr>
-<tr>
-  <td class="session-chair" colspan="2">Chair: Robin Kaarsgaard</td>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td>Robin Kaarsgaard</td>
 </tr>
 <tr>
   <td>9:30 – 10:15</td>
@@ -927,9 +946,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="band">Parallel B</td>
   <td class="band">Parallel C</td>
 </tr>
-<tr>
-  <td></td>
-  <td class="session-chair">Chair: Miriam Backens</td>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td>Miriam Backens</td>
   <td></td>
   <td></td>
 </tr>
@@ -1055,10 +1074,10 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="band">Parallel B</td>
   <td class="band">Parallel C</td>
 </tr>
-<tr>
+<tr class="session-chair">
+  <td>Session Chair</td>
   <td></td>
-  <td></td>
-  <td class="session-chair">Chair: Peter Selinger</td>
+  <td>Peter Selinger</td>
   <td></td>
 </tr>
 <tr>
@@ -1095,7 +1114,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>15:20 – 15:45</td>
   <td>
     <span class="talk-authors">Jin Ming Koh, Anqi Gong, Andrei C. Diaconu, Daniel Bochen Tan, Alexandra A. Geim, Michael J. Gullans, Norman Y. Yao, Mikhail D. Lukin, Shayan Majidy</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper190.pdf" target="_blank" rel="noopener">Phantom codes: entangling logical qubits without physical operations</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper190.pdf" target="_blank" rel="noopener">Phantom codes: entangling logical qubits without physical operations</a><span class="remote-label">Remote</span></span>
   </td>
   <td>
     <span class="talk-authors">William Schober, Scott Wesley</span>
@@ -1109,11 +1128,11 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td class="break-row" colspan="4">Coffee break</td>
 </tr>
-<tr>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td>Peter Selinger</td>
   <td></td>
-  <td class="session-chair">Chair: Peter Selinger</td>
-  <td></td>
-  <td class="session-chair">Chair: Alastair Abbott</td>
+  <td>Alastair Abbott</td>
 </tr>
 <tr>
   <td>16:15 – 16:40</td>
@@ -1513,7 +1532,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>16:40 - 17:05 </strong><a href="/assets/submissions/non-final/qpl2026-paper39.pdf" target="_blank" rel="noopener">Simulating magic state cultivation with few Clifford terms</a></summary>
+        <summary><strong>16:40 - 17:05 </strong><a href="/assets/submissions/non-final/qpl2026-paper39.pdf" target="_blank" rel="noopener">Simulating magic state cultivation with few Clifford terms</a><span class="remote-label">Remote</span></summary>
         <p>
           <strong>Abstract.</strong> Building upon [arXiv:2509.01224], we present a few methods on how to simulate the non-Clifford d=5 magic state cultivation circuits [arXiv:2409.17595] with a sum of ≈8 Clifford ZX-diagrams on average, at 0.1% noise. Compared to a magic cat state stabiliser decomposition of all 53 non-Clifford spiders (6,377,292 terms required), this is more than 7×105 times reduction in the number of terms. Our stabiliser decomposition has the advantage of representing the final non-Clifford state (in light of circuit errors) as a sum of Clifford ZX-diagrams. This will be useful in simulating the escape stage of magic state cultivation, where one needs to port the resultant state of cultivation into a larger Clifford circuit with many more qubits. Still, it's necessary to only track ≈8 Clifford terms. Our result sheds light on the simulability of operationally relevant, high T-count quantum circuits with some internal structure.<br><br>
           Finally, we provide numerical results for full non-Clifford stabiliser rank simulation based on 𝚝𝚜𝚒𝚖 along with optimisations using our cutting decompositions. Nearly 4×106 shots per second can be obtained on a laptop for the smaller d=3 circuits at SD6 circuit level noise p=0.0005, making it only ∼1.1 times slower than its (circuit-unspecific and un-optimised) fully Clifford proxy simulation via 𝚜𝚝𝚒𝚖 using S gates.
