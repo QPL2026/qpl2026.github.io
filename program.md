@@ -672,6 +672,12 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td class="break-row" colspan="4">Coffee break</td>
 </tr>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td></td>
+  <td>Sonja Smets</td>
+  <td></td>
+</tr>
 <tr>
   <td>16:15 – 16:40</td>
   <td>
@@ -1076,7 +1082,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 <tr class="session-chair">
   <td>Session Chair</td>
-  <td></td>
+  <td>Andrey Boris Khesin</td>
   <td>Peter Selinger</td>
   <td></td>
 </tr>
