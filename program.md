@@ -1045,6 +1045,10 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td class="band" colspan="2">Long plenary talks</td>
 </tr>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td>Jan-Åke Larsson</td>
+</tr>
 <tr>
   <td>9:30 – 10:15</td>
   <td>
