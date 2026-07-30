@@ -621,7 +621,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr class="session-chair">
   <td>Session Chair</td>
   <td>Simon Perdrix</td>
-  <td></td>
+  <td>Beata Zjawin</td>
   <td>Priyaa Varshinee Srinivasan</td>
 </tr>
 <tr>
