@@ -224,7 +224,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Samson Abramsky<br>Rui Soares Barbosa<br>Carmen Constantin<br>Martti Karvonen</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final121.pdf" target="_blank" rel="noopener">
+        <a href="https://arxiv.org/pdf/2607.26157" target="_blank" rel="noopener">
           Algebraic paradoxes in adaptive quantum computation
         </a>
       </td>
