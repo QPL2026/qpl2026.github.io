@@ -461,7 +461,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>14:55 – 15:20</td>
   <td>
     <span class="talk-authors">Timothée Hoffreumon, Mischa P. Woods</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper22.pdf" target="_blank" rel="noopener">On the experimental falsification of real QT</a> / <a href="/assets/submissions/non-final/qpl2026-paper23.pdf" target="_blank" rel="noopener">A real matrix theory consistent with QT</a> (merged)</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper22.pdf" target="_blank" rel="noopener">On the experimental falsification of real QT</a></span>
   </td>
   <td>
     <span class="talk-authors">Alexandru Baltag, Sonja Smets</span>
@@ -475,8 +475,8 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td>15:20 – 15:45</td>
   <td>
-    <span class="talk-authors">Roberto D. Baldijão, Marco Erba, David Schmid, John Selby, Ana Belén Sainz</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final114.pdf" target="_blank" rel="noopener">Tomographically-nonlocal entanglement</a></span>
+    <span class="talk-authors">Timothée Hoffreumon, Mischa P. Woods</span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper23.pdf" target="_blank" rel="noopener">A real matrix theory consistent with QT</a></span>
   </td>
   <td>
     <span class="talk-authors">Bert Lindenhovius, Vladimir Zamdzhiev</span>
@@ -631,8 +631,8 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper54.pdf" target="_blank" rel="noopener">SpiderCat: optimal fault-tolerant cat state preparation</a></span>
   </td>
   <td>
-    <span class="talk-authors">Daniel Brod, Lorenzo Catani, Robert Spekkens</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final46.pdf" target="_blank" rel="noopener">The toy theory is the unique noncontextual theory satisfying \(A_1^3\)-symmetry</a><span class="remote-label">Remote</span></span>
+    <span class="talk-authors">Roberto D. Baldijão, Marco Erba, David Schmid, John Selby, Ana Belén Sainz</span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final114.pdf" target="_blank" rel="noopener">Tomographically-nonlocal entanglement</a></span>
   </td>
   <td>
     <span class="talk-authors">Matthew Wilson</span>
@@ -1385,27 +1385,21 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>14:55 - 15:20 </strong><a href="/assets/submissions/non-final/qpl2026-paper22.pdf" target="_blank" rel="noopener">On the experimental falsification of Real QT</a> / <a href="/assets/submissions/non-final/qpl2026-paper23.pdf" target="_blank" rel="noopener">A real matrix theory consistent with both the postulates and predictions of quantum theory</a> [MERGED]</summary>
+        <summary><strong>14:55 - 15:20 </strong><a href="/assets/submissions/non-final/qpl2026-paper22.pdf" target="_blank" rel="noopener">On the experimental falsification of Real QT</a></summary>
         <p>
-          <strong>Abstract (On the experimental falsification of Real QT).</strong> Whether the complex numbers of standard quantum theory are experimentally indispensable has remained open for decades. Real quantum theory (RQT), obtained by replacing complex amplitudes with real ones while retaining the usual Kronecker-product composition rule, reproduces all single-party and bipartite Bell correlations of quantum theory (QT), but its lack of local tomography suggested that the two theories might diverge in more general local experiments. This possibility appeared to be confirmed by Renou et al., who argued that a bilocal network experiment can falsify RQT without falsifying QT. Here we show that this conclusion relies on an experimentally untestable assumption. The key distinction is between product-state independence, which constrains the mathematical form of source states, and operational independence, which is defined entirely by the absence of observable cross-source correlations. We prove that, once source independence is imposed operationally, every finite network correlation achievable in QT is also achievable in RQT with the same locality structure of the measurements. We then extend this equivalence to arbitrary finite sequential multipartite protocols involving channels and measurements with prescribed locality structure. Thus, as long as no violation of QT is observed, RQT cannot be experimentally falsified. Our results restore the empirical indistinguishability of QT and RQT, while showing that they support markedly different pictures of the correlation structure underlying the same observed world.
-        </p>
-        <p>
-          <strong>Coauthors.</strong> Timothée Hoffreumon, Mischa P. Woods
-        </p>
-        <p>
-          <strong>Abstract (A real matrix theory consistent with both the postulates and predictions of quantum theory).</strong> Quantum theory was radically different from the theories of nature which came before it. One key difference was its use of complex numbers. This opened a longstanding debate over whether quantum theory fundamentally requires complex numbers—or if their use is merely a convenient choice. Until recently, this question was considered open. However, in a 2021 Nature article, a decisive argument was presented asserting that quantum theory needs complex numbers since real-number quantum theory is inconsistent with the postulates of quantum theory. In this work, we show that this conclusion was premature, and in actual fact, a real-number quantum theory is consistent with the postulates of quantum theory. Our theory retains key features such as representation locality (i.e. local physical operations are represented by local changes to the states). A direct consequence of our results is that quantum theory based on real or complex numbers are experimentally indistinguishable.
+          <strong>Abstract.</strong> Whether the complex numbers of standard quantum theory are experimentally indispensable has remained open for decades. Real quantum theory (RQT), obtained by replacing complex amplitudes with real ones while retaining the usual Kronecker-product composition rule, reproduces all single-party and bipartite Bell correlations of quantum theory (QT), but its lack of local tomography suggested that the two theories might diverge in more general local experiments. This possibility appeared to be confirmed by Renou et al., who argued that a bilocal network experiment can falsify RQT without falsifying QT. Here we show that this conclusion relies on an experimentally untestable assumption. The key distinction is between product-state independence, which constrains the mathematical form of source states, and operational independence, which is defined entirely by the absence of observable cross-source correlations. We prove that, once source independence is imposed operationally, every finite network correlation achievable in QT is also achievable in RQT with the same locality structure of the measurements. We then extend this equivalence to arbitrary finite sequential multipartite protocols involving channels and measurements with prescribed locality structure. Thus, as long as no violation of QT is observed, RQT cannot be experimentally falsified. Our results restore the empirical indistinguishability of QT and RQT, while showing that they support markedly different pictures of the correlation structure underlying the same observed world.
         </p>
         <p>
           <strong>Coauthors.</strong> Timothée Hoffreumon, Mischa P. Woods
         </p>
       </details>
       <details>
-        <summary><strong>15:20 - 15:45 </strong><a href="/assets/submissions/qpl2026-final114.pdf" target="_blank" rel="noopener">Tomographically-nonlocal entanglement</a></summary>
+        <summary><strong>15:20 - 15:45 </strong><a href="/assets/submissions/non-final/qpl2026-paper23.pdf" target="_blank" rel="noopener">A real matrix theory consistent with both the postulates and predictions of quantum theory</a></summary>
         <p>
-          <strong>Abstract.</strong> Entanglement is a central and subtle feature of quantum theory, whose structure and operational behavior can change dramatically when additional physical constraints, such as symmetries or superselection rules, are imposed. Such constraints can give rise to striking and counter-intuitive phenomena, including local broadcasting of entangled states and failures of entanglement monogamy. These effects naturally arise in tomographically nonlocal theories (like real quantum theory, twirled worlds, or fermionic quantum theory), where composite systems possess holistic degrees of freedom that are inaccessible to local measurements. In this work, we study entanglement in such theories within the framework of generalized probabilistic theories. We show that the failure of tomographic locality leads to two qualitatively distinct forms of entanglement, which we term tomographically-local entanglement and tomographically-nonlocal entanglement. We analyze the operational consequences of this distinction, proving that tomographically-nonlocal entanglement is useless for Bell nonlocality, steering, and teleportation, but sufficient for dense coding and perfectly secure data hiding. This framework clarifies the origin of several previously puzzling features of entanglement that arise when tomographic locality fails, as can happen even in quantum theory when one considers fermions or fundamental superselection rules.
+          <strong>Abstract.</strong> Quantum theory was radically different from the theories of nature which came before it. One key difference was its use of complex numbers. This opened a longstanding debate over whether quantum theory fundamentally requires complex numbers—or if their use is merely a convenient choice. Until recently, this question was considered open. However, in a 2021 Nature article, a decisive argument was presented asserting that quantum theory needs complex numbers since real-number quantum theory is inconsistent with the postulates of quantum theory. In this work, we show that this conclusion was premature, and in actual fact, a real-number quantum theory is consistent with the postulates of quantum theory. Our theory retains key features such as representation locality (i.e. local physical operations are represented by local changes to the states). A direct consequence of our results is that quantum theory based on real or complex numbers are experimentally indistinguishable.
         </p>
         <p>
-          <strong>Coauthors.</strong> Roberto D. Baldijão, Marco Erba, David Schmid, John H. Selby, Ana Belén Sainz
+          <strong>Coauthors.</strong> Timothée Hoffreumon, Mischa P. Woods
         </p>
       </details>
     </details>
@@ -1562,6 +1556,21 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
         <p>
           <strong>Author.</strong> Mark Koch
+        </p>
+      </details>
+    </details>
+  </details>
+  <details id="tuesday-parallel-sessions-1">
+    <summary>Tuesday Parallel Sessions 14:30 - 15:45</summary>
+    <details>
+      <summary><strong>Track 2</strong></summary>
+      <details>
+        <summary><strong>14:30 - 14:55 </strong><a href="/assets/submissions/qpl2026-final114.pdf" target="_blank" rel="noopener">Tomographically-nonlocal entanglement</a></summary>
+        <p>
+          <strong>Abstract.</strong> Entanglement is a central and subtle feature of quantum theory, whose structure and operational behavior can change dramatically when additional physical constraints, such as symmetries or superselection rules, are imposed. Such constraints can give rise to striking and counter-intuitive phenomena, including local broadcasting of entangled states and failures of entanglement monogamy. These effects naturally arise in tomographically nonlocal theories (like real quantum theory, twirled worlds, or fermionic quantum theory), where composite systems possess holistic degrees of freedom that are inaccessible to local measurements. In this work, we study entanglement in such theories within the framework of generalized probabilistic theories. We show that the failure of tomographic locality leads to two qualitatively distinct forms of entanglement, which we term tomographically-local entanglement and tomographically-nonlocal entanglement. We analyze the operational consequences of this distinction, proving that tomographically-nonlocal entanglement is useless for Bell nonlocality, steering, and teleportation, but sufficient for dense coding and perfectly secure data hiding. This framework clarifies the origin of several previously puzzling features of entanglement that arise when tomographic locality fails, as can happen even in quantum theory when one considers fermions or fundamental superselection rules.
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Roberto D. Baldijão, Marco Erba, David Schmid, John H. Selby, Ana Belén Sainz
         </p>
       </details>
     </details>
