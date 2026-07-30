@@ -674,9 +674,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 <tr class="session-chair">
   <td>Session Chair</td>
-  <td></td>
+  <td>Ravi Kunjwal</td>
   <td>Sonja Smets</td>
-  <td></td>
+  <td>V. Vilasini</td>
 </tr>
 <tr>
   <td>16:15 – 16:40</td>
@@ -923,6 +923,10 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td class="band" colspan="2">Short plenary talk</td>
 </tr>
+<tr class="session-chair">
+  <td>Session Chair</td>
+  <td>Ravi Kunjwal</td>
+</tr>
 <tr>
   <td>11:30 – 11:55</td>
   <td>
@@ -1137,7 +1141,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr class="session-chair">
   <td>Session Chair</td>
   <td>Peter Selinger</td>
-  <td></td>
+  <td>Marco Túlio Quintino</td>
   <td>Alastair Abbott</td>
 </tr>
 <tr>
