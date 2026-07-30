@@ -573,7 +573,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>10:15 – 11:00</td>
   <td>
     <span class="talk-authors">Samson Abramsky, Rui Soares Barbosa, Carmen Constantin, Martti Karvonen</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final121.pdf" target="_blank" rel="noopener">Algebraic paradoxes in adaptive quantum computation</a></span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2607.26157" target="_blank" rel="noopener">Algebraic paradoxes in adaptive quantum computation</a></span>
   </td>
 </tr>
 <tr>
@@ -1247,7 +1247,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
       </p>
     </details>
     <details>
-      <summary><strong>10:15 - 11:00 </strong><a href="/assets/submissions/qpl2026-final121.pdf" target="_blank" rel="noopener">Algebraic paradoxes in adaptive quantum computation</a></summary>
+      <summary><strong>10:15 - 11:00 </strong><a href="https://arxiv.org/pdf/2607.26157" target="_blank" rel="noopener">Algebraic paradoxes in adaptive quantum computation</a></summary>
       <p>
         <strong>Abstract.</strong> TBA
       </p>
