@@ -32,6 +32,31 @@
 
 = QPL 2026 program (17 -- 21 August 2026 in Amsterdam, NL)
 
+// Sponsor logos, in the same order as the website
+#v(0.2em)
+#align(center, stack(
+  dir: ttb,
+  spacing: 0.7em,
+  grid(
+    columns: 3,
+    column-gutter: 1.1cm,
+    align: center + horizon,
+    image("logos/quantinuum-logo.svg", width: 4.6cm),
+    image("logos/qdnl-logo.svg", width: 3.0cm),
+    image("logos/qsc-logo.svg", width: 3.3cm),
+  ),
+  grid(
+    columns: 2,
+    column-gutter: 1.1cm,
+    align: center + horizon,
+    image("logos/spooqy-logo.png", width: 2.4cm),
+    // white wordmark: needs a dark plate to be legible on the page
+    box(fill: black, inset: (x: 7pt, y: 6pt), radius: 3pt,
+        image("logos/magiqware-logo.png", width: 2.8cm)),
+  ),
+))
+#v(0.5em)
+
 == Overview of the program
 
 Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the University of Amsterdam’s Roeterseiland campus. The conference runs through Friday, August 21, 2026, with three parallel sessions each afternoon. On Wednesday, there is a boat tour and conference dinner after the parallel sessions. On Thursday, a career fair follows the parallel sessions.
@@ -168,13 +193,12 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
     table.cell(align: center + horizon, talkcell([Tomoaki Kawano, Ryo Kashima], [Restricted negation in orthomodular logic])),
     table.cell(align: center + horizon, talkcell([Alexandre Clément], [A complete equational theory for real-Clifford+CH quantum circuits])),
   timec[14:55 -- 15:20],
-    talkcell([Timothée Hoffreumon, Mischa P. Woods], [On the experimental falsification of real QT / A real matrix theory consistent with QT (merged)]),
+    talkcell([Timothée Hoffreumon, Mischa P. Woods], [On the experimental falsification of real QT]),
     table.cell(align: center + horizon, talkcell([Alexandru Baltag, Sonja Smets], [Logic meets Wigner's friend (and their friends)])),
     table.cell(align: center + horizon, talkcell([Xiaoning Bian, Sarah Meng Li, Neil J. Ross, John van de Wetering, Yuming Zhao],
       [A complete and natural rule set for multi-qudit Clifford circuits in all odd prime dimensions])),
   timec[15:20 -- 15:45],
-    talkcell([Roberto D. Baldijão, Marco Erba, David Schmid, John Selby, Ana Belén Sainz],
-      [Tomographically-nonlocal entanglement]),
+    talkcell([Timothée Hoffreumon, Mischa P. Woods], [A real matrix theory consistent with QT]),
     table.cell(align: center + horizon, talkcell([Bert Lindenhovius, Vladimir Zamdzhiev],
       [Operator spaces, linear logic and the Heisenberg--Schrödinger duality of quantum theory])),
     table.cell(align: center + horizon, talkcell([Colin Blake], [Completeness for prime-dimensional phase-affine circuits])),
@@ -244,8 +268,8 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   timec[14:30 -- 14:55],
     talkcell([Andrey Boris Khesin, Sarah Meng Li, Boldizsár Poór, Benjamin Rodatz, John van de Wetering, Richie Yeung],
       [SpiderCat: optimal fault-tolerant cat state preparation]),
-    talkcell([Daniel Brod, Lorenzo Catani, Robert Spekkens],
-      [The toy theory is the unique noncontextual theory satisfying $A_1^3$-symmetry]),
+    talkcell([Roberto D. Baldijão, Marco Erba, David Schmid, John Selby, Ana Belén Sainz],
+      [Tomographically-nonlocal entanglement]),
     talkcell([Matthew Wilson], [Agent policies from higher-order causal functions]),
   timec[14:55 -- 15:20],
     talkcell([Kwok Ho Wan, Henry Price, Qing Yao], [Holographic codes seen through ZX-calculus]),
