@@ -1092,7 +1092,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>Session Chair</td>
   <td>Andrey Boris Khesin</td>
   <td>Peter Selinger</td>
-  <td></td>
+  <td>Farid Shahandeh</td>
 </tr>
 <tr>
   <td>14:30 – 14:55</td>
