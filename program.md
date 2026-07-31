@@ -439,7 +439,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr class="session-chair">
   <td>Session Chair</td>
   <td>Augustin Vanrietvelde</td>
-  <td></td>
+  <td>Andre Kornell</td>
   <td>Aleks Kissinger</td>
 </tr>
 <tr>
