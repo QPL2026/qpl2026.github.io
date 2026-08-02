@@ -63,7 +63,7 @@ permalink: /accepted/
     <tr>
       <td style="vertical-align: top; padding: 8px;">Colin Blake</td>
       <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/non-final/qpl2026-paper109.pdf" target="_blank" rel="noopener">
+        <a href="/assets/submissions/qpl2026-paper109.pdf" target="_blank" rel="noopener">
           Completeness for Prime-Dimensional Phase-Affine Circuits
         </a>
       </td>
