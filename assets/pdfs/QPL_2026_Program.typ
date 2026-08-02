@@ -4,6 +4,8 @@
 #set text(font: "Libertinus Serif", size: 10.5pt)
 #set par(justify: false, leading: 0.55em)
 #show heading.where(level: 1): set text(size: 16pt, weight: "bold")
+#show heading.where(level: 1): set align(center)
+#show heading.where(level: 1): set block(above: 0.8em, below: 0.35em)
 #show heading.where(level: 2): set text(size: 13pt, weight: "bold")
 #show heading.where(level: 3): set text(size: 11pt, weight: "bold")
 
@@ -30,32 +32,54 @@
   titlec(text(size: 9.5pt, title))
 }))
 
+// --- Masthead -------------------------------------------------------------
+#v(-0.5em)
+#align(center, image("logos/qpl-logo.png", width: 3.4cm))
+
 = QPL 2026 program (17 -- 21 August 2026 in Amsterdam, NL)
 
-// Sponsor logos, in the same order as the website
-#v(0.2em)
+// --- Sponsor band ---------------------------------------------------------
+// Every logo is scaled to a shared optical height rather than a shared width,
+// so the marks sit on one visual axis; `k` trims the pure wordmarks, which
+// otherwise read larger than the pictorial marks at the same cap height.
+#let logo-h = 0.95cm
+#let slogo(path, k: 1.0) = image(path, height: logo-h * k)
+
+#line(length: 100%, stroke: 0.6pt + rgb("#c8cdd6"))
+#v(0.5em)
+#align(center, text(
+  size: 7.5pt, fill: rgb("#5f6875"), tracking: 1.6pt, weight: "medium",
+  upper[Supported by],
+))
+#v(0.45em)
 #align(center, stack(
   dir: ttb,
-  spacing: 0.7em,
-  grid(
-    columns: 3,
-    column-gutter: 1.1cm,
-    align: center + horizon,
-    image("logos/quantinuum-logo.svg", width: 4.6cm),
-    image("logos/qdnl-logo.svg", width: 3.0cm),
-    image("logos/qsc-logo.svg", width: 3.3cm),
-  ),
+  spacing: 0.5cm,
+  // Split 2 + 3 in website order; the two-logo row takes the wider gutter so
+  // both rows span a similar width and the block reads as one centred unit.
   grid(
     columns: 2,
-    column-gutter: 1.1cm,
-    align: center + horizon,
-    image("logos/spooqy-logo.png", width: 2.4cm),
-    // white wordmark: needs a dark plate to be legible on the page
-    box(fill: black, inset: (x: 7pt, y: 6pt), radius: 3pt,
-        image("logos/magiqware-logo.png", width: 2.8cm)),
+    column-gutter: 2.0cm,
+    align: horizon,
+    slogo("logos/quantinuum-logo.svg", k: 0.86),
+    slogo("logos/qdnl-logo.svg"),
+  ),
+  grid(
+    columns: 3,
+    column-gutter: 1.4cm,
+    align: horizon,
+    slogo("logos/qsc-logo.svg"),
+    slogo("logos/spooqy-logo.png", k: 1.04),
+    // white wordmark: needs a dark plate to be legible on the page. The plate
+    // is padded so its outer height lands on the same band as the bare marks
+    // instead of towering over them.
+    box(fill: rgb("#111111"), inset: (x: 8pt, y: 4.5pt), radius: 3.5pt,
+        slogo("logos/magiqware-logo.png", k: 0.80)),
   ),
 ))
-#v(0.5em)
+#v(0.55em)
+#line(length: 100%, stroke: 0.6pt + rgb("#c8cdd6"))
+#v(0.1em)
 
 == Overview of the program
 
@@ -65,8 +89,13 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
 
 #let xcell = text(fill: rgb("#bbbbbb"), size: 14pt)[$times$]
 
+// The at-a-glance grid is a summary, so it sets a step down from body size —
+// this also keeps the whole week on page 1 alongside the masthead.
+#[
+#set text(size: 9.5pt)
 #table(
-  columns: (2.2cm, 1fr, 1fr, 1fr, 1fr, 1fr),
+  // 2.4cm keeps each time range on a single line at this size.
+  columns: (2.4cm, 1fr, 1fr, 1fr, 1fr, 1fr),
   stroke: 0.5pt + black,
   align: center + horizon,
   inset: 6pt,
@@ -143,6 +172,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
     [Boat Tour\ 17:30 -- 18:30],
   [Conference Dinner\ 19:00 onwards],
 )
+]
 
 #pagebreak()
 
@@ -509,3 +539,5 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
       [Bounding classical and quantum correlations in Bayesian networks with quasiprobabilities]),
   table.cell(colspan: 4, align: center, text(weight: "bold", [End of QPL 2026. Goodbye!])),
 )
+
+#include "abstracts.typ"
