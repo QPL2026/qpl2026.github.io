@@ -1,0 +1,289 @@
+{
+ "/assets/submissions/non-final/qpl2026-paper103.pdf": {
+  "arxiv": "2604.02873",
+  "arxiv_title": "Frame perspectives for process matrices: from coordinate parametrization to spacetime representation",
+  "found_by": "arxiv-author-search"
+ },
+ "/assets/submissions/non-final/qpl2026-paper104.pdf": {
+  "arxiv": "2505.06212",
+  "arxiv_title": "From Fermions to Qubits: A ZX-Calculus Perspective",
+  "found_by": "title-search"
+ },
+ "/assets/submissions/non-final/qpl2026-paper122.pdf": {
+  "arxiv": "2602.05821",
+  "arxiv_title": "Quantum statistical functions",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/non-final/qpl2026-paper123.pdf": {
+  "arxiv": "2603.04548",
+  "arxiv_title": "Transversal AND in Quantum Codes",
+  "found_by": "arxiv-author-search"
+ },
+ "/assets/submissions/non-final/qpl2026-paper127.pdf": {
+  "arxiv": "2601.09685",
+  "arxiv_title": "Quantum graphs of homomorphisms",
+  "found_by": "verified-by-hand"
+ },
+ "/assets/submissions/non-final/qpl2026-paper15.pdf": {
+  "arxiv": "2512.10937",
+  "arxiv_title": "Agent policies from higher-order causal functions",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/non-final/qpl2026-paper157.pdf": {
+  "arxiv": "2606.23372",
+  "arxiv_title": "Bounding Classical and Quantum Correlations in Bayesian Networks with Quasiprobabilities",
+  "found_by": "arxiv-author-search"
+ },
+ "/assets/submissions/non-final/qpl2026-paper162.pdf": {
+  "arxiv": "2601.07686",
+  "arxiv_title": "A unified framework for Bell inequalities from continuous-variable contextuality",
+  "found_by": "title-search"
+ },
+ "/assets/submissions/non-final/qpl2026-paper175.pdf": {
+  "arxiv": "2602.07110",
+  "arxiv_title": "Beyond Wigner: Non-Invertible Symmetries Preserve Probabilities",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/non-final/qpl2026-paper182.pdf": {
+  "arxiv": "2603.05627",
+  "arxiv_title": "Classical Explanations in (and of) General Probabilistic Theories",
+  "found_by": "title-search"
+ },
+ "/assets/submissions/non-final/qpl2026-paper190.pdf": {
+  "arxiv": "2601.20927",
+  "arxiv_title": "Entangling logical qubits without physical operations",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/non-final/qpl2026-paper191.pdf": {
+  "arxiv": "2607.26139",
+  "arxiv_title": "Linear Algebra of Generalized Contextuality in All Prepare-Transform-Measure Scenarios",
+  "found_by": "arxiv-author-search"
+ },
+ "/assets/submissions/non-final/qpl2026-paper204.pdf": {
+  "arxiv": "2605.00975",
+  "arxiv_title": "Sheaf-Theoretic Preparation Contextuality",
+  "found_by": "arxiv-author-search"
+ },
+ "/assets/submissions/non-final/qpl2026-paper22.pdf": {
+  "arxiv": "2603.19208",
+  "arxiv_title": "Quantum theory based on real numbers cannot be experimentally falsified",
+  "found_by": "verified-by-hand"
+ },
+ "/assets/submissions/non-final/qpl2026-paper23.pdf": {
+  "arxiv": "2504.02808",
+  "arxiv_title": "Quantum theory does not need complex numbers",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/non-final/qpl2026-paper24.pdf": {
+  "arxiv": "2511.15954",
+  "arxiv_title": "A Graph-Theoretic Approach to Quantum Measurement Incompatibility",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/non-final/qpl2026-paper25.pdf": {
+  "arxiv": "2601.05158",
+  "arxiv_title": "Composable simultaneous purification: when all communication scenarios reduce to spatial correlations",
+  "found_by": "arxiv-author-search"
+ },
+ "/assets/submissions/non-final/qpl2026-paper35.pdf": {
+  "arxiv": "2601.15263",
+  "arxiv_title": "Superluminal Transformations and Indeterminism",
+  "found_by": "title-search"
+ },
+ "/assets/submissions/non-final/qpl2026-paper39.pdf": {
+  "arxiv": "2509.08658",
+  "arxiv_title": "Simulating magic state cultivation with few Clifford terms",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/non-final/qpl2026-paper42.pdf": {
+  "arxiv": "2601.04467",
+  "arxiv_title": "Holographic codes seen through ZX-calculus",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/non-final/qpl2026-paper47.pdf": {
+  "arxiv": "2505.09371",
+  "arxiv_title": "TensorRL-QAS: Reinforcement learning with tensor networks for improved quantum architecture search",
+  "found_by": "arxiv-author-search"
+ },
+ "/assets/submissions/non-final/qpl2026-paper48.pdf": {
+  "arxiv": "2505.21797",
+  "arxiv_title": "Events and their Localisation are Relative to a Lab",
+  "found_by": "title-search"
+ },
+ "/assets/submissions/non-final/qpl2026-paper52.pdf": {
+  "arxiv": "2602.00856",
+  "arxiv_title": "Higher-order transformations of bidirectional quantum processes",
+  "found_by": "title-search"
+ },
+ "/assets/submissions/non-final/qpl2026-paper54.pdf": {
+  "arxiv": "2603.05391",
+  "arxiv_title": "SpiderCat: Optimal Fault-Tolerant Cat State Preparation",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/non-final/qpl2026-paper56.pdf": {
+  "arxiv": "2510.08477",
+  "arxiv_title": "Completeness for Fault Equivalence of Clifford ZX Diagrams",
+  "author_score": 1.0,
+  "found_by": "front-matter",
+  "title_score": 1.0
+ },
+ "/assets/submissions/non-final/qpl2026-paper73.pdf": {
+  "arxiv": "2602.23865",
+  "arxiv_title": "Supermaps on generalised theories",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/non-final/qpl2026-paper79.pdf": {
+  "arxiv": "2511.02772",
+  "arxiv_title": "Decoherence to quantum theory from a causally-indefinite post-quantum theory",
+  "author_score": 1.0,
+  "found_by": "front-matter",
+  "title_score": 0.813
+ },
+ "/assets/submissions/non-final/qpl2026-paper81.pdf": {
+  "arxiv": "2602.15800",
+  "arxiv_title": "Entanglement in the Dicke subspace",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/non-final/qpl2026-paper95.pdf": {
+  "arxiv": "2605.13993",
+  "arxiv_title": "Graphical Algebraic Geometry: From Ideals and Varieties to Quantum Calculi",
+  "found_by": "title-search"
+ },
+ "/assets/submissions/non-final/qpl2026-paper96.pdf": {
+  "arxiv": "2506.17181",
+  "arxiv_title": "Fault Tolerance by Construction",
+  "author_score": 1.0,
+  "found_by": "front-matter",
+  "title_score": 1.0
+ },
+ "/assets/submissions/non-final/qpl2026-paper98.pdf": {
+  "arxiv": "2511.06012",
+  "arxiv_title": "Beyond Penrose tensor diagrams with the ZX calculus: Applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity",
+  "found_by": "title-search"
+ },
+ "/assets/submissions/qpl2026-final1.pdf": {
+  "arxiv": "2506.08091",
+  "arxiv_title": "On whether quantum theory needs complex numbers: the foil theories perspective",
+  "author_score": 0.88,
+  "found_by": "arxiv-stamp",
+  "title_score": 1.0
+ },
+ "/assets/submissions/qpl2026-final114.pdf": {
+  "arxiv": "2602.16280",
+  "arxiv_title": "Tomographically-nonlocal entanglement",
+  "found_by": "title-search"
+ },
+ "/assets/submissions/qpl2026-final115.pdf": {
+  "arxiv": "2407.09624",
+  "arxiv_title": "Noncontextuality inequalities for prepare-transform-measure scenarios",
+  "found_by": "title-search"
+ },
+ "/assets/submissions/qpl2026-final132.pdf": {
+  "arxiv": "2205.02009",
+  "arxiv_title": "Complete Flow-Preserving Rewrite Rules for MBQC Patterns with Pauli Measurements",
+  "found_by": "title-search"
+ },
+ "/assets/submissions/qpl2026-final140.pdf": {
+  "arxiv": "2607.03250",
+  "arxiv_title": "Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation",
+  "found_by": "title-search"
+ },
+ "/assets/submissions/qpl2026-final159.pdf": {
+  "arxiv": "2603.19479",
+  "arxiv_title": "Vertex structure of fiber products of probability polytopes",
+  "found_by": "title-search"
+ },
+ "/assets/submissions/qpl2026-final18.pdf": {
+  "arxiv": "2602.06644",
+  "arxiv_title": "A Complete Equational Theory for Real-Clifford+CH Quantum Circuits",
+  "author_score": 1.0,
+  "found_by": "front-matter",
+  "title_score": 1.0
+ },
+ "/assets/submissions/qpl2026-final181.pdf": {
+  "arxiv": "2508.02855",
+  "arxiv_title": "A resource-efficient quantum-walker Quantum RAM",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/qpl2026-final202.pdf": {
+  "arxiv": "2512.08635",
+  "arxiv_title": "Parity erasure: a foundational principle for indefinite causal order",
+  "found_by": "title-search"
+ },
+ "/assets/submissions/qpl2026-final3.pdf": {
+  "arxiv": "2508.21756",
+  "arxiv_title": "Diagrammatic Reasoning with Control as a Constructor, Applications to Quantum Circuits",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/qpl2026-final33.pdf": {
+  "arxiv": "2502.06566",
+  "arxiv_title": "Deciding Local Unitary Equivalence of Graph States in Quasi-Polynomial Time",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/qpl2026-final41.pdf": {
+  "arxiv": "2307.01713",
+  "arxiv_title": "Logic meets Wigner's Friend (and their Friends)",
+  "author_score": 1.0,
+  "found_by": "front-matter",
+  "title_score": 1.0
+ },
+ "/assets/submissions/qpl2026-final63.pdf": {
+  "arxiv": "2502.17576",
+  "arxiv_title": "Invariance under quantum permutations rules out parastatistics",
+  "author_score": 0.67,
+  "found_by": "arxiv-stamp",
+  "title_score": 1.0
+ },
+ "/assets/submissions/qpl2026-final68.pdf": {
+  "arxiv": "2504.19865",
+  "arxiv_title": "Factorization of multimeters: a unified view on nonclassical quantum phenomena",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/qpl2026-final69.pdf": {
+  "arxiv": "2603.12283",
+  "arxiv_title": "Emergent causal order and time direction: bridging causal models and tensor networks",
+  "author_score": 1.0,
+  "found_by": "arxiv-stamp",
+  "title_score": 1.0
+ },
+ "/assets/submissions/qpl2026-final7.pdf": {
+  "arxiv": "2512.11209",
+  "arxiv_title": "The resource theory of causal influence and knowledge of causal influence",
+  "author_score": 1.0,
+  "found_by": "front-matter",
+  "title_score": 1.0
+ },
+ "/assets/submissions/qpl2026-final71.pdf": {
+  "arxiv": "2511.21355",
+  "arxiv_title": "Deriving the Generalised Born Rule from First Principles",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/qpl2026-final75.pdf": {
+  "arxiv": "2510.08546",
+  "arxiv_title": "Equivalence of continuous- and discrete-variable gate-based quantum computers with finite energy",
+  "author_score": 1.0,
+  "found_by": "arxiv-stamp",
+  "title_score": 1.0
+ },
+ "/assets/submissions/qpl2026-final76.pdf": {
+  "arxiv": "2602.22336",
+  "arxiv_title": "Basis-independent stabilizerness and maximally noisy magic states",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/qpl2026-final85.pdf": {
+  "arxiv": "2507.10466",
+  "arxiv_title": "Quantum Control and General Recursion beyond the Unitary Case",
+  "found_by": "front-matter"
+ },
+ "/assets/submissions/qpl2026-final9.pdf": {
+  "arxiv": "2510.20722",
+  "arxiv_title": "Typicality of Contextuality",
+  "author_score": 1.0,
+  "found_by": "front-matter",
+  "title_score": 0.8
+ },
+ "https://arxiv.org/pdf/2607.26157": {
+  "arxiv": "2607.26157",
+  "arxiv_title": "Algebraic paradoxes in adaptive quantum computation",
+  "found_by": "schedule-link"
+ }
+}
