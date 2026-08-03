@@ -119,7 +119,7 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
   </tr>
   <tr>
     <td>15:20 - 15:40</td>
-    <td colspan="4">Coffee Break</td>
+    <td colspan="4">Break</td>
   </tr>
   <tr>
     <td>15:40 - 16:30</td>
