@@ -4,8 +4,8 @@
 
 - from submitted paper: **43**
 - from arXiv: **42**
-- supplied by the authors: **1**
-- still missing: **9**
+- supplied by the authors: **2**
+- still missing: **8**
 
 ## Still missing
 
@@ -31,10 +31,6 @@ No abstract in the submitted paper and no arXiv version could be confirmed.
   - authors: Nicolas Moulonguet, Augustin Vanrietvelde
   - `qpl2026-paper94.pdf`
   - closest arXiv hit rejected: "Causal Decompositions of 1D Quantum Cellular Automata" (title 0.366, authors 0.5)
-- **Wednesday 16:40 – 17:05 · Parallel B** — A three-way normal form for stabiliser codes across ZX diagrams, circuits, and tableaus
-  - authors: Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li, John van de Wetering
-  - `qpl2026-paper187.pdf`
-  - closest arXiv hit rejected: "Quantum Theory from Principles, Quantum Software from Diagrams" (title 0.384, authors 1.0)
 - **Thursday 14:55 – 15:20 · Parallel C** — Identifying causal structures which cannot support quantum correlations without fine-tuning
   - authors: Shashaank Khanna, Matthew Pusey, Roger Colbeck
   - `qpl2026-paper59.pdf`
@@ -55,6 +51,9 @@ Abstract provided directly rather than extracted from a paper or arXiv.
 - **Monday 14:55 – 15:20 · Parallel C** — A complete and natural rule set for multi-qudit Clifford circuits in all odd prime dimensions
   - authors: Xiaoning Bian, Sarah Meng Li, Neil J. Ross, John van de Wetering, Yuming Zhao
   - `qpl2026-paper27.pdf`
+- **Wednesday 16:40 – 17:05 · Parallel B** — A three-way normal form for stabiliser codes across ZX diagrams, circuits, and tableaus
+  - authors: Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li, John van de Wetering
+  - `qpl2026-paper187.pdf`
 
 ## Matched to arXiv under a different title
 

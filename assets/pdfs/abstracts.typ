@@ -542,8 +542,7 @@ of the paper's arXiv version is given instead and labelled with its arXiv id.
   time: "16:40 – 17:05 · Parallel B",
   title: "A three-way normal form for stabiliser codes across ZX diagrams, circuits, and tableaus",
   authors: "Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li, John van de Wetering",
-  body: none,
-  note: "no abstract in the submitted paper; no arXiv version found",
+  body: "The ZX-calculus and stabiliser formalism are two ubiquitous multi-tools in quantum computation. Here, we unify these reasoning schemes by establishing a three-way translation between a general stabiliser code, its canonical ZX normal form, and its encoder circuit. We achieve this by extending the Affine-with-Phases normal form from stabiliser states to arbitrary Clifford isometries, and by providing efficient algorithms for constructing this normal form, both graphically in the ZX-calculus and algebraically via tableau operations. This extension yields a canonical normal form for stabiliser tableaus, which corresponds to a factorisation of any stabiliser code into an inner CSS code together with a diagonal Clifford unitary. This unified perspective provides a structurally coherent view of quantum error-correcting codes and paves the way for automated design pipelines for fault-tolerant quantum computation.",
 )
 
 #absentry(
