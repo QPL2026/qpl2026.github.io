@@ -960,7 +960,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>Session Chair</td>
   <td>Miriam Backens</td>
   <td>Rui Soares Barbosa</td>
-  <td></td>
+  <td>Vinicius Pretti Rossi</td>
 </tr>
 <tr>
   <td>14:30 – 14:55</td>
