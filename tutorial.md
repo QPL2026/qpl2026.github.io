@@ -24,6 +24,25 @@ permalink: /tutorial/
     font-weight: 700;
   }
 
+  .tutorial-table td.empty-cell {
+    background-image:
+      linear-gradient(
+        45deg,
+        transparent calc(50% - 1px),
+        rgba(0, 0, 0, 0.18) calc(50% - 1px),
+        rgba(0, 0, 0, 0.18) calc(50% + 1px),
+        transparent calc(50% + 1px)
+      ),
+      linear-gradient(
+        -45deg,
+        transparent calc(50% - 1px),
+        rgba(0, 0, 0, 0.18) calc(50% - 1px),
+        rgba(0, 0, 0, 0.18) calc(50% + 1px),
+        transparent calc(50% + 1px)
+      );
+    background-repeat: no-repeat;
+  }
+
   .tutorial-table td.lightning-talks {
     background-color: #fff07a;
   }
@@ -83,6 +102,11 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
     <th>Speakers</th>
     <th>Sunday, August 16th</th>
     <th>Speakers</th>
+  </tr>
+  <tr>
+    <td>9:30 - 10:00</td>
+    <td colspan="2">Registration</td>
+    <td colspan="2" class="empty-cell"></td>
   </tr>
   <tr>
     <td>10:00 - 10:50</td>
