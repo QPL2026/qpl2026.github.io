@@ -20,7 +20,25 @@
   block(width: 100%, fill: c-band, inset: (x: 6pt, y: 4pt),
         text(size: 10pt, weight: "bold", label)))
 
-#let absentry(time: "", title: "", authors: "", body: none, source: none, note: none) = block(
+// Most abstracts are a single paragraph. A body that carries its own structure
+// separates paragraphs with a blank line; a body built by concatenation is
+// content rather than a string and is set as one paragraph.
+#let absbody(body) = {
+  // Libertinus Serif has no turned ampersand, and the fallback font sets it far
+  // heavier than its surroundings; the tensor and turnstile signs come out
+  // undersized. Setting the three from the math font matches the running text.
+  show "⅋": $amp.inv$
+  show "⊗": $times.o$
+  show "⊢": $tack$
+  let parts = if type(body) == str { body.split("\n\n") } else { (body,) }
+  for (i, p) in parts.enumerate() {
+    if i > 0 { v(0.4em) }
+    par(justify: true, text(size: 9.5pt, p))
+  }
+}
+
+#let absentry(time: "", title: "", authors: "", body: none, refs: none,
+              source: none, note: none) = block(
   width: 100%, above: 0.9em, below: 0.9em, breakable: true,
   {
     text(size: 8.5pt, fill: rgb("#5f6875"), time)
@@ -30,7 +48,13 @@
     text(size: 9pt, style: "italic", authors)
     v(0.3em)
     if body != none {
-      par(justify: true, text(size: 9.5pt, body))
+      absbody(body)
+      // works cited by key in the abstract, one per line; kept out of the body
+      // so that body stays comparable with the paper's own front matter
+      if refs != none {
+        v(0.3em)
+        text(size: 8.5pt, fill: rgb("#5f6875"), refs)
+      }
       if source != none {
         v(0.15em)
         text(size: 8pt, style: "italic", fill: rgb("#5f6875"), source)
@@ -262,8 +286,8 @@ of the paper's arXiv version is given instead and labelled with its arXiv id.
   time: "11:55 – 12:20",
   title: "A higher-order perspective on quantum signal processing",
   authors: "Marek Arsenault, Hlér Kristjánsson",
-  body: none,
-  note: "no abstract in the submitted paper; no arXiv version found",
+  body: "Two distinct paradigms for quantum functional programming have been developed in the last few years: Quantum Signal Processing (QSP)-based methods, including the Quantum Singular Value Transformation (QSVT) [GSLW19], and methods based on higher-order transformations, such as the Universal Hamiltonian Eigenvalue Transformation (UHET) [OKTM25]. While UHET performs functional transformations of Hamiltonian dynamics, its relationship to QSP-based techniques has remained unclear despite evident structural similarities. In this work, we resolve this gap by establishing a connection between UHET and QSP-based frameworks, specifically, we show that UHET can be interpreted as a (randomised) linearisation of Generalised QSP (GQSP) [MW24]. Building on this result, we introduce a linearised variant of (Hamiltonian-based) QSVT, which we call Universal Hamiltonian Singular Value Transformation (UHSVT), that enables the efficient transformation of the singular values of any arbitrary matrix A encoded in a block of a Hamiltonian, whose dynamics is accessible as a black box, by any sufficiently differentiable function f. Our algorithm requires the sole condition that f vanishes at the origin, in contrast to previous QSVT-based approaches that assumed either a lower bound on the singular values of A or the ability to perform X-rotation gates on the induced two-dimensional 'qubitised' subspace.",
+  refs: "[GSLW19] A Gilyén, Y Su, G H Low, N Wiebe, STOC, 2019.\n[OKTM25] T Odake, H Kristjánsson, P Taranto, M Murao, PRR, 2025.\n[MW24] D Motlagh, N Wiebe, PRX Quantum, 2024.",
 )
 
 #absband("Parallel sessions")
@@ -383,8 +407,7 @@ of the paper's arXiv version is given instead and labelled with its arXiv id.
   time: "16:40 – 17:05 · Parallel C",
   title: "Probing the composition of processes with first-order-ISOMIX logic",
   authors: "Raphaël Le Bihan, Alastair Abbott, Mnacho Echenim",
-  body: none,
-  note: "no abstract in the submitted paper; no arXiv version found",
+  body: "The Causal Logic of Simmons and Kissinger (arXiv:2403.09297) provides a sound and complete logic to decide causal consistency in the framework of causal categories. Given a formula F in Causal Logic, the validity of F (denoted ⊢F) can be determined according to a proof-net criterion, and F is logically valid iff it is causally consistent. In general, however, determining the validity of a balanced formula, i.e. verifying the correctness of a given proof-net, is a coNP-complete problem.\n\nHere, we interest ourselves in a slightly more specific problem: determining the validity of compositions of higher-order processes (e.g., the composition of multiple quantum supermaps). While Causal Logic can be used to address this problem, it is sufficient to study some pertinent fragments of the logic for this purpose. In Causal Logic, formulas can contain two sorts of variables: first-order variables, and regular (or higher-order) variables, in addition to the unit atom I, and connectors ⊗, ⅋ and <. ISOMIX is the fragment of Causal Logic containing only formulas with regular variables, I and the connectors ⊗ and ⅋, while First-Order-ISOMIX (FO-ISOMIX) is defined analogously, but with only first-order variables. FO-ISOMIX turns out to be the relevant fragment for the compositional problem described above, but formulas' validity remains coNP-hard to decide. On the other hand, the validity of (balanced) ISOMIX formulas can be efficiently determined.\n\nWe study the relation between ISOMIX and FO-ISOMIX, and in particular a mapping from formulas F of the latter to the former, HO(F), obtained by replacing first-order variables by higher-order variables. While it is easy to show that if HO(F) is valid, then so is F, the converse does not hold in general. We show, however, that if F is valid and HO(F) is not valid, then F must contain a \"forbidden structure\", which can be detected in linear time by parsing the formula F. This provides an efficient pre-check when aiming to determine the validity of F: if F has no forbidden structure, then the non-validity of HO(F) -- which can be checked efficiently -- implies the non-validity of F.\n\nThese results provide a criteria for determining when, e.g., the validity of the composition of higher-order processes can efficiently determined. In work in progress, we apply this to the composition of quantum supermaps, enumerating all possible compositions of two bipartite supermaps, and determining the sets of valid compositions. This provides a first step in the study of how small supermaps can be consistently combined into more complex ones.",
 )
 
 #absentry(
@@ -481,8 +504,7 @@ of the paper's arXiv version is given instead and labelled with its arXiv id.
   time: "14:55 – 15:20 · Parallel C",
   title: "Subsystems as subsets of quantum channels, and the strange case of blind agents",
   authors: "Nicolas Moulonguet, Augustin Vanrietvelde",
-  body: none,
-  note: "no abstract in the submitted paper; no arXiv version found",
+  body: "Defining subsystems is a critical task in any theory of the world, and especially in causal modelling, where these subsystems are the causal relata. We investigate the operational definition of subsystems in quantum theory, within a framework recently proposed by Chiribella, in which those are identified with subsets of transformations. We argue that it is reasonable to restrict to what we call ‘bicom-closed’ subsystems, admitting a notion of complementation. We make the point that, due to the unphysicalness of global phase, the transformations at hand for a closed quantum system are not unitary operators, but unitary channels; this has major consequences for subsystems, opening the way to new instances beyond the traditionally adopted C*-algebraic ones. We provide a full mathematical classification of the channel-based subsystems that arise as the commutant or bicommutant of one unitary channel. We investigate the admissible measurements that can be performed on such subsystems, and point out that some of them admit no measurement at all, despite being non-trivial. We discuss the two possible attitudes regarding these results — dismissing such subsystems, or taking them seriously — and the challenges that each entails.",
 )
 
 #absentry(
@@ -624,8 +646,7 @@ of the paper's arXiv version is given instead and labelled with its arXiv id.
   time: "14:55 – 15:20 · Parallel C",
   title: "Identifying causal structures which cannot support quantum correlations without fine-tuning",
   authors: "Shashaank Khanna, Matthew Pusey, Roger Colbeck",
-  body: none,
-  note: "no abstract in the submitted paper; no arXiv version found",
+  body: "In his seminal paper, Bell [Physics Physique Fizika 1, 195 (1964)] considers the correlations that result from space-like separated measurements on a pair of entangled particles. He uses relativity theory to motivate the Bell causal structure, then shows the existence of quantum correlations that cannot be explained classically within this causal structure. Classical explanations of such quantum correlations are possible in alternative causal structures, for instance, those that allow superluminal causal influences, but, as shown by Spekkens and Wood [New Journal of Physics 17 033002 (2015)], all such alternative explanations require fine tuning. Here we show the existence of spurious quantum correlations — correlations that look quantum in one causal structure, but have a natural non fine-tuned classical explanation in another. More precisely, there are causal structures that admit quantum correlations unexplainable classically, but for which the same correlations have a faithful (i.e., not fine-tuned) classical explanation in another causal structure. In fact, not only can the realisation in the other causal structure be done faithfully, it can also be done without breaking any natural constraints on the causal structure that follow from relativity theory. However, like the Bell inequality violating correlations in the Bell causal structure, there exist a few other causal structures which support non-classical quantum correlations that resist any classical causal explanation in another alternate causal structure unless one resorts to fine-tuning.",
 )
 
 #absentry(

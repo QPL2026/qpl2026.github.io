@@ -4,8 +4,8 @@
 
 - from submitted paper: **43**
 - from arXiv: **42**
-- supplied by the authors: **2**
-- still missing: **8**
+- supplied by the authors: **6**
+- still missing: **4**
 
 ## Still missing
 
@@ -15,26 +15,10 @@ No abstract in the submitted paper and no arXiv version could be confirmed.
   - authors: Leonardo Vaglini, Nasra Daher Ahmed, Ravi Kunjwal
   - `qpl2026-paper168.pdf`
   - closest arXiv hit rejected: "Contextuality beyond the Kochen-Specker theorem" (title 0.449, authors 1.0)
-- **Tuesday 11:55 – 12:20 · Short plenary talks** — A higher-order perspective on quantum signal processing
-  - authors: Marek Arsenault, Hlér Kristjánsson
-  - `qpl2026-final171.pdf`
-  - closest arXiv hit rejected: "Multimodal Higher-Order Brain Networks: A Topological Signal Processing Perspective" (title 0.569, authors 0.0)
 - **Tuesday 16:15 – 16:40 · Parallel A** — Superposition and its connections to uncertainty, entanglement and the quantum tensor product
   - authors: Vincenzo Fiorentino, Kuntal Sengupta
   - `qpl2026-paper53.pdf`
   - closest arXiv hit rejected: "Two-photon coincident-frequency-entanglement via extended phase matching" (title 0.463, authors 0.5)
-- **Tuesday 16:40 – 17:05 · Parallel C** — Probing the composition of processes with first-order-ISOMIX logic
-  - authors: Raphaël Le Bihan, Alastair Abbott, Mnacho Echenim
-  - `qpl2026-paper158.pdf`
-  - closest arXiv hit rejected: "Measurement of Dijet Angular Distributions and Search for Quark Compositeness" (title 0.294, authors 1.0)
-- **Wednesday 14:55 – 15:20 · Parallel C** — Subsystems as subsets of quantum channels, and the strange case of blind agents
-  - authors: Nicolas Moulonguet, Augustin Vanrietvelde
-  - `qpl2026-paper94.pdf`
-  - closest arXiv hit rejected: "Causal Decompositions of 1D Quantum Cellular Automata" (title 0.366, authors 0.5)
-- **Thursday 14:55 – 15:20 · Parallel C** — Identifying causal structures which cannot support quantum correlations without fine-tuning
-  - authors: Shashaank Khanna, Matthew Pusey, Roger Colbeck
-  - `qpl2026-paper59.pdf`
-  - closest arXiv hit rejected: "Classifying Causal Structures: Ascertaining when Classical Correlations are Constrained by Inequalities" (title 0.528, authors 0.67)
 - **Thursday 15:45 – 16:10 · Parallel B** — Algebraic techniques for photonic state preparation and characterization
   - authors: Massimo Frigerio, Mattia Walschaers, Andrei Aralov, Carlos Ernesto Lopetegui-Gonzalez, Emilie Gillet
   - `qpl2026-final64.pdf`
@@ -54,6 +38,18 @@ Abstract provided directly rather than extracted from a paper or arXiv.
 - **Wednesday 16:40 – 17:05 · Parallel B** — A three-way normal form for stabiliser codes across ZX diagrams, circuits, and tableaus
   - authors: Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li, John van de Wetering
   - `qpl2026-paper187.pdf`
+- **Tuesday 16:40 – 17:05 · Parallel C** — Probing the composition of processes with first-order-ISOMIX logic
+  - authors: Raphaël Le Bihan, Alastair Abbott, Mnacho Echenim
+  - `qpl2026-paper158.pdf`
+- **Tuesday 11:55 – 12:20 · Short plenary talks** — A higher-order perspective on quantum signal processing
+  - authors: Marek Arsenault, Hlér Kristjánsson
+  - `qpl2026-final171.pdf`
+- **Thursday 14:55 – 15:20 · Parallel C** — Identifying causal structures which cannot support quantum correlations without fine-tuning
+  - authors: Shashaank Khanna, Matthew Pusey, Roger Colbeck
+  - `qpl2026-paper59.pdf`
+- **Wednesday 14:55 – 15:20 · Parallel C** — Subsystems as subsets of quantum channels, and the strange case of blind agents
+  - authors: Nicolas Moulonguet, Augustin Vanrietvelde
+  - `qpl2026-paper94.pdf`
 
 ## Matched to arXiv under a different title
 

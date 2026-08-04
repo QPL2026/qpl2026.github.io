@@ -79,8 +79,14 @@ def ratio(a, b):
 # abstracts.typ  <->  structured entries
 # --------------------------------------------------------------------------
 
+ESCAPES = {"n": "\n", "r": "\r", "t": "\t", "\\": "\\", '"': '"'}
+
+
 def typst_quote(s):
-    return '"' + s.replace("\\", "\\\\").replace('"', '\\"') + '"'
+    out = s.replace("\\", "\\\\").replace('"', '\\"')
+    for ch, esc in (("\n", "\\n"), ("\r", "\\r"), ("\t", "\\t")):
+        out = out.replace(ch, esc)
+    return '"' + out + '"'
 
 
 def read_string(text, i):
@@ -89,8 +95,14 @@ def read_string(text, i):
     while i < len(text):
         c = text[i]
         if c == "\\":
-            out.append(text[i + 1])
-            i += 2
+            nxt = text[i + 1]
+            if nxt == "u" and text[i + 2:i + 3] == "{":
+                end = text.index("}", i + 3)
+                out.append(chr(int(text[i + 3:end], 16)))
+                i = end + 1
+            else:
+                out.append(ESCAPES.get(nxt, nxt))
+                i += 2
         elif c == '"':
             return "".join(out), i + 1
         else:
@@ -189,14 +201,23 @@ def parse_typ(path):
     return lines, entries
 
 
+ENTRY_FIELDS = ("time", "title", "authors", "body", "refs", "source", "note")
+
+
 def render_entry(f):
     """An #absentry block, in the layout the generator emits."""
+    unknown = [k for k in f if k not in ENTRY_FIELDS]
+    if unknown:
+        # better to stop than to drop a field silently on rewrite
+        raise ValueError(f"render_entry cannot round-trip field(s): {', '.join(unknown)}")
     out = ["#absentry(",
            f'  time: {typst_quote(f["time"])},',
            f'  title: {typst_quote(f["title"])},',
            f'  authors: {typst_quote(f["authors"])},']
     if f.get("body"):
         out.append(f'  body: {typst_quote(f["body"])},')
+        if f.get("refs"):
+            out.append(f'  refs: {typst_quote(f["refs"])},')
         if f.get("source"):
             out.append(f'  source: {typst_quote(f["source"])},')
     else:
