@@ -156,6 +156,8 @@ def parse_value(text, lets):
         i += len(name)
         if name == "none" and not parts:
             return None, False
+        if name in ("true", "false") and not parts:
+            return name == "true", False
         if name not in lets:
             raise ValueError(f"unknown identifier {name!r} in abstracts.typ")
         parts.append(lets[name])
@@ -201,7 +203,7 @@ def parse_typ(path):
     return lines, entries
 
 
-ENTRY_FIELDS = ("time", "title", "authors", "body", "refs", "source", "note")
+ENTRY_FIELDS = ("time", "title", "authors", "body", "tex", "refs", "source", "note")
 
 
 def render_entry(f):
@@ -216,6 +218,9 @@ def render_entry(f):
            f'  authors: {typst_quote(f["authors"])},']
     if f.get("body"):
         out.append(f'  body: {typst_quote(f["body"])},')
+        # the body keeps its TeX maths; this is what typesets it
+        if f.get("tex"):
+            out.append("  tex: true,")
         if f.get("refs"):
             out.append(f'  refs: {typst_quote(f["refs"])},')
         if f.get("source"):

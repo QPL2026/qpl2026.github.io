@@ -14,6 +14,31 @@
 // otherwise still a plain string.
 #let spzd = [Sp(2n, ℤ#sub[d])]
 
+// A body is stored exactly as its source writes it, TeX maths and all, so that
+// it stays comparable with the paper's own front matter. `tex: true` typesets
+// the `$…$` spans rather than printing them verbatim: within a span the text is
+// Typst maths once the TeX spellings below have been substituted. A span that
+// uses anything else fails the compile instead of setting the wrong thing, so
+// opt an abstract in only after reading how its maths comes out.
+#let tex-spellings = (("\\leq", " <= "), ("\\geq", " >= "))
+
+#let texmath(s) = {
+  let parts = s.split("$")
+  assert(calc.odd(parts.len()), message: "unbalanced $ in: " + s)
+  let out = ()
+  for (i, part) in parts.enumerate() {
+    if calc.even(i) {
+      out.push(part)
+    } else {
+      let m = part
+      for (tex, typst) in tex-spellings { m = m.replace(tex, typst) }
+      // boxed so a span is not broken across lines at its relation
+      out.push(box(eval(m, mode: "math")))
+    }
+  }
+  out.join()
+}
+
 // Titles, authors and abstract bodies arrive as plain strings, so nothing in
 // the extracted text can be reinterpreted as Typst markup.
 #let absband(label) = block(width: 100%, above: 1.2em, below: 0.7em,
@@ -23,7 +48,7 @@
 // Most abstracts are a single paragraph. A body that carries its own structure
 // separates paragraphs with a blank line; a body built by concatenation is
 // content rather than a string and is set as one paragraph.
-#let absbody(body) = {
+#let absbody(body, tex: false) = {
   // Libertinus Serif has no turned ampersand, and the fallback font sets it far
   // heavier than its surroundings; the tensor and turnstile signs come out
   // undersized. Setting the three from the math font matches the running text.
@@ -33,12 +58,12 @@
   let parts = if type(body) == str { body.split("\n\n") } else { (body,) }
   for (i, p) in parts.enumerate() {
     if i > 0 { v(0.4em) }
-    par(justify: true, text(size: 9.5pt, p))
+    par(justify: true, text(size: 9.5pt, if tex { texmath(p) } else { p }))
   }
 }
 
-#let absentry(time: "", title: "", authors: "", body: none, refs: none,
-              source: none, note: none) = block(
+#let absentry(time: "", title: "", authors: "", body: none, tex: false,
+              refs: none, source: none, note: none) = block(
   width: 100%, above: 0.9em, below: 0.9em, breakable: true,
   {
     text(size: 8.5pt, fill: rgb("#5f6875"), time)
@@ -48,7 +73,7 @@
     text(size: 9pt, style: "italic", authors)
     v(0.3em)
     if body != none {
-      absbody(body)
+      absbody(body, tex: tex)
       // works cited by key in the abstract, one per line; kept out of the body
       // so that body stays comparable with the paper's own front matter
       if refs != none {
@@ -294,9 +319,10 @@ of the paper's arXiv version is given instead and labelled with its arXiv id.
 
 #absentry(
   time: "14:30 – 14:55 · Parallel A",
-  title: "SpiderCat: optimal fault-tolerant cat state preparation",
+  title: "SpiderCat: optimal fault-tolerant CAT state preparation",
   authors: "Andrey Boris Khesin, Sarah Meng Li, Boldizsár Poór, Benjamin Rodatz, John van de Wetering, Richie Yeung",
   body: "The ability to fault-tolerantly prepare CAT states, also known as multi-qubit GHZ states, is an important primitive for quantum error correction. It is required for Shor-style syndrome extraction, and can also be used as a subroutine for doing fault-tolerant state preparation of CSS codewords. Existing approaches to fault-tolerant CAT state preparations have been found using computationally expensive heuristics involving SAT solving, reinforcement learning, or exhaustive analysis. In this paper, we constructively find optimal circuits for CAT states in a more scalable way. In particular, we derive formal lower bounds on the number of CNOT gates required for circuits implementing $n$-qubit CAT states that do not spread errors of weight at most $t$ for $1\\leq t \\leq 5$. We do this by using fault-equivalent rewrites of ZX-diagrams to reduce it to a problem of characterising certain 3-regular simple graphs. We then provide families of such optimal graphs for infinitely many values of $n$ and $t\\leq5$. By encoding the construction of optimal graphs as a constraint satisfaction problem we find explicit constructions for circuits that match this lower bound on CNOT count for all $n\\leq50$ and $t \\leq 5$ and for nearly all pairs $(n,t)$ with $n\\leq 100$ and $t\\leq 5$ or $n\\leq 50$ and $t\\leq 7$, significantly extending the regimes that were achievable by previous methods and improving the resource counts for existing constructions. We additionally show how to trade CNOT count against depth, allowing us to construct constant-depth fault-tolerant implementations using $O(n)$ ancilla and $O(n)$ CNOT gates.",
+  tex: true,
   source: "Abstract from the arXiv version, arXiv:2603.05391.",
 )
 

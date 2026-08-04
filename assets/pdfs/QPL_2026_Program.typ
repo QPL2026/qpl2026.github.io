@@ -297,7 +297,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel C])),
   timec[14:30 -- 14:55],
     talkcell([Andrey Boris Khesin, Sarah Meng Li, Boldizsár Poór, Benjamin Rodatz, John van de Wetering, Richie Yeung],
-      [SpiderCat: optimal fault-tolerant cat state preparation]),
+      [SpiderCat: optimal fault-tolerant CAT state preparation]),
     talkcell([Roberto D. Baldijão, Marco Erba, David Schmid, John Selby, Ana Belén Sainz],
       [Tomographically-nonlocal entanglement]),
     talkcell([Matthew Wilson], [Agent policies from higher-order causal functions]),
