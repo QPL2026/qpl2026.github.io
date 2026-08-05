@@ -4,8 +4,8 @@
 
 - from submitted paper: **43**
 - from arXiv: **42**
-- supplied by the authors: **6**
-- still missing: **4**
+- supplied by the authors: **7**
+- still missing: **3**
 
 ## Still missing
 
@@ -23,10 +23,6 @@ No abstract in the submitted paper and no arXiv version could be confirmed.
   - authors: Massimo Frigerio, Mattia Walschaers, Andrei Aralov, Carlos Ernesto Lopetegui-Gonzalez, Emilie Gillet
   - `qpl2026-final64.pdf`
   - closest arXiv hit rejected: "Photon catalysis for general multimode multi-photon quantum state preparation" (title 0.443, authors 0.8)
-- **Friday 16:15 – 16:40 · Parallel C** — Device independent quantum key distribution with a single measurement per site
-  - authors: Raffaele D'Avino, Lorenzo Caramelli, Raja Yehia, Gabriel Senno, Roberto González Pousa, Antonio Acín, Tamás Kriváchy
-  - `qpl2026-paper144.pdf`
-  - closest arXiv hit rejected: "Device-Independent Quantum Key Distribution with Commuting Measurements" (title 0.872, authors 0.0)
 
 ## Supplied by the authors
 
@@ -50,6 +46,9 @@ Abstract provided directly rather than extracted from a paper or arXiv.
 - **Wednesday 14:55 – 15:20 · Parallel C** — Subsystems as subsets of quantum channels, and the strange case of blind agents
   - authors: Nicolas Moulonguet, Augustin Vanrietvelde
   - `qpl2026-paper94.pdf`
+- **Friday 16:15 – 16:40 · Parallel C** — Device independent quantum key distribution with a single measurement per site
+  - authors: Raffaele D'Avino, Lorenzo Caramelli, Raja Yehia, Gabriel Senno, Roberto González Pousa, Antonio Acín, Tamás Kriváchy
+  - `qpl2026-paper144.pdf`
 
 ## Matched to arXiv under a different title
 

@@ -826,8 +826,7 @@ of the paper's arXiv version is given instead and labelled with its arXiv id.
   time: "16:15 – 16:40 · Parallel C",
   title: "Device independent quantum key distribution with a single measurement per site",
   authors: "Raffaele D'Avino, Lorenzo Caramelli, Raja Yehia, Gabriel Senno, Roberto González Pousa, Antonio Acín, Tamás Kriváchy",
-  body: none,
-  note: "no abstract in the submitted paper; no arXiv version found",
+  body: "It is commonly accepted that conducting device-independent quantum key distribution (DIQKD) requires users to change their measurement settings, i.e. use “inputs”. Building on Bell nonlocality in causally constrained networks, we provide an example for a DIQKD protocol which uses only a single measurement setting per party, a first of its kind. We do so by relying on the topological robustness of the nonlocality of networks, allowing the quantum key distribution protocol to be secure even in large networks, where one may not be able to assume the exact causal structure, only locally in the lab. Our results “close the loop” on Bell nonlocality in loops, allowing to contrast the loop network nonlocality with standard Bell nonlocality even operationally, and motivate the study of further protocols based on network nonlocality. In particular, we identify a scenario where fixed-measurement DIQKD could be useful: the correlations among all parties in a loop network can be built up and stored classically, and only later must the network decide which pair of parties will establish a secret key, which can be established using only classical postprocessing of classically saved data.",
 )
 
 #absentry(
