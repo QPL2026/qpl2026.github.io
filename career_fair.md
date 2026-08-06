@@ -22,6 +22,12 @@ The following companies and organisations will be present. Click each one to see
 </details></li>
 
 <li><details>
+<summary><strong>Edinburgh CDT</strong></summary>
+<p>An EPSRC centre for doctoral training led by the University of Edinburgh with UCL, Oxford, Strathclyde and Heriot-Watt, offering fully funded four-year PhDs in the interaction of quantum hardware, software and applications, with 70+ supervisors and 30+ industry partners.</p>
+<p><a href="https://www.quantuminformatics-cdt.ac.uk/" target="_blank" rel="noopener">https://www.quantuminformatics-cdt.ac.uk/</a></p>
+</details></li>
+
+<li><details>
 <summary><strong>Qblox</strong></summary>
 <p>Engineers scalable quantum control and readout electronics with a modular hardware and software platform supporting superconducting qubits, spin qubits, and color centers — from small research setups to systems with thousands of qubits.</p>
 <p><a href="https://qblox.com/" target="_blank" rel="noopener">qblox.com</a></p>

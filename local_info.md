@@ -9,20 +9,33 @@ QPL2026 will take place at the [Roeterseiland campus](https://maps.app.goo.gl/7s
 Roeterseiland campus can be easily reached with public transport, including metro, tram and bus.  The closest station is Weesperplein, which is just a few stops away from Amsterdam's central train station and serviced by metro 51, 53 and 54, tram 1, 14 and 7, as well as at least five different bus routes.  Car parking options on campus are very limited, so traveling to the conference by car is not recommended - instead, we recommend renting a bike at Amsterdam's numerous bike rental places.  Find more information on getting around Amsterdam [here](https://www.uva.nl/en/education/practical-information/living-in-amsterdam/transportation/transportation.html).
 The building where the conference will take place is wheelchair accessible.  Conference attendees with reduced mobility can enter building A/B/C through the main entrance (B/C) or through a special entrance located on the Valckenierstraat.
 
+### Information for presenting posters
 
-<!-- 
-{% include map.html id="location" title="Conference Location" %}
+The poster session will be held on the first floor in the central hall of the A-building.
 
-A map with the locations relevant to the conference:
-* Varna Museum of Archaeology, Wednesday 14h;
-* Restaurant Veranda Horizont (Conference Dinner), Thursday 19h
+Poster boards are 1000mm wide by 1250mm high. We recommend that your poster be A0 sheet size (841mm x 1190mm) printed in portrait orientation. Figures and type should be easily seen from a distance of 2 meters. Use clear graphics and large type to accomplish this.
+Each poster is assigned a number, called the Board Number, which will indicate where to post your poster. Velcro stickers are provided on each posterboard to mount your poster to the board. Tape, glue and other adhesives are not to be used on the poster boards.
+Posters may be put up starting at 10:00AM on Monday 17th of August. Please do not hang posters earlier as they may be removed. All posters must be taken down by 5:00 pm on Thursday 20th of August. Posters left on the boards after this time will be removed. 
 
-is shown below.
+#### Printing your poster
 
-{% include relevant-locations-map.html id="relevant-locations" title="Relevant Locations" %}
+We encourage poster presenters to print out their posters ahead of time and bring them to the conference, as local printers may not have capacity to do a large number of posters on short notice.
+Keep in mind that during busy times, it may take one or more working days for your poster to get printed. We recommend that you get your printing order placed before arriving in Amsterdam.
+Here is a list of local printers:
 
-The local currency is the Bulgarian Lev, BGN, with approximate exchange rate 1 EUR = 1.9558 BGN.
- -->
+<b>Printerette</b>
+Roetersstraat 10-b, 1018 WC Amsterdam, Across the street from conference.
+
+<b>Total Copy Service</b>
+Eerste Oosterparkstraat 126B, 1091 HG Amsterdam, 1.0 km (14 minute walk) from conference.
+
+<b>Lowie Kopie</b>
+Linnaeusstraat 107, 1093 EL Amsterdam, 1.6 km (23 minute walk) from conference.
+
+<b>CopyStop</b>
+Location: Wijdesteeg 3B, 1012 RN, Amsterdam, 2.2 km (31 minute walk) from conference. 
+
+
 
 ### Local Food Options
 
