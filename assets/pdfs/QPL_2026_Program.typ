@@ -26,6 +26,12 @@
 #let banner(label, col: 2, fill: none) = table.cell(fill: fill, colspan: col, align: center, label)
 #let cellc(fill, body, ..rest) = table.cell(fill: fill, align: center + horizon, ..rest, body)
 #let timec(t) = align(center + horizon, t)
+// Session band label with its room on a second line.
+#let roomc(label, room) = text(size: 9pt, {
+  label
+  linebreak()
+  text(size: 7.5pt, fill: rgb("#33546f"), [Room #room])
+})
 #let talkcell(authors, title) = block(breakable: false, align(center + horizon, {
   text(size: 9.5pt, authors)
   linebreak()
@@ -184,7 +190,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   inset: 6pt,
   align: center + horizon,
   timec[8:50 -- 9:30], align(center, [Registration]),
-  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Long plenary talks])),
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, roomc([Long plenary talks], [A0.01])),
   timec[9:30 -- 10:15], talkcell(
     [Alex Maltesson, Ludvig Rodung, Niklas Budinger, Giulia Ferrini, Cameron Calcluth],
     [Equivalence of continuous- and discrete-variable gate-based quantum computers with finite energy]
@@ -194,7 +200,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
     [Efficient quantum-circuit simulation of classical control of causal order]
   ),
   table.cell(colspan: 2, fill: c-break, align: center)[Coffee break],
-  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Short plenary talks])),
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, roomc([Short plenary talks], [A0.01])),
   timec[11:30 -- 11:55], talkcell(
     [Vinicius Pretti Rossi, Beata Zjawin, Roberto D. Baldijão, David Schmid, John H. Selby, Ana Belén Sainz],
     [How typical is contextuality?]
@@ -214,9 +220,9 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   inset: 5pt,
   align: center + horizon,
   table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [])),
-  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel A])),
-  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel B])),
-  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel C])),
+  table.cell(fill: c-chair-bg, align: center, roomc([Parallel A], [A0.01])),
+  table.cell(fill: c-chair-bg, align: center, roomc([Parallel B], [A1.02])),
+  table.cell(fill: c-chair-bg, align: center, roomc([Parallel C], [A1.03])),
   timec[14:30 -- 14:55],
     talkcell([Yìlè Yīng, Maria Ciudad Alanon, Daniel Centeno, Jacopo Surace, Marina Maciel Ansanelli, Ruizhi Liu, David Schmid, Robert Spekkens],
       [On whether quantum theory needs complex numbers: the foil theories perspective]),
@@ -262,7 +268,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   stroke: 0.5pt,
   inset: 6pt,
   align: center + horizon,
-  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Long plenary talks])),
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, roomc([Long plenary talks], [A0.01])),
   timec[9:30 -- 10:15], talkcell(
     [Maximilian Rüsch, Aleks Kissinger, Benjamin Rodatz #h(1em) / #h(1em) Benjamin Rodatz, Boldizsár Poór, Aleks Kissinger],
     [Completeness for fault equivalence of Clifford ZX diagrams / Fault tolerance by construction]
@@ -272,7 +278,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
     [Algebraic paradoxes in adaptive quantum computation]
   ),
   table.cell(colspan: 2, fill: c-break, align: center)[Coffee break],
-  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Short plenary talks])),
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, roomc([Short plenary talks], [A0.01])),
   timec[11:30 -- 11:55], talkcell(
     [Manuel Mekonnen, Thomas D. Galley, Markus P. Müller],
     [Invariance under quantum permutations rules out parastatistics]
@@ -292,9 +298,9 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   inset: 5pt,
   align: center + horizon,
   table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [])),
-  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel A])),
-  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel B])),
-  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel C])),
+  table.cell(fill: c-chair-bg, align: center, roomc([Parallel A], [A0.01])),
+  table.cell(fill: c-chair-bg, align: center, roomc([Parallel B], [A1.02])),
+  table.cell(fill: c-chair-bg, align: center, roomc([Parallel C], [A1.03])),
   timec[14:30 -- 14:55],
     talkcell([Andrey Boris Khesin, Sarah Meng Li, Boldizsár Poór, Benjamin Rodatz, John van de Wetering, Richie Yeung],
       [SpiderCat: optimal fault-tolerant CAT state preparation]),
@@ -344,7 +350,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   stroke: 0.5pt,
   inset: 6pt,
   align: center + horizon,
-  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Long plenary talks])),
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, roomc([Long plenary talks], [A0.01])),
   timec[9:30 -- 10:15], talkcell(
     [Miriam Backens, Simon Perdrix #h(1em) / #h(1em) Miriam Backens],
     [Completeness for flow-preserving rewrite rules / Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation]
@@ -354,7 +360,11 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
     [Beyond Penrose tensor diagrams with the ZX calculus: applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity]
   ),
   table.cell(colspan: 2, fill: c-break, align: center)[Coffee break],
-  table.cell(colspan: 2, align: center, text(weight: "bold", [Industry session #h(1em) 11:30 -- 12:20])),
+  table.cell(colspan: 2, align: center, {
+    text(weight: "bold", [Industry session #h(1em) 11:30 -- 12:20])
+    linebreak()
+    text(size: 7.5pt, fill: rgb("#33546f"), [Room A0.01])
+  }),
   table.cell(colspan: 2, fill: c-break, align: center)[Lunch break],
 )
 
@@ -366,9 +376,9 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   inset: 5pt,
   align: center + horizon,
   table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [])),
-  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel A])),
-  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel B])),
-  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel C])),
+  table.cell(fill: c-chair-bg, align: center, roomc([Parallel A], [A0.01])),
+  table.cell(fill: c-chair-bg, align: center, roomc([Parallel B], [A1.02])),
+  table.cell(fill: c-chair-bg, align: center, roomc([Parallel C], [A1.03])),
   timec[14:30 -- 14:55],
     talkcell([Leonardo Vaglini, Nasra Daher Ahmed, Ravi Kunjwal],
       [Causal inequalities witness non-stabilizerness without magic]),
@@ -414,7 +424,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   stroke: 0.5pt,
   inset: 6pt,
   align: center + horizon,
-  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Long plenary talks])),
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, roomc([Long plenary talks], [A0.01])),
   timec[9:30 -- 10:15], talkcell(
     [Cole Comfort, Robert I. Booth],
     [Denotational semantics for stabiliser quantum programs]
@@ -424,7 +434,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
     [Quantum control and general recursion beyond the unitary case]
   ),
   table.cell(colspan: 2, fill: c-break, align: center)[Coffee break],
-  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Short plenary talk])),
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, roomc([Short plenary talk], [A0.01])),
   timec[11:30 -- 11:55], talkcell(
     [Aabhas Gulati, Ion Nechita, Clément Pellegrini],
     [Entanglement in the Dicke subspace]
@@ -441,9 +451,9 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   inset: 5pt,
   align: center + horizon,
   table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [])),
-  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel A])),
-  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel B])),
-  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel C])),
+  table.cell(fill: c-chair-bg, align: center, roomc([Parallel A], [A1.02])),
+  table.cell(fill: c-chair-bg, align: center, roomc([Parallel B], [A2.09])),
+  table.cell(fill: c-chair-bg, align: center, roomc([Parallel C], [A1.03])),
   timec[14:30 -- 14:55],
     talkcell([Arianne Meijer-van de Griend, Leo Becker],
       [Pauli gadget synthesis for gatesets with arbitrary even-arity Clifford gates]),
@@ -483,7 +493,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   stroke: 0.5pt,
   inset: 6pt,
   align: center + horizon,
-  table.cell(colspan: 2, fill: c-chair-bg, align: center, text(size: 9pt, [Long plenary talks])),
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, roomc([Long plenary talks], [A0.01])),
   timec[9:30 -- 10:15], talkcell(
     [Thea Li, Vladimir Zamdzhiev],
     [Quantum coherence spaces revisited: a von Neumann (co)algebraic approach]
@@ -505,9 +515,9 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   inset: 5pt,
   align: center + horizon,
   table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [])),
-  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel A])),
-  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel B])),
-  table.cell(fill: c-chair-bg, align: center, text(size: 9pt, [Parallel C])),
+  table.cell(fill: c-chair-bg, align: center, roomc([Parallel A], [A0.01])),
+  table.cell(fill: c-chair-bg, align: center, roomc([Parallel B], [A1.02])),
+  table.cell(fill: c-chair-bg, align: center, roomc([Parallel C], [A1.03])),
   timec[14:30 -- 14:55],
     talkcell([Simon Burton, Hussain Anwar], [Meromorphic quantum computing]),
     talkcell([Noé Delorme, Simon Perdrix],

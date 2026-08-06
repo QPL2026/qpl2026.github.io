@@ -115,6 +115,15 @@ permalink: /program/
     font-weight: 700;
   }
 
+  /* Room number, shown on its own line under a session heading. */
+  .schedule-table .room {
+    display: block;
+    margin-top: 0.15rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #33546f;
+  }
+
   .schedule-table .break-row {
     background-color: #e8eef5;
     font-weight: 700;
@@ -374,7 +383,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td><strong>Registration</strong></td>
 </tr>
 <tr>
-  <td class="band" colspan="2">Long plenary talks</td>
+  <td class="band" colspan="2">Long plenary talks<span class="room">Room A0.01</span></td>
 </tr>
 <tr class="session-chair">
   <td>Session Chair</td>
@@ -398,7 +407,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="break-row" colspan="2">Coffee break</td>
 </tr>
 <tr>
-  <td class="band" colspan="2">Short plenary talks</td>
+  <td class="band" colspan="2">Short plenary talks<span class="room">Room A0.01</span></td>
 </tr>
 <tr class="session-chair">
   <td>Session Chair</td>
@@ -432,9 +441,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </colgroup>
 <tr>
   <td class="band"></td>
-  <td class="band">Parallel A</td>
-  <td class="band">Parallel B</td>
-  <td class="band">Parallel C</td>
+  <td class="band">Parallel A<span class="room">Room A0.01</span></td>
+  <td class="band">Parallel B<span class="room">Room A1.02</span></td>
+  <td class="band">Parallel C<span class="room">Room A1.03</span></td>
 </tr>
 <tr class="session-chair">
   <td>Session Chair</td>
@@ -556,7 +565,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <col />
 </colgroup>
 <tr>
-  <td class="band" colspan="2">Long plenary talks</td>
+  <td class="band" colspan="2">Long plenary talks<span class="room">Room A0.01</span></td>
 </tr>
 <tr class="session-chair">
   <td>Session Chair</td>
@@ -580,7 +589,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="break-row" colspan="2">Coffee break</td>
 </tr>
 <tr>
-  <td class="band" colspan="2">Short plenary talks</td>
+  <td class="band" colspan="2">Short plenary talks<span class="room">Room A0.01</span></td>
 </tr>
 <tr class="session-chair">
   <td>Session Chair</td>
@@ -614,9 +623,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </colgroup>
 <tr>
   <td class="band"></td>
-  <td class="band">Parallel A</td>
-  <td class="band">Parallel B</td>
-  <td class="band">Parallel C</td>
+  <td class="band">Parallel A<span class="room">Room A0.01</span></td>
+  <td class="band">Parallel B<span class="room">Room A1.02</span></td>
+  <td class="band">Parallel C<span class="room">Room A1.03</span></td>
 </tr>
 <tr class="session-chair">
   <td>Session Chair</td>
@@ -741,7 +750,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <col />
 </colgroup>
 <tr>
-  <td class="band" colspan="2">Long plenary talks</td>
+  <td class="band" colspan="2">Long plenary talks<span class="room">Room A0.01</span></td>
 </tr>
 <tr class="session-chair">
   <td>Session Chair</td>
@@ -766,7 +775,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </tr>
 <tr>
   <td>11:30 – 12:20</td>
-  <td><strong>Industry session</strong></td>
+  <td><strong>Industry session</strong><span class="room">Room A0.01</span></td>
 </tr>
 <tr>
   <td class="break-row" colspan="2">Lunch break</td>
@@ -782,9 +791,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </colgroup>
 <tr>
   <td class="band"></td>
-  <td class="band">Parallel A</td>
-  <td class="band">Parallel B</td>
-  <td class="band">Parallel C</td>
+  <td class="band">Parallel A<span class="room">Room A0.01</span></td>
+  <td class="band">Parallel B<span class="room">Room A1.02</span></td>
+  <td class="band">Parallel C<span class="room">Room A1.03</span></td>
 </tr>
 <tr class="session-chair">
   <td>Session Chair</td>
@@ -897,7 +906,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <col />
 </colgroup>
 <tr>
-  <td class="band" colspan="2">Long plenary talks</td>
+  <td class="band" colspan="2">Long plenary talks<span class="room">Room A0.01</span></td>
 </tr>
 <tr class="session-chair">
   <td>Session Chair</td>
@@ -921,7 +930,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td class="break-row" colspan="2">Coffee break</td>
 </tr>
 <tr>
-  <td class="band" colspan="2">Short plenary talk</td>
+  <td class="band" colspan="2">Short plenary talk<span class="room">Room A0.01</span></td>
 </tr>
 <tr class="session-chair">
   <td>Session Chair</td>
@@ -952,9 +961,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </colgroup>
 <tr>
   <td class="band"></td>
-  <td class="band">Parallel A</td>
-  <td class="band">Parallel B</td>
-  <td class="band">Parallel C</td>
+  <td class="band">Parallel A<span class="room">Room A1.02</span></td>
+  <td class="band">Parallel B<span class="room">Room A2.09</span></td>
+  <td class="band">Parallel C<span class="room">Room A1.03</span></td>
 </tr>
 <tr class="session-chair">
   <td>Session Chair</td>
@@ -1043,7 +1052,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <col />
 </colgroup>
 <tr>
-  <td class="band" colspan="2">Long plenary talks</td>
+  <td class="band" colspan="2">Long plenary talks<span class="room">Room A0.01</span></td>
 </tr>
 <tr class="session-chair">
   <td>Session Chair</td>
@@ -1084,9 +1093,9 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </colgroup>
 <tr>
   <td class="band"></td>
-  <td class="band">Parallel A</td>
-  <td class="band">Parallel B</td>
-  <td class="band">Parallel C</td>
+  <td class="band">Parallel A<span class="room">Room A0.01</span></td>
+  <td class="band">Parallel B<span class="room">Room A1.02</span></td>
+  <td class="band">Parallel C<span class="room">Room A1.03</span></td>
 </tr>
 <tr class="session-chair">
   <td>Session Chair</td>
