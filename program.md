@@ -682,7 +682,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>16:15 – 16:40</td>
   <td>
     <span class="talk-authors">Vincenzo Fiorentino, Kuntal Sengupta</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper53.pdf" target="_blank" rel="noopener">Superposition and its connections to uncertainty, entanglement and the quantum tensor product</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper53.pdf" target="_blank" rel="noopener">No extension of the Quantum Tensor Product admits a superposition principle</a></span>
   </td>
   <td>
     <span class="talk-authors">Tom Williams, Mina Doosti, Farid Shahandeh</span>
@@ -989,7 +989,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
   <td>
     <span class="talk-authors">Shashaank Khanna, Matthew Pusey, Roger Colbeck</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper59.pdf" target="_blank" rel="noopener">Identifying causal structures which cannot support quantum correlations without fine-tuning</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper59.pdf" target="_blank" rel="noopener">Spurious quantum correlations</a></span>
   </td>
 </tr>
 <tr>

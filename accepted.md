@@ -489,7 +489,7 @@ permalink: /accepted/
       <td style="vertical-align: top; padding: 8px;">Shashaank Khanna<br>Matthew Pusey<br>Roger Colbeck</td>
       <td style="vertical-align: top; padding: 8px;">
         <a href="/assets/submissions/non-final/qpl2026-paper59.pdf" target="_blank" rel="noopener">
-          Identifying causal structures which cannot support quantum correlations without fine-tuning
+          Spurious quantum correlations
         </a>
       </td>
     </tr>
@@ -729,7 +729,7 @@ permalink: /accepted/
       <td style="vertical-align: top; padding: 8px;">Vincenzo Fiorentino<br>Kuntal Sengupta</td>
       <td style="vertical-align: top; padding: 8px;">
         <a href="/assets/submissions/non-final/qpl2026-paper53.pdf" target="_blank" rel="noopener">
-          Superposition and its connections to Uncertainty, Entanglement and the Quantum Tensor Product
+          No extension of the Quantum Tensor Product admits a superposition principle
         </a>
       </td>
     </tr>

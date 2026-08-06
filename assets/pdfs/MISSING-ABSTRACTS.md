@@ -4,8 +4,8 @@
 
 - from submitted paper: **43**
 - from arXiv: **42**
-- supplied by the authors: **7**
-- still missing: **3**
+- supplied by the authors: **9**
+- still missing: **1**
 
 ## Still missing
 
@@ -15,14 +15,6 @@ No abstract in the submitted paper and no arXiv version could be confirmed.
   - authors: Leonardo Vaglini, Nasra Daher Ahmed, Ravi Kunjwal
   - `qpl2026-paper168.pdf`
   - closest arXiv hit rejected: "Contextuality beyond the Kochen-Specker theorem" (title 0.449, authors 1.0)
-- **Tuesday 16:15 – 16:40 · Parallel A** — Superposition and its connections to uncertainty, entanglement and the quantum tensor product
-  - authors: Vincenzo Fiorentino, Kuntal Sengupta
-  - `qpl2026-paper53.pdf`
-  - closest arXiv hit rejected: "Two-photon coincident-frequency-entanglement via extended phase matching" (title 0.463, authors 0.5)
-- **Thursday 15:45 – 16:10 · Parallel B** — Algebraic techniques for photonic state preparation and characterization
-  - authors: Massimo Frigerio, Mattia Walschaers, Andrei Aralov, Carlos Ernesto Lopetegui-Gonzalez, Emilie Gillet
-  - `qpl2026-final64.pdf`
-  - closest arXiv hit rejected: "Photon catalysis for general multimode multi-photon quantum state preparation" (title 0.443, authors 0.8)
 
 ## Supplied by the authors
 
@@ -40,7 +32,7 @@ Abstract provided directly rather than extracted from a paper or arXiv.
 - **Tuesday 11:55 – 12:20 · Short plenary talks** — A higher-order perspective on quantum signal processing
   - authors: Marek Arsenault, Hlér Kristjánsson
   - `qpl2026-final171.pdf`
-- **Thursday 14:55 – 15:20 · Parallel C** — Identifying causal structures which cannot support quantum correlations without fine-tuning
+- **Thursday 14:55 – 15:20 · Parallel C** — Spurious quantum correlations
   - authors: Shashaank Khanna, Matthew Pusey, Roger Colbeck
   - `qpl2026-paper59.pdf`
 - **Wednesday 14:55 – 15:20 · Parallel C** — Subsystems as subsets of quantum channels, and the strange case of blind agents
@@ -49,6 +41,12 @@ Abstract provided directly rather than extracted from a paper or arXiv.
 - **Friday 16:15 – 16:40 · Parallel C** — Device independent quantum key distribution with a single measurement per site
   - authors: Raffaele D'Avino, Lorenzo Caramelli, Raja Yehia, Gabriel Senno, Roberto González Pousa, Antonio Acín, Tamás Kriváchy
   - `qpl2026-paper144.pdf`
+- **Thursday 15:45 – 16:10 · Parallel B** — Algebraic techniques for photonic state preparation and characterization
+  - authors: Massimo Frigerio, Mattia Walschaers, Andrei Aralov, Carlos Ernesto Lopetegui-Gonzalez, Emilie Gillet
+  - `qpl2026-final64.pdf`
+- **Tuesday 16:15 – 16:40 · Parallel A** — No extension of the Quantum Tensor Product admits a superposition principle
+  - authors: Vincenzo Fiorentino, Kuntal Sengupta
+  - `qpl2026-paper53.pdf`
 
 ## Matched to arXiv under a different title
 
