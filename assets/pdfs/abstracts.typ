@@ -229,10 +229,10 @@ of the paper's arXiv version is given instead and labelled with its arXiv id.
 
 #absentry(
   time: "16:40 – 17:05 · Parallel A",
-  title: "Causal inequalities witness non-stabilizerness without magic",
-  authors: "Leonardo Vaglini, Nasra Daher Ahmed, Ravi Kunjwal",
-  body: none,
-  note: "no abstract in the submitted paper; no arXiv version found",
+  title: "Higher-order transformations of bidirectional quantum processes",
+  authors: "Luca Apadula, Alessandro Bisio, Giulio Chiribella, Paolo Perinotti, Kyrylo Simonov",
+  body: "Bidirectional devices are devices for which the roles of the input and output ports can be exchanged. Mathematically, these devices are described by bistochastic quantum channels, namely completely positive linear maps that are both trace-preserving and identity-preserving. Recently, it has been shown that bidirectional quantum devices can, in principle, be used in ways that are incompatible with a definite input-output direction, giving rise to a new phenomenon called input-output indefiniteness. Here we characterize the most general forms of input-output indefiniteness, associated with a hierarchy of higher-order transformations built from transformations of bistochastic quantum channels. Some levels of the hierarchy correspond to transformations that combine bistochastic channels in a definite causal order, while generally using each channel in an indefinite input-output direction. For other levels of the hierarchy, the indefiniteness can involve both the local input-output direction of each process and the global causal order among the processes. On the foundational side, the hierarchy of higher-order transformations characterized here can be regarded as the largest set of physical processes compatible with a time-symmetric variant of quantum theory, where the possible state transformations are restricted to bistochastic channels.",
+  source: "Abstract from the arXiv version, arXiv:2602.00856.",
 )
 
 #absentry(
@@ -489,10 +489,10 @@ of the paper's arXiv version is given instead and labelled with its arXiv id.
 
 #absentry(
   time: "14:30 – 14:55 · Parallel A",
-  title: "Higher-order transformations of bidirectional quantum processes",
-  authors: "Luca Apadula, Alessandro Bisio, Giulio Chiribella, Paolo Perinotti, Kyrylo Simonov",
-  body: "Bidirectional devices are devices for which the roles of the input and output ports can be exchanged. Mathematically, these devices are described by bistochastic quantum channels, namely completely positive linear maps that are both trace-preserving and identity-preserving. Recently, it has been shown that bidirectional quantum devices can, in principle, be used in ways that are incompatible with a definite input-output direction, giving rise to a new phenomenon called input-output indefiniteness. Here we characterize the most general forms of input-output indefiniteness, associated with a hierarchy of higher-order transformations built from transformations of bistochastic quantum channels. Some levels of the hierarchy correspond to transformations that combine bistochastic channels in a definite causal order, while generally using each channel in an indefinite input-output direction. For other levels of the hierarchy, the indefiniteness can involve both the local input-output direction of each process and the global causal order among the processes. On the foundational side, the hierarchy of higher-order transformations characterized here can be regarded as the largest set of physical processes compatible with a time-symmetric variant of quantum theory, where the possible state transformations are restricted to bistochastic channels.",
-  source: "Abstract from the arXiv version, arXiv:2602.00856.",
+  title: "Causal inequalities witness non-stabilizerness without magic",
+  authors: "Leonardo Vaglini, Nasra Daher Ahmed, Ravi Kunjwal",
+  body: none,
+  note: "no abstract in the submitted paper; no arXiv version found",
 )
 
 #absentry(

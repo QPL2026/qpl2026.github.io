@@ -11,7 +11,7 @@
 
 No abstract in the submitted paper and no arXiv version could be confirmed.
 
-- **Monday 16:40 – 17:05 · Parallel A** — Causal inequalities witness non-stabilizerness without magic
+- **Wednesday 14:30 – 14:55 · Parallel A** — Causal inequalities witness non-stabilizerness without magic
   - authors: Leonardo Vaglini, Nasra Daher Ahmed, Ravi Kunjwal
   - `qpl2026-paper168.pdf`
   - closest arXiv hit rejected: "Contextuality beyond the Kochen-Specker theorem" (title 0.449, authors 1.0)
