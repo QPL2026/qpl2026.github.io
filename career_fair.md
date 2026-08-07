@@ -52,6 +52,12 @@ The following companies and organisations will be present. Click each one to see
 </details></li>
 
 <li><details>
+<summary><strong>QphoX</strong></summary>
+<p>A TU Delft spin-off building microwave-to-optical quantum transducers, which convert the microwave photons of superconducting qubits into telecom-wavelength light so processors in separate cryostats can be linked over ordinary optical fibre. Alongside the transducer it supplies optical cryogenic control and microwave switching hardware for distributed, modular quantum computing.</p>
+<p><a href="https://qphox.eu/" target="_blank" rel="noopener">qphox.eu</a></p>
+</details></li>
+
+<li><details>
 <summary><strong>WIQD</strong></summary>
 <p>A professional network for the Dutch quantum sector — We in Quantum Development — connecting and supporting women and other underrepresented groups across industry, academia, and policy through networking events, mentoring, and an annual symposium.</p>
 <p><a href="https://www.wiqd.nl/" target="_blank" rel="noopener">wiqd.nl</a></p>
