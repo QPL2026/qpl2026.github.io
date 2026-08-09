@@ -4,17 +4,14 @@
 
 - from submitted paper: **43**
 - from arXiv: **42**
-- supplied by the authors: **9**
-- still missing: **1**
+- supplied by the authors: **10**
+- still missing: **0**
 
 ## Still missing
 
 No abstract in the submitted paper and no arXiv version could be confirmed.
 
-- **Wednesday 14:30 – 14:55 · Parallel A** — Causal inequalities witness non-stabilizerness without magic
-  - authors: Leonardo Vaglini, Nasra Daher Ahmed, Ravi Kunjwal
-  - `qpl2026-paper168.pdf`
-  - closest arXiv hit rejected: "Contextuality beyond the Kochen-Specker theorem" (title 0.449, authors 1.0)
+- _(none — every scheduled talk now has an abstract.)_
 
 ## Supplied by the authors
 
@@ -47,6 +44,9 @@ Abstract provided directly rather than extracted from a paper or arXiv.
 - **Tuesday 16:15 – 16:40 · Parallel A** — No extension of the Quantum Tensor Product admits a superposition principle
   - authors: Vincenzo Fiorentino, Kuntal Sengupta
   - `qpl2026-paper53.pdf`
+- **Wednesday 14:30 – 14:55 · Parallel A** — Causal inequalities witness non-stabilizerness without magic
+  - authors: Leonardo Vaglini, Nasra Daher Ahmed, Ravi Kunjwal
+  - `qpl2026-paper168.pdf`
 
 ## Matched to arXiv under a different title
 
