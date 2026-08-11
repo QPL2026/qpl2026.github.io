@@ -282,7 +282,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td><strong>Friday, August 21st</strong></td>
 </tr>
 <tr>
-  <td>8:50 – 9:30</td>
+  <td>8:45 – 9:30</td>
   <td>Registration</td>
   <td class="empty-cell"></td>
   <td class="empty-cell"></td>
