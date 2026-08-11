@@ -221,6 +221,7 @@ For inquiries related to the submission and review process, please write to the 
 * [John van de Wetering](https://vdwetering.name/), University of Amsterdam and QuSoft
 * [Sarah Meng Li](https://sarahmengli.com/), University of Amsterdam and QuSoft
 * [Kevin Koenrades](https://www.uva.nl/en/profile/k/o/k.koenrades/k.koenrades.html), University of Amsterdam events coordinator
+* [Stephanie Mak](https://www.uva.nl/en/profile/m/a/s.mak/s.mak.html), University of Amsterdam events coordinator
 
 <!-- * [James Hefford](https://heffordj.github.io/) (Inria, France)
 * Timothée Hoffreumon (Université Paris-Saclay, France)
@@ -248,10 +249,12 @@ All communication should be appropriate for a professional audience including pe
 The dedicated safety and inclusion team will oversee reports of Code of Conduct violation. The team can be contacted at [qpl.safety.inclusion@gmail.com](mailto:qpl.safety.inclusion@gmail.com). The full team is to be announced later, but currently consists of:
 
 * Ana Belén Sainz (ICTQT, University of Gdańsk)
+* Gina Muus (University of Amsterdam, QuSoft)
+* John van de Wetering (University of Amsterdam, QuSoft)
 
 Harassment may include but is not limited to:
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or technology choices;
-* Sexual language and images in any workshop platform;
+* Sexual language and images in slides or posters at the conference venue;
 * Deliberate intimidation, stalking, or following;
 * Harassing photography or recording;
 * Sustained disruption of talks or other events;
