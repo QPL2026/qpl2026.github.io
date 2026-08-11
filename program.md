@@ -1178,10 +1178,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     <span class="talk-authors">Giuseppe De Riso, Giuseppe Catalano, Seth Lloyd, Vittorio Giovannetti, Dario De Santis</span>
     <span class="talk-title"><a href="/assets/submissions/qpl2026-final181.pdf" target="_blank" rel="noopener">A resource-efficient quantum-walker quantum RAM</a></span>
   </td>
-  <td>
-    <span class="talk-authors">Subhendu Bikas Ghosh, Snehasish Roy Chowdhury, Guruprasad Kar, Arup Roy, Tamal Guha, Manik Banik</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper203.pdf" target="_blank" rel="noopener">Strong inequivalence of quantum nonlocal resources</a></span>
-  </td>
+  <td></td>
   <td>
     <span class="talk-authors">Paul Becsi, Matthew Joseph Hoban</span>
     <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper157.pdf" target="_blank" rel="noopener">Bounding classical and quantum correlations in Bayesian networks with quasiprobabilities</a></span>

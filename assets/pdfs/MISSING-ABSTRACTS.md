@@ -1,8 +1,8 @@
 # Abstract coverage for the QPL 2026 program
 
-95 scheduled talks.
+94 scheduled talks.
 
-- from submitted paper: **43**
+- from submitted paper: **42**
 - from arXiv: **42**
 - supplied by the authors: **10**
 - still missing: **0**

@@ -835,13 +835,6 @@ of the paper's arXiv version is given instead and labelled with its arXiv id.
 )
 
 #absentry(
-  time: "16:40 – 17:05 · Parallel B",
-  title: "Strong inequivalence of quantum nonlocal resources",
-  authors: "Subhendu Bikas Ghosh, Snehasish Roy Chowdhury, Guruprasad Kar, Arup Roy, Tamal Guha, Manik Banik",
-  body: "In this work [PRL 132, 250205 (2024), arXiv:2310.16386] we present instances of quantum nonlocal correlations that are incomparable in the strongest sense. Specifically, when starting with an arbitrary many copies of one nonlocal correlation, it becomes impossible to obtain even a single copy of the other correlation, and this incomparability holds in both directions. Such incomparable quantum correlations can be obtained even in the simplest Bell scenario, which involves two parties, each having two dichotomic measurements setups. Notably, there exist an uncountable number of such incomparable correlations. Our result challenges the notion of a ‘unique gold coin’, often referred to as the ‘maximally resourceful state’, within the framework of the resource theory of quantum nonlocality. To this end, we provide examples of isotropic quantum correlations that cannot be distilled up-to Tsirelson point,and thus partially answer a long standing open question in nonlocality distillation.",
-)
-
-#absentry(
   time: "16:40 – 17:05 · Parallel C",
   title: "Bounding classical and quantum correlations in Bayesian networks with quasiprobabilities",
   authors: "Paul Becsi, Matthew Joseph Hoban",
