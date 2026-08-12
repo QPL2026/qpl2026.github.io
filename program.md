@@ -473,8 +473,8 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper22.pdf" target="_blank" rel="noopener">On the experimental falsification of real QT</a></span>
   </td>
   <td>
-    <span class="talk-authors">Alexandru Baltag, Sonja Smets</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final41.pdf" target="_blank" rel="noopener">Logic meets Wigner's friend (and their friends)</a></span>
+    <span class="talk-authors">Tim Achenbach, Andreas Bluhm, Leevi Leppäjärvi, Ion Nechita, Martin Plávala</span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final68.pdf" target="_blank" rel="noopener">Factorization of multimeters: a unified view on nonclassical quantum phenomena</a></span>
   </td>
   <td>
     <span class="talk-authors">Xiaoning Bian, Sarah Meng Li, Neil J. Ross, John van de Wetering, Yuming Zhao</span>
@@ -655,8 +655,8 @@ Below you can find an overview of the conference schedule. Here is the <a href="
     <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper42.pdf" target="_blank" rel="noopener">Holographic codes seen through ZX-calculus</a><span class="remote-label">Remote</span></span>
   </td>
   <td>
-    <span class="talk-authors">Tim Achenbach, Andreas Bluhm, Leevi Leppäjärvi, Ion Nechita, Martin Plávala</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final68.pdf" target="_blank" rel="noopener">Factorization of multimeters: a unified view on nonclassical quantum phenomena</a></span>
+    <span class="talk-authors">Alexandru Baltag, Sonja Smets</span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final41.pdf" target="_blank" rel="noopener">Logic meets Wigner's friend (and their friends)</a></span>
   </td>
   <td>
     <span class="talk-authors">V. Vilasini, Lin-Qing Chen, Liuhang Ye, Renato Renner</span>
@@ -1421,15 +1421,6 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
       </details>
       <details>
-        <summary><strong>14:55 - 15:20 </strong><a href="/assets/submissions/qpl2026-final41.pdf" target="_blank" rel="noopener">Logic meets Wigner's friend (and their friends)</a></summary>
-        <p>
-          <strong>Abstract.</strong> We take a fresh look at Wigner's Friend thought-experiment and some of its more recent variants and extensions, such as the Frauchiger-Renner (FR) Paradox. We discuss various solutions proposed in the literature, focusing on a few questions: What is the correct epistemic interpretation of the multiplicity of state assignments in these scenarios? Under which conditions can one include classical observers into the quantum state descriptions, in a way that is still compatible with traditional Quantum Mechanics? Under which conditions can one system be admitted as an additional 'observer' from the perspective of another background observer? When can the standard axioms of multi-agent Epistemic Logic (that allow "knowledge transfer" between agents) be applied to quantum-physical observers? In the last part of the paper, we propose a new answer to these questions, sketch a particular formal implementation of this answer, and apply it to obtain a principled solution to Wigner Friend-type paradoxes.
-        </p>
-        <p>
-          <strong>Coauthors.</strong> Alexandru Baltag, Sonja Smets
-        </p>
-      </details>
-      <details>
         <summary><strong>15:20 - 15:45 </strong><a href="/assets/submissions/non-final/qpl2026-paper137.pdf" target="_blank" rel="noopener">Operator spaces, linear logic and the Heisenberg-Schrödinger duality</a></summary>
         <p>
           <strong>Abstract.</strong> We show that the category OS of operator spaces, with complete contractions as morphisms, is locally countably presentable and a model of Intuitionistic Linear Logic in the sense of Lafont. We then describe a model of Classical Linear Logic, based on OS, whose duality is compatible with the HeisenbergSchrödinger duality of quantum theory. We also show that OS provides a good setting for studying pure state and mixed state quantum information, the interaction between the two, and even higher-order quantum maps such as the quantum switch.
@@ -1577,6 +1568,15 @@ Below you can find an overview of the conference schedule. Here is the <a href="
         </p>
         <p>
           <strong>Coauthors.</strong> Roberto D. Baldijão, Marco Erba, David Schmid, John H. Selby, Ana Belén Sainz
+        </p>
+      </details>
+      <details>
+        <summary><strong>14:55 - 15:20 </strong><a href="/assets/submissions/qpl2026-final41.pdf" target="_blank" rel="noopener">Logic meets Wigner's friend (and their friends)</a></summary>
+        <p>
+          <strong>Abstract.</strong> We take a fresh look at Wigner's Friend thought-experiment and some of its more recent variants and extensions, such as the Frauchiger-Renner (FR) Paradox. We discuss various solutions proposed in the literature, focusing on a few questions: What is the correct epistemic interpretation of the multiplicity of state assignments in these scenarios? Under which conditions can one include classical observers into the quantum state descriptions, in a way that is still compatible with traditional Quantum Mechanics? Under which conditions can one system be admitted as an additional 'observer' from the perspective of another background observer? When can the standard axioms of multi-agent Epistemic Logic (that allow "knowledge transfer" between agents) be applied to quantum-physical observers? In the last part of the paper, we propose a new answer to these questions, sketch a particular formal implementation of this answer, and apply it to obtain a principled solution to Wigner Friend-type paradoxes.
+        </p>
+        <p>
+          <strong>Coauthors.</strong> Alexandru Baltag, Sonja Smets
         </p>
       </details>
     </details>
