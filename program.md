@@ -557,7 +557,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   <td>16:40 – 17:05</td>
   <td>
     <span class="talk-authors">Luca Apadula, Alessandro Bisio, Giulio Chiribella, Paolo Perinotti, Kyrylo Simonov</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper52.pdf" target="_blank" rel="noopener">Higher-order transformations of bidirectional quantum processes</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper52.pdf" target="_blank" rel="noopener">Higher-order transformations of bidirectional quantum processes</a><span class="remote-label">Remote</span></span>
   </td>
   <td>
     <span class="talk-authors">Andre Kornell, Bert Lindenhovius</span>
