@@ -17,7 +17,11 @@ permalink: /tutorial/
     vertical-align: middle;
     overflow-wrap: break-word;
     font-size: 0.95rem;
-    line-height: 1.2;
+    line-height: 1.35;
+    /* The theme leaves table cells with no vertical padding of their own, so
+       these mostly single-line rows would otherwise sit right on top of one
+       another. */
+    padding: 0.85rem 0.6rem;
   }
 
   .tutorial-table th {
