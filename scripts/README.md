@@ -61,6 +61,41 @@ here.
 - `abstract-pins.json` — talks whose printed abstract is authoritative even
   though it matches no source, e.g. text supplied directly by the authors.
 
+## gen_posters.py
+
+Writes `assets/pdfs/posters.typ`, the poster abstracts that close the booklet.
+Talks and posters are kept in separate files because they come from different
+places: a talk's abstract is read off the submitted paper, while a poster's is
+the one its authors typed into EasyChair. `verify_abstracts.py` therefore has
+nothing to say about posters, and does not look at this file.
+
+Three inputs, none of which duplicates the others:
+
+- the EasyChair abstract export (plain text) — the abstract of every
+  submission, as its authors wrote it;
+- the board-assignment spreadsheet (`.xlsx`) — which submission hangs on which
+  board, i.e. which posters are actually being presented and in what order a
+  visitor walks past them. Only submissions listed here are printed, and a
+  submission spanning several boards is printed once, over the range;
+- `accepted.md` — the canonical title and author list for each poster, matched
+  on title, so that the booklet and the website agree. A poster the spreadsheet
+  names but the page does not list is reported and skipped.
+
+```sh
+./scripts/gen_posters.py ~/Downloads/'qpl2026-abstracts posters.txt' \
+                         ~/Downloads/'Indeling posters.xlsx'
+cd assets/pdfs && typst compile QPL_2026_Program.typ
+```
+
+Unlike the talk abstracts, these arrive as LaTeX source rather than as typeset
+text, so the markup has to be resolved before it can be set: `\emph` and
+friends are unwrapped, TeX quoting and dashes become the characters they stand
+for, and each maths span is rewritten into Typst maths. A span spelled in a way
+the rewriter does not know raises rather than reaching the page as visible
+markup — extend `MATH_SUBS` when that happens. A closing paragraph that only
+links to the full version is moved out of the body and set as a footnote; the
+handful that read awkwardly there are reworded in `NOTES`.
+
 ## abstract_extract.py
 
 The PDF front-matter reader used by `verify_abstracts.py`. The submissions are

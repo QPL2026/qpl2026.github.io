@@ -550,3 +550,4 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
 )
 
 #include "abstracts.typ"
+#include "posters.typ"

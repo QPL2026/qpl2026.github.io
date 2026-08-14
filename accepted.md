@@ -143,6 +143,8 @@ permalink: /accepted/
   </tbody>
 </table>
 
+<br />
+
 ## Talks
 
 <table class="accepted-table">
@@ -823,6 +825,8 @@ permalink: /accepted/
     </tr>
   </tbody>
 </table>
+
+<br />
 
 ## Posters
 
