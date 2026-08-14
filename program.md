@@ -51,6 +51,31 @@ permalink: /program/
     color: #000;
   }
 
+  /* The poster-session cells link through to the list of accepted posters.
+     Dark red on the orange session fill, so the link reads as a link. */
+  .program-table a.poster-link,
+  .schedule-table a.poster-link {
+    color: #7e1b1b;
+    font-weight: 700;
+    text-decoration: underline;
+  }
+
+  .program-table a.poster-link:hover,
+  .schedule-table a.poster-link:hover,
+  .program-table a.poster-link:focus,
+  .schedule-table a.poster-link:focus {
+    color: #5a1313;
+  }
+
+  /* Standalone pointer to the poster list, above the schedule. */
+  .poster-callout {
+    margin: 0 0 1rem;
+    padding: 0.7rem 1rem;
+    border-left: 4px solid #f7c98b;
+    background-color: #fdf3e6;
+    border-radius: 0.35rem;
+  }
+
   .talk-details {
     margin: 1.5rem 0;
   }
@@ -263,6 +288,12 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 </p>
 <p class="today-note" id="today-note"></p>
 
+<p class="poster-callout">
+  📌 <strong><a href="{{ '/accepted/#posters' | relative_url }}">See all posters being presented</a></strong>
+  — the poster session is on Tuesday 18 August, 17:30 – 19:30, in the central hall
+  on the first floor of the A-building.
+</p>
+
 
 <table class="program-table">
 <colgroup>
@@ -359,7 +390,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
 <tr>
   <td rowspan="2"></td>
   <td rowspan="2" class="empty-cell"></td>
-  <td rowspan="2" style="background-color: #f7c98b">Poster Session<br> 17:30 – 19:30 </td>
+  <td rowspan="2" style="background-color: #f7c98b"><a class="poster-link" href="{{ '/accepted/#posters' | relative_url }}">Poster Session</a><br> 17:30 – 19:30 </td>
   <td>Boat Tour <br> 17:30 – 18:30 </td>
 </tr>
 <tr>
@@ -733,7 +764,7 @@ Below you can find an overview of the conference schedule. Here is the <a href="
   </td>
 </tr>
 <tr>
-  <td class="break-row" colspan="4" style="background-color: #f7c98b">Poster session (with reception) 17:30 – 19:30</td>
+  <td class="break-row" colspan="4" style="background-color: #f7c98b">Poster session (with reception) 17:30 – 19:30 — <a class="poster-link" href="{{ '/accepted/#posters' | relative_url }}">see all posters</a></td>
 </tr>
 </table>
 

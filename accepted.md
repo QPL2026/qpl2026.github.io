@@ -823,3 +823,225 @@ permalink: /accepted/
     </tr>
   </tbody>
 </table>
+
+## Posters
+
+Posters are presented at the **poster session on Tuesday 18 August, 17:30 – 19:30**,
+in the central hall on the first floor of the A-building. Each poster is assigned a
+board number, which is shown on the board itself — see the
+[poster instructions](/local_info/#information-for-presenting-posters) for details.
+
+<table class="accepted-table">
+  <colgroup>
+    <col style="width: 35%;">
+    <col style="width: 65%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th style="text-align: left; vertical-align: top; padding: 8px;">Authors</th>
+      <th style="text-align: left; vertical-align: top; padding: 8px;">Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Emilien de Bank<br>Cyril Branciard<br>Vilasini V.</td>
+      <td style="vertical-align: top; padding: 8px;">A Fine-Grained Perspective on Higher Order Operations: Modelling Agents in Spacetime</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Ladina Hausmann<br>Renato Renner</td>
+      <td style="vertical-align: top; padding: 8px;">Against probability: A quantum state is more than a list of probability distributions</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Shintaro Minagawa<br>Ravi Kunjwal</td>
+      <td style="vertical-align: top; padding: 8px;">All star-incompatible measurements can certify steering-based randomness</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Marcin Szyniszewski<br>Aleks Kissinger<br>Noah Linden<br>Paul Skrzypczyk</td>
+      <td style="vertical-align: top; padding: 8px;">Automated quantum circuit optimization with randomized replacements</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Matthew Sutcliffe</td>
+      <td style="vertical-align: top; padding: 8px;">Bridging Treewidth and T-Count: A Hybrid Method for Strong Quantum Circuit Simulation</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Rajarsi Pal<br>Harold Ollivier</td>
+      <td style="vertical-align: top; padding: 8px;">Circuit optimization under constrained preparations and measurements</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Tuomas Laakkonen</td>
+      <td style="vertical-align: top; padding: 8px;">Clifford Circuit Synthesis for Distributed Quantum Architectures with Arbitrary Network Topology</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Shashaank Khanna<br>Matthew Pusey<br>Roger Colbeck</td>
+      <td style="vertical-align: top; padding: 8px;">Closing the problem of which causal structures of up to six total nodes have a classical-quantum gap</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Julio Cesar Fernandes da Silva<br>Cristhiano Duarte<br>Bruno Ferreira Rizzuti</td>
+      <td style="vertical-align: top; padding: 8px;">Compatibility and agreement in Wigner’s friend paradox</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Nyan Raess<br>Farid Shahandeh</td>
+      <td style="vertical-align: top; padding: 8px;">Contextuality in Sequential State Discrimination</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Giuseppe Antonio Nistico</td>
+      <td style="vertical-align: top; padding: 8px;">Emergence of classicality derived from consistent value assignments</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Maarten Grothus<br>Pierre Pocreau<br>Raphaël Mothe</td>
+      <td style="vertical-align: top; padding: 8px;">Formalising dynamical causal order beyond QC-QCs</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Nripendra Majumdar</td>
+      <td style="vertical-align: top; padding: 8px;">Four Party Absolutely Maximal Contextual Correlations</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Joel Huber<br>Matthias Kleinmann</td>
+      <td style="vertical-align: top; padding: 8px;">Generalized Dynamics in Phase Space: Some Quantum States Require Quantum Time Evolution</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Matthew Wilson<br>James Hefford</td>
+      <td style="vertical-align: top; padding: 8px;">Higher-order quantum objects are strong profunctors</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Matthias Salzger<br>V. Vilasini</td>
+      <td style="vertical-align: top; padding: 8px;">Higher-order quantum processes respecting closed labs in a spacetime have quantum controlled causal order</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Nasra Daher Ahmed<br>Ravi Kunjwal</td>
+      <td style="vertical-align: top; padding: 8px;">How unitaries encode the trade-off between causal order and locality</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Salome Hayes-Shuptar<br>Daniel Bhatti<br>Ana Belen Sainz<br>David Elkouss</td>
+      <td style="vertical-align: top; padding: 8px;">Linear Program Witness for Network Nonlocality in Arbitrary Networks</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Seyed Arash Ghoreishi<br>Nidhin Sudarsanan Ragini<br>Mario Ziman<br>Sk Sazim</td>
+      <td style="vertical-align: top; padding: 8px;">Multiple-shot labeling of quantum observables</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Markus Frembs<br>Cihan Okay<br>Ho Yiu Chung</td>
+      <td style="vertical-align: top; padding: 8px;">No quantum solutions to linear constraint systems from monomial measurement-based quantum computation in odd prime dimension</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Vanessa Brzić<br>Dmitry Grinko<br>Michał Studziński<br>Marco Túlio Quintino</td>
+      <td style="vertical-align: top; padding: 8px;">Optimal pure state cloning and transposition are complementary channels</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Seiseki Akibue<br>Jisho Miyazaki<br>Hiroyuki Osaka</td>
+      <td style="vertical-align: top; padding: 8px;">Optimizing Entanglement Manipulation via Algebraic-Geometric Decompositions and Semidefinite Programming Hierarchies</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">John Harding<br>Alexander Wilce</td>
+      <td style="vertical-align: top; padding: 8px;">Order Unit Spaces and Probabilistic Models</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Hippolyte Dourdent<br>Kyrylo Simonov<br>Andreas Leitherer<br>Emanuel-Cristian Boghiu<br>Ravi Kunjwal<br>Saronath Halder<br>Remigiusz Augusiak<br>Antonio Acin</td>
+      <td style="vertical-align: top; padding: 8px;">Paradox-free classical non-causality and unambiguous non-locality without entanglement are equivalent</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Christoffer Hindlycke<br>Jakov Krnic<br>Jan-Åke Larsson</td>
+      <td style="vertical-align: top; padding: 8px;">Practical implementation of Toffoli-based qubit rotation</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Maximilian Schweikart<br>Linnea Grans-Samuelsson<br>Aleks Kissinger<br>Benjamin Rodatz</td>
+      <td style="vertical-align: top; padding: 8px;">Preserving MWPM-Decodability in Fault-Equivalent Rewrites</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Giuseppe Catalano<br>Farzan Kianvash<br>Vittorio Giovannetti</td>
+      <td style="vertical-align: top; padding: 8px;">Quantum Channels on Graphs: a Resonant Tunneling Perspective</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Anthony Micciche<br>Naphan Benchasattabuse<br>Andrew McGregor<br>Stefan Krastanov<br>Michal Hajdusek<br>Rodney Van Meter</td>
+      <td style="vertical-align: top; padding: 8px;">Quantum Hamlets: Distributed Compilation of Large Algorithmic Graph States</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Xin Sun<br>Piotr Kulicki<br>Elzbieta Drozdowska</td>
+      <td style="vertical-align: top; padding: 8px;">Quantum Hoare Logic With Infinitary Addition And Recursion</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Mina Abbaszadeh<br>Matilda Karabina Moore<br>Mehrnoosh Sadrzadeh<br>Martha Lewis</td>
+      <td style="vertical-align: top; padding: 8px;">Quantum Models for Multi-Stage Compositional Concept Generalization</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Kuntal Sengupta<br>Lewis Wooltorton</td>
+      <td style="vertical-align: top; padding: 8px;">Quantum Nonlocality and Device-Independent Randomness are robust to Noisy Signalling Channels</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Lucas Stinchcombe<br>Kenta Cho<br>Ichiro Hasuo</td>
+      <td style="vertical-align: top; padding: 8px;">Quantum Weakest Precondition Semantics from Categorical Axiomatics</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Ossi Niemimäki<br>Oskari Kerppo<br>Valtteri Lahtinen<br>Timo Tarhasaari</td>
+      <td style="vertical-align: top; padding: 8px;">Quantum-native structures for discrete computational physics</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Jacopo Surace</td>
+      <td style="vertical-align: top; padding: 8px;">Reconstruction of finite Quasi-Probability and Probability from Principles: The Role of Syntactic Locality</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Kostia Chardonnet<br>Emmanuel Hainry<br>Romain Péchoux<br>Thomas Vinet</td>
+      <td style="vertical-align: top; padding: 8px;">Resource-Aware Quantum Programming with General Recursion and Quantum Control</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Antoine Debray<br>Massimo Frigerio<br>Nicolas Treps<br>Mattia Walschaers</td>
+      <td style="vertical-align: top; padding: 8px;">Resourcefulness of non-classical continuous-variable quantum gates</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Matthieu Bruant<br>Alastair Abbott</td>
+      <td style="vertical-align: top; padding: 8px;">Revisiting genuine-multipartiteness in causally indefinite correlations and processes</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Cisco Gooding</td>
+      <td style="vertical-align: top; padding: 8px;">Routing for Steerability</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Daniel Bilsborrow<br>Hler Kristjansson</td>
+      <td style="vertical-align: top; padding: 8px;">Scalable non-markovian tomography with higher-order maps</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Lorenzo Saraiva<br>Edward Hermann Haeusler<br>Guilherme Lima</td>
+      <td style="vertical-align: top; padding: 8px;">Semantic Entropy of Compressed Proofs: Sheaf Geometry and Quantum Verification of DLDS Certificates</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Rajdeep Paul<br>Prabuddha Roy<br>A. K. Pan</td>
+      <td style="vertical-align: top; padding: 8px;">Semi-device-independent self-testing of unitary operations</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Serban Cercelescu<br>Benjamin Rodatz</td>
+      <td style="vertical-align: top; padding: 8px;">Shor-Style Fault-Tolerant Clifford synthesis in the ZX calculus</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Dongho Lee</td>
+      <td style="vertical-align: top; padding: 8px;">Spectral Semialgebraic Semantics for Approximate Quantum Computation</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Harry Stoltz</td>
+      <td style="vertical-align: top; padding: 8px;">Time-Independent Perturbation Theory in the ZXW Calculus</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Julien Lamiroy</td>
+      <td style="vertical-align: top; padding: 8px;">Towards a new quantum logic</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Seonghun Jung<br>Augustin Vanrietvelde</td>
+      <td style="vertical-align: top; padding: 8px;">Towards causal decompositions in infinite dimensions: the one-way influence case</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Timothée Hoffreumon<br>Anna Jenčova</td>
+      <td style="vertical-align: top; padding: 8px;">Understanding the lattice of signalling in higher-order quantum processes</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Julien Codsi<br>Tuomas Laakkonen</td>
+      <td style="vertical-align: top; padding: 8px;">Unifying Graph Measures and Stabilizer Decompositions for the Classical Simulation of Quantum Circuits</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Raphaël Mothe<br>Otfried Gühne</td>
+      <td style="vertical-align: top; padding: 8px;">Witnessing quantum circuits architecture</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Renaud Vilmart<br>Vincent Nguyen</td>
+      <td style="vertical-align: top; padding: 8px;">ZW-calculus in q-arithmetic</td>
+    </tr>
+  </tbody>
+</table>

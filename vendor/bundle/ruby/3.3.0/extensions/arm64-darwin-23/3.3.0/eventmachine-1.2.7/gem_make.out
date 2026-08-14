@@ -1,0 +1,19 @@
+current directory: /Users/sarahli/Desktop/PhD-Projects/GitRepo/qpl2026.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/opt/homebrew/opt/ruby@3.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/sarahli/Desktop/PhD-Projects/GitRepo/qpl2026.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make -j12 DESTDIR\= sitearchdir\=./.gem.20260812-44168-xffpta sitelibdir\=./.gem.20260812-44168-xffpta clean
+
+current directory: /Users/sarahli/Desktop/PhD-Projects/GitRepo/qpl2026.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make -j12 DESTDIR\= sitearchdir\=./.gem.20260812-44168-xffpta sitelibdir\=./.gem.20260812-44168-xffpta
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/sarahli/Desktop/PhD-Projects/GitRepo/qpl2026.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make -j12 DESTDIR\= sitearchdir\=./.gem.20260812-44168-xffpta sitelibdir\=./.gem.20260812-44168-xffpta install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20260812-44168-xffpta
+
+current directory: /Users/sarahli/Desktop/PhD-Projects/GitRepo/qpl2026.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260812-44168-xffpta sitelibdir\=./.gem.20260812-44168-xffpta clean
