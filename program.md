@@ -283,17 +283,17 @@ permalink: /program/
 
 Below you can find an overview of the conference schedule. Here is the <a href="{{ '/assets/pdfs/QPL_2026_Program.pdf' | relative_url }}" target="_blank" rel="noopener">full schedule in table formatting</a>, which also carries the abstract of every talk and, at the end, the abstract of every poster. Unless otherwise specified, all talks will take place in person.
 
-<p>
-  <button type="button" id="today-talk-btn" class="today-button">📅 Go to today's talks</button>
-</p>
-<p class="today-note" id="today-note"></p>
-
 <p class="poster-callout">
   📌 <strong><a href="{{ '/accepted/#posters' | relative_url }}">See all posters being presented</a></strong>
   — the poster session is on Tuesday 18 August, 17:30 – 19:30, in the central hall
   on the first floor of the A-building. The board each poster hangs on is given with
   its abstract in the <a href="{{ '/assets/pdfs/QPL_2026_Program.pdf' | relative_url }}" target="_blank" rel="noopener">program booklet</a>.
 </p>
+
+<p>
+  <button type="button" id="today-talk-btn" class="today-button">📅 Go to today's talks</button>
+</p>
+<p class="today-note" id="today-note"></p>
 
 
 <table class="program-table">
