@@ -63,9 +63,10 @@ The following companies and organisations will be present. Click each one to see
 <p><a href="https://www.wiqd.nl/" target="_blank" rel="noopener">wiqd.nl</a></p>
 </details></li>
 
-<li><details>
+<!-- <li><details>
 <summary><strong>Quantum.Amsterdam</strong></summary>
 <p>The Amsterdam innovation hub for quantum software, technology, and applications — founded by QuSoft, CWI, and the University of Amsterdam as part of Quantum Delta NL — connecting academia, industry, and startups through shared facilities, training, and talent development.</p>
 <p><a href="https://www.quantum.amsterdam/" target="_blank" rel="noopener">quantum.amsterdam</a></p>
 </details></li>
 </ul>
+ -->
