@@ -22,6 +22,8 @@ permalink: /accepted/
   }
 </style>
 
+Below you can find everything being presented at QPL 2026 — the accepted talks, from both the proceedings and the non-proceedings track, and the accepted posters.
+
 ## Proceedings
 
 <table class="accepted-table">
