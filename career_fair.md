@@ -58,6 +58,12 @@ The following companies and organisations will be present. Click each one to see
 </details></li>
 
 <li><details>
+<summary><strong>Venturus</strong></summary>
+<p>Venturus works across the quantum computing stack, integrating research in hardware, control systems, algorithms, and applications. Our work includes trapped-ion quantum computing and real-time control systems, as well as Quantum Machine Learning, computational chemistry, and quantum bioinformatics. This end-to-end approach builds expertise from core quantum technologies to scientific and industrial applications.</p>
+<p><a href="https://www.venturus.org.br/" target="_blank" rel="noopener">https://www.venturus.org.br/</a></p>
+</details></li>
+
+<li><details>
 <summary><strong>WIQD</strong></summary>
 <p>A professional network for the Dutch quantum sector — We in Quantum Development — connecting and supporting women and other underrepresented groups across industry, academia, and policy through networking events, mentoring, and an annual symposium.</p>
 <p><a href="https://www.wiqd.nl/" target="_blank" rel="noopener">wiqd.nl</a></p>
