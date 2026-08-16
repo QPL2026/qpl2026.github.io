@@ -94,6 +94,11 @@ permalink: /tutorial/
     background-color: #f1f9fe;
   }
 
+  .tutorial-notes--zx {
+    border-left-color: #bfe6cc;
+    background-color: #f3faf5;
+  }
+
   .speaker-bios {
     margin: 1.5rem 0;
   }
@@ -196,6 +201,12 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
   <a href="https://drive.google.com/file/d/1ZB9O3evyiICeH4AQVmrQNx_pGD02G1kE/view" target="_blank" rel="noopener noreferrer">Dagger monoidal categories</a> ·
   <a href="https://drive.google.com/file/d/1JKdW7x-LaQLMROG8DbzzyPzG7qWWmXuO/view" target="_blank" rel="noopener noreferrer">Dagger compact closed categories</a> ·
   <a href="https://drive.google.com/file/d/1pPt8jpog5vkbHoM9pUG1S_tGuvx7mMZd/view" target="_blank" rel="noopener noreferrer">Dagger Frobenius algebras</a>
+</p>
+
+<p class="tutorial-notes tutorial-notes--zx">
+  📄 <strong>ZX Calculus — slides by Lia Yeh and Razin A. Shaikh:</strong>
+  <a href="{{ '/assets/pdfs/QPL_2026_ZX_Tutorial_Slides_Part1.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Part 1 — Lia Yeh (pdf)</a> ·
+  <a href="{{ '/assets/pdfs/QPL_2026_ZX_Tutorial_Slides_Part2.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Part 2 — Razin A. Shaikh (pdf)</a>
 </p>
 
 <p class="tutorial-notes tutorial-notes--gpt">
