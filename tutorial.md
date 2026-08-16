@@ -76,7 +76,7 @@ permalink: /tutorial/
     border-left: 4px solid #d8c7f0;
     background-color: #f8f5fd;
     border-radius: 0.35rem;
-    font-size: 0.95rem;
+    font-size: 1.1rem;
     line-height: 1.9;
   }
 
