@@ -67,6 +67,33 @@ permalink: /tutorial/
     background-color: #f7c98b;
   }
 
+  /* Material handed out by a tutorial speaker, called out under the schedule
+     so that it is visible without opening a bio. The accent picks up the
+     colour of that tutorial's cells in the table above. */
+  .tutorial-notes {
+    margin: 0 0 1.5rem;
+    padding: 0.7rem 1rem;
+    border-left: 4px solid #d8c7f0;
+    background-color: #f8f5fd;
+    border-radius: 0.35rem;
+    font-size: 0.95rem;
+    line-height: 1.9;
+  }
+
+  .tutorial-notes a {
+    white-space: nowrap;
+  }
+
+  /* A link sitting inside a full sentence, which has to be free to wrap. */
+  .tutorial-notes a.inline-link {
+    white-space: normal;
+  }
+
+  .tutorial-notes--gpt {
+    border-left-color: #7fcff4;
+    background-color: #f1f9fe;
+  }
+
   .speaker-bios {
     margin: 1.5rem 0;
   }
@@ -162,6 +189,20 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
   </tr>
 </table>
 <br />
+
+<p class="tutorial-notes">
+  📄 <strong>Category Theory — lecture notes by Priyaa Varshinee Srinivasan:</strong>
+  <a href="https://drive.google.com/file/d/14qwE5ew0rVO6_4Xr3gCmjwQzkcCvQSP1/view" target="_blank" rel="noopener noreferrer">Dagger categories</a> ·
+  <a href="https://drive.google.com/file/d/1ZB9O3evyiICeH4AQVmrQNx_pGD02G1kE/view" target="_blank" rel="noopener noreferrer">Dagger monoidal categories</a> ·
+  <a href="https://drive.google.com/file/d/1JKdW7x-LaQLMROG8DbzzyPzG7qWWmXuO/view" target="_blank" rel="noopener noreferrer">Dagger compact closed categories</a> ·
+  <a href="https://drive.google.com/file/d/1pPt8jpog5vkbHoM9pUG1S_tGuvx7mMZd/view" target="_blank" rel="noopener noreferrer">Dagger Frobenius algebras</a>
+</p>
+
+<p class="tutorial-notes tutorial-notes--gpt">
+  📄 <strong>Generalised Probabilistic Theories — slides by David Schmid:</strong>
+  <a href="{{ '/assets/pdfs/QPL_2026_GPT_Tutorial_Slides.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Generalized probabilistic theories (pdf)</a><br />
+  More detailed lectures on generalized probabilistic theories (and other topics) can be found in David Schmid's <a class="inline-link" href="https://pirsa.org/c25052" target="_blank" rel="noopener noreferrer">quantum foundations course on PIRSA</a>.
+</p>
 
 ## Speaker Bios and Tutorial Abstracts
 
