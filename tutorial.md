@@ -99,6 +99,11 @@ permalink: /tutorial/
     background-color: #f3faf5;
   }
 
+  .tutorial-notes--causality {
+    border-left-color: #f7c98b;
+    background-color: #fdf6ec;
+  }
+
   .speaker-bios {
     margin: 1.5rem 0;
   }
@@ -213,6 +218,11 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
   📄 <strong>Generalised Probabilistic Theories — slides by David Schmid:</strong>
   <a href="{{ '/assets/pdfs/QPL_2026_GPT_Tutorial_Slides.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Generalized probabilistic theories (pdf)</a><br />
   More detailed lectures on generalized probabilistic theories (and other topics) can be found in David Schmid's <a class="inline-link" href="https://pirsa.org/c25052" target="_blank" rel="noopener noreferrer">quantum foundations course on PIRSA</a>.
+</p>
+
+<p class="tutorial-notes tutorial-notes--causality">
+  📄 <strong>Causality — slides by Jessica Bavaresco:</strong>
+  <a href="{{ '/assets/pdfs/QPL_2026_Causality_Tutorial_Slides.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Causality in higher-order quantum theory (pdf)</a>
 </p>
 
 ## Speaker Bios and Tutorial Abstracts
