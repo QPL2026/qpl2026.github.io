@@ -32,10 +32,21 @@
   linebreak()
   text(size: 7.5pt, fill: rgb("#33546f"), [Room #room])
 })
-#let talkcell(authors, title) = block(breakable: false, align(center + horizon, {
+// Talks given remotely carry the same pill the website prints after the title.
+#let remote-pill = box(
+  inset: (x: 3pt, y: 1.2pt),
+  radius: 2.5pt,
+  stroke: 0.4pt + c-title,
+  text(size: 6.5pt, fill: c-title, [Remote]),
+)
+#let talkcell(authors, title, remote: false) = block(breakable: false, align(center + horizon, {
   text(size: 9.5pt, authors)
   linebreak()
   titlec(text(size: 9.5pt, title))
+  if remote {
+    h(0.4em)
+    remote-pill
+  }
 }))
 
 // --- Masthead -------------------------------------------------------------
@@ -249,10 +260,10 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
       [Efficient classical simulation of low-rank-width quantum circuits using ZX-calculus])),
   timec[16:40 -- 17:05],
     talkcell([Luca Apadula, Alessandro Bisio, Giulio Chiribella, Paolo Perinotti, Kyrylo Simonov],
-      [Higher-order transformations of bidirectional quantum processes]),
+      [Higher-order transformations of bidirectional quantum processes], remote: true),
     table.cell(align: center + horizon, talkcell([Andre Kornell, Bert Lindenhovius], [The category of quantum graphs is closed])),
     table.cell(align: center + horizon, talkcell([Kwok Ho Wan, Zhenghao Zhong, Ainhoa Zapirain],
-      [Simulating magic state cultivation with few Clifford terms])),
+      [Simulating magic state cultivation with few Clifford terms], remote: true)),
   timec[17:05 -- 17:30],
     talkcell([Carla Ferradini, Giulia Mazzola, V. Vilasini],
       [Emergent causal order and time direction: bridging causal models and tensor networks]),
@@ -309,7 +320,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
       [Tomographically-nonlocal entanglement]),
     talkcell([Matthew Wilson], [Agent policies from higher-order causal functions]),
   timec[14:55 -- 15:20],
-    talkcell([Kwok Ho Wan, Henry Price, Qing Yao], [Holographic codes seen through ZX-calculus]),
+    talkcell([Kwok Ho Wan, Henry Price, Qing Yao], [Holographic codes seen through ZX-calculus], remote: true),
     talkcell([Alexandru Baltag, Sonja Smets], [Logic meets Wigner's friend (and their friends)]),
     talkcell([V. Vilasini, Lin-Qing Chen, Liuhang Ye, Renato Renner],
       [Events and their localisation are relative to a lab]),
@@ -400,7 +411,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   table.cell(colspan: 4, fill: c-break, align: center)[Coffee break],
   timec[16:15 -- 16:40],
     talkcell([Thomas Bartsch, Yuhan Gai, Sakura Schäfer-Nameki],
-      [Beyond Wigner -- how non-invertible symmetries preserve probabilities]),
+      [Beyond Wigner -- how non-invertible symmetries preserve probabilities], remote: true),
     talkcell([Haytham McDowall-Rose, Razin A. Shaikh, Lia Yeh],
       [From fermions to qubits: a ZX-calculus perspective]),
     talkcell([Amrapali Sen, Flavio Del Santo], [Superluminal transformations and indeterminism]),
@@ -530,7 +541,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
     talkcell([Jan-Åke Larsson], [The contextual Heisenberg microscope]),
   timec[15:20 -- 15:45],
     talkcell([Jin Ming Koh, Anqi Gong, Andrei C. Diaconu, Daniel Bochen Tan, Alexandra A. Geim, Michael J. Gullans, Norman Y. Yao, Mikhail D. Lukin, Shayan Majidy],
-      [Phantom codes: entangling logical qubits without physical operations]),
+      [Phantom codes: entangling logical qubits without physical operations], remote: true),
     talkcell([William Schober, Scott Wesley],
       [A complete equational theory for quantum circuits with generalized control]),
     talkcell([Daniel McNulty], [Quantifying quantum measurement incompatibility via graph invariants]),
