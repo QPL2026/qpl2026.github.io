@@ -280,10 +280,10 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   stroke: 0.5pt,
   inset: 6pt,
   align: center + horizon,
-  table.cell(colspan: 2, fill: c-chair-bg, align: center, roomc([Long plenary talks], [A0.01])),
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, roomc([Long plenary talks #strong[(merged)]], [A0.01])),
   timec[9:30 -- 10:15], talkcell(
-    [Maximilian Rüsch, Aleks Kissinger, Benjamin Rodatz #h(1em) / #h(1em) Benjamin Rodatz, Boldizsár Poór, Aleks Kissinger],
-    [Completeness for fault equivalence of Clifford ZX diagrams / Fault tolerance by construction]
+    [Benjamin Rodatz, Boldizsár Poór, Aleks Kissinger #h(1em) / #h(1em) Maximilian Rüsch, Aleks Kissinger, Benjamin Rodatz],
+    [Fault tolerance by construction / Completeness for fault equivalence of Clifford ZX diagrams]
   ),
   timec[10:15 -- 11:00], talkcell(
     [Samson Abramsky, Rui Soares Barbosa, Carmen Constantin, Martti Karvonen],
@@ -361,7 +361,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   stroke: 0.5pt,
   inset: 6pt,
   align: center + horizon,
-  table.cell(colspan: 2, fill: c-chair-bg, align: center, roomc([Long plenary talks], [A0.01])),
+  table.cell(colspan: 2, fill: c-chair-bg, align: center, roomc([Long plenary talks #strong[(merged)]], [A0.01])),
   timec[9:30 -- 10:15], talkcell(
     [Miriam Backens, Simon Perdrix #h(1em) / #h(1em) Miriam Backens],
     [Completeness for flow-preserving rewrite rules / Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation]

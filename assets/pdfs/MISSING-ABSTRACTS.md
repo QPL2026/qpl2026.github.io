@@ -75,8 +75,8 @@ talk title. Each was checked by hand, but they are listed so you can confirm.
   - arXiv:2604.02873 — "Frame perspectives for process matrices: from coordinate parametrization to spacetime representation"
   - matched via: arxiv-author-search
 - **Completeness for flow-preserving rewrite rules**
-  - arXiv:2205.02009 — "Complete Flow-Preserving Rewrite Rules for MBQC Patterns with Pauli Measurements"
-  - matched via: title-search
+  - arXiv:2608.13035 — "Completeness for flow-preserving rewrite rules"
+  - matched via: verified-by-hand
 - **Insights in graph state entanglement via r-local complementation: structure and a quasi-polynomial algorithm**
   - arXiv:2502.06566 — "Deciding Local Unitary Equivalence of Graph States in Quasi-Polynomial Time"
   - matched via: front-matter

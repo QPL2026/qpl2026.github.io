@@ -275,20 +275,20 @@ of the paper's arXiv version is given instead and labelled with its arXiv id.
 
 == Tuesday, August 18th
 
-#absband("Long plenary talks")
-
-#absentry(
-  time: "9:30 – 10:15",
-  title: "Completeness for fault equivalence of Clifford ZX diagrams",
-  authors: "Maximilian Rüsch, Aleks Kissinger, Benjamin Rodatz / Benjamin Rodatz, Boldizsár Poór, Aleks Kissinger",
-  body: "Two circuits are considered to be equivalent under noise if the effect of faults on one circuit is no worse than the effect of faults on the other circuit. We call this relationship fault equivalence. Fault equivalence offers a way to transform circuits while provably preserving their fault-tolerant properties, enabling a framework for fault-tolerant circuit synthesis and optimisation that is correct by construction. The ZX calculus offers a diagrammatic way to represent and reason about quantum circuits and is a useful tool for manipulating circuits while preserving fault equivalence. For this, the usual set of ZX rewrites has to be restricted to not only preserve the underlying linear map represented by the diagram, but also fault equivalence. In this work, we provide a set of ZX rewrites that are sound and complete for fault equivalence of Clifford ZX diagrams. This means that any equivalence that can be derived using the proposed rules is certain to be correct, and any correct equivalence can be derived using only these rules. For this, we utilise diagrammatic constructions called fault gadgets to reason about arbitrary, possibly correlated Pauli faults in ZX diagrams. Fault gadgets allow us to separate the diagram into a fault-free part, which captures the noise-free behaviour of a diagram, and a noisy part that enumerates the effects of all possible faults. Using this, we provide a unique normal form for ZX diagrams under noise and show that any diagram can be brought into this normal form using our proposed rule set.",
-)
+#absband([Long plenary talks (merged)])
 
 #absentry(
   time: "9:30 – 10:15",
   title: "Fault tolerance by construction",
-  authors: "Maximilian Rüsch, Aleks Kissinger, Benjamin Rodatz / Benjamin Rodatz, Boldizsár Poór, Aleks Kissinger",
+  authors: "Benjamin Rodatz, Boldizsár Poór, Aleks Kissinger",
   body: "A key challenge in fault-tolerant quantum computing is synthesising and optimising circuits in a noisy environment, as traditional techniques often fail to account for the effect of noise on circuits. In this work, we propose a framework for designing fault-tolerant quantum circuits that are correct by construction. The framework starts with idealised specifications of fault-tolerant gadgets and refines them using provably sound basic transformations. To reason about manipulating circuits while preserving their error correction properties, we define fault equivalence; two circuits are considered fault-equivalent if all undetectable faults on one circuit have a corresponding fault on the other. This guarantees that the effect of undetectable faults on both circuits is the same. We argue that fault equivalence is a concept that is already implicitly present in the literature. Many problems, such as state preparation and syndrome extraction, can be naturally expressed as finding an implementable circuit that is fault-equivalent to an idealised specification. To utilise fault equivalence in a computationally tractable manner, we adapt the ZX calculus, a diagrammatic language for quantum computing. We restrict its rewrite system to not only preserve the underlying linear map but also fault equivalence, i.e. the circuit’s behaviour under noise. Enabled by our framework, we verify, optimise and synthesise new and efficient circuits for syndrome extraction and cat state preparation. We anticipate that fault equivalence can capture and unify different approaches in fault-tolerant quantum computing, paving the way for an end-to-end circuit compilation framework.",
+)
+
+#absentry(
+  time: "9:30 – 10:15",
+  title: "Completeness for fault equivalence of Clifford ZX diagrams",
+  authors: "Maximilian Rüsch, Aleks Kissinger, Benjamin Rodatz",
+  body: "Two circuits are considered to be equivalent under noise if the effect of faults on one circuit is no worse than the effect of faults on the other circuit. We call this relationship fault equivalence. Fault equivalence offers a way to transform circuits while provably preserving their fault-tolerant properties, enabling a framework for fault-tolerant circuit synthesis and optimisation that is correct by construction. The ZX calculus offers a diagrammatic way to represent and reason about quantum circuits and is a useful tool for manipulating circuits while preserving fault equivalence. For this, the usual set of ZX rewrites has to be restricted to not only preserve the underlying linear map represented by the diagram, but also fault equivalence. In this work, we provide a set of ZX rewrites that are sound and complete for fault equivalence of Clifford ZX diagrams. This means that any equivalence that can be derived using the proposed rules is certain to be correct, and any correct equivalence can be derived using only these rules. For this, we utilise diagrammatic constructions called fault gadgets to reason about arbitrary, possibly correlated Pauli faults in ZX diagrams. Fault gadgets allow us to separate the diagram into a fault-free part, which captures the noise-free behaviour of a diagram, and a noisy part that enumerates the effects of all possible faults. Using this, we provide a unique normal form for ZX diagrams under noise and show that any diagram can be brought into this normal form using our proposed rule set.",
 )
 
 #absentry(
@@ -459,20 +459,20 @@ of the paper's arXiv version is given instead and labelled with its arXiv id.
 
 == Wednesday, August 19th
 
-#absband("Long plenary talks")
+#absband([Long plenary talks (merged)])
 
 #absentry(
   time: "9:30 – 10:15",
   title: "Completeness for flow-preserving rewrite rules",
-  authors: "Miriam Backens, Simon Perdrix / Miriam Backens",
-  body: "In the one-way model of measurement-based quantum computation (MBQC), computation proceeds via measurements on some standard resource state. So-called flow conditions ensure that the overall computation is deterministic in a suitable sense, with Pauli flow being the most general of these. Existing work on rewriting MBQC patterns while preserving the existence of flow has focused on rewrites that reduce the number of qubits. In this work, we show that introducing new Z-measured qubits, connected to any subset of the existing qubits, preserves the existence of Pauli flow. Furthermore, we give a unique canonical form for stabilizer ZX-diagrams inspired by recent work of Hu & Khesin. We prove that any MBQC-like stabilizer ZX-diagram with Pauli flow can be rewritten into this canonical form using only rules which preserve the existence of Pauli flow, and that each of these rules can be reversed while also preserving the existence of Pauli flow. Hence we have complete graphical rewriting for MBQC-like stabilizer ZX-diagrams with Pauli flow.",
-  source: "Abstract from the arXiv version, arXiv:2205.02009.",
+  authors: "Miriam Backens, Simon Perdrix",
+  body: "Complete sets of graphical rewrite rules enable fully graphical reasoning about quantum computations and have been an area of active research for more than a decade. Many recent applications of the ZX-calculus have made use of the close correspondence between ZX-diagrams and computations in the one-way model of measurement-based quantum computation. In this model, various kinds of flow properties ensure deterministic implementability; for ZX-diagrams, these same properties allow efficient translation into quantum circuits (a problem that is known to be #P-hard in general). Therefore, flow-preserving ZX-calculus rewrite rules are of strong interest.\n\nHere, we extend the set of flow-preserving rules appearing in the literature with a few new rules and extensions of existing rules. We then show that the resulting rule set is complete for all flow-preserving translations between ZX-diagrams of appropriate form. The proof employs a manifestly flow-preserving equivalent of circuit extraction, where a diagram with gflow is transformed, using only flow-preserving rewrite rules, into a diagram with causal flow.",
+  source: "Abstract from the arXiv version, arXiv:2608.13035.",
 )
 
 #absentry(
   time: "9:30 – 10:15",
   title: "Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation",
-  authors: "Miriam Backens, Simon Perdrix / Miriam Backens",
+  authors: "Miriam Backens",
   body: "The one-way model is a universal model of quantum computation, driven by successive adaptive single-qubit measurements on an entangled resource state. Measurements are non-deterministic, yet if the computation satisfies one of several related families of conditions known as 'flows', the computation can be made deterministic overall by modifying later measurements depending on the outcomes of earlier ones. Flow properties also enable efficient translation from one-way computations to circuits, motivating research into rewriting one-way computations while preserving the existence of flow. Existing approaches to flow-preserving rewriting are used for compilation or optimisation and preserve both the interpretation and the existence of flow. Here, we broaden our perspective to consider flow-preserving rewriting that does not necessarily preserve the interpretation, with applications to creating test instances for software that works with flow, as well as to generating ansätze for quantum machine learning. We show that a family of just three flow-preserving rewrite rules suffices to generate any diagram with flow from a trivial diagram with the desired number of inputs and outputs. This rule set is nearly the same as the complete set of flow- and interpretation-preserving rewrite rules for one-way computations in which all measurements are Pauli; and just a small subset of the flow- and interpretation-preserving rewrite rules for arbitrary measurements.",
   source: "Abstract from the arXiv version, arXiv:2607.03250.",
 )
