@@ -636,7 +636,7 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>11:55 – 12:20</td>
   <td>
     <span class="talk-authors">Marek Arsenault, Hlér Kristjánsson</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final171.pdf" target="_blank" rel="noopener">A higher-order perspective on quantum signal processing</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final171.pdf" target="_blank" rel="noopener">Linearised quantum signal processing</a></span>
   </td>
 </tr>
 <tr>
@@ -1308,12 +1308,15 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
       </p>
     </details>
     <details>
-      <summary><strong>11:55 - 12:20 </strong><a href="/assets/submissions/qpl2026-final171.pdf" target="_blank" rel="noopener">A higher-order perspective on quantum signal processing</a></summary>
+      <summary><strong>11:55 - 12:20 </strong><a href="/assets/submissions/qpl2026-final171.pdf" target="_blank" rel="noopener">Linearised quantum signal processing</a></summary>
       <p>
-        <strong>Abstract.</strong> TBA
+        <strong>Abstract.</strong> Quantum functional programming has been developed through two distinct paradigms in the last few years: Quantum Signal Processing (QSP)-based methods, including the Quantum Singular Value Transformation (QSVT), and methods based on higher-order quantum transformations, such as the Universal Hamiltonian Eigenvalue Transformation (UHET). While UHET performs functional transformations of Hamiltonian dynamics, its relationship to QSP-based techniques has remained unclear despite evident structural similarities. In this work, we resolve this gap by establishing a connection between UHET and QSP-based frameworks; specifically, we show that UHET can be interpreted as a (randomised) linearisation of Generalised QSP (GQSP). Building on this result, we introduce a linearised variant of (Hamiltonian-based) QSVT, which we call Universal Hamiltonian Singular Value Transformation (UHSVT), that enables the efficient transformation of the singular values of any arbitrary matrix A encoded in a block of a Hamiltonian, whose dynamics is accessible as a black box, by any sufficiently differentiable complex-valued function f. Our algorithm requires the sole condition that f vanishes at the origin, in contrast to previous QSVT-based approaches that assumed either a lower bound on the singular values of A or the ability to perform X-rotation gates on the induced two-dimensional 'qubitised' subspace.
       </p>
       <p>
         <strong>Coauthors.</strong> Marek Arsenault, Hlér Kristjánsson
+      </p>
+      <p>
+        <strong>Preprint.</strong> <a href="https://arxiv.org/abs/2608.14387" target="_blank" rel="noopener">arXiv:2608.14387</a>
       </p>
     </details>
   </details>

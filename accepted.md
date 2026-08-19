@@ -178,14 +178,6 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
       </td>
     </tr>
     <tr>
-      <td style="vertical-align: top; padding: 8px;">Marek Arsenault<br>Hlér Kristjánsson</td>
-      <td style="vertical-align: top; padding: 8px;">
-        <a href="/assets/submissions/qpl2026-final171.pdf" target="_blank" rel="noopener">
-          A higher-order perspective on quantum signal processing
-        </a>
-      </td>
-    </tr>
-    <tr>
       <td style="vertical-align: top; padding: 8px;">Timothée Hoffreumon<br>Mischa P. Woods</td>
       <td style="vertical-align: top; padding: 8px;">
         <a href="/assets/submissions/non-final/qpl2026-paper23.pdf" target="_blank" rel="noopener">
@@ -526,6 +518,14 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
       <td style="vertical-align: top; padding: 8px;">
         <a href="/assets/submissions/non-final/qpl2026-paper191.pdf" target="_blank" rel="noopener">
           Linear Algebra of Generalized Contextuality in Prepare-Transform-Measure Scenarios
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; padding: 8px;">Marek Arsenault<br>Hlér Kristjánsson</td>
+      <td style="vertical-align: top; padding: 8px;">
+        <a href="/assets/submissions/qpl2026-final171.pdf" target="_blank" rel="noopener">
+          Linearised quantum signal processing
         </a>
       </td>
     </tr>

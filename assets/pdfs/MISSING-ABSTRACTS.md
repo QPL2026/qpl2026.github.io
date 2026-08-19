@@ -3,8 +3,8 @@
 94 scheduled talks.
 
 - from submitted paper: **42**
-- from arXiv: **42**
-- supplied by the authors: **10**
+- from arXiv: **43**
+- supplied by the authors: **9**
 - still missing: **0**
 
 ## Still missing
@@ -26,9 +26,6 @@ Abstract provided directly rather than extracted from a paper or arXiv.
 - **Tuesday 16:40 – 17:05 · Parallel C** — Probing the composition of processes with first-order-ISOMIX logic
   - authors: Raphaël Le Bihan, Alastair Abbott, Mnacho Echenim
   - `qpl2026-paper158.pdf`
-- **Tuesday 11:55 – 12:20 · Short plenary talks** — A higher-order perspective on quantum signal processing
-  - authors: Marek Arsenault, Hlér Kristjánsson
-  - `qpl2026-final171.pdf`
 - **Thursday 14:55 – 15:20 · Parallel C** — Spurious quantum correlations
   - authors: Shashaank Khanna, Matthew Pusey, Roger Colbeck
   - `qpl2026-paper59.pdf`

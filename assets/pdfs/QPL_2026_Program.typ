@@ -297,7 +297,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
   ),
   timec[11:55 -- 12:20], talkcell(
     [Marek Arsenault, Hlér Kristjánsson],
-    [A higher-order perspective on quantum signal processing]
+    [Linearised quantum signal processing]
   ),
   table.cell(colspan: 2, fill: c-break, align: center)[Lunch break],
 )
