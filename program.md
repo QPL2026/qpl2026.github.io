@@ -1107,7 +1107,7 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
 </tr>
 <tr>
   <td>11:30 – 12:20</td>
-  <td><strong>Business meeting</strong></td>
+  <td><strong>Business meeting</strong><span class="room">Room A0.01</span></td>
 </tr>
 <tr>
   <td class="break-row" colspan="2">Lunch break</td>
