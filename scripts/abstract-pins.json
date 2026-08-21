@@ -30,5 +30,13 @@
  {
   "pdf": "/assets/submissions/non-final/qpl2026-paper168.pdf",
   "reason": "abstract supplied by the authors; the submission carries none"
+ },
+ {
+  "pdf": "/assets/submissions/qpl2026-final57.pdf",
+  "reason": "maths respelled at the author's request; the extracted text lost the accents and superscripts"
+ },
+ {
+  "pdf": "/assets/submissions/qpl2026-final156.pdf",
+  "reason": "maths respelled at a reader's request; the extracted text lost the superscripts and a word space"
  }
 ]

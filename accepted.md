@@ -922,6 +922,10 @@ board number, which is shown on the board itself — see the
       <td style="vertical-align: top; padding: 8px;">Linear Program Witness for Network Nonlocality in Arbitrary Networks</td>
     </tr>
     <tr>
+      <td style="vertical-align: top; padding: 8px;">Harry Stoltz</td>
+      <td style="vertical-align: top; padding: 8px;">Minimality of the Stabilizer ZX Calculus</td>
+    </tr>
+    <tr>
       <td style="vertical-align: top; padding: 8px;">Seyed Arash Ghoreishi<br>Nidhin Sudarsanan Ragini<br>Mario Ziman<br>Sk Sazim</td>
       <td style="vertical-align: top; padding: 8px;">Multiple-shot labeling of quantum observables</td>
     </tr>
@@ -1020,10 +1024,6 @@ board number, which is shown on the board itself — see the
     <tr>
       <td style="vertical-align: top; padding: 8px;">Dongho Lee</td>
       <td style="vertical-align: top; padding: 8px;">Spectral Semialgebraic Semantics for Approximate Quantum Computation</td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 8px;">Harry Stoltz</td>
-      <td style="vertical-align: top; padding: 8px;">Time-Independent Perturbation Theory in the ZXW Calculus</td>
     </tr>
     <tr>
       <td style="vertical-align: top; padding: 8px;">Julien Lamiroy</td>

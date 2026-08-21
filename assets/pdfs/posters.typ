@@ -420,9 +420,9 @@ For correlations, we characterise the polytope of \"partially bicausal correlati
 
 #posterentry(
   board: "Board 50",
-  title: "Time-Independent Perturbation Theory in the ZXW Calculus",
+  title: "Minimality of the Stabilizer ZX Calculus",
   authors: "Harry Stoltz",
-  body: "We formulate non-degenerate time-independent perturbation theory in the ZXW calculus for the first time. Using the controlled sum and Hamiltonian representation techniques of Shaikh, Wang, and Yeung, we assemble the spectral ingredients, including projectors, matrix elements, and energy denominators, in a diagrammatic formulation. The central construction is the reduced resolvent, a ZXW diagram that acts as a propagator connecting perturbation insertions in correction formulas. We derive first, second, and third-order corrections via diagrammatic rewrites and verify their central properties. The third-order energy reveals a bubble topology (R_n^2 consecutive resolvents) alongside the expected chain, prefiguring the diagrammatic complexity of higher orders. Structural results such as the orthogonality of corrections and the non-positivity of the second-order ground-state energy shift are exposed by projector identities, denominator branch weights, and dagger-paired perturbation amplitudes in ZXW. We verify the formulation with concrete qubit examples, carrying out perturbation theory entirely via diagrammatic rewrites. To our knowledge, this is the first treatment of a quantum-mechanical approximation method in the ZX-calculus framework.",
+  body: "The stabilizer fragment of the ZX calculus is amongst the most important fragments of the theory. Crucially, the stabilizer calculus can be described by a small collection of rewrites, most of which have been shown to be necessary by Backens-Perdrix-Wang. However, two rules, describing the red/green compact-structure coincidence and the important bialgebra law, had not been shown to be necessary. We present a countermodel-style argument showing that both of these rules are individually necessary relative to the connectivity meta-rule, and hence establish that the rule set has no redundant rewrite rule.",
 )
 
 #posterentry(

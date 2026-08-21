@@ -20,7 +20,12 @@
 // Typst maths once the TeX spellings below have been substituted. A span that
 // uses anything else fails the compile instead of setting the wrong thing, so
 // opt an abstract in only after reading how its maths comes out.
-#let tex-spellings = (("\\leq", " <= "), ("\\geq", " >= "))
+#let tex-spellings = (("\\leq", " <= "), ("\\geq", " >= "),
+                      ("\\tilde", "tilde"),
+                      // TeX groups with braces and always means a literal
+                      // slash by "/"; Typst groups with parentheses and
+                      // would build a fraction from the slash.
+                      ("{", "("), ("}", ")"), ("/", " slash "))
 
 #let texmath(s) = {
   let parts = s.split("$")
@@ -225,7 +230,8 @@ of the paper's arXiv version is given instead and labelled with its arXiv id.
   time: "16:15 – 16:40 · Parallel C",
   title: "Efficient classical simulation of low-rank-width quantum circuits using ZX-calculus",
   authors: "Fedor Kuyanov, Aleks Kissinger",
-  body: "In this paper, we introduce an algorithm for contracting (i.e. numerically evaluating) ZX-diagrams whose computational complexity is governed by rank-width, a structural graph parameter that behaves nicely under ZX rewrite rules. Our method evaluates a graph-like ZX-diagram in ˜O(4R) time, given its rank-decomposition of width R. By constructing suitable rank-decompositions, we provide a classical simulation algorithm for quantum circuits whose runtime is bounded by both ˜O(2n) and ˜O(2t/2), where n is the number of qubits and t is the number of non-Clifford phase gates. Thus, our method is no slower than either the na¨ıve state-vector simulation or the elementary stabiliser decomposition baseline, and in practice can be even faster when the reduced ZX-diagram has low rank-width. We benchmark our simulation algorithm against Quimb, a popular tensor contraction library, and observe substantial reductions in floating-point operations, often by several orders of magnitude, for random and structured non-Clifford circuits and for random ZX-diagrams.",
+  body: "In this paper, we introduce an algorithm for contracting (i.e. numerically evaluating) ZX-diagrams whose computational complexity is governed by rank-width, a structural graph parameter that behaves nicely under ZX rewrite rules. Our method evaluates a graph-like ZX-diagram in $\\tilde{O}(4^R)$ time, given its rank-decomposition of width $R$. By constructing suitable rank-decompositions, we provide a classical simulation algorithm for quantum circuits whose runtime is bounded by both $\\tilde{O}(2^n)$ and $\\tilde{O}(2^{t/2})$, where $n$ is the number of qubits and $t$ is the number of non-Clifford phase gates. Thus, our method is no slower than either the naïve state-vector simulation or the elementary stabiliser decomposition baseline, and in practice can be even faster when the reduced ZX-diagram has low rank-width. We benchmark our simulation algorithm against Quimb, a popular tensor contraction library, and observe substantial reductions in floating-point operations, often by several orders of magnitude, for random and structured non-Clifford circuits and for random ZX-diagrams.",
+  tex: true,
 )
 
 #absentry(
@@ -522,7 +528,8 @@ of the paper's arXiv version is given instead and labelled with its arXiv id.
   time: "14:55 – 15:20 · Parallel B",
   title: "Working with measurement-based computations on qudits",
   authors: "Piotr Mitosek, Miriam Backens",
-  body: "Measurement-based quantum computing is a universal model of quantum computation in which successive product measurements of an entangled resource state drive the computation. The nondeterministic nature of measurements necessitates adaptivity to ensure an overall deterministic computation. Flow structures characterise cases in which such an adaptive correction procedure is possible. Recently, flow has been defined in a setting where the resource states are prime-dimensional qudit graph states rather than the usual qubit graph states. Yet, this qudit flow definition is more burdensome to work with than analogous definitions for qubits. Here, we give a simpler definition of qudit flow and consider various useful properties of this flow, drawing on results for the qubit case. In particular, we show how to focus qudit flow and argue that focused flow is canonical. We improve the previous algebraic formulation to capture focused flow and use it to obtain an O(𝑛3) flow-finding algorithm (where 𝑛is the number of qudits), matching the best known complexity for qubit flows and improving on the previous O(𝑛4) result for qudits. Furthermore, we explore multiple flow-preserving transformations, thus opening a pathway to using flow for optimisation. These transformations include pivoting, removal and insertion of certain types of vertices, and reversibility of flow. Lastly, we propose an algorithmic approach to generating large qudit computations with flow, for testing or machine learning.",
+  body: "Measurement-based quantum computing is a universal model of quantum computation in which successive product measurements of an entangled resource state drive the computation. The nondeterministic nature of measurements necessitates adaptivity to ensure an overall deterministic computation. Flow structures characterise cases in which such an adaptive correction procedure is possible. Recently, flow has been defined in a setting where the resource states are prime-dimensional qudit graph states rather than the usual qubit graph states. Yet, this qudit flow definition is more burdensome to work with than analogous definitions for qubits. Here, we give a simpler definition of qudit flow and consider various useful properties of this flow, drawing on results for the qubit case. In particular, we show how to focus qudit flow and argue that focused flow is canonical. We improve the previous algebraic formulation to capture focused flow and use it to obtain an $O(n^3)$ flow-finding algorithm (where $n$ is the number of qudits), matching the best known complexity for qubit flows and improving on the previous $O(n^4)$ result for qudits. Furthermore, we explore multiple flow-preserving transformations, thus opening a pathway to using flow for optimisation. These transformations include pivoting, removal and insertion of certain types of vertices, and reversibility of flow. Lastly, we propose an algorithmic approach to generating large qudit computations with flow, for testing or machine learning.",
+  tex: true,
 )
 
 #absentry(
