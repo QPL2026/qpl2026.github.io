@@ -20,11 +20,32 @@ permalink: /accepted/
     overflow-wrap: break-word;
     word-break: break-word;
   }
+
+  /* Best Student Paper award: highlight the winning row and add a badge. */
+  .accepted-table tr.best-student-paper td {
+    background: rgba(5, 191, 133, 0.10);
+    border-left: 4px solid #05bf85;
+  }
+
+  .award-badge {
+    display: inline-block;
+    margin-top: 6px;
+    padding: 2px 10px;
+    border-radius: 999px;
+    background: #05bf85;
+    color: #fff;
+    font-size: 0.8em;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+  }
 </style>
 
 Below you can find everything being presented at QPL 2026 — the accepted talks, from both the proceedings and the non-proceedings track, and the accepted posters.
 
 ## Proceedings
+
+🏆 **Best Student Paper:** *A Complete Equational Theory for Quantum Circuits with Generalized Control* by William Schober and Scott Wesley. Congratulations!
 
 <table class="accepted-table">
   <colgroup>
@@ -38,12 +59,14 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr class="best-student-paper">
       <td style="vertical-align: top; padding: 8px;">William Schober<br>Scott Wesley</td>
       <td style="vertical-align: top; padding: 8px;">
         <a href="/assets/submissions/qpl2026-final163.pdf" target="_blank" rel="noopener">
           A Complete Equational Theory for Quantum Circuits with Generalized Control
         </a>
+        <br>
+        <span class="award-badge">🏆 Best Student Paper</span>
       </td>
     </tr>
     <tr>
