@@ -12,3 +12,9 @@
 .header .nav a {
   font-size: 1rem;
 }
+
+/* Video recording links beside talk titles */
+.video-link::after {
+  content: "🎥";
+  margin-left: 5px;
+}
