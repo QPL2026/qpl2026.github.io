@@ -1,13 +1,14 @@
-/* Video recording links beside talk titles */
-.talk-title a.video-link {
-  margin-left: 5px;
-  text-decoration: none !important;
-  background: none !important;
-  border: none !important;
+.nav {
+  text-align: left;
 }
 
-.talk-title a.video-link::before,
-.talk-title a.video-link::after {
-  content: none !important;
-  display: none !important;
+/* Widen the left/right page margins a little by narrowing the content area */
+.container {
+  width: 86%;
+  max-width: 1100px;
+}
+
+/* Match the header navigation tab text to the "Go to today's talks" button (1rem) */
+.header .nav a {
+  font-size: 1rem;
 }
