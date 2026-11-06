@@ -65,6 +65,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final163.pdf" target="_blank" rel="noopener">
           A Complete Equational Theory for Quantum Circuits with Generalized Control
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2508f25f-e978-47ab-b38c-b48a00d9072e&amp;start=3260.964395" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
         <br>
         <span class="award-badge">🏆 Best Student Paper</span>
       </td>
@@ -75,6 +76,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final174.pdf" target="_blank" rel="noopener">
           Buildings for Synthesis with Clifford+R
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1b2e9472-16b8-4bd1-92e9-b48a00d20d0b&amp;start=4597.719447" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -83,6 +85,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final188.pdf" target="_blank" rel="noopener">
           Classical Clifford+T sampling without computing marginals
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1eb03adb-0a9b-44b1-8eca-b48f008e0342&amp;start=3194.54487" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -91,6 +94,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-paper109.pdf" target="_blank" rel="noopener">
           Completeness for Prime-Dimensional Phase-Affine Circuits
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4e8483a8-909d-4dfe-8404-b48f008d032e&amp;start=3346.304943" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -99,6 +103,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final57.pdf" target="_blank" rel="noopener">
           Efficient Classical Simulation of Low-Rank-Width Quantum Circuits Using ZX-Calculus
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1eb03adb-0a9b-44b1-8eca-b48f008e0342&amp;start=24.134215" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -107,6 +112,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper119.pdf" target="_blank" rel="noopener">
           Essential Unitarity for Higher-Order Quantum Computation
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5ec35688-2e4f-4dde-99f6-b48a00c2f2fa&amp;start=3250.769" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -115,6 +121,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final83.pdf" target="_blank" rel="noopener">
           Generalized Inverses of Quantum Channels: a categorical perspective
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6869e087-0357-4014-826a-b48a00b28050&amp;start=43.080239" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -123,6 +130,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final138.pdf" target="_blank" rel="noopener">
           Multi-qubit controlled gate with optimal T-count
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1b2e9472-16b8-4bd1-92e9-b48a00d20d0b&amp;start=1713.521582" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -131,6 +139,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final89.pdf" target="_blank" rel="noopener">
           Pauli Gadget Synthesis for Gatesets with Arbitrary Even-Arity Clifford Gates
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1b2e9472-16b8-4bd1-92e9-b48a00d20d0b&amp;start=0.721964" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -139,6 +148,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final134.pdf" target="_blank" rel="noopener">
           Quantum theory over dual-complex numbers
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=014f4be7-4251-4df1-876f-b48f0099fab8&amp;start=53.927591" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -147,6 +157,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper32.pdf" target="_blank" rel="noopener">
           Restricted Negation in Orthomodular Logic
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e94882eb-e3ee-4bc9-b974-b48a00b0b002&amp;start=33.301563" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -155,6 +166,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final156.pdf" target="_blank" rel="noopener">
           Working with measurement-based computations on qudits
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=126d2288-ac84-440c-b601-b48a00c3b86a&amp;start=1700.483" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -163,6 +175,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final147.pdf" target="_blank" rel="noopener">
           ZX-Flow: A Flexible Criterion for Deterministic Computation with ZX-Diagrams
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=126d2288-ac84-440c-b601-b48a00c3b86a&amp;start=3220.482999" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
   </tbody>
@@ -190,6 +203,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper27.pdf" target="_blank" rel="noopener">
           A Complete and Natural Rule Set for Multi-Qudit Clifford Circuits in All Odd Prime Dimensions
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4e8483a8-909d-4dfe-8404-b48f008d032e&amp;start=1707.396465" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -198,6 +212,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final18.pdf" target="_blank" rel="noopener">
           A Complete Equational Theory for Real-Clifford+CH Quantum Circuits
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4e8483a8-909d-4dfe-8404-b48f008d032e&amp;start=151.873277" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -206,6 +221,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper23.pdf" target="_blank" rel="noopener">
           A real matrix theory consistent with both the postulates and predictions of quantum theory
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d48fd3f-e5d9-4224-bf96-b48a00afb9df&amp;start=1967.778717" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -214,6 +230,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final181.pdf" target="_blank" rel="noopener">
           A resource-efficient quantum-walker Quantum RAM
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f3a548c6-b853-4f8b-9d83-b48a00d9cec1&amp;start=2168.481421" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -222,6 +239,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper187.pdf" target="_blank" rel="noopener">
           A Three-Way Normal Form for Stabiliser Codes across ZX Diagrams, Circuits, and Tableaus
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dcc6f13c-73aa-46c9-a4e0-b48a00c71383&amp;start=1563.656377" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -230,6 +248,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper162.pdf" target="_blank" rel="noopener">
           A unified framework for Bell inequalities from continuous-variable contextuality
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b097b3b3-af9c-45ec-b217-b48f009d08b5&amp;start=3134.876904" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -238,6 +257,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper15.pdf" target="_blank" rel="noopener">
           Agent policies from higher-order causal functions
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=64b16c0e-3cbe-4ff2-912d-b48f0098302d&amp;start=1.551854" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -254,6 +274,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final64.pdf" target="_blank" rel="noopener">
           Algebraic techniques for photonic state preparation and characterization
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=04815b0f-3553-4cef-8f19-b49c009af8e8&amp;start=4722.663543" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -262,6 +283,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper211.pdf" target="_blank" rel="noopener">
           Asymptotically Optimal Quantum Circuits for Comparators and Incrementers
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f3a548c6-b853-4f8b-9d83-b48a00d9cec1&amp;start=106.573412" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -270,6 +292,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final76.pdf" target="_blank" rel="noopener">
           Basis-independent stabilizerness and maximally noisy magic states
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=04815b0f-3553-4cef-8f19-b49c009af8e8&amp;start=1530.666809" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -278,6 +301,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper98.pdf" target="_blank" rel="noopener">
           Beyond Penrose tensor diagrams with the ZX calculus: Applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8fcf7671-33b7-47ca-bdc4-b48a00c198a8&amp;start=3060.779999" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -286,6 +310,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper175.pdf" target="_blank" rel="noopener">
           Beyond Wigner - How Non-Invertible Symmetries Preserve Probabilities
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b6520e3b-91ab-420f-9e54-b48a00c558d9" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -294,6 +319,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper157.pdf" target="_blank" rel="noopener">
           Bounding Classical and Quantum Correlations in Bayesian Networks with Quasiprobabilities
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=879c5bf3-2dc5-4c0d-b589-b48f009e5fb7&amp;start=1660.886403" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -302,6 +328,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper168.pdf" target="_blank" rel="noopener">
           Causal Inequalities witness non-stabilizerness without magic
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5ec35688-2e4f-4dde-99f6-b48a00c2f2fa&amp;start=74.454729" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -310,6 +337,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper182.pdf" target="_blank" rel="noopener">
           Classical explanations in (and of) general probabilistic theories
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=014f4be7-4251-4df1-876f-b48f0099fab8&amp;start=3240.836" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -318,6 +346,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final77.pdf" target="_blank" rel="noopener">
           Classical simulation of circuits with realistic odd-dimensional Gottesman-Kitaev-Preskill states
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=04815b0f-3553-4cef-8f19-b49c009af8e8&amp;start=3064.958985" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -334,6 +363,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final132.pdf" target="_blank" rel="noopener">
           Completeness for flow-preserving rewrite rules
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8fcf7671-33b7-47ca-bdc4-b48a00c198a8&amp;start=242.311651" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -342,6 +372,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper25.pdf" target="_blank" rel="noopener">
           Composable simultaneous purification: when all communication scenarios reduce to spatial correlations
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0ab7cf68-f066-45d7-a199-b48a00d335d8&amp;start=2460.494978" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -350,6 +381,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper178.pdf" target="_blank" rel="noopener">
           Denotational semantics for stabiliser quantum programs
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=01252c1b-19ee-4152-870b-b48a00c7d058&amp;start=23.115726" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -358,6 +390,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final71.pdf" target="_blank" rel="noopener">
           Deriving the Generalised Born Rule from First Principles
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=608a4733-5151-4fc1-beee-b48a00b6b172&amp;start=1800.866" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -366,6 +399,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper144.pdf" target="_blank" rel="noopener">
           Device Independent Quantum Key Distribution with a Single Measurement per Site
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=879c5bf3-2dc5-4c0d-b589-b48f009e5fb7&amp;start=120.269753" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -374,6 +408,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final3.pdf" target="_blank" rel="noopener">
           Diagrammatic Reasoning with Control as a Constructor, Applications to Quantum Circuits
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2508f25f-e978-47ab-b38c-b48a00d9072e&amp;start=59.853003" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -382,6 +417,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper136.pdf" target="_blank" rel="noopener">
           Efficient quantum-circuit simulation of classical control of causal order
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=61ee2e42-fd86-4b4a-8d05-b4a90086ea7f&amp;start=567.633864" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -390,6 +426,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final69.pdf" target="_blank" rel="noopener">
           Emergent causal order and time direction: bridging causal models and tensor networks
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=55f9342b-1231-45bd-9c57-b48a00b1b394&amp;start=3080.31001" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -398,6 +435,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper81.pdf" target="_blank" rel="noopener">
           Entanglement in the Dicke Subspace
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=14b5e266-0beb-44f8-abad-b48a00ce2c12&amp;start=42.741993" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -406,6 +444,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final75.pdf" target="_blank" rel="noopener">
           Equivalence of continuous- and discrete-variable gate-based quantum computers with finite energy
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=61ee2e42-fd86-4b4a-8d05-b4a90086ea7f" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -414,6 +453,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper48.pdf" target="_blank" rel="noopener">
           Events and their Localisation are Relative to a Lab
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=64b16c0e-3cbe-4ff2-912d-b48f0098302d&amp;start=1620.826" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -430,6 +470,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper96.pdf" target="_blank" rel="noopener">
           Fault Tolerance by Construction
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ede6070e-2bd5-4ca3-9131-b48a00b318c4&amp;start=40.285992" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -438,6 +479,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper104.pdf" target="_blank" rel="noopener">
           From Fermions to Qubits: A ZX-Calculus Perspective
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dcc6f13c-73aa-46c9-a4e0-b48a00c71383" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -446,6 +488,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper207.pdf" target="_blank" rel="noopener">
           Full nonlocality for non-maximally entangled states
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b097b3b3-af9c-45ec-b217-b48f009d08b5&amp;start=4640.759" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -462,6 +505,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper95.pdf" target="_blank" rel="noopener">
           Graphical Algebraic Geometry: From Ideals and Varieties to Qudit ZH Completeness
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=21627e40-ee0c-4dd5-a04b-b48a00aed646&amp;start=1954.520656" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -470,6 +514,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper177.pdf" target="_blank" rel="noopener">
           Higher-order quantum computing with known input states
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b6520e3b-91ab-420f-9e54-b48a00c558d9&amp;start=1706.841836" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -478,6 +523,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper52.pdf" target="_blank" rel="noopener">
           Higher-order transformations of bidirectional quantum processes
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=55f9342b-1231-45bd-9c57-b48a00b1b394&amp;start=1571.638329" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -486,6 +532,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper42.pdf" target="_blank" rel="noopener">
           Holographic codes seen through ZX-calculus
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0725a5cb-ea20-4a07-8ebe-b48a00b4cb94&amp;start=1830.834999" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -494,6 +541,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper142.pdf" target="_blank" rel="noopener">
           How many systems can be dephased before the quantum switch becomes causally definite?
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=10fb60dd-cd26-407e-8d9a-b48f0098ee09&amp;start=3054.837429" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -502,6 +550,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final9.pdf" target="_blank" rel="noopener">
           How typical is contextuality?
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=21627e40-ee0c-4dd5-a04b-b48a00aed646&amp;start=340.981866" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -510,6 +559,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper59.pdf" target="_blank" rel="noopener">
           Spurious quantum correlations
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b097b3b3-af9c-45ec-b217-b48f009d08b5&amp;start=1524.569832" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -518,6 +568,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper36.pdf" target="_blank" rel="noopener">
           Impossibility of superluminal signalling rules out causal loops in conical spacetimes
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=57a11be0-77f4-404d-963e-b48f009b8097&amp;start=1471.483561" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -526,6 +577,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final33.pdf" target="_blank" rel="noopener">
           Insights in Graph State Entanglement via r-Local Complementation: Structure and a Quasi-Polynomial Algorithm
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=126d2288-ac84-440c-b601-b48a00c3b86a&amp;start=115.983871" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -534,6 +586,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final63.pdf" target="_blank" rel="noopener">
           Invariance under quantum permutations rules out parastatistics
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dcc01cab-33e7-41f4-bb05-b48a00b3b0b5&amp;start=182.659922" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -542,6 +595,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper191.pdf" target="_blank" rel="noopener">
           Linear Algebra of Generalized Contextuality in Prepare-Transform-Measure Scenarios
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e783e3e8-d071-45da-81c9-b48a00b78a1e&amp;start=1572.254429" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -550,6 +604,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final171.pdf" target="_blank" rel="noopener">
           Linearised quantum signal processing
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dcc01cab-33e7-41f4-bb05-b48a00b3b0b5&amp;start=1800.822999" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -558,6 +613,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final41.pdf" target="_blank" rel="noopener">
           Logic Meets Wigner’s Friend (and their Friends)
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e4b11212-154f-46ca-9012-b48a00b5bbba&amp;start=1566.172893" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -566,6 +622,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final112.pdf" target="_blank" rel="noopener">
           Meromorphic Quantum Computing
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d1d42820-51ee-41a3-843d-b48a00d703bb&amp;start=85.74971" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -574,6 +631,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final115.pdf" target="_blank" rel="noopener">
           Noncontextuality inequalities for prepare-transform-measure scenarios
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e783e3e8-d071-45da-81c9-b48a00b78a1e&amp;start=3090.44" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -582,6 +640,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper80.pdf" target="_blank" rel="noopener">
           Nuclearity and Trace in Monoidal Bicategories with Application to Extended CFTs
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6869e087-0357-4014-826a-b48a00b28050&amp;start=3506.001761" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -590,6 +649,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper22.pdf" target="_blank" rel="noopener">
           On the experimental falsification of Real Quantum Theory
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d48fd3f-e5d9-4224-bf96-b48a00afb9df&amp;start=1966.370406" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -598,6 +658,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final1.pdf" target="_blank" rel="noopener">
           On whether quantum theory needs complex numbers: the foil theories perspective
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d48fd3f-e5d9-4224-bf96-b48a00afb9df&amp;start=155.362388" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -606,6 +667,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final10.pdf" target="_blank" rel="noopener">
           One rig to control them all
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2508f25f-e978-47ab-b38c-b48a00d9072e&amp;start=1514.883814" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -614,6 +676,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper137.pdf" target="_blank" rel="noopener">
           Operator Spaces, Linear Logic and the Heisenberg-Schrödinger Duality of Quantum Theory
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e94882eb-e3ee-4bc9-b974-b48a00b0b002&amp;start=3194.033002" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -622,6 +685,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final202.pdf" target="_blank" rel="noopener">
           Parity erasure: a foundational principle for indefinite causal order
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=64b16c0e-3cbe-4ff2-912d-b48f0098302d&amp;start=3244.50647" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -630,6 +694,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper190.pdf" target="_blank" rel="noopener">
           Phantom codes: Entangling logical qubits without physical operations
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d1d42820-51ee-41a3-843d-b48a00d703bb&amp;start=3170.636316" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -638,6 +703,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper158.pdf" target="_blank" rel="noopener">
           Probing the composition of processes with first-order-ISOMIX logic
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=10fb60dd-cd26-407e-8d9a-b48f0098ee09&amp;start=1555.001669" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -646,6 +712,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper24.pdf" target="_blank" rel="noopener">
           Quantifying Quantum Measurement Incompatibility via Graph Invariants
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c6649fe4-7b19-421e-8419-b48f009d9bf2&amp;start=3064.704767" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -654,6 +721,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper93.pdf" target="_blank" rel="noopener">
           Quantum Coherence Spaces Revisited: A von Neumann (Co)Algebraic Approach
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0ab7cf68-f066-45d7-a199-b48a00d335d8&amp;start=13.381732" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -662,6 +730,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final85.pdf" target="_blank" rel="noopener">
           Quantum Control and General Recursion beyond the Unitary Case
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=01252c1b-19ee-4152-870b-b48a00c7d058&amp;start=2859.525296" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -670,6 +739,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper122.pdf" target="_blank" rel="noopener">
           Quantum statistical functions
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=04815b0f-3553-4cef-8f19-b49c009af8e8&amp;start=56.127011" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -678,6 +748,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper79.pdf" target="_blank" rel="noopener">
           Quantum Theory Can Decohere from a Causally-Indefinite Post-Quantum Theory
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=608a4733-5151-4fc1-beee-b48a00b6b172&amp;start=3420.866" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -686,6 +757,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper103.pdf" target="_blank" rel="noopener">
           Reference frames for process matrices: from coordinate parametrization to spacetime representation
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=10fb60dd-cd26-407e-8d9a-b48f0098ee09&amp;start=43.229862" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -694,6 +766,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final11.pdf" target="_blank" rel="noopener">
           Shadows and subsystems of generalised probabilistic theories: when tomographic incompleteness is not a loophole for contextuality proofs
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c6649fe4-7b19-421e-8419-b48f009d9bf2&amp;start=0.314746" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -702,6 +775,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper204.pdf" target="_blank" rel="noopener">
           Sheaf-Theoretic Preparation Contextuality via Stochastic Extension
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e783e3e8-d071-45da-81c9-b48a00b78a1e&amp;start=1.99989" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -710,6 +784,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper39.pdf" target="_blank" rel="noopener">
           Simulating magic state cultivation with few Clifford terms
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1eb03adb-0a9b-44b1-8eca-b48f008e0342&amp;start=1660.550302" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -718,6 +793,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper54.pdf" target="_blank" rel="noopener">
           SpiderCat: Optimal Fault-Tolerant Cat State Preparation
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0725a5cb-ea20-4a07-8ebe-b48a00b4cb94&amp;start=2.222207" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -734,6 +810,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper94.pdf" target="_blank" rel="noopener">
           Subsystems as subsets of quantum channels, and the strange case of blind agents
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=014f4be7-4251-4df1-876f-b48f0099fab8&amp;start=1564.967446" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -742,6 +819,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper35.pdf" target="_blank" rel="noopener">
           Superluminal Transformations and Indeterminism
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=57a11be0-77f4-404d-963e-b48f009b8097&amp;start=20" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -750,6 +828,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper73.pdf" target="_blank" rel="noopener">
           Supermaps on generalised theories
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5ec35688-2e4f-4dde-99f6-b48a00c2f2fa&amp;start=1550.769" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -758,6 +837,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper53.pdf" target="_blank" rel="noopener">
           No extension of the Quantum Tensor Product admits a superposition principle
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=608a4733-5151-4fc1-beee-b48a00b6b172&amp;start=1.365999" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -766,6 +846,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper47.pdf" target="_blank" rel="noopener">
           Tensor and gadget reinforcement learning for improved, hardware-aware quantum architecture search
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1b2e9472-16b8-4bd1-92e9-b48a00d20d0b&amp;start=2945.123952" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -782,6 +863,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final12.pdf" target="_blank" rel="noopener">
           The contextual Heisenberg microscope
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c6649fe4-7b19-421e-8419-b48f009d9bf2&amp;start=1577.715566" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -790,6 +872,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper179.pdf" target="_blank" rel="noopener">
           The delayed stabiliser ZX-calculus
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0725a5cb-ea20-4a07-8ebe-b48a00b4cb94&amp;start=3540.835" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -798,6 +881,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final159.pdf" target="_blank" rel="noopener">
           The geometry of fiber products of probability polytopes
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e4b11212-154f-46ca-9012-b48a00b5bbba&amp;start=3550.471" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -806,6 +890,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper74.pdf" target="_blank" rel="noopener">
           The perturbative method for quantum correlations.
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=23697bb5-d0f3-49c8-8ab4-b48a00dcd18a&amp;start=23.994268" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -814,6 +899,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final7.pdf" target="_blank" rel="noopener">
           The resource theory of causal influence and knowledge of causal influence
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=55f9342b-1231-45bd-9c57-b48a00b1b394&amp;start=157.466615" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -830,6 +916,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final34.pdf" target="_blank" rel="noopener">
           Three-qubit nonlocality paradoxes: beyond GHZ
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b097b3b3-af9c-45ec-b217-b48f009d08b5&amp;start=64.68952" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -838,6 +925,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/qpl2026-final114.pdf" target="_blank" rel="noopener">
           Tomographically-Nonlocal Entanglement
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e4b11212-154f-46ca-9012-b48a00b5bbba&amp;start=35.873241" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
     <tr>
@@ -846,6 +934,7 @@ Below you can find everything being presented at QPL 2026 — the accepted talks
         <a href="/assets/submissions/non-final/qpl2026-paper123.pdf" target="_blank" rel="noopener">
           Transversal AND in Quantum Codes
         </a>
+        <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d1d42820-51ee-41a3-843d-b48a00d703bb&amp;start=1704.804685" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
       </td>
     </tr>
   </tbody>
