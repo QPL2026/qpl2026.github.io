@@ -433,7 +433,7 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>10:15 – 11:00</td>
   <td>
     <span class="talk-authors">Raphaël Mothe, Jessica Bavaresco</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper136.pdf" target="_blank" rel="noopener">Efficient quantum-circuit simulation of classical control of causal order</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper136.pdf" target="_blank" rel="noopener">Efficient quantum-circuit simulation of classical control of causal order</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=61ee2e42-fd86-4b4a-8d05-b4a90086ea7f" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
