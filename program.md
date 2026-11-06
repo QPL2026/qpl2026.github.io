@@ -644,14 +644,19 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>9:30 – 10:15</td>
   <td>
     <span class="talk-authors">Benjamin Rodatz, Boldizsár Poór, Aleks Kissinger / Maximilian Rüsch, Aleks Kissinger, Benjamin Rodatz</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper96.pdf" target="_blank" rel="noopener">Fault tolerance by construction</a> / <a href="/assets/submissions/non-final/qpl2026-paper56.pdf" target="_blank" rel="noopener">Completeness for fault equivalence of Clifford ZX diagrams</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper96.pdf" target="_blank" rel="noopener">Fault tolerance by construction</a>
+      <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ede6070e-2bd5-4ca3-9131-b48a00b318c4&start=40.285992" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>/ <a href="/assets/submissions/non-final/qpl2026-paper56.pdf" target="_blank" rel="noopener">Completeness for fault equivalence of Clifford ZX diagrams</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ede6070e-2bd5-4ca3-9131-b48a00b318c4&start=1491.586393" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
 </tr>
 <tr>
   <td>10:15 – 11:00</td>
   <td>
     <span class="talk-authors">Samson Abramsky, Rui Soares Barbosa, Carmen Constantin, Martti Karvonen</span>
-    <span class="talk-title"><a href="https://arxiv.org/pdf/2607.26157" target="_blank" rel="noopener">Algebraic paradoxes in adaptive quantum computation</a></span>
+    <span class="talk-title"><a href="https://arxiv.org/pdf/2607.26157" target="_blank" rel="noopener">Algebraic paradoxes in adaptive quantum computation</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ede6070e-2bd5-4ca3-9131-b48a00b318c4&start=3250.827" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
 </tr>
 <tr>
@@ -668,14 +673,16 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>11:30 – 11:55</td>
   <td>
     <span class="talk-authors">Manuel Mekonnen, Thomas D. Galley, Markus P. Müller</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final63.pdf" target="_blank" rel="noopener">Invariance under quantum permutations rules out parastatistics</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final63.pdf" target="_blank" rel="noopener">Invariance under quantum permutations rules out parastatistics</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dcc01cab-33e7-41f4-bb05-b48a00b3b0b5&start=182.659922" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>11:55 – 12:20</td>
   <td>
     <span class="talk-authors">Marek Arsenault, Hlér Kristjánsson</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final171.pdf" target="_blank" rel="noopener">Linearised quantum signal processing</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final171.pdf" target="_blank" rel="noopener">Linearised quantum signal processing</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dcc01cab-33e7-41f4-bb05-b48a00b3b0b5&start=1800.822999" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
 </tr>
 <tr>
@@ -706,45 +713,49 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>14:30 – 14:55</td>
   <td>
     <span class="talk-authors">Andrey Boris Khesin, Sarah Meng Li, Boldizsár Poór, Benjamin Rodatz, John van de Wetering, Richie Yeung</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper54.pdf" target="_blank" rel="noopener">SpiderCat: optimal fault-tolerant cat state preparation</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper54.pdf" target="_blank" rel="noopener">SpiderCat: optimal fault-tolerant cat state preparation</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0725a5cb-ea20-4a07-8ebe-b48a00b4cb94&start=2.222207" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
   <td>
     <span class="talk-authors">Roberto D. Baldijão, Marco Erba, David Schmid, John Selby, Ana Belén Sainz</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final114.pdf" target="_blank" rel="noopener">Tomographically-nonlocal entanglement</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final114.pdf" target="_blank" rel="noopener">Tomographically-nonlocal entanglement</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e4b11212-154f-46ca-9012-b48a00b5bbba&start=35.873241" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
   <td>
     <span class="talk-authors">Matthew Wilson</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper15.pdf" target="_blank" rel="noopener">Agent policies from higher-order causal functions</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper15.pdf" target="_blank" rel="noopener">Agent policies from higher-order causal functions</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=64b16c0e-3cbe-4ff2-912d-b48f0098302d&start=1.551854" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>14:55 – 15:20</td>
   <td>
     <span class="talk-authors">Kwok Ho Wan, Henry Price, Qing Yao</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper42.pdf" target="_blank" rel="noopener">Holographic codes seen through ZX-calculus</a><span class="remote-label">Remote</span></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper42.pdf" target="_blank" rel="noopener">Holographic codes seen through ZX-calculus</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0725a5cb-ea20-4a07-8ebe-b48a00b4cb94&start=1830.834999" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a><span class="remote-label">Remote</span></span>
   </td>
   <td>
     <span class="talk-authors">Alexandru Baltag, Sonja Smets</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final41.pdf" target="_blank" rel="noopener">Logic meets Wigner's friend (and their friends)</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final41.pdf" target="_blank" rel="noopener">Logic meets Wigner's friend (and their friends)</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e4b11212-154f-46ca-9012-b48a00b5bbba&start=1566.172893" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">V. Vilasini, Lin-Qing Chen, Liuhang Ye, Renato Renner</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper48.pdf" target="_blank" rel="noopener">Events and their localisation are relative to a lab</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper48.pdf" target="_blank" rel="noopener">Events and their localisation are relative to a lab</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=64b16c0e-3cbe-4ff2-912d-b48f0098302d&start=1620.826" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>15:20 – 15:45</td>
   <td>
     <span class="talk-authors">Cole Comfort, Giovanni de Felice</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper179.pdf" target="_blank" rel="noopener">The delayed stabiliser ZX-calculus</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper179.pdf" target="_blank" rel="noopener">The delayed stabiliser ZX-calculus</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0725a5cb-ea20-4a07-8ebe-b48a00b4cb94&start=3540.835" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Cihan Okay, Aziz Kharoof</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final159.pdf" target="_blank" rel="noopener">The geometry of fiber products of probability polytopes</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final159.pdf" target="_blank" rel="noopener">The geometry of fiber products of probability polytopes</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e4b11212-154f-46ca-9012-b48a00b5bbba&start=3550.471" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Zixuan Liu, Ognyan Oreshkov</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final202.pdf" target="_blank" rel="noopener">Parity erasure: a foundational principle for indefinite causal order</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final202.pdf" target="_blank" rel="noopener">Parity erasure: a foundational principle for indefinite causal order</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=64b16c0e-3cbe-4ff2-912d-b48f0098302d&start=3244.50647" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
@@ -760,45 +771,45 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>16:15 – 16:40</td>
   <td>
     <span class="talk-authors">Vincenzo Fiorentino, Kuntal Sengupta</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper53.pdf" target="_blank" rel="noopener">No extension of the Quantum Tensor Product admits a superposition principle</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper53.pdf" target="_blank" rel="noopener">No extension of the Quantum Tensor Product admits a superposition principle</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=608a4733-5151-4fc1-beee-b48a00b6b172&start=1.365999" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Tom Williams, Mina Doosti, Farid Shahandeh</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper204.pdf" target="_blank" rel="noopener">Sheaf-theoretic preparation contextuality via stochastic extension</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper204.pdf" target="_blank" rel="noopener">Sheaf-theoretic preparation contextuality via stochastic extension</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e783e3e8-d071-45da-81c9-b48a00b78a1e&start=1.99989" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Luca Apadula, Alexei Grinbaum, Časlav Brukner</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper103.pdf" target="_blank" rel="noopener">Reference frames for process matrices: from coordinate parametrization to spacetime representation</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper103.pdf" target="_blank" rel="noopener">Reference frames for process matrices: from coordinate parametrization to spacetime representation</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=10fb60dd-cd26-407e-8d9a-b48f0098ee09&start=43.229862" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>16:40 – 17:05</td>
   <td>
     <span class="talk-authors">Gaurang Agrawal, Matt Wilson</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final71.pdf" target="_blank" rel="noopener">Deriving the generalised Born rule from first principles</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final71.pdf" target="_blank" rel="noopener">Deriving the generalised Born rule from first principles</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=608a4733-5151-4fc1-beee-b48a00b6b172&start=1800.866" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Theodoros Yianni, Farid Shahandeh, Nyan Raess</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper191.pdf" target="_blank" rel="noopener">Linear algebra of generalized contextuality in prepare-transform-measure scenarios</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper191.pdf" target="_blank" rel="noopener">Linear algebra of generalized contextuality in prepare-transform-measure scenarios</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e783e3e8-d071-45da-81c9-b48a00b78a1e&start=1572.254429" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Raphaël Le Bihan, Alastair Abbott, Mnacho Echenim</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper158.pdf" target="_blank" rel="noopener">Probing the composition of processes with first-order-ISOMIX logic</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper158.pdf" target="_blank" rel="noopener">Probing the composition of processes with first-order-ISOMIX logic</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=10fb60dd-cd26-407e-8d9a-b48f0098ee09&start=1555.001669" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>17:05 – 17:30</td>
   <td>
     <span class="talk-authors">James Hefford, Matt Wilson</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper79.pdf" target="_blank" rel="noopener">Quantum theory can decohere from a causally-indefinite post-quantum theory</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper79.pdf" target="_blank" rel="noopener">Quantum theory can decohere from a causally-indefinite post-quantum theory</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=608a4733-5151-4fc1-beee-b48a00b6b172&start=3420.866" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">David Schmid, Roberto D. Baldijão, John Selby, Ana Belen Sainz, Robert W. Spekkens</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final115.pdf" target="_blank" rel="noopener">Noncontextuality inequalities for prepare-transform-measure scenarios</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final115.pdf" target="_blank" rel="noopener">Noncontextuality inequalities for prepare-transform-measure scenarios</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e783e3e8-d071-45da-81c9-b48a00b78a1e&start=3090.44" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Yassine Benhaj, Kuntal Sengupta, Cyril Branciard</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper142.pdf" target="_blank" rel="noopener">How many systems can be dephased before the quantum switch becomes causally definite?</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper142.pdf" target="_blank" rel="noopener">How many systems can be dephased before the quantum switch becomes causally definite?</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=10fb60dd-cd26-407e-8d9a-b48f0098ee09&start=3054.837429" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
