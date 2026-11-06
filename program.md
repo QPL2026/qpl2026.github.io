@@ -498,18 +498,24 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   </td>
   <td>
     <span class="talk-authors">Tomoaki Kawano, Ryo Kashima</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper32.pdf" target="_blank" rel="noopener">Restricted negation in orthomodular logic</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper32.pdf" target="_blank" rel="noopener">Restricted negation in orthomodular logic</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e94882eb-e3ee-4bc9-b974-b48a00b0b002&start=33.301563" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
   <td>
     <span class="talk-authors">Alexandre Clément</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final18.pdf" target="_blank" rel="noopener">A complete equational theory for real-Clifford+CH quantum circuits</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final18.pdf" target="_blank" rel="noopener">A complete equational theory for real-Clifford+CH quantum circuits</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4e8483a8-909d-4dfe-8404-b48f008d032e&start=151.873277" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
 </tr>
 <tr>
   <td>14:55 – 15:20</td>
   <td>
     <span class="talk-authors">Timothée Hoffreumon, Mischa P. Woods</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper22.pdf" target="_blank" rel="noopener">On the experimental falsification of real QT</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper22.pdf" target="_blank" rel="noopener">On the experimental falsification of real QT</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d48fd3f-e5d9-4224-bf96-b48a00afb9df&start=1966.370406" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
   <td>
     <span class="talk-authors">Tim Achenbach, Andreas Bluhm, Leevi Leppäjärvi, Ion Nechita, Martin Plávala</span>
@@ -517,22 +523,30 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   </td>
   <td>
     <span class="talk-authors">Xiaoning Bian, Sarah Meng Li, Neil J. Ross, John van de Wetering, Yuming Zhao</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper27.pdf" target="_blank" rel="noopener">A complete and natural rule set for multi-qudit Clifford circuits in all odd prime dimensions</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper27.pdf" target="_blank" rel="noopener">A complete and natural rule set for multi-qudit Clifford circuits in all odd prime dimensions</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4e8483a8-909d-4dfe-8404-b48f008d032e&start=1707.396465" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
 </tr>
 <tr>
   <td>15:20 – 15:45</td>
   <td>
     <span class="talk-authors">Timothée Hoffreumon, Mischa P. Woods</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper23.pdf" target="_blank" rel="noopener">A real matrix theory consistent with QT</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper23.pdf" target="_blank" rel="noopener">A real matrix theory consistent with QT</a>
+      <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d48fd3f-e5d9-4224-bf96-b48a00afb9df&start=1967.778717" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
   <td>
     <span class="talk-authors">Bert Lindenhovius, Vladimir Zamdzhiev</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper137.pdf" target="_blank" rel="noopener">Operator spaces, linear logic and the Heisenberg–Schrödinger duality of quantum theory</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper137.pdf" target="_blank" rel="noopener">Operator spaces, linear logic and the Heisenberg–Schrödinger duality of quantum theory</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e94882eb-e3ee-4bc9-b974-b48a00b0b002&start=3194.033002" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
   <td>
     <span class="talk-authors">Colin Blake</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper109.pdf" target="_blank" rel="noopener">Completeness for prime-dimensional phase-affine circuits</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper109.pdf" target="_blank" rel="noopener">Completeness for prime-dimensional phase-affine circuits</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4e8483a8-909d-4dfe-8404-b48f008d032e&start=3346.304943" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
 </tr>
 <tr>
