@@ -115,3 +115,18 @@ table {
   details[open] > summary { margin-bottom: 0.35rem; }
   details p { margin: 0 0 0.4rem 0; }
 }
+
+/* Video recording links beside talk titles */
+.talk-title a.video-link {
+  margin-left: 5px;
+  text-decoration: none !important;
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.talk-title a.video-link::before,
+.talk-title a.video-link::after {
+  content: none !important;
+  display: none !important;
+}
