@@ -433,7 +433,7 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>10:15 – 11:00</td>
   <td>
     <span class="talk-authors">Raphaël Mothe, Jessica Bavaresco</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper136.pdf" target="_blank" rel="noopener">Efficient quantum-circuit simulation of classical control of causal order</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=61ee2e42-fd86-4b4a-8d05-b4a90086ea7f" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper136.pdf" target="_blank" rel="noopener">Efficient quantum-circuit simulation of classical control of causal order</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=61ee2e42-fd86-4b4a-8d05-b4a90086ea7f&start=567.633864" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
@@ -450,14 +450,18 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>11:30 – 11:55</td>
   <td>
     <span class="talk-authors">Vinicius Pretti Rossi, Beata Zjawin, Roberto D. Baldijão, David Schmid, John H. Selby, Ana Belén Sainz</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final9.pdf" target="_blank" rel="noopener">How typical is contextuality?</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final9.pdf" target="_blank" rel="noopener">How typical is contextuality?</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=21627e40-ee0c-4dd5-a04b-b48a00aed646&start=340.981866" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
 </tr>
 <tr>
   <td>11:55 – 12:20</td>
   <td>
     <span class="talk-authors">Dichuan Gao, Razin A. Shaikh, Aleks Kissinger</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper95.pdf" target="_blank" rel="noopener">Graphical algebraic geometry: from ideals and varieties to qudit ZH completeness</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper95.pdf" target="_blank" rel="noopener">Graphical algebraic geometry: from ideals and varieties to qudit ZH completeness</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=21627e40-ee0c-4dd5-a04b-b48a00aed646&start=1954.520656" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
 </tr>
 <tr>
@@ -488,7 +492,9 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>14:30 – 14:55</td>
   <td>
     <span class="talk-authors">Yìlè Yīng, Maria Ciudad Alanon, Daniel Centeno, Jacopo Surace, Marina Maciel Ansanelli, Ruizhi Liu, David Schmid, Robert Spekkens</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final1.pdf" target="_blank" rel="noopener">On whether quantum theory needs complex numbers: the foil theories perspective</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final1.pdf" target="_blank" rel="noopener">On whether quantum theory needs complex numbers: the foil theories perspective</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d48fd3f-e5d9-4224-bf96-b48a00afb9df&start=155.362388" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
   <td>
     <span class="talk-authors">Tomoaki Kawano, Ryo Kashima</span>
