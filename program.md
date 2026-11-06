@@ -1142,14 +1142,14 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>9:30 – 10:15</td>
   <td>
     <span class="talk-authors">Thea Li, Vladimir Zamdzhiev</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper93.pdf" target="_blank" rel="noopener">Quantum coherence spaces revisited: a von Neumann (co)algebraic approach</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper93.pdf" target="_blank" rel="noopener">Quantum coherence spaces revisited: a von Neumann (co)algebraic approach</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0ab7cf68-f066-45d7-a199-b48a00d335d8&start=13.381732" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>10:15 – 11:00</td>
   <td>
     <span class="talk-authors">Matilde Baroni, Dominik Leichtle, Ivan Šupić, Damian Markham, Marco Túlio Quintino</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper25.pdf" target="_blank" rel="noopener">Composable simultaneous purification: when all communication scenarios reduce to spatial correlations</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper25.pdf" target="_blank" rel="noopener">Composable simultaneous purification: when all communication scenarios reduce to spatial correlations</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0ab7cf68-f066-45d7-a199-b48a00d335d8&start=2460.494978" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
@@ -1187,45 +1187,45 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>14:30 – 14:55</td>
   <td>
     <span class="talk-authors">Simon Burton, Hussain Anwar</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final112.pdf" target="_blank" rel="noopener">Meromorphic quantum computing</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final112.pdf" target="_blank" rel="noopener">Meromorphic quantum computing</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d1d42820-51ee-41a3-843d-b48a00d703bb&start=85.74971" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Noé Delorme, Simon Perdrix</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final3.pdf" target="_blank" rel="noopener">Diagrammatic reasoning with control as a constructor, applications to quantum circuits</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final3.pdf" target="_blank" rel="noopener">Diagrammatic reasoning with control as a constructor, applications to quantum circuits</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2508f25f-e978-47ab-b38c-b48a00d9072e&start=59.853003" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">David Schmid, John H. Selby, Vinicius Pretti Rossi, Roberto D. Baldijão, Ana Belén Sainz</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final11.pdf" target="_blank" rel="noopener">Shadows and subsystems of generalised probabilistic theories: when tomographic incompleteness is not a loophole for contextuality proofs</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final11.pdf" target="_blank" rel="noopener">Shadows and subsystems of generalised probabilistic theories: when tomographic incompleteness is not a loophole for contextuality proofs</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c6649fe4-7b19-421e-8419-b48f009d9bf2&start=0.314746" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>14:55 – 15:20</td>
   <td>
     <span class="talk-authors">Christine Li, Lia Yeh</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper123.pdf" target="_blank" rel="noopener">Transversal AND in quantum codes</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper123.pdf" target="_blank" rel="noopener">Transversal AND in quantum codes</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d1d42820-51ee-41a3-843d-b48a00d703bb&start=1704.804685" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Chris Heunen, Robin Kaarsgaard, Louis Lemonnier</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final10.pdf" target="_blank" rel="noopener">One rig to control them all</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final10.pdf" target="_blank" rel="noopener">One rig to control them all</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2508f25f-e978-47ab-b38c-b48a00d9072e&start=1514.883814" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Jan-Åke Larsson</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final12.pdf" target="_blank" rel="noopener">The contextual Heisenberg microscope</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final12.pdf" target="_blank" rel="noopener">The contextual Heisenberg microscope</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c6649fe4-7b19-421e-8419-b48f009d9bf2&start=1577.715566" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>15:20 – 15:45</td>
   <td>
     <span class="talk-authors">Jin Ming Koh, Anqi Gong, Andrei C. Diaconu, Daniel Bochen Tan, Alexandra A. Geim, Michael J. Gullans, Norman Y. Yao, Mikhail D. Lukin, Shayan Majidy</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper190.pdf" target="_blank" rel="noopener">Phantom codes: entangling logical qubits without physical operations</a><span class="remote-label">Remote</span></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper190.pdf" target="_blank" rel="noopener">Phantom codes: entangling logical qubits without physical operations</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d1d42820-51ee-41a3-843d-b48a00d703bb&start=3170.636316" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a><span class="remote-label">Remote</span></span>
   </td>
   <td>
     <span class="talk-authors">William Schober, Scott Wesley</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final163.pdf" target="_blank" rel="noopener">A complete equational theory for quantum circuits with generalized control</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final163.pdf" target="_blank" rel="noopener">A complete equational theory for quantum circuits with generalized control</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2508f25f-e978-47ab-b38c-b48a00d9072e&start=3260.964395" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Daniel McNulty</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper24.pdf" target="_blank" rel="noopener">Quantifying quantum measurement incompatibility via graph invariants</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper24.pdf" target="_blank" rel="noopener">Quantifying quantum measurement incompatibility via graph invariants</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c6649fe4-7b19-421e-8419-b48f009d9bf2&start=3064.704767" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
@@ -1241,27 +1241,27 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>16:15 – 16:40</td>
   <td>
     <span class="talk-authors">Vivien Vandaele</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper211.pdf" target="_blank" rel="noopener">Asymptotically optimal quantum circuits for comparators and incrementers</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper211.pdf" target="_blank" rel="noopener">Asymptotically optimal quantum circuits for comparators and incrementers</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f3a548c6-b853-4f8b-9d83-b48a00d9cec1&start=106.573412" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Sacha Cerf, Harold Ollivier</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper74.pdf" target="_blank" rel="noopener">The perturbative method for quantum correlations</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper74.pdf" target="_blank" rel="noopener">The perturbative method for quantum correlations</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=23697bb5-d0f3-49c8-8ab4-b48a00dcd18a&start=23.994268" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Raffaele D'Avino, Lorenzo Caramelli, Raja Yehia, Gabriel Senno, Roberto González Pousa, Antonio Acín, Tamás Kriváchy</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper144.pdf" target="_blank" rel="noopener">Device independent quantum key distribution with a single measurement per site</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper144.pdf" target="_blank" rel="noopener">Device independent quantum key distribution with a single measurement per site</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=879c5bf3-2dc5-4c0d-b589-b48f009e5fb7&start=120.269753" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>16:40 – 17:05</td>
   <td>
     <span class="talk-authors">Giuseppe De Riso, Giuseppe Catalano, Seth Lloyd, Vittorio Giovannetti, Dario De Santis</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final181.pdf" target="_blank" rel="noopener">A resource-efficient quantum-walker quantum RAM</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final181.pdf" target="_blank" rel="noopener">A resource-efficient quantum-walker quantum RAM</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f3a548c6-b853-4f8b-9d83-b48a00d9cec1&start=2168.481421" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td></td>
   <td>
     <span class="talk-authors">Paul Becsi, Matthew Joseph Hoban</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper157.pdf" target="_blank" rel="noopener">Bounding classical and quantum correlations in Bayesian networks with quasiprobabilities</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper157.pdf" target="_blank" rel="noopener">Bounding classical and quantum correlations in Bayesian networks with quasiprobabilities</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=879c5bf3-2dc5-4c0d-b589-b48f009e5fb7&start=1660.886403" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
