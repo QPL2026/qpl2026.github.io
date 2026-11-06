@@ -562,22 +562,30 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>16:15 – 16:40</td>
   <td>
     <span class="talk-authors">Beata Zjawin, Marina Maciel Ansanelli, David Schmid, Yìlè Yīng, John H. Selby, Ciarán M. Gilligan-Lee, Ana Belén Sainz, Robert Spekkens</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final7.pdf" target="_blank" rel="noopener">The resource theory of causal influence and knowledge of causal influence</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final7.pdf" target="_blank" rel="noopener">The resource theory of causal influence and knowledge of causal influence</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=55f9342b-1231-45bd-9c57-b48a00b1b394&start=157.466615" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
   <td>
     <span class="talk-authors">Priyaa Varshinee Srinivasan, Jean-Simon Pacaud Lemay, Robin Cockett</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final83.pdf" target="_blank" rel="noopener">Generalized inverses of quantum channels: a categorical perspective</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final83.pdf" target="_blank" rel="noopener">Generalized inverses of quantum channels: a categorical perspective</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6869e087-0357-4014-826a-b48a00b28050&start=43.080239" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
   <td>
     <span class="talk-authors">Fedor Kuyanov, Aleks Kissinger</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final57.pdf" target="_blank" rel="noopener">Efficient classical simulation of low-rank-width quantum circuits using ZX-calculus</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final57.pdf" target="_blank" rel="noopener">Efficient classical simulation of low-rank-width quantum circuits using ZX-calculus</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1eb03adb-0a9b-44b1-8eca-b48f008e0342&start=24.134215" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
 </tr>
 <tr>
   <td>16:40 – 17:05</td>
   <td>
     <span class="talk-authors">Luca Apadula, Alessandro Bisio, Giulio Chiribella, Paolo Perinotti, Kyrylo Simonov</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper52.pdf" target="_blank" rel="noopener">Higher-order transformations of bidirectional quantum processes</a><span class="remote-label">Remote</span></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper52.pdf" target="_blank" rel="noopener">Higher-order transformations of bidirectional quantum processes</a>
+      <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=55f9342b-1231-45bd-9c57-b48a00b1b394&start=1571.638329" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+      <span class="remote-label">Remote</span></span>
   </td>
   <td>
     <span class="talk-authors">Andre Kornell, Bert Lindenhovius</span>
@@ -585,22 +593,30 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   </td>
   <td>
     <span class="talk-authors">Kwok Ho Wan, Zhenghao Zhong, Ainhoa Zapirain</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper39.pdf" target="_blank" rel="noopener">Simulating magic state cultivation with few Clifford terms</a><span class="remote-label">Remote</span></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper39.pdf" target="_blank" rel="noopener">Simulating magic state cultivation with few Clifford terms</a>
+      <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1eb03adb-0a9b-44b1-8eca-b48f008e0342&start=1660.550302" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+      <span class="remote-label">Remote</span></span>
   </td>
 </tr>
 <tr>
   <td>17:05 – 17:30</td>
   <td>
     <span class="talk-authors">Carla Ferradini, Giulia Mazzola, V. Vilasini</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final69.pdf" target="_blank" rel="noopener">Emergent causal order and time direction: bridging causal models and tensor networks</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final69.pdf" target="_blank" rel="noopener">Emergent causal order and time direction: bridging causal models and tensor networks</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=55f9342b-1231-45bd-9c57-b48a00b1b394&start=3080.31001" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
   <td>
     <span class="talk-authors">James Hefford</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper80.pdf" target="_blank" rel="noopener">Nuclearity and trace in monoidal bicategories with application to extended CFTs</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper80.pdf" target="_blank" rel="noopener">Nuclearity and trace in monoidal bicategories with application to extended CFTs</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6869e087-0357-4014-826a-b48a00b28050&start=3506.001761" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
   <td>
     <span class="talk-authors">Mark Koch</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final188.pdf" target="_blank" rel="noopener">Classical Clifford+T sampling without computing marginals</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final188.pdf" target="_blank" rel="noopener">Classical Clifford+T sampling without computing marginals</a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1eb03adb-0a9b-44b1-8eca-b48f008e0342&start=3194.54487" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
+    </span>
   </td>
 </tr>
 </table>
