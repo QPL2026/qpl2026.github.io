@@ -425,7 +425,7 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <span class="talk-authors">Alex Maltesson, Ludvig Rodung, Niklas Budinger, Giulia Ferrini, Cameron Calcluth</span>
   <span class="talk-title">
     <a href="/assets/submissions/qpl2026-final75.pdf" target="_blank" rel="noopener">Equivalence of continuous- and discrete-variable gate-based quantum computers with finite energy</a>
-    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=61ee2e42-fd86-4b4a-8d05-b4a90086ea7f" target="_blank" rel="noopener" aria-label="Watch recording"></a>
+    <a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=61ee2e42-fd86-4b4a-8d05-b4a90086ea7f" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a>
   </span>
 </td>
 </tr>
