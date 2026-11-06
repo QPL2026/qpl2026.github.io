@@ -14,7 +14,16 @@
 }
 
 /* Video recording links beside talk titles */
-.video-link::after {
-  content: "🎥";
+.video-link {
   margin-left: 5px;
+  background: none !important;
+}
+
+.video-link::before {
+  content: none !important;
+}
+
+.video-link::after {
+  content: "🎥" !important;
+  background: none !important;
 }
