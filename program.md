@@ -996,14 +996,14 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>9:30 – 10:15</td>
   <td>
     <span class="talk-authors">Cole Comfort, Robert I. Booth</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper178.pdf" target="_blank" rel="noopener">Denotational semantics for stabiliser quantum programs</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper178.pdf" target="_blank" rel="noopener">Denotational semantics for stabiliser quantum programs</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=01252c1b-19ee-4152-870b-b48a00c7d058&start=23.115726" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>10:15 – 11:00</td>
   <td>
     <span class="talk-authors">Kathleen Barsse, Romain Péchoux, Simon Perdrix</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final85.pdf" target="_blank" rel="noopener">Quantum control and general recursion beyond the unitary case</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final85.pdf" target="_blank" rel="noopener">Quantum control and general recursion beyond the unitary case</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=01252c1b-19ee-4152-870b-b48a00c7d058&start=2859.525296" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
@@ -1020,7 +1020,7 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>11:30 – 11:55</td>
   <td>
     <span class="talk-authors">Aabhas Gulati, Ion Nechita, Clément Pellegrini</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper81.pdf" target="_blank" rel="noopener">Entanglement in the Dicke subspace</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper81.pdf" target="_blank" rel="noopener">Entanglement in the Dicke subspace</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=14b5e266-0beb-44f8-abad-b48a00ce2c12&start=42.741993" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
@@ -1055,60 +1055,60 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>14:30 – 14:55</td>
   <td>
     <span class="talk-authors">Arianne Meijer-van de Griend, Leo Becker</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final89.pdf" target="_blank" rel="noopener">Pauli gadget synthesis for gatesets with arbitrary even-arity Clifford gates</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final89.pdf" target="_blank" rel="noopener">Pauli gadget synthesis for gatesets with arbitrary even-arity Clifford gates</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1b2e9472-16b8-4bd1-92e9-b48a00d20d0b&start=0.721964" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Haruki Emori</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper122.pdf" target="_blank" rel="noopener">Quantum statistical functions</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper122.pdf" target="_blank" rel="noopener">Quantum statistical functions</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=04815b0f-3553-4cef-8f19-b49c009af8e8&start=56.127011" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Nadish de Silva, Santanil Jana, Ming Yin</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final34.pdf" target="_blank" rel="noopener">Three-qubit nonlocality paradoxes: beyond GHZ</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final34.pdf" target="_blank" rel="noopener">Three-qubit nonlocality paradoxes: beyond GHZ</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b097b3b3-af9c-45ec-b217-b48f009d08b5&start=64.68952" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>14:55 – 15:20</td>
   <td>
     <span class="talk-authors">Soichiro Yamazaki, Seiseki Akibue</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final138.pdf" target="_blank" rel="noopener">Multi-qubit controlled gate with optimal T-count</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final138.pdf" target="_blank" rel="noopener">Multi-qubit controlled gate with optimal T-count</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1b2e9472-16b8-4bd1-92e9-b48a00d20d0b&start=1713.521582" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Michael Zurel, Jack Davis</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final76.pdf" target="_blank" rel="noopener">Basis-independent stabilizerness and maximally noisy magic states</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final76.pdf" target="_blank" rel="noopener">Basis-independent stabilizerness and maximally noisy magic states</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=04815b0f-3553-4cef-8f19-b49c009af8e8&start=1530.666809" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Shashaank Khanna, Matthew Pusey, Roger Colbeck</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper59.pdf" target="_blank" rel="noopener">Spurious quantum correlations</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper59.pdf" target="_blank" rel="noopener">Spurious quantum correlations</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b097b3b3-af9c-45ec-b217-b48f009d08b5&start=1524.569832" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>15:20 – 15:45</td>
   <td>
     <span class="talk-authors">Akash Kundu</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper47.pdf" target="_blank" rel="noopener">Tensor and gadget reinforcement learning for improved, hardware-aware quantum architecture search</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper47.pdf" target="_blank" rel="noopener">Tensor and gadget reinforcement learning for improved, hardware-aware quantum architecture search</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1b2e9472-16b8-4bd1-92e9-b48a00d20d0b&start=2945.123952" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Cameron Calcluth, Oliver Hahn, Juani Bermejo Vega, Alessandro Ferraro, Giulia Ferrini</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final77.pdf" target="_blank" rel="noopener">Classical simulation of circuits with realistic odd-dimensional Gottesman–Kitaev–Preskill states</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final77.pdf" target="_blank" rel="noopener">Classical simulation of circuits with realistic odd-dimensional Gottesman–Kitaev–Preskill states</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=04815b0f-3553-4cef-8f19-b49c009af8e8&start=3064.958985" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">C. E. Lopetegui-Gonzalez, G. Masse, E. Oudot, U. I. Meyer, F. Centrone, F. Grosshans, P. E. Emeriau, U. Chabaud, M. Walschaers</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper162.pdf" target="_blank" rel="noopener">A unified framework for Bell inequalities from continuous-variable contextuality</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper162.pdf" target="_blank" rel="noopener">A unified framework for Bell inequalities from continuous-variable contextuality</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b097b3b3-af9c-45ec-b217-b48f009d08b5&start=3134.876904" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>15:45 – 16:10</td>
   <td>
     <span class="talk-authors">Mark Deaconu, Nihar Gargava, Amolak Ratan Kalra, Michele Mosca, Jon Yard</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final174.pdf" target="_blank" rel="noopener">Buildings for synthesis with Clifford+R</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final174.pdf" target="_blank" rel="noopener">Buildings for synthesis with Clifford+R</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1b2e9472-16b8-4bd1-92e9-b48a00d20d0b&start=4597.719447" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Massimo Frigerio, Mattia Walschaers, Andrei Aralov, Carlos Ernesto Lopetegui-Gonzalez, Emilie Gillet</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final64.pdf" target="_blank" rel="noopener">Algebraic techniques for photonic state preparation and characterization</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final64.pdf" target="_blank" rel="noopener">Algebraic techniques for photonic state preparation and characterization</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=04815b0f-3553-4cef-8f19-b49c009af8e8&start=4722.663543" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Martin J. Renner, Edwin Peter Lobo, Arturo Konderak, Remigiusz Augusiak, Antonio Acín</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper207.pdf" target="_blank" rel="noopener">Full nonlocality for non-maximally entangled states</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper207.pdf" target="_blank" rel="noopener">Full nonlocality for non-maximally entangled states</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b097b3b3-af9c-45ec-b217-b48f009d08b5&start=4640.759" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
