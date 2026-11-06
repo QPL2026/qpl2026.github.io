@@ -1,7 +1,9 @@
 /* Video recording links beside talk titles */
 .talk-title a.video-link {
   margin-left: 5px;
-  background-image: none !important;
+  text-decoration: none !important;
+  background: none !important;
+  border: none !important;
 }
 
 .talk-title a.video-link::before,
