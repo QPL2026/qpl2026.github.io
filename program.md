@@ -840,14 +840,14 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>9:30 – 10:15</td>
   <td>
     <span class="talk-authors">Miriam Backens, Simon Perdrix / Miriam Backens</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final132.pdf" target="_blank" rel="noopener">Completeness for flow-preserving rewrite rules</a> / <a href="/assets/submissions/qpl2026-final140.pdf" target="_blank" rel="noopener">Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final132.pdf" target="_blank" rel="noopener">Completeness for flow-preserving rewrite rules</a> / <a href="/assets/submissions/qpl2026-final140.pdf" target="_blank" rel="noopener">Generating one-way computations with flow: flow-preserving rewriting that ignores the interpretation</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8fcf7671-33b7-47ca-bdc4-b48a00c198a8&start=242.311651" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>10:15 – 11:00</td>
   <td>
     <span class="talk-authors">Quanlong Wang, Richard D. P. East, Razin A. Shaikh, Lia Yeh, Boldizsár Poór, Bob Coecke</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper98.pdf" target="_blank" rel="noopener">Beyond Penrose tensor diagrams with the ZX calculus: applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper98.pdf" target="_blank" rel="noopener">Beyond Penrose tensor diagrams with the ZX calculus: applications to quantum computing, quantum machine learning, condensed matter physics, and quantum gravity</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8fcf7671-33b7-47ca-bdc4-b48a00c198a8&start=3060.779999" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
@@ -885,45 +885,45 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>14:30 – 14:55</td>
   <td>
     <span class="talk-authors">Leonardo Vaglini, Nasra Daher Ahmed, Ravi Kunjwal</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper168.pdf" target="_blank" rel="noopener">Causal inequalities witness non-stabilizerness without magic</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper168.pdf" target="_blank" rel="noopener">Causal inequalities witness non-stabilizerness without magic</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5ec35688-2e4f-4dde-99f6-b48a00c2f2fa&start=74.454729" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Nathan Claudet, Simon Perdrix</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final33.pdf" target="_blank" rel="noopener">Insights in graph state entanglement via r-local complementation: structure and a quasi-polynomial algorithm</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final33.pdf" target="_blank" rel="noopener">Insights in graph state entanglement via r-local complementation: structure and a quasi-polynomial algorithm</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=126d2288-ac84-440c-b601-b48a00c3b86a&start=115.983871" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Pablo Arrighi, Doğukan Bakircioglu, Nathan Houyet</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final134.pdf" target="_blank" rel="noopener">Quantum theory over dual-complex numbers</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final134.pdf" target="_blank" rel="noopener">Quantum theory over dual-complex numbers</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=014f4be7-4251-4df1-876f-b48f0099fab8&start=53.927591" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>14:55 – 15:20</td>
   <td>
     <span class="talk-authors">Matthew Wilson, James Hefford, Timothée Hoffreumon</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper73.pdf" target="_blank" rel="noopener">Supermaps on generalised theories</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper73.pdf" target="_blank" rel="noopener">Supermaps on generalised theories</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5ec35688-2e4f-4dde-99f6-b48a00c2f2fa&start=1550.769" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Piotr Mitosek, Miriam Backens</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final156.pdf" target="_blank" rel="noopener">Working with measurement-based computations on qudits</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final156.pdf" target="_blank" rel="noopener">Working with measurement-based computations on qudits</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=126d2288-ac84-440c-b601-b48a00c3b86a&start=1700.483" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Nicolas Moulonguet, Augustin Vanrietvelde</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper94.pdf" target="_blank" rel="noopener">Subsystems as subsets of quantum channels, and the strange case of blind agents</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper94.pdf" target="_blank" rel="noopener">Subsystems as subsets of quantum channels, and the strange case of blind agents</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=014f4be7-4251-4df1-876f-b48f0099fab8&start=1564.967446" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>15:20 – 15:45</td>
   <td>
     <span class="talk-authors">Samson Abramsky, Radha Jagadeesan</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper119.pdf" target="_blank" rel="noopener">Essential unitarity for higher-order quantum computation</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper119.pdf" target="_blank" rel="noopener">Essential unitarity for higher-order quantum computation</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5ec35688-2e4f-4dde-99f6-b48a00c2f2fa&start=3250.769" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Aleks Kissinger, John van de Wetering</span>
-    <span class="talk-title"><a href="/assets/submissions/qpl2026-final147.pdf" target="_blank" rel="noopener">ZX-flow: a flexible criterion for deterministic computation with ZX-diagrams</a></span>
+    <span class="talk-title"><a href="/assets/submissions/qpl2026-final147.pdf" target="_blank" rel="noopener">ZX-flow: a flexible criterion for deterministic computation with ZX-diagrams</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=126d2288-ac84-440c-b601-b48a00c3b86a&start=3220.482999" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">John Harding, Alexander Wilce</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper182.pdf" target="_blank" rel="noopener">Classical explanations in (and of) general probabilistic theories</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper182.pdf" target="_blank" rel="noopener">Classical explanations in (and of) general probabilistic theories</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=014f4be7-4251-4df1-876f-b48f0099fab8&start=3240.836" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
@@ -939,30 +939,30 @@ Below you can find an overview of the conference schedule. Unless otherwise spec
   <td>16:15 – 16:40</td>
   <td>
     <span class="talk-authors">Thomas Bartsch, Yuhan Gai, Sakura Schäfer-Nameki</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper175.pdf" target="_blank" rel="noopener">Beyond Wigner – how non-invertible symmetries preserve probabilities</a><span class="remote-label">Remote</span></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper175.pdf" target="_blank" rel="noopener">Beyond Wigner – how non-invertible symmetries preserve probabilities</a><span class="remote-label">Remote</span><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b6520e3b-91ab-420f-9e54-b48a00c558d9" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Haytham McDowall-Rose, Razin A. Shaikh, Lia Yeh</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper104.pdf" target="_blank" rel="noopener">From fermions to qubits: a ZX-calculus perspective</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper104.pdf" target="_blank" rel="noopener">From fermions to qubits: a ZX-calculus perspective</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dcc6f13c-73aa-46c9-a4e0-b48a00c71383" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Amrapali Sen, Flavio Del Santo</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper35.pdf" target="_blank" rel="noopener">Superluminal transformations and indeterminism</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper35.pdf" target="_blank" rel="noopener">Superluminal transformations and indeterminism</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=57a11be0-77f4-404d-963e-b48f009b8097&start=20" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
   <td>16:40 – 17:05</td>
   <td>
     <span class="talk-authors">Vanessa Brzić, Satoshi Yoshida, Mio Murao, Marco Túlio Quintino</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper177.pdf" target="_blank" rel="noopener">Higher-order quantum computing with known input states</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper177.pdf" target="_blank" rel="noopener">Higher-order quantum computing with known input states</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b6520e3b-91ab-420f-9e54-b48a00c558d9&start=1706.841836" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li, John van de Wetering</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper187.pdf" target="_blank" rel="noopener">A three-way normal form for stabiliser codes across ZX diagrams, circuits, and tableaus</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper187.pdf" target="_blank" rel="noopener">A three-way normal form for stabiliser codes across ZX diagrams, circuits, and tableaus</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dcc6f13c-73aa-46c9-a4e0-b48a00c71383&start=1563.656377" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
   <td>
     <span class="talk-authors">Maarten Grothus, V. Vilasini</span>
-    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper36.pdf" target="_blank" rel="noopener">Impossibility of superluminal signalling rules out causal loops in conical spacetimes</a></span>
+    <span class="talk-title"><a href="/assets/submissions/non-final/qpl2026-paper36.pdf" target="_blank" rel="noopener">Impossibility of superluminal signalling rules out causal loops in conical spacetimes</a><a class="video-link" href="https://hva-uva.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=57a11be0-77f4-404d-963e-b48f009b8097&start=1471.483561" target="_blank" rel="noopener" aria-label="Watch recording">🎥</a></span>
   </td>
 </tr>
 <tr>
